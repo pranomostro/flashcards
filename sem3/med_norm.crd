@@ -1,0 +1,204 @@
+2019-03-11	4	45.36	2.8	Arthr/o-	Gelenk
+2019-04-03	1	1.0	1.4	Enter/o-	Darm, Dünndarm
+2019-04-03	2	6.0	1.62	Gastr/o-	Magen
+2019-04-03	1	1.0	1.3	Hepat/o-	Leber
+2019-03-11	4	45.36	2.8	Kardio/o-	Herz
+2019-03-11	4	45.36	2.8	Nephr/o-	Niere
+2019-03-11	4	48.72	2.9	Neur/o-	Nerv
+2019-03-11	4	48.72	2.9	Oste/o	Knochen
+2019-03-11	4	40.8576	2.66	Dys-	von der Norm abweichend, fehl-
+2019-03-11	4	48.72	2.9	Poly-	viele
+2019-03-11	4	45.36	2.8	Hyper	zu viel, oberhalb
+2019-03-11	4	42.12	2.7	Hypo-	zu wenig, unterhalb
+2019-03-11	4	48.72	2.9	Tachy-	schnell
+2019-03-11	4	48.72	2.9	Brady-	langsam
+2019-04-03	4	44.7024	2.78	-itis	Entzündung
+2019-04-03	1	1.0	1.4	-pathie	Leiden, Krankheit
+2019-04-03	1	1.0	1.3	-iasis	krankhafter Zustand
+2019-03-11	4	29.2896	2.26	-om	Geschwulst, Tumor
+2019-04-03	1	1.0	1.3	-ose	chronisch krankhafter/degenerativer Zustand
+2019-03-11	4	26.6976	2.16	-algie	Schmerz
+2019-03-11	4	42.12	2.7	-ektomie	Herausschneiden, vollständige operative Entfernung
+2019-04-03	2	6.0	1.68	-tomie	Schnitt, Schneiden
+2019-03-11	4	26.6976	2.16	-resektion	Zurückschneiden (Verkleinern)
+2019-03-11	4	37.7856	2.56	-excision	Ausschneiden
+2019-04-03	2	6.0	1.3	-plastik	Wiederherstellen
+2019-04-03	2	6.0	1.5	Amputation	Absetzen
+2019-04-03	2	6.0	1.48	Biopsie	Gewebeprobe
+2019-04-03	1	1.0	1.3	Exstirpation	Entfernung
+2019-04-03	2	6.0	1.4	Extraktion	Herausziehen
+2019-04-03	4	48.72	2.9	Rekonstruktion	Wiederherstellung
+2019-04-03	4	27.2064	2.18	Punktion	Hohlnadeleinstich
+2019-04-03	4	14.4	1.6	Analgetika	schmerzhemmende Mittel
+2019-04-03	4	43.74	2.7	Antibiotika	bakterienhemmende Mittel
+2019-04-03	4	37.7856	2.56	Antmykotika	pilztötende Mittel
+2019-04-03	1	1.0	1.3	Antiphlogistika	entzündungshemmende Mittel
+2019-04-03	1	1.0	1.4	Antipyretika	fiebersenkende Mittel
+2019-04-03	4	48.72	2.9	Virostatika	virushemmende Mittel
+2019-04-03	4	14.016	1.46	Zytostatika	tumorzellenschädigende Mittel
+2019-04-03	4	32.0016	2.36	Tabletten	oral gegebene Mittel
+2019-04-03	4	41.472	2.56	Suppositorien	rektal gegebene Mittel, Zäpfchen
+2019-04-03	4	25.4616	2.06	Infusion	einfließende Mittel, hineingegossene Mittel
+2019-04-03	4	40.56	2.6	Transfusion	hinübergegossene Mittel, übertragene Mittel
+2019-04-03	1	1.0	2.02	Injektion	eingespritzte Mittel
+2019-04-03	1	1.0	2.26	intravenös	in die Vene
+2019-04-03	4	38.3904	2.58	intraarteriell	in die Arterie
+2019-04-03	2	6.0	1.72	intrakutan	in die Haut
+2019-04-03	4	40.8576	2.66	subkutan	unter die Haut
+2019-04-03	4	45.36	2.8	intramuskulär	in den Muskel
+2019-04-03	4	32.0016	2.36	Clavicula	Schlüsselbein
+2019-04-03	1	1.0	1.4	Humerus	Oberarmknochen
+2019-04-03	2	6.0	1.5	Lumbaler Abschnitt	Lendenwirbelsäule
+2019-04-03	3	13.56	2.26	Scapula	Schulterblatt
+2019-04-03	3	12.96	2.16	Thorakaler Abschnitt	Brustwirbelsäule
+2019-04-03	3	13.56	2.26	Zervikaler Abschnitt	Halswirbelsäule
+2019-04-03	3	16.2	2.7	Abdomen	Bauch (lat)
+2019-04-03	3	15.36	2.56	Abduktion	Wegführen
+2019-04-03	1	1.0	2.16	Adduktion	Heranführen
+2019-04-03	3	14.04	2.34	Anus	After, Mastdarm (lat)
+2019-04-03	1	1.0	1.3	Articulation	Gelenk (lat)
+2019-04-03	3	16.8	2.8	Caput	Kopf (lat)
+2019-04-03	3	16.8	2.8	Cerebrum	Gehirn (lat)
+2019-04-03	3	16.2	2.7	Collum	Hals (lat)
+2019-04-03	3	16.2	2.7	Cor	Herz (lat)
+2019-04-03	1	1.0	1.4	Extension	Streckung
+2019-04-03	3	14.76	2.46	Flexion	Beugung
+2019-04-03	1	1.0	1.3	Glandola	Drüse (lat)
+2019-04-03	1	1.0	1.3	Intestinum	Darm, Verdauungstrakt (lat)
+2019-04-03	1	1.0	1.3	Lien	Milz (lat)
+2019-04-03	1	1.0	1.3	Medulla	Mark (Knochen-, Rücken-) (lat)
+2019-04-03	3	16.8	2.8	Musculus	Muskel (lat)
+2019-04-03	2	6.0	2.7	Nervus	Nerv (lat)
+2019-04-03	2	6.0	2.6	Oculus	Auge (lat)
+2019-04-03	1	1.0	1.4	Pectus	Brustkorb (lat)
+2019-04-03	1	1.0	1.74	Pulmo	Lunge (lat)
+2019-04-03	2	6.0	2.5	Ren	Niere (lat)
+2019-04-03	2	6.0	2.6	Vas	Gefäß (lat)
+2019-04-03	2	6.0	2.7	Vena	Vene (lat)
+2019-04-03	1	1.0	1.4	Ventriculus	Magen (lat)
+2019-04-03	1	1.0	1.4	Vesica	Blase (lat)
+2019-04-03	1	1.0	1.3	adeno	Drüse (gr)
+2019-04-03	1	1.0	1.3	angio	Gefäß (gr)
+2019-04-03	2	6.0	2.6	anterior	vorne, vorderer
+2019-04-03	1	1.0	1.4	cysto	Blase (gr)
+2019-04-03	2	6.0	2.7	dexter	rechts
+2019-04-03	2	6.0	1.38	distal	entfernt von der Körpermitte, körperfern gelegen
+2019-04-03	1	1.0	1.62	dorsal	den Rücken betreffend, rückwärts
+2019-04-03	2	6.0	2.7	enzephalo	Gehirn (gr)
+2019-04-03	1	1.0	2.14	frontal	die Stirn betreffend, stirnwärts
+2019-04-03	2	6.0	1.82	inferior	unterer
+2019-04-03	1	1.0	1.4	kaudal	zum Steiß hin gelegen, steißwärts
+2019-04-03	1	1.0	2.6	kranial	zum Kopf hin gelegen, kopfwärts
+2019-04-03	1	1.0	1.52	laparo	Bauch (gr)
+2019-04-03	1	1.0	2.5	lateral	zur Seite hin gelegen, seitwärts
+2019-04-03	1	1.0	2.6	medial	zur Mitte hin gelegen
+2019-04-03	1	1.0	1.52	myelo	Mark (Knochen-, Rücken-) (gr)
+2019-04-03	1	1.0	1.96	myo	Muskel (gr)
+2019-04-03	1	1.0	1.52	occipital	den Hinterkopf betreffend
+2019-04-03	1	1.0	2.5	ophthalmo	Auge (gr)
+2019-04-03	1	1.0	1.3	phlebo	Vene (gr)
+2019-04-03	1	1.0	2.06	pneumo	Lunge (gr)
+2019-01-25	0	1.0	2.5	posterior	hinten, hinterer
+2019-01-25	0	1.0	2.5	procto	After, Mastdarm (gr)
+2019-01-25	0	1.0	2.5	proximal	näher zur Körpermitte, körpernah gelegen
+2019-01-25	0	1.0	2.5	sinister	links
+2019-01-25	0	1.0	2.5	splen	Milz (gr)
+2019-01-25	0	1.0	2.5	spondylo	Wirbel (gr)
+2019-01-25	0	1.0	2.5	superior	oberer
+2019-01-25	0	1.0	2.5	thorax	Brustkorb (gr)
+2019-01-25	0	1.0	2.5	ventral	den Bauch betreffend
+2019-01-25	0	1.0	2.5	vertebra	Wirbel (lat)
+2019-01-25	0	1.0	2.5	zephalo	Kopf (gr)
+2019-01-25	0	1.0	2.5	zervix	Hals (gr)
+2019-01-28	0	1.0	2.5	Epicondylus lateralis	äußerer Gelenkknorren
+2019-01-28	0	1.0	2.5	Epicondylus medialis	innerer Gelenkknorren (Musikantenknochen)
+2019-01-28	0	1.0	2.5	Olecranon	Ellenbogenspitze
+2019-01-28	0	1.0	2.5	Radius	Speiche
+2019-01-28	0	1.0	2.5	Ulna	Elle
+2019-01-28	0	1.0	2.5	Musculus deltoideus	Deltamuskel
+2019-01-28	0	1.0	2.5	Musculus glutaeus maximus	größter Gesäßmuskel
+2019-01-28	0	1.0	2.5	Musculus latissimus dors	breiter Rückenmuskel
+2019-01-28	0	1.0	2.5	Musculus trapezius	Kapuzenmuskel
+2019-01-28	0	1.0	2.5	Musculus triceps brachii	Trizepsmuskel
+2019-01-28	0	1.0	2.5	Caput femoris	Schenkelkopf
+2019-01-28	0	1.0	2.5	Collum femoris	Schenkelhals
+2019-01-28	0	1.0	2.5	Femur	Oberschenkelknochen
+2019-01-28	0	1.0	2.5	Musculus bizeps brachii	Bizepsmuskel
+2019-01-28	0	1.0	2.5	Musculus trapezius	Trapezmuskel
+2019-01-28	0	1.0	2.5	Os coxae	Hüftbein
+2019-01-28	0	1.0	2.5	Os ilium	Darmbein
+2019-01-28	0	1.0	2.5	Os ischii	Sitzbein
+2019-01-28	0	1.0	2.5	Os pubis	Schambein
+2019-01-28	0	1.0	2.5	Os sacrum	Kreuzbein
+2019-01-28	0	1.0	2.5	Pelvis	Becken
+2019-01-28	0	1.0	2.5	Trochanter major	großer Rollhügel
+2019-01-28	0	1.0	2.5	Calcaneus	Fersenbein
+2019-01-28	0	1.0	2.5	Fibula	Wadenbein
+2019-01-28	0	1.0	2.5	Os naviculare	Kahnbein
+2019-01-28	0	1.0	2.5	Talus	Sprungbein
+2019-01-28	0	1.0	2.5	Tibia	Schienbein
+2019-01-28	0	1.0	2.5	Medulla oblangata	verlängertes Mark
+2019-01-28	0	1.0	2.5	Mesencephalon	Mittelhirn
+2019-01-28	0	1.0	2.5	Pons	Brücke
+2019-01-28	0	1.0	2.5	Arachnoidea	Spinngewebshaut
+2019-01-28	0	1.0	2.5	Dura mater	Harte Hirnhaut
+2019-01-28	0	1.0	2.5	Meningis	Hirnhaut
+2019-01-28	0	1.0	2.5	Pia mater	Weiche Hirnhaut
+2019-02-01	0	1.0	2.5	Emesis	Erbrechen
+2019-02-01	0	1.0	2.5	Hyperopie	Weitsichtigkeit
+2019-02-01	0	1.0	2.5	Kyphose	Wirbelsäulenkrümmung nach hinten (Buckel)
+2019-02-01	0	1.0	2.5	Lordose	Wirbelsäulenkrümmung nach vorne (Hohlkreuz)
+2019-02-01	0	1.0	2.5	Macula lutea	Gelber Fleck
+2019-02-01	0	1.0	2.5	Meninginitis	Hirnhautentzündung
+2019-02-01	0	1.0	2.5	Myopie	Kurzsichtigkeit
+2019-02-01	0	1.0	2.5	Papille	Sehnerv
+2019-02-01	0	1.0	2.5	Presbyopie	Altersweitsichtigkeit
+2019-02-01	0	1.0	2.5	Skoliose	Wirbelsäulenverkrümmung zur Seite
+2019-02-02	0	1.0	2.5	Hämostase	Blutgerinnung
+2019-02-04	0	1.0	2.5	Erythrozyten	Rote Blutkörperchen
+2019-02-04	0	1.0	2.5	Leukozyten	Weiße Blutkörperchen
+2019-02-04	0	1.0	2.5	Musculus dilatator pupillae	Pupillenerweiterer
+2019-02-04	0	1.0	2.5	Musculus sphincter pupillae	Pupillenschließmuskel
+2019-02-04	0	1.0	2.5	Thrombozyten	Blutplättchen
+2019-02-04	0	1.0	2.5	Embolie	Gefäßverschluss durch einen mit dem Blutstrom verschleppten Blutpfropfen
+2019-02-04	0	1.0	2.5	Hämatokrit	zellulärer Anteil am Gesamtblutvolumen
+2019-02-04	0	1.0	2.5	Serum	Plasma ohne Gerinnungsproteine
+2019-02-04	0	1.0	2.5	Hämostase	Beendigung einer Blutung
+2019-02-04	0	1.0	2.5	Vasokonstriktion	Zusammenziehen eines Blutgefäßes
+2019-02-04	0	1.0	2.5	Diastole	Erschlaffungsphase des Herzens
+2019-02-04	0	1.0	2.5	Systole	Kontraktionsphase des Herzens
+2019-02-04	0	1.0	2.5	Endokard	Herzinnenhaut
+2019-02-04	0	1.0	2.5	Epikard	Kerzaußenhaut
+2019-02-04	0	1.0	2.5	Myokard	Kerzmuskelschicht
+2019-02-04	0	1.0	2.5	Perikard	Herzbeutel
+2019-02-04	0	1.0	2.5	Arrhytmie	Unregelmäßiger Herzschlag
+2019-02-04	0	1.0	2.5	Bradykardie	Verlangsamung des Herzschlags
+2019-02-04	0	1.0	2.5	Extrasystolen	Herzschlag außerhalb des regulären Grundrhythmus
+2019-02-04	0	1.0	2.5	Tachykardie	Beschleunigter Herzschlag
+2019-02-05	0	1.0	2.5	Alveoli	Lungenbläschen
+2019-02-05	0	1.0	2.5	Bronchien	Luftröhrenäste
+2019-02-05	0	1.0	2.5	Bronchioli	kleine Luftröhrenäste
+2019-02-05	0	1.0	2.5	Epiglottis	Kehldeckel
+2019-02-05	0	1.0	2.5	Larynx	Kehlkopf
+2019-02-05	0	1.0	2.5	Nasus	Nase
+2019-02-05	0	1.0	2.5	Pharynx	Rachen
+2019-02-05	0	1.0	2.5	Pleura	Brustfell
+2019-02-05	0	1.0	2.5	Sinus paranasales	Nasennebenhöhlen
+2019-02-05	0	1.0	2.5	Trachea	Luftröhre
+2019-02-05	0	1.0	2.5	Exspiration	Ausatmung
+2019-02-05	0	1.0	2.5	Inspiration	Einatmung
+2019-02-05	0	1.0	2.5	Hyperventilation	gesteigerte Atemtätigkeit
+2019-02-05	0	1.0	2.5	Hypoventilation	erniedrigte Atemtätigkeit
+2019-02-05	0	1.0	2.5	Perfusion	Durchblutung
+2019-02-05	0	1.0	2.5	Ventilation	Belüftung
+2019-02-05	0	1.0	2.5	Harnleiter	Ureter
+2019-02-05	0	1.0	2.5	Harnröhre	Urethra
+2019-02-05	0	1.0	2.5	Anurie	Fehlende Harnausscheidung (<200ml)
+2019-02-05	0	1.0	2.5	Diabetes mellitus	Zuckerkrankheit
+2019-02-05	0	1.0	2.5	Hypertonie	Bluthochdruck
+2019-02-05	0	1.0	2.5	Nephritis	Nierenentzündung
+2019-02-05	0	1.0	2.5	Oligurie	Verminderte Harnausscheidung (<500 ml)
+2019-02-05	0	1.0	2.5	Urämie	Harnvergiftung
+2019-02-06	0	1.0	2.5	Pankreas	Bauchspeicheldrüse
+2019-02-06	0	1.0	2.5	Pharynx	Rachen
+2019-02-06	0	1.0	2.5	Ösophagus	Speiseröhre

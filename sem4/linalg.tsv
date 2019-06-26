@@ -1,0 +1,4 @@
+Matrixmultiplikation: A∈ℝ^{m×n}, B∈ℝ^{n×l}, A⋅B=C	c_{i,j}=sum(k=1,n,a_{i,k}*b{k,j})
+Ein lineares Gleichungssystem A⋅x=b heißt homogen, falls _	b=(0,…,0)^{T}
+Ein lineares Gleichungssystem A⋅x=b heißt inhomogen, falls _	b≠(0,…,0)^{T}
+Eine quadratische Matrix A heißt regulär, gdw. _	rg(A)=n, A∈ℝ^{n×n}

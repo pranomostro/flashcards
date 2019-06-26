@@ -1,0 +1,57 @@
+2019-02-04	3	8.88	1.48	Gründe für den Einsatz eines DB-Systems: Vermeiden von _.	Redundanz, / Inkonsistenz, / beschränkte Zugriffsmöglichkeit, / Probleme bei Mehrbenutzerbetrieb, / Datenverlust, / Integritätsverletzung, / Sicherheitsprobleme, / hohe Entwicklungskosten für Anwendungsprogramme
+2019-02-06	1	1.0	1.5	Abstraktionsebenen eines Datenbanksystems: _, _ und _.	Physische Ebene, logische Ebene, Sichten.
+2019-01-31	4	43.74	2.7	DB-System garantiert _ und _ Datenunabhängigkeit.	physische, logische
+2019-01-30	4	40.8576	2.66	Datenmodellierung: _ -> _ -> _	Reale Welt -> konzeptuelles (ER) Schema -> Relationales/XML/Netzwerk/OO Schema
+2019-01-29	4	36.3096	2.46	ER Form für Entity	Rechteck
+2019-01-26	4	23.0496	1.96	ER Form für Relationship	Raute
+2019-01-30	4	42.12	2.7	ER Form für Attribut	Oval
+2019-02-05	2	6.0	1.4	Abstraktionsebenen eines Datenbankentwurfs	 / 1. Konzeptuelle Ebene / 2. Implementationsebene / 3. Physische Ebene
+2019-01-28	3	9.12	1.52	4 Eigenschaften eines globalen Schemas	Redundanzfrei, Widerspruchsfrei, Synonyme bereinigt, Homonyme bereinigt
+2019-02-02	2	6.0	1.4	Anforderungsanalyse Teile	 / 1. Identifikation von Organisationseinheiten / 2. Identifikation der zu unterstützenden Aufgaben / 3. Anforderungs-Sammelplan / 4. Anforderungs-Sammlung / 5. Filterung / 6. Satzklassifikation / 7. Formalisierung
+2019-02-04	3	9.84	1.64	Definition (min, max)-Notation	Für jedes ei ∈ Ei gibt es / • Mindestens mini Tupel der Art (…, ei, …) ∈ R und / • Höchstens maxi viele Tupel der Art (…, ei, …) ∈ R (genau umgekehrt wie bei Funktionalitäten)
+2019-01-28	3	16.2	2.7	ER-Schreibweise für Generalisierung	Sechseck mit "is-a"
+2019-01-29	3	12.36	2.06	ER-Schreibweise für Rolle	Text steht an Verbindung
+2019-01-29	3	16.2	2.7	ER-Schreibweise für Schlüssel	Text ist unterstrichen
+2019-01-29	3	16.8	2.8	Eine 1:N Funktionalität bildet _ Objekt(e) auf _ Objekt(e) ab	1, N
+2019-01-29	3	16.8	2.8	Eine N:1 Funktionalität bildet _ Objekt(e) auf _ Objekt(e) ab	N, 1
+2019-02-02	3	9.0	1.5	Erzeugung eines globalen Schemas durch _	Konsolidierung verschiedener Sichten und Teilschemata
+2019-01-31	3	16.8	2.8	Klasse in UML beinhaltet	Attribute, Methoden
+2019-02-02	2	6.0	1.46	Multiplizität in UML (A k..l – B i..j)	Jedes Element von A steht mit mindestens i Elementen von B in Beziehung / (genauso wie bei Funktionalitäten, _nicht_ (min,max)-analog)
+2019-02-05	2	6.0	1.3	Phasen des Datenbankentwurfs	Anforderungsanalyse – (Anforderungsspezifikation) → / Konzeptueller Entwurf – (Informationsstruktur) → / Implementationsentwurf – (logische Datenbankstruktur) → / Physischer Entwurf – (physische Datenbankstruktur)
+2019-01-31	3	16.2	2.7	Wenn gilt: R: E₁ × … × Ek → En falls _	En die Funktionalität 1 hat
+2019-03-18	4	48.72	2.9	Zentrales Konstrukt in UML	Klasse
+2019-02-04	3	16.8	2.8	Definition Primärschlüssel	Einer der Schlüssel, der verwendet wird, um in der Praxis zu referenzieren
+2019-02-04	3	14.28	2.38	Definition Relation	D₁,…,Dn Domänen (Wertebereiche), Relation R⊆D₁×…×Dn
+2019-02-04	3	16.8	2.8	Definition Schlüssel in einer Relation	Mimimale Menge von Attributen, deren Werte ein Tupel eindeutig indentifizieren
+2019-02-04	3	15.36	2.56	Minimaler Operatorsatz der relationalen Algebra	Selektion σ, Projektion π, Kartesisches Produkt ×, Umbenennung ρ, Vereinigung ∪, Differenz -
+2019-02-04	3	14.16	2.36	Relationale Algebra Join	⋈ , R(A₁,…,Am,B₁,…,Bm), S(B₁,…,Bk,C₁,…,Cn), gibt Tupel (A₁,…,Am,B1,…,Bk,C₁,…,Cn) aus R×S zurück.
+2019-02-04	3	16.8	2.8	Relationale Algebra Kartesisches Produkt	×, gibt alle möglichen Kombinationen zurück
+2019-02-04	3	16.2	2.7	Relationale Algebra Projektion	π, filtert Spalten aus einer Relation
+2019-02-05	2	6.0	2.48	Relationale Algebra Selektion	σ, filtert Relationen nach Eigenschaften
+2019-02-04	3	15.0	2.5	Relationale Algebra Umbenennung	ρ, Umbenennung von Relationen (ρ_{v2}(v1)) und von Attributen (ρ_{neu←alt}(r)) möglich
+2019-02-04	3	16.8	2.8	Form Anfrage im Relationenkalkül	{t | P(t)}, P(t) ist Formel in Prädikatenlogik
+2019-02-05	3	14.28	2.38	Relationale Algebra Anti-Semi-Join von L mit R	Die Tupel in L, die bei einem Join mit R nicht im Ergebnis wären
+2019-02-05	3	14.76	2.46	Relationale Algebra Division: R÷S	Die Tupel in R, von denen jedes auf alle Tupel in S abbildet / t∈R÷S, falls ∀ ts∈S ∃ tr∈R: tr.S=ts.S, tr.(R-S)=t
+2019-02-06	2	6.0	1.5	Relationale Algebra Semi-Join von L mit R	Join, aber nur die Werte, die in L sind, werden auch wirklich zurückgegeben
+2019-02-05	3	15.6	2.6	Relationale Algebra allgemeneiner (Theta) Join	Join mit beliebigen Bedingungen: R⋈ _ΘS=σ_Θ(R×S)
+2019-02-05	3	16.2	2.7	Relationale Algebra linker äußerer Join	Join, der bei Mismatch die linke Hälfte trotzdem mitgibt, und die rechte Hälfte mit null auffüllt.
+2019-02-06	3	15.6	2.6	Relationale Algebra natürlicher Join	⋈ , R(A₁,…,Am,B₁,…,Bm), S(B₁,…,Bk,C₁,…,Cn), gibt Tupel (A₁,…,Am,B1,…,Bk,C₁,…,Cn) aus R×S zurück.
+2019-02-06	3	15.36	2.56	Relationale Algebra rechter äußerer Join	Join, der bei Mismatch die rechte Hälfte trotzdem mitgibt, und die linke Hälfte mit null auffüllt.
+2019-02-06	3	16.2	2.7	Relationale Algebra äußerer Join	Vereinigungsmenge des linken äußeren Join und des rechten äußeren Join.
+2019-02-06	3	16.8	2.8	Zeichen Anti-Semi-Join	▷
+2019-02-02	2	6.0	2.7	Zeichen Semi-Join	⋉
+2019-02-02	2	6.0	2.7	Zeichen linker äußerer Join	Join, aber links sind die Diagonalen noch leicht verlängert.
+2019-02-04	2	6.0	1.52	Zeichen rechter äußerer Join	Join, aber rechts sind die Diagonalen noch leicht verlängert.
+2019-02-02	2	6.0	2.06	Zeichen äußerer Join	Join, aber rechts und links sind die Diagonalen noch leicht verlängert.
+2019-02-02	2	6.0	1.96	Die Domäne einer Formel enthält _	• Die in der Formel vorkommenden Konstanten / • Die Attributwerte von Relationen, die in der Formel referenziert werden
+2019-02-04	2	6.0	1.3	Ein Ausdruck {[x₁,…,xn] | P(x₁,…,xn)} ist sicher, falls _	• falls ein Tupel mit Konstanten im Ergebnis enthalten ist, so muss das Tupel auch in der Domäne sein / • jede existenz-quantifizierte Teilformel ∃x(P₁(x)) darf nür für Elemente aus der Domäne von P₁ erfüllbar sein / • jede universal-quantifizierte Teilformel ∀x(P₁(x) muss für alle Werte in der Domäne von P₁ erfüllt sein
+2019-02-04	2	6.0	2.46	Form Anfrage im Domänenkalkül	{[v₁,…,vn] | P(v₁,…,vn)}, P ist Formel, v₁,…,vn sind Domänenvariablen
+2019-02-04	2	6.0	2.06	Aufbau einer zweistufigen Speicherhierarchie in einem DBMS	DBMS-Puffer ↔ Hintergrundspeicher
+2019-02-04	2	6.0	1.3	Strategien bei der Ersetzung von Puffer-Seiten	¬steal: Keine Ersetzung von Seiten, die von einer noch aktiven Transaktion modifiziert wurden / steal: Jede nicht fixierte Seite darf ersetzt werden
+2019-02-04	2	6.0	1.3	Strategien beim Einbringen abgeschlossener Transaktionen	¬force: Geänderte Seiten verbleiben im Puffer / force: Änderungen werden zum Transaktionsende in den Hintergrundspeicher geschrieben
+2019-02-04	2	6.0	1.5	Stufen der Wiederherstellung bei Datenbanksystemen	• Lokaler Fehler, noch nicht festgeschriebene (committed) Transaktion wird zurückgesetzt → R1-Recovery / • Hauptspeicherverlust, abgeschlossene Transaktion bleiben erhalten → R2-Recovery / • Hauptspeicherverlust, noch nicht abgeschlossene Transaktionen werden zurückgesetzt → R3-Recovery / • Widerherstellung bei Hintergrundspeicherverlust → R4-Recovery
+2019-02-06	2	6.0	1.3	Undo/Redo bei steal/¬steal-Strategien und force/¬force-Strategien	Undo bei steal, Redo bei ¬force
+2019-02-05	2	6.0	2.7	Stufen der Wiederherstellung bei Datenbanksystemen	• Lokaler Fehler, noch nicht festgeschriebene (committed) Transaktion wird zurückgesetzt → R1-Recovery / • Hauptspeicherverlust, abgeschlossene Transaktion bleiben erhalten → R2-Recovery / • Hauptspeicherverlust, noch nicht abgeschlossene Transaktionen werden zurückgesetzt → R3-Recovery / • Wiederherstellung bei Hintergrundspeicherverlust → R4-Recovery
+2019-03-11	0	1.0	2.5	SQL-Datentyp für sehr große Strings	clob
+2019-03-11	0	1.0	2.5	SQL-Datentyp für sehr große binäre Daten	blob/raw
+2019-03-11	0	1.0	2.5	Vorraussetzung für die Änderbarkeit einer Sicht	• Nur eine Basisrelation / • Schlüssel muss vorhanden sein / • Keine Aggregatfunktion, Gruppierung oder Duplikateliminierung

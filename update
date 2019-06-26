@@ -1,0 +1,7 @@
+#!/usr/bin/env rc
+
+for(i in (sem1 sem2 sem3 sem4)) {
+	cd $i
+	./update
+	cd ..
+}

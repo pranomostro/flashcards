@@ -1,0 +1,105 @@
+2019-03-06	5	69.123456	2.36	2 Arten des Dateizugriffs	Sequential access, Random access
+2019-03-06	5	24.48	1.7	2 Optionen zur Verwaltung von Datei-Attributen	Direkt im Verzeichniseintrag, in den i-nodes
+2019-01-31	4	39.0	2.6	3 Methoden für Blockspeicherung	Contiguous, Linked List, i-nodes
+2019-03-06	5	70.447104	2.34	3 Strukturtypen von Dateien	Unstrukturiert, in Records, in Bäumen
+2019-03-25	5	117.936	2.8	4 von Betriebssystemen unterstützte Dateitypen	Dateien, Verzeichnisse, Character Special Files, Block Special Files
+2019-03-25	5	131.544	2.9	Block Special Files Beispiele	Massenspeicher: Festplatten, CD-ROMS, USB-Speicher, SSDs
+2019-02-04	4	42.12	2.7	Character Special Files Beispiele	Serielle I/O Geräte: Terminal, Drucker, Netze
+2019-01-31	4	37.7856	2.56	Contiguous Allocation: Datei wird als _ verwaltet	zusammenhängende Folge von Blöcken
+2019-02-04	4	43.74	2.7	Dateiattribute	Name, Inhalt, Zugriffsrechte, Erstellungsdatum, Modifizierungsdatum
+2019-02-04	4	45.36	2.8	Der Master Boot Record ist in Sektor _	0
+2019-02-04	4	47.04	2.8	Die Aufgabe eines Dateisystems ist _	die Verwaltung von Dateien
+2019-02-17	4	32.5584	2.38	Linked List Allocation mit FAT ist _	File Allocation Table, Zeiger auf den nächsten Blocke werden in einer Tabelle im Hauptspeicher verwaltet
+2019-03-25	5	146.16	3.0	Linked List Allocation: Die durch die Datei belegten Blöcke werden in _ verwaltet	einer verlinkten Liste
+2019-03-06	5	71.693568	2.32	Nachteile Contiguous Allocation	Modifikation nicht möglich, Löschen hinterlässt Fragmentierung des Speichers
+2019-03-06	4	34.8192	2.34	Nachteile Linked List Allocation	Seeking ist sehr schwierig/langsam, Overhead durch Pointer auf nächsten Block
+2019-02-17	4	24.4824	2.02	Nachteile i-nodes	begrenzte maximale Dateigröße, begrenzte Anzahl von Dateien in Verzeichnis
+2019-02-17	4	26.6976	2.16	Vorteile Contiguous Allocation	Einfache Implementierung, Lesen ist sehr performant
+2019-02-17	4	21.2064	1.88	Vorteile Linked List Allocation	Kein Speicherplatzverlust durch Fragmentierung
+2019-03-06	5	30.143232	1.78	Vorteile i-nodes	Muss nur für eine geöffnete Datei in den Speicher geladen werden, / Speicherbedarf proportional zur Anzahl von Dateien.
+2019-03-27	3	14.76	2.46	Definition Rechensystem als System	offen, dynamisch, technisch
+2019-02-17	4	39.0	2.6	Dynamisches System	Zustände des Systems zu Betrachtungszeitpunkten, / Eigenschaftsänderungen sind Zustandsänderungen, / die das Systemverhalten beschreiben.
+2019-02-17	4	18.36	1.8	Fähigkeiten Rechensystem	Speicherung/Verarbeitung von Information, Fähigkeit zur Kommunikation
+2019-02-17	4	39.0	2.6	Offenes System	Besteht aus Komponenten mit Abhängigkeit u. externen Schnittstellen
+2019-03-06	1	1.0	1.4	2 Haupt-Aufgaben eines Betriebssystems	Abstraktion (Vereinfachung, Bereitstellung von abstrakten Konzepten und gemeinsamen Schnittstellen) / Ressourcenmanagement (Steuern und Kontrollieren der Programmausführung)
+2019-02-17	4	25.4616	2.06	4 Betriebsarten von Betriebssystemen	batch processing /  ~ Programm wird vor dem Start komplett definiert und geschlossen ausgeführt /  ~ keine Nutzer-Interaktion / time sharing /  ~ Interaktion zw. Nutzer und Betriebssystem / transaction system /  ~ vgl. Datenbanken / real time system /  ~ hard deadlines: Reaktionszeit darf nicht überschritten werden /  ~ soft deadlines: gewisse Toleranz erlaubt
+2019-02-17	4	40.8576	2.66	4 Plattformen von Betriebssystemen	Server, Desktop, Mobil, Eingebettet
+2019-03-06	1	1.0	1.4	3 Ziele von Betriebssystemen	Hohe Auslastung / Kurze Antwortzeiten / Geringer Energieverbrauch
+2019-02-17	4	25.6944	2.12	Betriebssystem-Modi	Benutzermodus (kein direkter Hardware-Zugriff, Zugriff nur auf virtuelle Adressen) / Systemmodus (direkter Hardware-Zugriff, Zugriff auf Systemcode und Daten)
+2019-02-17	4	45.36	2.8	Definition Prozess	Programm in Ausführung
+2019-02-17	4	21.4032	1.82	ACID-Kriterien	Atomarität, Konsistenz, Isolation, Dauerhaftigkeit
+2019-02-17	4	48.72	2.9	Black-Box-Sicht auf System:	Sicht von außen, nur Berücksichtigung von Ein-/und Ausgaben
+2019-02-17	4	45.36	2.8	White-Box-Sicht auf System:	Rekursive Aufteilung in Komponenten bzw. Sub-Komponenten
+2019-02-17	4	31.4352	2.22	2 Betriebssystem-Architekturen	Monolithische Systeme, Mikrokernel-Systeme, Geschichtete Systeme, Client-Server-Systeme, Virtuelle Maschinen
+2019-02-17	4	34.8336	2.46	Aufgabe von Systemaufrufen	Bereitstellen von Schnittstellen zur Hardware durch das Betriebssystem
+2019-02-17	4	29.2896	2.26	Ein Systemcall wird durch eine _ realisiert	Trap-Instruktion
+2019-03-06	2	6.0	1.3	Klassifikation von Ressourcen	Anzahl der Nutzungen, Parallelität, Dauerhaftigkeit, Zentralität/Peripherität
+2019-02-17	4	34.8336	2.46	Mikrokernel Beschreibung	Sehr kleiner Kernel (wenige 10 000 Zeilen), System in Modulen, nur Kernel läuft im Kernel Mode
+2019-02-17	4	43.74	2.7	Monolithisches System Beschreibung	Betriebssystem beinhaltet alle Treiber, Dateisystem, Arbeitsspeicherverwaltung etc.
+2019-03-25	5	67.302144	2.34	Probleme und Vorteile monolithischer Systeme	Vorteile: Flexibilität, Performance / Probleme: Unübersichtlichkeit, geringe Resilienz, schwere Erweiterbarkeit
+2019-02-17	4	42.12	2.7	Probleme und Vorteile von Mikrokerneln	Vorteile: Sicherer, erweiterbarer, resilienter / Nachteile: Langsamer als monolithisches System
+2019-02-17	4	40.8576	2.66	Schritte vom Programm zum ausführbaren Code	Compiler -> Assembler -> Linker -> Loader
+2019-02-17	4	32.0016	2.36	3 Implementierungsvarianten von Threads	1. User Space / 2. Kernel Space / 3. Hybride Variante im User- und Kernel Space
+2019-03-06	4	28.7472	2.12	4 Entscheidungssituationen eines Schedulers	1. Wenn ein neuer Prozess erzeugt wird / 2. Wenn ein Prozess terminiert / 3. Wenn ein Prozess blockiert / 4. Wenn ein Interrupt auftritt
+2019-02-17	4	17.1216	1.74	4 Schritte im Dispatcher	1. Ändert den Zustand des rechnenden Prozesses zu wartend/rechenbereit / 2. Sichert den Kontext des zuvor rechnenden Prozesses im PCB / 3. Lädt den Kontext des rechenbereiten Prozesses/Threads / 4. Ändert den Zustand des rechenbereiten Prozesses zu rechnend
+2019-03-06	4	37.7856	2.56	Definition Dispatching	Realisiert Prozess-Zustandsübergänge von rechenwillig nach rechnend (und umgekehrt)
+2019-03-06	4	45.36	2.8	Definition Scheduling	Auswahl des nächsten auszuführenden Prozesses aus der Menge der rechenbereiten Prozesse
+2019-03-06	4	40.56	2.6	Definition Thread	Thread ist eine Abstraktion eines physischen Prozessors innerhalb eines Prozesses, / die sich den Adressraum des Prozesses teilen / und jeder einen eigenen Befehlszähler/Registerwerte/Stack haben. / Die restlichen Ressourcen sind im Prozess geteilt.
+2019-03-06	1	1.0	1.82	Den Eltern-Prozess einer Prozessgruppe nenn man _	Prozessgruppen-Leader
+2019-03-06	4	28.7472	2.12	Erklärung Hybride von User- und Kernel Space Threading	BS verwaltet Kernel-Threads, n Threads im User-Space werden auf m Kernel-Threads abgebildet (n:m Abbildung)
+2019-03-06	4	10.14	1.3	Kernel-Datenstruktur für einen Prozess und darin gespeicherte Information	Process Control Block (PCB) /  / Registerinhalte, Priorität, / Prozesszustand (wartend/rechnend etc.) / Process ID (PID), Parent PID, Process Group ID (PGID) / Information zur Speicherverwaltung: /  ~ Pointer zu Code- Daten-, und Stack-Segment / Informationen zur Dateiverwaltung: /  ~ Root-Verzeichnis, Dateideskriptoren, Benutzer
+2019-03-06	2	6.0	1.5	Prozess-Zustand: blocked → ready=_	ready
+2019-03-06	1	1.0	1.4	Prozess-Zustand: ready → running=_	assign
+2019-03-06	4	45.36	2.8	Prozess-Zustand: ready/blocked/running → swapped out =_	swap out
+2019-02-17	4	29.2896	2.26	Prozess-Zustand: running → blocked=_	block
+2019-03-06	1	1.0	1.4	Prozess-Zustand: running → ready=_	resign
+2019-03-06	2	6.0	1.6	Prozess-Zustand: running → ∅=_	retire
+2019-03-25	5	49.333248	2.12	Prozess-Zustand: swapped out → ready/blocked=_	swap in
+2019-03-06	4	30.6456	2.26	Prozess-Zustand: ∅ → ready=_	add
+2019-03-06	1	1.0	2.36	Prozess-Zustände	rechenwillig (ready) / rechnend (running) / wartend (blocked) (wartet auf Ressource) / ausgelagert (swapped out) (auf die Festplatte geschrieben)
+2019-03-06	2	6.0	1.4	Prozesse werden in der Datenstruktur _ verwaltet	Queue, einzeln für running, ready, und blocked
+2019-03-06	5	20.46336	1.46	Struktur eines Funktionsaufrufes auf dem Stack	Parameter in umgekehrter Reihenfolge / [Register?] / Return-Adresse / Stack-Base-Pointer / lokale Variablen
+2019-03-06	4	33.9864	2.38	Struktur eines Prozesses im Speicher	Stack (wächst von oben runter) / freier Speicher / Heap (wächst von unten nach oben) / Data (globale Variable) / Code
+2019-03-06	4	45.36	2.8	Wann entsteht ein Zombie-Prozess?	Wenn ein Kind- vor dem Eltern-Prozess terminiert.
+2019-03-06	4	48.72	2.9	Wann wird ein Zombie-Prozess entfernt?	Sobald der exit()-Status vom Eltern-Prozess gelesen wurde
+2019-03-06	4	42.12	2.7	Was ist ein Waisen-Prozess	Ein Prozess, dessen Elternprozess vor dem Kind terminiert hat, wird von init() adoptiert
+2019-03-06	4	25.4616	2.06	Eigenschaften eines Zombie-Prozess	Speicher ist de-allokiert, exit()-Status wird in den PCB geschrieben
+2019-03-06	1	1.0	1.5	Was muss ein Waisen-Prozess tun, um zum Daemon zu werden?	Sich von der Gruppen-ID und der Benutzer-Id lösen, Dateidesktriptoren umleiten
+2019-03-06	1	1.0	1.4	Wenn ein Prozess einen Anteil p seiner Zeit auf Ein-/Ausgabe wartet, ist die / CPU-Auslastung probabilistisch _ bei n Prozessen	1-p^n
+2019-03-06	4	15.36	1.6	Wenn man sich zwischen CPU-Limitation und I/O-Limitation entscheiden muss, wählt man _	I/O-Limitation, weil ein CPU-limitierter Prozess sowohl auf I/O als auch auf die CPU warten muss.
+2019-02-05	4	33.4176	2.36	Beschreibung i-nodes	Jede Datei wird durch die Datenstruktur eines Index-Node (i-node) repräsentiert, / der die Dateiattribute und die Adressen der belegten Blöcke enthält
+2019-03-06	1	1.0	1.3	Arten von Interaktionen zwischen parallelen Programmen	Kausale Beziehung / Kommunikation / Koordinierung / Konkurrenz
+2019-03-06	2	6.0	1.9	Bedingungen für Deadlocks	1. Exklusiv nutzbare Ressource / 2. Belegen und Anfordern von Ressource / 3. Keine Entziehbarkeit von Ressourcen / 4. Zyklisches Warten von Prozessen
+2019-03-25	0	11.76	1.96	Definition Deadlock	Ein Zustand, in dem eine Menge von Prozessen auf ein Ereignis wartet, / das nur ein anderer Prozess aus dieser Menge auslösen kann
+2019-03-06	1	1.0	1.6	Definition Kritischer Abschnitt	In kritischen Abschnitten greifen Prozesse auf gemeinsame Ressource zu
+2019-03-25	0	12.24	2.04	Definition Monitor	Zusammenfassung von Daten mit zugehörigen Zugriffsoperationen / → Compiler erzeugt automatisch Semaphore dafür / → Zu jedem Zeitpunkt darf höchstens ein Prozess innerhalb eines Monitors aktiv sein
+2019-03-06	2	6.0	2.6	Definition Mutex	Gemeinsame Variable, die zwei Zustände annehmen kann: unlocked oder locked
+2019-03-06	2	6.0	2.7	Definition Nichtdeterminismus	System zeigt bei gleichen Ausgangsbedingungen und gleichen Eingaben unterschiedlicher Verhalten
+2019-03-06	1	1.0	2.28	Definition Race Condition	Mindestens zwei Prozesse greifen lesend oder schreibend auf gemeinsame Ressource zu
+2019-03-06	2	6.0	2.6	Definition Semaphore	Ganzzahlige, von mehreren Prozessen geteilte Kontrollvariable
+2019-03-25	3	16.8	2.8	Definition Spin-Lock	Aktives Warten eines Prozesses, bis eine belegte Ressource frei wird
+2019-03-25	2	6.0	2.22	Definition Unterbrechungssperre	Ein Unterbrechungssperre verhindert, dass der aktive Prozess bei einem Interrupt die CPU abgeben muss
+2019-03-06	1	1.0	2.28	Definition passives Warten	Prozess gibt immer wieder die CPU ab, bis der Lock auf der angefragten Ressource frei wird
+2019-03-06	1	1.0	1.82	Eigenschaften korrekter paralleler Systeme	Determiniertheit /  ~ Bei gleichen Bedingungen entstehen die gleichen Ergebnisse / Störungsfreiheit /  ~ Es gibt eine Reihenfolge, unter der das Ergebnis nicht beeinflusst wird / Wechselseitiger Ausschluss exklusiv nutzbarer Ressourcen /  ~ Maximal ein Prozess greift zu jedem Zeitpunkt auf gemeinsame Ressource zu / Verklemmungsfreiheit / Kein Verhungern /  ~ Es gibt keine Prozesse, deren Ausführung unendlich lange aufgeschoben wird
+2019-03-06	1	1.0	1.96	Operationen auf einer Semaphore	Initialisierung, P (down/wait), V (up/signal) -> P/V sind atomar
+2019-03-06	1	1.0	2.6	Phasen des kritischen Abschnitts	1. Ausführung der unkritischen Abschnitte / 2. Betreten eines kritischen Abschnitts / 3. Ausführung des kritischen Abschnitts / 4. Verlassen des kritischen Abschnitts
+2019-03-25	0	1.52	1.52	Algorithmus zum Finden aller Prozesse in einem Deadlock	1. P sei die Menge aller Prozesse / 2. Suche p∈P, dessen Anforderungen momentan erfüllbar sind / 3. Simuliere, dass p seine belegten Ressource wieder freigibt / 4. P:=P\{p}, gehe zu 2 / 5. Falls P=∅, terminiere Suche, keine Deadlocks / 6. Falls P≠∅, ist P die Menge der verklemmten Prozesse
+2019-03-06	1	1.0	2.36	Bedingungen für Deadlocks	1. Exklusiv nutzbare Ressource / 2. Belegen und Anfordern von weiteren Ressource möglich / 3. Keine Entziehbarkeit von Ressourcen / 4. Zyklisches Warten von Prozessen
+2019-03-06	1	1.0	1.74	Methoden zur Behebung von Deadlocks	• Abbruch der verklemmten Prozesse / • Ressourcenentzug / • Zurückführung der verklemmten Prozesse auf einen Kontrollpunkt
+2019-03-06	1	1.0	2.36	Strategien zum Umgang mit Deadlocks	1. Ignorieren / 2. Deadlock-Detection (Erkennen/Beseitigen von Deadlocks, falls diese auftreten) / 3. Deadlock-Prevention (eine der Deadlock-Bedingungen wird außer Kraft gesetzt) / 4. Deadlock-Avoidance (Ressourceverteilungen, die potentiell in einem Deadlock enden, werden nicht durchgeführt)
+2019-03-27	2	6.0	1.96	Beschreibung Bankier-Algorithmus	1. Falls ein Prozess eine Ressourcen-Anforderung hat, teil man die Ressource probeweise zu / 2. Man geht nun von Maximalanforderungen aller anderen Prozesse aus / 3. Ausführung von Deadlock-Erkennung / 4. Falls kein Deadlock auftritt, kann die Zuteilung nun tatsächlich erfolgen
+2019-02-15	0	1.0	2.5	Probleme mit dem Bankiers-Algorithmus	• Ressourcebedarf ist häufig nicht bekannt / • Neue Prozesse können erzeugt werden
+2019-02-15	0	1.0	2.5	Definition Livelock	Zwei Prozesse forden jeweils zwei Ressourcen an, die sie beide dann wieder freigeben, / wenn sie merken, dass die vom anderen belegt sind. Das wird ad infinitum wiederholt.
+2019-02-15	0	1.0	2.5	Definition Starvation	Ein Prozess verhungert, wenn seine Ressourcenanfragen nie erfüllt werden, / da stets andere Prozesse Vorrang haben.
+2019-02-15	0	1.0	2.5	Geordnete Ressourcen-Anforderung Methode	Festlegen einer linearen Ordnung auf den Ressource, die Ressourcen dürfen nur gemäß dieser Ordnung angefordert werden
+2019-02-15	0	1.0	2.5	Spooling Methode	Ein Spooler-Prozess hat als einziger die Ressource zugeteilt, alle Prozesse nutzen die Ressource über den Spooler / Spooler verwaltet eine Auftragswarteschlange für Aufträge
+2019-02-16	0	1.0	2.5	Definition Aktionsstruktur	p=(E,≤,α) heißt Aktionsstruktur von Prozess p, falls /  / 1. Die Ereignismenge E* gilt E⊆E* / 2. ≤ eine partielle Ordnung über E, die die Kausalitätsrelation darstellt. / 3. Die Abbildung α: E→A ist die Aktionsmarkierung des Prozesses p / 4. Die Abbildung α ordnet jedem Ereignis eine Aktion zu.
+2019-02-16	0	1.0	2.5	Man nennt in einem Prozess p=(E,≤,α) zwei Ereignisse e₁,e₂∈E parallel/nebenläufig, falls _	¬(e₁≤e₂∨e₂≤e₁)
+2019-02-17	0	1.0	2.5	Voraussetzungen für Sequentialisierung eines Prozesses	Ereignisse bleiben erhalten / Aktionen bleiben erhalten / Bestehende Reihenfolge bleibt erhalten und wird komplettiert
+2019-02-17	0	1.0	2.5	Definition Nichtdeterministischer endlicher Zustandsautomat	(S,A,S₀,R⊆S×A×S) / S: Menge an Zuständen / A: Menge von Transitionsaktionen / S₀: Menge von möglichen Anfangszuständen / R: Zustandsübergangsrelation
+2019-02-19	0	1.0	2.5	Definition Nachbereich	N(a)⊆S, N(a): Menge der geschriebenen Zustandsvariablen, S: Menge der Zustände
+2019-02-19	0	1.0	2.5	Definition Petri-Netz	(S,T,F) / S: endliche Menge von Stellen, repräsentiert als Kreise / T: endliche Menge von Transitionen, repräsentiert als Rechtecke / F: Flussrelation F⊆(S×T)∪(T×S)
+2019-02-19	0	1.0	2.5	Definition Vorbereich	V(a)⊆S, V(a): Menge der gelesenen Zustandsvariablen, S: Menge der Zustände
+2019-02-19	0	1.0	2.5	Prozess p=(E,≤,α) heißt störungsfrei, wenn	∀e₁,e₂: e₁≤e₂∨e₂≤e₁ oder V(α(e₁))∩N(α(e₂))=∅ ∧ V(α(e₂))∩N(α(e₁))=∅ ∧ N(α(e₁))∩N(α(e₂))=∅ / D.h. Vorbereiche/Nachbereiche der beiden Variablen sind unterschiedlich (Bernstein-Bedingungen)
+2019-02-19	0	1.0	2.5	Definition Nachbereich in Petri-Netz	x•={y|x F y}, F: Flussrelation
+2019-02-19	0	1.0	2.5	Definition Vorbereich in Petri-Netz	•x={y|y F x}, F: Flussrelation

@@ -1,0 +1,4 @@
+#!/usr/bin/env rc
+
+sed -Ez '/\n/s/\n(.)/ \/ \1/g' |
+sed '/\t/s/\t/ ~ /g'

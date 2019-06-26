@@ -1,0 +1,27 @@
+Definition Alphabet Σ	Endliche Menge
+Definition Wort über Σ	Endliche Folge von Zeichen aus Σ
+Bedeutung ε	Leeres Wort
+Bedeutung w^{n+1}	wwⁿ
+Bedeutung Σ*	Menge aller Wörter über Σ (unendlich)
+Definition formale Sprache L	L⊆Σ*, L(G) als die Sprache, die aus einer Grammatik erzeugt werden kann
+Operationen auf Sprachen A,B⊆Σ*	Konkatenation: AB={uv|u∈A ∧ v∈B} / Aⁿ={w₁,…,wₙ|w₁,…,wₙ∈A} / A*={w₁,…,wₙ|n≥0∧w₁,…,wₙ∈A}=⋃Aⁿ / A+=AA*
+Definition Grammatik	4-Tupel G=(v,Σ,P,S) / V endliche Menge von Nichtterminalzeichen / Σ endliche Menge von Terminalzeichen / P⊆(V∪Σ)*×(V∪Σ)* Produktion / S Startsymbol
+Chomsky-Hierarchie Klassen	Typ 0: immer. / Typ 1: falls für jede Produktion α→β außer S→ε gilt |α|≤|β| / Typ 2: falls G vom Typ 1 ist und für jede Produktion α→β gilt α∈V / Typ 3: falls G vom Typ 2 ist und für jede Produktion α→β außer S→ε gilt β∈Σ∪ΣV
+Sprachklassen Namen	Typ 3: Rechtslineare Grammatik, Reguläre Sprachen / Typ 2: Kontextfreie Grammatik, Kontextfreie Sprachen / Typ 1: Kontextsensitive Grammatik, Kontextsens. Sprachen / Typ 0: Phasenstrukturgrammatik, Rekursiv aufzählbare Sprachen
+Satz der Sprachhierarchie	L(Typ 3)⊂L(Typ 2)⊂L(Typ 1)⊂L(Typ 0)
+Wortproblem Stellung	Gegeben: eine Grammatik G, ein Wort w∈Σ* / Frage: Gilt w∈L(G)?
+Definition deterministischer endlicher Automat	M=(Q,Σ,δ,q₀,F) / endliche Menge an Zuständen Q / endliches Eingabealphabet Σ / totale Übergangsfunktion δ:Q×Σ→Q / Startzustand q₀∈Q / Menge F⊆Q von Endzuständen
+Definition Recognizer	Programm, welches das Wortproblem für eine gegebene Grammatik löst
+Definition Ableitungsrelation →_{G}	α →_{G} α₁ existiert gdw ∃ β →_{G} β'∈P ∧ ∃ α₁,α₂: α=α₁βα₂ und α'=α₁β'α₂
+Definition reflexive transitive Hülle	α →^{*}_{G}β :⇔ ∃n. α →ⁿ_{G} β
+Äquivalenz regulärer Sprachen	Rechtslineare Grammatiken ⇔ Endliche Automaten ⇔ Reguläre Ausdrücke
+Definition nichtdeterministischer endlicher Automat	N=(Q,Σ,δ,q₀,F) / Q,Σ,q₀ und F sind wie bei DFA / δ: Q×Σ → P(Q), P(Q)=Menge aller Teilmengen von Q=2^{Q} (alternative: δ⊆Q×Σ×Q)
+Äquivalenz von Automaten	DFA≅NFA≅ε-NFA
+Arten von Produktionen in rechtslinearen Grammatiken	A → a, A → aB, S → ε
+Pumping Lemma	Sei R⊆Σ* regulär, dann ∃n>0: ∀z∈ℝ mit |z|≥n und z=uvw: / • v≠ε / • |uv|≤n / • ∀i≥0: uvⁱw∈ℝ
+Ein (Entscheidungs)Problem ist entscheidbar, wenn _	es einen Algorithmus gibt, der bei jeder Eingabe in endlicher Zeit die richtige Antwort gibt
+Definition Entscheidungsproblem für reguläre Sprachen	Gegeben ein oder mehrere Objekte, die eine reguläre Sprache beschreiben, haben diese Objekte eine Eigenschaft X?
+Ardens Lemma für Sprachen A, B und X	Ist ε¬∈A, so gilt / X=AX ∪ B ⇒ X=A*B
+Algorithmus zur Minimierung eines DFA	1. Entfernung aller von q₀ aus nicht erreichbaren Zustände / 2. Berechnung äquivalenter Zustände des Automaten / 3. Kollabieren des Automaten durch Zusammenfassung äquivalenter Zustände
+Satz von Myhill-Nerode: Eine Sprache L⊆Σ* ist genau dann regulär, wenn _	≡_{L} endlich viele Äquivalenzklassen hat.
+Definition kontextfreie Grammatik	G=(V,Σ,P,S) / V: endliche Menge an Nichtterminalzeichen / Σ: Terminalzeichen / P⊆V×(V∪Σ)*: Produktionen / S∈V: Startsymbol

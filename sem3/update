@@ -1,0 +1,8 @@
+#!/usr/bin/env rc
+
+awk -F'\t' '{ print($2 "\t" $1) }' <med_norm.tsv >norm_med.tsv
+
+for(i in `{ls *.tsv}) {
+	j=`{echo $i | sed 's/\.tsv$/.crd/'}
+	fulg add $i $j
+}

@@ -1,0 +1,55 @@
+Gründe für den Einsatz eines DB-Systems: Vermeiden von _.	Redundanz, / Inkonsistenz, / beschränkte Zugriffsmöglichkeit, / Probleme bei Mehrbenutzerbetrieb, / Datenverlust, / Integritätsverletzung, / Sicherheitsprobleme, / hohe Entwicklungskosten für Anwendungsprogramme
+Abstraktionsebenen eines Datenbanksystems: _, _ und _.	Physische Ebene, logische Ebene, Sichten.
+DB-System garantiert _ und _ Datenunabhängigkeit.	physische, logische
+Datenmodellierung: _ -> _ -> _	Reale Welt -> konzeptuelles (ER) Schema -> Relationales/XML/Netzwerk/OO Schema
+ER Form für Entity	Rechteck
+ER Form für Relationship	Raute
+ER Form für Attribut	Oval
+Abstraktionsebenen eines Datenbankentwurfs	 / 1. Konzeptuelle Ebene / 2. Implementationsebene / 3. Physische Ebene
+Phasen des Datenbankentwurfs	Anforderungsanalyse – (Anforderungsspezifikation) → / Konzeptueller Entwurf – (Informationsstruktur) → / Implementationsentwurf – (logische Datenbankstruktur) → / Physischer Entwurf – (physische Datenbankstruktur)
+Anforderungsanalyse Teile	 / 1. Identifikation von Organisationseinheiten / 2. Identifikation der zu unterstützenden Aufgaben / 3. Anforderungs-Sammelplan / 4. Anforderungs-Sammlung / 5. Filterung / 6. Satzklassifikation / 7. Formalisierung
+ER-Schreibweise für Schlüssel	Text ist unterstrichen
+ER-Schreibweise für Rolle	Text steht an Verbindung
+Eine 1:N Funktionalität bildet _ Objekt(e) auf _ Objekt(e) ab	1, N
+Eine N:1 Funktionalität bildet _ Objekt(e) auf _ Objekt(e) ab	N, 1
+Wenn gilt: R: E₁ × … × Ek → En falls _	En die Funktionalität 1 hat
+Definition (min, max)-Notation	Für jedes ei ∈ Ei gibt es / • Mindestens mini Tupel der Art (…, ei, …) ∈ R und / • Höchstens maxi viele Tupel der Art (…, ei, …) ∈ R (genau umgekehrt wie bei Funktionalitäten)
+ER-Schreibweise für Generalisierung	Sechseck mit "is-a"
+4 Eigenschaften eines globalen Schemas	Redundanzfrei, Widerspruchsfrei, Synonyme bereinigt, Homonyme bereinigt
+Erzeugung eines globalen Schemas durch _	Konsolidierung verschiedener Sichten und Teilschemata
+Zentrales Konstrukt in UML	Klasse
+Klasse in UML beinhaltet	Attribute, Methoden
+Multiplizität in UML (A k..l – B i..j)	Jedes Element von A steht mit mindestens i Elementen von B in Beziehung / (genauso wie bei Funktionalitäten, _nicht_ (min,max)-analog)
+Definition Relation	D₁,…,Dn Domänen (Wertebereiche), Relation R⊆D₁×…×Dn
+Definition Schlüssel in einer Relation	Mimimale Menge von Attributen, deren Werte ein Tupel eindeutig indentifizieren
+Definition Primärschlüssel	Einer der Schlüssel, der verwendet wird, um in der Praxis zu referenzieren
+Minimaler Operatorsatz der relationalen Algebra	Selektion σ, Projektion π, Kartesisches Produkt ×, Umbenennung ρ, Vereinigung ∪, Differenz -
+Relationale Algebra Selektion	σ, filtert Relationen nach Eigenschaften
+Relationale Algebra Projektion	π, filtert Spalten aus einer Relation
+Relationale Algebra Kartesisches Produkt	×, gibt alle möglichen Kombinationen zurück
+Relationale Algebra Umbenennung	ρ, Umbenennung von Relationen (ρ_{v2}(v1)) und von Attributen (ρ_{neu←alt}(r)) möglich
+Relationale Algebra natürlicher Join	⋈ , R(A₁,…,Am,B₁,…,Bm), S(B₁,…,Bk,C₁,…,Cn), gibt Tupel (A₁,…,Am,B1,…,Bk,C₁,…,Cn) aus R×S zurück.
+Relationale Algebra allgemeneiner (Theta) Join	Join mit beliebigen Bedingungen: R⋈ _ΘS=σ_Θ(R×S)
+Relationale Algebra linker äußerer Join	Join, der bei Mismatch die linke Hälfte trotzdem mitgibt, und die rechte Hälfte mit null auffüllt.
+Zeichen linker äußerer Join	Join, aber links sind die Diagonalen noch leicht verlängert.
+Relationale Algebra rechter äußerer Join	Join, der bei Mismatch die rechte Hälfte trotzdem mitgibt, und die linke Hälfte mit null auffüllt.
+Zeichen rechter äußerer Join	Join, aber rechts sind die Diagonalen noch leicht verlängert.
+Relationale Algebra äußerer Join	Vereinigungsmenge des linken äußeren Join und des rechten äußeren Join.
+Zeichen äußerer Join	Join, aber rechts und links sind die Diagonalen noch leicht verlängert.
+Relationale Algebra Semi-Join von L mit R	Join, aber nur die Werte, die in L sind, werden auch wirklich zurückgegeben
+Zeichen Semi-Join	⋉
+Relationale Algebra Anti-Semi-Join von L mit R	Die Tupel in L, die bei einem Join mit R nicht im Ergebnis wären
+Zeichen Anti-Semi-Join	▷
+Relationale Algebra Division: R÷S	Die Tupel in R, von denen jedes auf alle Tupel in S abbildet / t∈R÷S, falls ∀ ts∈S ∃ tr∈R: tr.S=ts.S, tr.(R-S)=t
+Form Anfrage im Relationenkalkül	{t | P(t)}, P(t) ist Formel in Prädikatenlogik
+Form Anfrage im Domänenkalkül	{[v₁,…,vn] | P(v₁,…,vn)}, P ist Formel, v₁,…,vn sind Domänenvariablen
+Die Domäne einer Formel enthält _	• Die in der Formel vorkommenden Konstanten / • Die Attributwerte von Relationen, die in der Formel referenziert werden
+Ein Ausdruck {[x₁,…,xn] | P(x₁,…,xn)} ist sicher, falls _	• falls ein Tupel mit Konstanten im Ergebnis enthalten ist, so muss das Tupel auch in der Domäne sein / • jede existenz-quantifizierte Teilformel ∃x(P₁(x)) darf nür für Elemente aus der Domäne von P₁ erfüllbar sein / • jede universal-quantifizierte Teilformel ∀x(P₁(x) muss für alle Werte in der Domäne von P₁ erfüllt sein
+Stufen der Wiederherstellung bei Datenbanksystemen	• Lokaler Fehler, noch nicht festgeschriebene (committed) Transaktion wird zurückgesetzt → R1-Recovery / • Hauptspeicherverlust, abgeschlossene Transaktion bleiben erhalten → R2-Recovery / • Hauptspeicherverlust, noch nicht abgeschlossene Transaktionen werden zurückgesetzt → R3-Recovery / • Wiederherstellung bei Hintergrundspeicherverlust → R4-Recovery
+Aufbau einer zweistufigen Speicherhierarchie in einem DBMS	DBMS-Puffer ↔ Hintergrundspeicher
+Strategien bei der Ersetzung von Puffer-Seiten	¬steal: Keine Ersetzung von Seiten, die von einer noch aktiven Transaktion modifiziert wurden / steal: Jede nicht fixierte Seite darf ersetzt werden
+Strategien beim Einbringen abgeschlossener Transaktionen	¬force: Geänderte Seiten verbleiben im Puffer / force: Änderungen werden zum Transaktionsende in den Hintergrundspeicher geschrieben
+Undo/Redo bei steal/¬steal-Strategien und force/¬force-Strategien	Undo bei steal, Redo bei ¬force
+SQL-Datentyp für sehr große Strings	clob
+SQL-Datentyp für sehr große binäre Daten	blob/raw
+Vorraussetzung für die Änderbarkeit einer Sicht	• Nur eine Basisrelation / • Schlüssel muss vorhanden sein / • Keine Aggregatfunktion, Gruppierung oder Duplikateliminierung

@@ -1,0 +1,6 @@
+2019-04-03	2	6.0	2.5	Definition Sprache L	L⊆Σ*
+2019-04-03	2	6.0	2.22	Definition Tupel	Zusammenfassung einer festen, endlichen Zahl von Objekten unter Beachtung der Anordnung/Auflistung und Vielfachheit
+2019-04-03	2	6.0	2.7	Definition gerichteter Graph	G=(V,E), V: Knotenmenge, E: Kantenmenge (E⊆V×V)
+2019-04-03	2	6.0	2.7	Definition kartesisches Produkt	A×B={(a,b)|a∈A,B∈B}
+2019-04-03	1	1.0	2.6	Ein Digraph G ist bipartit, falls _	V=A∪B mit A∩B=∅ und E⊆A×B∪B×A (Nur Kanten zwischen A und B)
+2019-04-03	1	1.0	2.28	Notation Menge aller endlichen Wörter über Σ	Σ*

@@ -1,0 +1,6 @@
+Definition Tupel	Zusammenfassung einer festen, endlichen Zahl von Objekten unter Beachtung der Anordnung/Auflistung und Vielfachheit
+Definition kartesisches Produkt	A×B={(a,b)|a∈A,B∈B}
+Notation Menge aller endlichen Wörter über Σ	Σ*
+Definition Sprache L	L⊆Σ*
+Definition gerichteter Graph	G=(V,E), V: Knotenmenge, E: Kantenmenge (E⊆V×V)
+Ein Digraph G ist bipartit, falls _	V=A∪B mit A∩B=∅ und E⊆A×B∪B×A (Nur Kanten zwischen A und B)

@@ -1,0 +1,44 @@
+Definition diskreter Wahrscheinlichkeitsraum	endliche/abzählbare Ergebnismenge Ω={ω₁,ω₂,…} von Elementarereignissen
+Summe von Elementarwahrscheinlichkeiten	sum(ω∈Ω;Pr[w])=1 (Pr[ω_{i}] ist die Elementarwahrscheinlichkeit von ω_{i})
+Definition Ereignis E	E⊆Ω, Ergebnismenge Ω
+Definition Ē komplementäres Ereignis zu E	Ω\E
+Pr[∅]=_	0
+Pr[Ω]=_	1
+Additionssatz	Wenn die Ereignisse A₁,…,Aₙ paarweise disjunkt sind (A_{i}∩A_{j}=∅, so folgt Pr[⋃_{i=1}ⁿ A_{i}]=sum(i=1;n;Pr[A_{i}]
+Definition Elementar-Wahrscheinlichkeit Pr[ω_{i}]	Wahrscheinlichkeit eines Elementarereignisses / Bedingung: sum(ω∈Ω;Pr[ω])=1
+Wahrscheinlichkeit eines Ereignisses	Pr[E]:=sum(ω∈E;Pr[ω])
+Additionssatz für disjunkte Ereignisse A, B	Pr[A∪B]=Pr[A]+Pr[B]
+Siebformel	Pr[⋃_{i=1}ⁿ A_{i}]=sum(j=1;n;(-1)^(j+1)*sum(1≤i₁≤i_{l}≤j;Pr[A_{i₁}∩…∩A_{i_{l}}]))
+Boolsche Ungleichung	 Pr[⋃_{i=1}ⁿ A_{i}]≤sum(i=1;n;Pr[A_{i}])
+Prinzip von Laplace	Wenn nichts dagegen spricht, geht man davon aus, dass alle Elementarereignisse gleich wahrscheinlich sind. / Pr[E]=|E|/|Ω|
+Definition bedinget Wahrscheinlichkeit Pr[A|B]	Pr[A|B]:=Pr[A∩B]/Pr[B]
+Multiplikationssatz	Pr[A₁∩…∩Aₙ]=Pr[A₁]⋅Pr[A₂|A₁]⋅Pr[A₃|A₁∩A₂]⋅…⋅Pr[Aₙ|A₁∩…∩A_{n-1}], falls Pr[A₁∩…∩Aₙ]>0
+Satz der totalen Wahrscheinlichkeit	Pr[B]=sum(i=1;n;Pr[B|A_{i}*Pr[A_{i}], A_{i} paarweise disjunkt, B⊆A₁∪…∪Aₙ
+Satz von Bayes	Pr[A_{i}|B] / =Pr[A_{i}∩B]/Pr[B] / =Pr[B|A_{i}]⋅Pr[A_{i}]/sum(j=1;n;Pr[B|A_{j}]⋅Pr[A_{j}] /  ~ B⊆A₁∪…∪Aₙ
+Definition Unabhängigkeit für 2 Ereignisse	A unabhängig von B, falls /  ~ Pr[A|B]=Pr[A] oder / ~ Pr[A∩B]=Pr[A]⋅Pr[B]
+Definition Unabhängigkeit für n Ereignisse	A₁,…,Aₙ unabhängig, falls für I={i₁,…,iₖ⊆[n] gilt: /  ~ Pr[A_{i₁}∩…∩A_{iₖ}]=Pr[A_{i₁}]⋅…⋅Pr[A_{iₖ}]
+Defintion (numerische) Zufallsvariable	X: Ω → ℝ, Ergebnismenge Ω
+Definition (diskrete) Dichte(funktion) der Zufallsvariablen X	f_{X}: x∈ℝ → Pr[X=x]∈[0,1]
+Definition Verteilung(sfunktion) der Zufallsvariablen X	F_{X}: x∈ℝ → Pr[X≤x]
+Definition Erwartungswert	𝔼[X]:=sum(x∈W_{X};x⋅Pr[X=x]
+Linearität des Erwartungswerts	𝔼[a⋅X+b]=a⋅𝔼[X]+b
+Definition Varianz	Var[X]:=𝔼[(X-μ)²], μ=𝔼[X]
+Definition Standardabweichung	σ=sqrt(Var[X])
+Nichtlinearität der Varianz	Var[a⋅X+b]=a²⋅Var[X]
+Definition k-tes Moment	Für eine Zufallsvariable X nennt man 𝔼[X^{k}] das k-te Moment
+Definition k-tes zentrales Moment	Für eine Zufallsvariable X nennt man 𝔼[(X-𝔼[X])^{k}] das k-te Moment
+Die Zufallsvariablen X₁,…,Xₙ heißen unabhängig, wenn für alle (x₁,…,xₙ) ∈ W_{X₁}×…×W_{Xₙ} gilt: _	Pr[X₁=x₁,…,Xₙ=xₙ]=Pr[X₁=x₁]⋅…⋅Pr[Xₙ=xₙ]
+Für zwei unabhängige Zufallsvariable X und Y sei Z:=X+Y. Es gilt f_{Z}(z)=_	sum(x∈W_{X};;f_{X}(x)⋅f_{Y}(z-x))
+Linearität des Erwartungswertes: X:=a₁X₁+…+aₙXₙ (Zufallsvariablen X₁,…,Xₙ), dann 𝔼[X]=_	a₁𝔼[X₁]+…+aₙ𝔼[Xₙ]
+Multiplikativität des Erwartungswerts	𝔼[X₁…Xₙ]=𝔼[X₁]…𝔼[Xₙ]], X₁,…,Xₙ unabhängig
+Definition Indikatorvariable	Zufallsvariable I_{A}={1 falls A eintritt; 0 sonst} zu einem Ereignis A
+Unabhängigkeit der Varianz	Für unabhängige Zufallsvariablen X₁,…,Xₙ und X:=X₁+…+Xₙ gilt: Var[X]=Var[X₁]+…+Var[Xₙ]
+Definition Bernoulli-Verteilung	Zufallsvariable X mit W_{X}={0,1} und Dichte f_{X}(x)={p für x=1, 1-p für x=0}, p: Erfolgswahrscheinlichkeit
+Erwartungswert Bernoulli-Verteilung	𝔼[X]=p
+Varianz Bernoulli-Verteilung	Var[X]=p⋅q, q=1-p
+Definition Binomialverteilung	X:=X₁+…+Xₙ ist Summe unabhängiger, Bernoulli-verteilter Zufallsvariablen mit Wahrscheinlichkeit p. / X ist binomialverteilt mit n und p. / Man schreibt: X~Bin(n,p)
+Dichte Binomialverteilung	f_{X}(x):=b(x;n,p)=(n \over x)⋅p^{x}⋅q^_{n-x}, q=1-p, n: Anzahl der Variablen
+Erwartungswert Binomialverteilung	𝔼[X]=n⋅p, n: Anzahl der Variablen
+Varianz Binomialverteilung	Var[X]=n⋅p⋅q, n: Anzahl der Variablen, q=1-p
+Markov-Ungleichung	X Zufallsvariable∈ℝ^{+}, dann gilt ∀t∈ℝ mit t>0: Pr[X≥t]≤𝔼[X]/t
+Chebyshev-Ungleichung	X Zufallsvariable, t∈ℝ^{+}, dann gilt: Pr[|X-𝔼[X]|≥t]≤Var[X]/t²

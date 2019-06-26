@@ -1,0 +1,70 @@
+Add script to find duplicates in a ".crd" file (or fix fulgurate-add to
+actually do what it's supposed to).
+
+gbs:
+	"ACID-Kriterien" überarbeiten?
+	Was ist eine Trap-Instruktion?
+	"Arten von deadlines bei real-time Systemen" hinzufügen
+	"2 Aufgaben eines Betriebssystems" klarifizieren
+	"Definition kritischer Abschnitt" bessere Definition schreiben
+
+funk:
+
+vwl:
+	"Definition Indifference Curve" add newlines
+	"Definition Convexity in Preferences" add newlines
+	"Atttributes Transformation Curve" add newlines
+	"Definition substitution effect" add newlines
+	"Definition Monotonicity in Preferences" -> newlines
+
+med1:
+	"Bedeutung K+ für den Organismus" add newlines
+	Karten von Prozessen im Körper → Dafür benötigte Stoffe
+	"Organsysteme des Körpers" formatieren
+	"Proteinbiosynthese Vorgang" formatieren und bei "Transkription"
+	"Nukleotid" erweitern
+	"Meiose N" zusammenfassen
+	"Gleiche Allelen" mehr erklären, bitte.
+	"Aufbau von Skelettmuskeln" newlines
+	"Definition Präimplantationsdiagnostik" -> newlines
+	"Zellorganellen" -> "Beispiele" hinzufügen
+	"Eigenschaften isometrische Kontraktion" 3. Zeile "keine" groß
+	schreiben
+
+ana:
+	"Quotientenkriterium" ist a_{n+1}/a_k, sollte einheitlich sein
+	"Falls eine Reihe sn konvergiert" überarbeiten
+	"(xn) konvergiert gegen ∞, falls" fixen (C sollte groß sein)
+
+gdb:
+	"Ein Ausdruck {[x₁,…,xn] | P(x₁,…,xn)} ist sicher, falls _" zweite Zeile überarbeiten
+
+med_norm:
+
+theo:
+	"Definition Grammatik" Zeilenumbrüche
+	"Definition deterministischer endlicher Automat" "endlicher Eingabealphabet" fixen
+	"Definition Grammatik" "v" Uppercase
+	"Pumping Lemma" ℝ zu R ändern
+	"Definition Ableitungsrelation": es ist α →_{G} α'
+	"Definition Grammatik" ist doppelt.
+
+dwt:
+	"Definition diskretes Wahrscheinlichkeitsraum" "endlicher"!
+	"Additionssatz" neue Zeilen
+	"Siebformel" Schnitte explizit?
+
+med2_imp:
+	"Funktionseinschränkung" ist kaputt
+	"Folgen einer Entzündung" eher "Verlauf einer Entzündung"?
+
+med2_norm:
+	"Carcinoma in situ" genauer -> in med_imp, zu "Carcinoma in situ Eigenschaften"?
+	"Gewebbsvermehrung" bei "Tumor"
+	"Tumor" in med2 transferieren, in "Tumor Eigenschaften" umbenennen
+
+gnvs:
+	"Bedeutung ICI" -> Wirklich die _Bedeutung_ hinschreiben, nicht
+	die Übersetzung des Akronyms
+	"Beschreibung Fourierreihe" -> newlines
+	"transportierte Information entspricht" -> Informatiensverlust

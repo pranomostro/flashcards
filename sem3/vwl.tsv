@@ -1,0 +1,118 @@
+Definition of economics by Robbins	"The science which studies human behavior as a relationship between ends and scarce means which have alternative uses"
+Defitinion Microeconomics	Analysis of individual choices and their interaction on markets
+Definition Macroeconomics	Analysis of the economy as a whole
+Fundamental Problem of economics	Scarce resource: Human wants exceed the resources available to satisfy them
+Optimization definition	Rational individuals: / * maximize utility from a given set of resources / * minimize resource use to obtain a given utility level
+Definition Equilibrium	A situation where individual choices are: / * optimal, no agent has an incentive to change behavior / * mutually compatible and therefore feasible
+Definition Pareto improvement	Reallocation that makes at least one agent better off without making any other agent worse off
+Definition Pareto efficiency	An allocation of resource where no pareto-improvement is possible
+Definition Production	Transformation of inputs into outputs
+Definition Trade	Voluntary exchange of goods between agents
+Attributes Transformation Curve	All combinations on and below the transformation curve are feasible, and only the ones on the curve are efficient, expresses opportunity cost of good 1 to good 2
+Definition Absolute Advantage	An agent's ability to produce a certain good using less resources than other agents
+Definition Comparative Advantage	An agent's ability to produce a certain good at lower opportunity costs than other agents
+Principle of Comparative Advantage	Specialization according to comparative advantages facilitates mutual gains from trade / (this is true whether or not one of the trading partners has absolute advantages on the production of every good).
+Given prices p₁, p₂ as well as quantities q₁, q₂, how does one calculate the individual's budget y from them?	y=p₁*q₁+p₂*q₂
+Given prices p₁, p₂ as well as quantity q₁ and the budget y, how does one calculate q₂?	q₂=y/p₂-(p₁/p₂)*q₁
+Definition Price Ratio	Rate at which the individual can substitute one good for another at constant expenses
+Definition Indifference Curve	Locus of all consumption bundles (q₁, q₂) from which the individual derives the same level of utility U(q₁, q₂)
+Definition Marginal Rate of Substitution	Rate at which the individual can substitute one good for another at constant utility
+Formula for Marginal Rate of Substitution	MRS₁,₂=(δU/δq₁)/(δU/δq₂)
+Assumptions on Preferences	Completeness (all goods are comparable), / Transitivity (if a>b∧b>c, then a>c), / Monotonicity (more of a and the same of b is worth equally much), / Convexity (the weighted average of the goods is worth more or equal)
+Definition Completeness in Preferences	The agent can compare any two consumption bundles A and B
+Definition Transitivity in Preferences	If the agent prefers A to B and B to C, then she also prefers A to C. Same holds for indifference. / → Indifference curves do not cross
+Definition Monotonicity in Preferences	If the consumption bundle A contains a larger quantity of each good than the consumption bundle B, the individual prefers A to B / → Indifference curves for two goods are negatively sloped
+Definition Convexity in Preferences	If an agent is indifferent between two consumption bundles A and B, then the weighted average of both is at least as good as A or B / → Indifference curves are convex
+Definition Perfect Substitute	Two goods the individual is willing to substitute for one another at a constant rate / → Linear indifference curves
+Definition Perfect Complements	Two goods the individual wants to consume in fixed proportions / → Orthogonal indifference curves
+Stating the Optimization Problem	Utility is maximized with respect to the budget restraint: y≥q₁+p₁+q₂p₂
+Conditions an interior solution of the maximization problem must satisfy	y=p₁*q₁+p₂*q₂, MRS₁,₂=(δU/δq₁)/(δU/δq₂)=p₁/p₂
+Definition Normal Good	A good for which an increase in income causes an increase in consumption and vice versa; dqi/dy>0
+Definition Inferior Good	A good for which an increase in income causes a decrease in consumption and vice versa
+Definition Substitution Effect	A change of the price ratio induces the individual to substitute the good which has become relatively more expensive with the other good which has become relatively less expensive
+Definition Income Effect	An increase in prices decreases the individuals purchasing power and vice versa.
+Definition Ordinary Good	A good for which a price increase causes a decrease in consumption and vice versa
+Definition Giffen Good	A good for which a price increase causes an increase in consumption and vice versa
+Definition Substitutes	Two goods for which a price increase of the first causes an increase in consumption of the second and vice versa.
+Definition Complements	Two goods for which a price increase of the first causes a decrease in consumption of the second and vice versa.
+Formula Market Demand	Q=∑q
+Law of Demand	The marked demand for a good decreases when its price increases.
+Macroeconomic Production Function	Y=F(L,K), Output Y, Labour L, Capital K
+Meaning "long term" in macroeconomics	Prices are flexible
+Savings Function	Y=C+sY, Output Y, Consumption C, saving rate s∈[0,1]
+Properties of the production function	Constant returns to scale (λ-fold increase in factors → λ-fold increase in output) / Positive but decreasing marginal products / Inada conditions (for →0 the marginal production rate is ∞, for →∞ the marginal production is 0)
+Constant returns to scale for F	F(λL,λK)=λF(L,K) ∀ λ>0, L: labor, K: capital
+Inada conditions	• lim (L→0) (δF/δL)=lim (K→0)(δF/δK)=∞ (for →0 the marginal production rate is ∞) / • lim (L→∞) (δF/δL)=lim (K→∞) (δF/δK)=0 (for →∞ the marginal production is 0)
+Definition Intensive Form	Representation of a formula in per-worker terms
+Intensive form of the macroeconomic production function	y=f(k), Output per worker y, Capital per worker k
+Macroeconomic assumption on population growth	In any giveen period t, the labor force grows at a constant rate n: L_{t+1}=(1+n)*L_t
+Macroeconomic capital accumulation function	K_{t+1}=K_t+sY_t-δK_t, Capital K, capital depreciation δ∈[0,1], Output Y, saving rate s∈[0,1]
+Macroeconomic capital accumulation per person function	(1+n)k_{t+1}=k_t+sf(k_t)-δk_t, saving rate s∈[0,1], capital depreciation δ∈[0,1]
+Exogenous factors on capital per worker	Increases with higher savings, decreases with higher depreciation/population growth
+Steady State Condition function	sf(k*)=(δ+n)⋅k* / k*: constant capital per worker, δ: capital depreciation rate, n: population growth
+The economy is in a steady state if _	The capital stock per worker is constant over time; k*=k_t=k_{t+1}
+Relation saving rate and steady state capital per worker	Increase in saving rate implies an increase in steady state capital per worker
+Relation depreciation rate and steady state capital per worker	Increase in depreciation rate implies a decrease in steady-state capital per worker
+Relation rate of population growth n and steady state capital per worker	Increase in rate of population growth implies a decrease in steady state capital per worker
+Definition Optimization Problem on Optimal Capital Accumulation	Maximize consumption per worker with respect to capital per worker in the steady state
+Golden Rule of Capital Accumulation Function	f'(k_gold^{*})=δ+n, capital depreciation δ, marginal product f', optimal stable capital stock k_gold, n: rate of population growth
+What happens when the saving rate exceeds its golden-rule level?	When we increase the saving rate, this causes an immediate decrease in / consumption but an increase in steady-state consumption per worker.
+What happens when the saving rate is smaller than its golden-rule level?	A decrease in the saving rate causes an immediate increase in consumption / as well as an increase in steady-state consumption per worker.
+Formula for a firm's revenue	R(q)=p⋅q, p: price, q: quantity
+Formula for a firm's input costs	c=w⋅L+r⋅K, costs: c, w: wage, L: labor, r: capital cost, K: capital
+Definition Isocost Line	Locus of all input bundles (L,K) causing identical input costs, L: labor, K: capital
+Definition Input Price Ratio	Rate at which the firm can substitute on input for another at constant input costs
+Production Function	q=F(L,K), q: quantity, L: labor, K: capital
+Definition Isoquant	Locus of all input bundles (L,K) that yield the same output q=F(L,K), L: labor, K: capital
+Definition Marginal Rate of Technical Substitution	Rate at which the firm can substitute one input for another at constant output
+Formula Marginal Rate of Technical Substitution	MRTS_{L,K}=(δF/δL)/(δF/δK)
+Assumptions on Technology in Production and Supply	Monotonicity and Convexity
+Returns to Scale in production	Effect of a proportional change in all inputs on output
+Returns to Scale formula	F(λL,λK)=λ^α⋅q, increasing/constant/decreasing returns to scale for α>1/a=1/α<1
+Optimization Problem in production	The firm minimizes input costs with respect to input employment subject to a given output
+Optimization Problem in production formula	min_{L,K} c=wL+rK, c: cost, w: wage, L: labor, r: investment, K: capital
+Conditions an interior solution to the minimization problem must satisfy	q=F(L,K), MRTS_{L,K}=(δF/δL)/(δF/δK)=w/r, L: labor, K: capital, q: quantity, w: wage, r: investment
+Total cost formula in production	C(q)=c_f+c(q), q: quantity, c_f: fixed costs, c(q): variable costs
+Difference Short-Run/Long-Run in Production	In the short run, fixed costs are sunk costs. / In the long run, non-variable costs can be seen as quasi-fixed costs (arise if the firm starts production but don't vary with output increases)
+Marginal Costs in production	Change in total costs resulting from a marginal change in output
+Marginal Revenue in production	Change in revenue resulting from a marginal change in output
+Marginal Costs formula	MC(q)=dC(q)/dq, C: cost, q: quantity
+Marginal Revenue formula	MR(q)=dR(q)/dq, R: revenue, q: quantity
+Optimization for profit in production	The firm maximizes its profit π(q) with respect to q.
+Optimization for profit in production formula	max_q π(q)=R(q)-C(q), π: profit, R: revenue, C: cost
+Conditions for an interior solution of the maximization problem	MR(q)=MC(q), p=MC(q), MR: marginal revenue, MC: marginal cost, q: quantity, p: price
+Optimal production conditions	p=MC(q) or q=0, p: price, q: quantity
+Condition for supply in the short run	R(q)≥c(q) ⇔ p≥ac(q), R: revenue, q: quantity, c: variable cost, p: price, ac: average variable costs / if one can produce under average variable cost
+Conditions for supply in the long run	R(q)≥C(q) ⇔ p≥AC(q), R: revenue, q: quantity, C: total cost, p: price, AC: average costs / if one can produce under average cost
+Market Supply formula	Q=∑q, q: single firm supply
+Law of Supply	The market supply of a good increases when its price increases; dQ/dp>0
+Maximization under a monopoly formula	max π(Q)=R(Q)-C(Q) with R(Q)=p(Q)⋅Q, π: profit, R: revenuen, C: cost, Q: quantity, p: price
+Condition of any interior solution of the maximization problem under a monopoly	p(Q)+(dq(Q)/dQ)⋅Q=dC(Q)/dQ ⇔ MR(Q)=MC(Q), p: price, Q: quantity, C: cost
+Market Equilibrium under a monopoly is given if _	Q^M=Q^D(p^M) ⇔ p^M=p(Q^M), Q^M: profit-maximizing quantity, p^M: profit-maximizing price under equilibrium
+Preconditions for a Natural Monopoly	Any desired output can be produced less costly by a single firm than by more firms: / C(Q)<∑_{i=1}ⁿC(q_i), Q=∑_{i=1}ⁿq_i, C: cost, q: quantity / This is when average total costs of the monopolist are monotonously decreasing: / dAC(Q)/dQ<0 ∀ Q, Q: quantity, AC: average cost
+Tradeoff with patent monopolies	Between prospective welfare (resulting from future inventions) and / present welfare (resulting from existing inventions)
+Forms of price regulation	Price floor/ceiling
+Usage of a price ceiling	To induce a monopolist to produce the output for which inverse market demand equals marginal costs; p(Q)=MC(Q)
+Definition Externality	Uncompensated effect of production or consumption choices on others' profit or utility
+Marginal Costs formula	MC(Q)=MC_{Pr}(Q)+MC_{Ex}(Q), Q: quantity, Pr: private, Ex: external
+Marginal Benefits formula	MB(Q)=MB_{Pr}(Q)+MB_{Ex}(Q), Q: quantity, Pr: private, Ex: external
+Remedies to External Effects	• Quantity Regulation: Decision makers are forced to choose the efficient quantity / • Corrective Taxation: Induce individuals to choose the efficient quantity / • Bargaining: Coase Theorem: If property rights are well defined, / the efficient quantity will be found by bargaining, no matter the / distribution of property-rights.
+Definition Public Good	A good that is non-rival and non-excludable with respect to consumption / • Non-rivalry: Consumption by one agent does not other consumption / • Non-Excludability: It is impossible to prevent anyone from consumption
+Free-Rider Problem	Incentive of individuals to rely on others to provide a public good
+Samuelson Condition	At the efficient quantity of a public good, the sum of consumers' marginal benefits equals marginal costs
+Samuelson Condition formula	∑_i MB_i(Q_E)=MC(Q_E), MB: marginal benefit, MC: marginal cost, Q_E: quantity
+Definition Perfect Competition	All producers and all consumers are price takers
+Conditions for Perfect Competition	• Open Market: Producers and consumers are free to enter or exit the market / • Homogenous good: Every unit of the good is identical, as perfect substitutes / • Market Transparency: Producers and consumers are informed about prices in the market / • No Externalities
+Change in Market Demand Result	Increase results in price/quantity increase (decrease on decrease)
+CHange in Market Supply Result	Increase results in price/quantity decrease (increase on decrease)
+Conditions for the change of the number of firms	• Non-negative profits available on market → Companies enter / • Companies make losses → they exit
+Competitive Equilibrium formula	p(Q*)=p*=MC(Q*), p: price, Q*: equilibrium quantity, MC: marginal cost, p*: equilibrium price
+Formula Total Surplus	TS=CS+PS, TS: total surplus, CS: consumer surplus, PS: producer surplus
+Formula Consumer Surplus	CS=∫_{0}^{Q(ṗ)}(p(Q)-ṗ)dQ, ṗ: reservation price, p: price, Q: quantity
+Formula Producer Surplus	PS=∫_{0}^{Q(ṗ)}(ṗ-MC(Q))dQ, ṗ: reservation price, MC: marginal cost, Q: quantity
+Definition Consumer Surplus	Aggregated differences between consumers' reservation price and market price
+Definition Welfare Loss	The loss in total surplus compared to the competitive equilibrium if the reservation prices of consumers/producers differ
+Definition Producer Surplus	Aggregated differences between market price and producers' reservation price
+Consequence of a price ceiling	Consumer surplus is higher than producer surplus, welfare loss for producers
+Consequence of price floor	Producer surplus is higher than consumer surplus, welfare loss for consumers
+Distribution of effects of tax on consumers/producers	Changes in taxes have the same effects on both producers and consumers.

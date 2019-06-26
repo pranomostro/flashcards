@@ -1,0 +1,70 @@
+2019-04-01	5	100.509696	2.66	Bedingungen für Körperoperationen	(1) ∀ x,y,z∈F: (x+y)+z=x+(y+z), / (2) ∀ x,y∈F: x+y=y+x, / (3) ∃ 0∈F: x+0=x, / (4) ∀ x∈F ∃ y∈F: x+y=0, / (5) ∀ x,y,z∈F: (x⋅y)⋅z=x⋅(y⋅z), / (6) ∀ x,y∈F:x⋅y=y⋅x, / (7) ∃ 1∈F ∀ x∈F: x⋅1=x, / (8) ∀ 0≠x∈F ∃ y∈F: x⋅y=1, / (9) ∀ x,y,z∈F: x⋅(y+z)=x⋅y+x⋅z
+2019-04-01	5	117.936	2.8	Definition Maximum	x∈ℝ heißt Maximum von M⊆ℝ, falls x∈M und y≤x ∀ y∈M
+2019-04-01	5	146.16	3.0	Definition Obere Schranke	x heißt obere Schranke von M⊆ℝ, falls y≤x ∀ y∈M
+2019-04-01	5	110.31552	2.66	Definition Supremum	s∈M⊆ℝ heißt Supremum von M, falls s obere Schranke von M und s≤x für jede obere Schranke x von M (sup(M)=s) (Supremum ist die kleinste obere Schranke)
+2019-04-10	1	1.0	1.3	Definition Umgebung	x∈ℝ, (a,b) heißt Umgebung von x falls x∈(a,b)
+2019-04-01	4	19.44	1.8	Definition abgeschlossen	A⊆ℝ heißt abgeschlossen, falls ℝ\A offen
+2019-04-10	2	6.0	2.48	Definition euclidische Norm ||(x₁, …, xn)||	sqrt(sum(k=1, n, xk^2))
+2019-04-01	5	54.472128	2.12	Definition offen	A⊆ℝ heißt offen, falls ∀ x∈A ∃ Umgebung Ix von x: Ix⊆A
+2019-04-10	0	1.3	1.3	Definition vollständig	Ein angeordneter Körper heißt vollständig, falls jede nicht leere, nach oben beschränkte Teilmenge ein Supremum besitzt
+2019-04-01	5	146.16	3.0	Falls A gleichzeitig offen und abgeschlossen, ist A=_ oder A=_	∅, ℝ
+2019-04-01	5	111.9744	2.56	Struktur Körper	Tupel (F,+,⋅), F Menge, + und ⋅ Operationen
+2019-04-01	5	146.16	3.0	Vollständigkeitsaxiom	ℝ ist vollständig.
+2019-04-10	2	6.0	2.36	sup(∅)	-∞
+2019-04-01	4	45.36	2.8	1/positive Zahl = _	positive Zahl
+2019-04-10	0	34.15776	1.3	Jensen's Ungleichung	f : (a,b) → ℝ konvex, n≥2, x₁,…,xn ∈ (a,b) und p₁,…,pn>0 und sum(i=1,n,pi)=1, dann / f(sum(k=1,n,pk⋅xk))≤sum(k=1,n,pk⋅f(xk))
+2019-04-10	0	64.38528	1.84	(xn) konvergiert gegen ∞, falls _	∀ c>0 ∃ N∈ℕ: xn≥C ∀n≥N
+2019-04-01	4	45.36	2.8	Definition Folge mit Werten in M	Abbildung von ℕ → M
+2019-04-10	1	1.0	2.26	Eine Folge (xn) heißt beschränkt falls _	∃ K>0:|xn|≤K ∀ n
+2019-04-01	4	48.72	2.9	Rechenregeln für Grenzwerte	(xn), (yn) sind Folgen mit xn→a, yn→bz / xn+yn→a+b / xn-yn→a-b / xn⋅yn→a⋅b / xn÷yn→a÷b (falls b≠0)
+2019-04-01	4	23.256	1.9	x ist genau dann ein Grenzwert von (xn)n (x=lim_{n → ∞}x), falls _	∀ ε>0 ∃ n∈ℕ: |xn-x|<ε
+2019-04-10	1	1.0	1.38	Definition stetige Funktion	f: D → ℝ heißt stetig in x∈D, falls ∀ (xn)⊆D mit xn→x : f(xn)→(n→∞)f(x)
+2019-04-01	4	12.5856	1.38	Methode Fixpunktiteration	Man will x=f(x) lösen (die Lösung heißt Fixpunkt). / Man muss eine Folge (xn) finden, sodass x₀ gegeben ist, x_{n+1}=f(xn) und (xn) konvergiert gegen den Fixpunkt.
+2019-04-01	4	42.12	2.7	Definition Häufungspunkt	x heißt Häufungspunkt von (xn) falls es eine Teilfolge (xnk) gibt mit lim (k→∞) xnk=x
+2019-04-01	4	43.74	2.7	Definition Limes superior	(xn) beschränkte Folge in ℝ, lim sup xn (n→∞)=lim(n→∞) sup xk (k≥n) (isomorph für Limes inferior)
+2019-04-10	1	1.0	1.4	Satz von Bolzano-Weierstrass	(xn) Folge in ℝ, dann sind Limes Superior und Limes inferior maximale/minimale Häufungspunkte / Zudem: xn (n→∞) → x ⇔ lim (n→∞) inf xn=lim (n→∞) sup xn=x
+2019-04-01	4	33.4176	2.36	Definition Cauchy-Kriterium	(xn)n konvergiert genau dann, wenn ∀ ε>0 ∃ N: ∀ n,m>N |xn-xm|<ε
+2019-04-01	4	42.12	2.7	Definition Reihe	sn ist eine Reihe von (an), falls sn=sum(k=0,n,ak). / Diese Reihe hat die Glieder an und die Partialsummen sn.
+2019-04-01	4	48.72	2.9	Konvergenzkriterien	Cauchy-Kriterium, Majorantenkriterium, Quotientenkriterium, Leibnitzkriterium
+2019-04-01	0	34.992	2.16	Falls eine Reihe sn konvergiert, dann _	konvergieren ihre Glieder gegen 0.
+2019-04-01	4	47.04	2.8	Majorantenkriterium	Falls sn=sum(k=0,n,ak) eine konvergente Majorante sum(k=0,n,bk) besitzt, dann ist sn konvergent.
+2019-04-01	4	47.04	2.8	Definition Exponentialfunktion	exp(z)=sum(k=0,∞,(z^k)/k!)
+2019-04-01	4	48.72	2.9	Minorantenkriterium	Falls sn=sum(k=0,n,ak) eine divergente Minorante sum(k=0,n,bk) besitzt, dann ist sn divergent.
+2019-04-10	3	7.8	1.3	Quotientenkriterium	sum(k=0,∞,ak) konvergiert, falls ∃ q∈ℝ: q<1 ∧ n0≥0: ∀ k≥n0: |a_{n+1}|/|a_k|≤q
+2019-04-01	3	14.88	2.48	Definition absolute Konvergenz	Eine Reihe sum(k=0,n,ak) ist absolut konvergent, falls sum(k=0,n,|ak|) konvergent ist.
+2019-04-01	0	7.8	1.3	Doppelreihensatz	Falls sum(k=1,∞,sum(j=1,∞,|a_{k,j}|))<∞, so gilt: / sum(k=1,∞,sum(j=1,∞,a_{k,j}))=sum(j=1,∞,sum(k=1,∞,a_{k,j}))
+2019-04-10	4	10.14	1.3	Leibnitzkriterium	Sein (an)n≥0 eine monoton fallende Folge in ℝ mit an (n→∞) → 0. / Dann konvergiert die Reihe sum(k=0,n,(-1)^k⋅ak).
+2019-04-10	3	7.8	1.3	Umordnungssatz	Eine Reihe sum(k=1,n,ak) konvergiert genau dann absolut, wenn für / jede Permutation σ von ℕ die umgeordnete Reihe gegen denselben Wert / konvergiert.
+2019-04-01	0	1.96	1.96	Algebraische Definition cos x	cos x:=(exp(ix)+exp(-ix))/2=sum(n=0,∞,((-1)^n⋅x^(2n))/(2n)!
+2019-04-01	0	2.18	2.18	Algebraische Definition sin x	sin x:=(exp(ix)-exp(-ix))/2i=sum(n=0,∞,((-1)^n⋅x^(2n+1))/(2n+1)!
+2019-04-10	3	15.36	2.56	Definition cot x	cot x:=cos x/sin x
+2019-04-10	3	16.8	2.8	Definition tan x	tan x:=sin x/cos x
+2019-04-01	0	1.96	1.96	Definition kompakt	Eine Menge A in ℝ, ℝ^n, ℂ oder ℂ^n heißt kompakt, falls jede Folge I=[a,b] / eine konvergente Teilfolge mit Grenzwert in A hat.
+2019-04-10	3	13.32	2.22	f(x)=O(g(x)) für x→a∈ℝ∪{∞,-∞}, falls _	∃c>0:∀(x_n) mit x_n→a: |f(x_n)|≤c⋅|g(x_n)| (f wächst langsamer als g)
+2019-04-10	0	11.4	1.9	f(x)=o(g(x)) für x→a∈ℝ∪{∞,-∞}, falls _	lim_{x→a} f(x)/g(x)=0 (f ist gegenüber g asymptotisch vernachlässigbar)
+2019-04-01	0	1.96	1.96	Definition innerer Punkt	x₀∈D⊆ℝ heißt innerer Punkt von D, falls ∃ε>0: (x₀-ε,x₀+ε)⊆D
+2019-04-01	0	1.96	1.96	Definition Ableitung f'(x₀)	f'(x₀)=lim_{x→x₀} (f(x)-f(x₀))/(x-x₀)
+2019-04-01	0	2.18	2.18	f: D → ℝ auf einem Definitionsbereich D ⊆ ℝ heißt differenzierbar in x₀ (innerer Punkt von D), falls _	∃ f'(x₀): f(x)=f(x₀)+f(x₀)(x-x₀)+o(x-x₀) für x → x₀
+2019-04-01	0	1.0	2.5	Ableitung Exponentialfunktion (a^x)'=_	(a^x)⋅ln(a)
+2019-04-01	0	1.0	2.5	Ableitung Umkehrfunktion (f⁻¹)'=_	1/(f'(f⁻¹y))
+2019-04-01	0	1.0	2.5	Ableitung Verkettung (g∘f)'(x)=_	g'(f(x))⋅f'(x)
+2019-04-01	0	1.0	2.5	Ableitung cos(x)	-sin(x)
+2019-04-01	0	1.0	2.5	Ableitung sin(x)	cos(x)
+2019-04-01	0	1.0	2.5	Produktregel (f⋅g)'(x)=_	f'(x)⋅g(x)+f(x)⋅g'(x)
+2019-04-01	0	1.0	2.5	Quotientenregel (f÷g)'(x)=_	(f'(x)⋅g(x)-f(x)⋅g'(x))/(g(x)²)
+2019-04-01	0	1.0	2.5	Definition gleichmäßige Konvergenz der Reihe sum(k==0,∞,f_k(x))	|f_k(x)|≤a_k ∀ x∈I und k∈ℕ₀ und sum(k=0,∞,a_k)<∞
+2019-04-01	0	1.0	2.5	Definition punktweise Konvergenz der Funktionenfolge f_k: I → ℝ	sum(k=0,∞,f_k(x)) konvergiert für alle x∈I
+2019-04-02	0	1.0	2.5	Mittelwertsatz	f,g:[a,b] → ℝ stetig auf [a,b] und differenzierbar in (a,b), und g'(x)≠0 ∀ x∈(a,b) / Dann: g(a)≠g(b) und ∃ z∈(a,b): (f(b)-f(a))÷(g(b)-g(a))=f'(z)÷g'(z)
+2019-04-02	0	1.0	2.5	Satz von Rolle	Sei f:[a,b] → ℝ stetig auf [a,b] und differenzierbar in (a,b). / Falls f(a)=f(b), ∃ z∈(a,b): f'(z)=0
+2019-04-03	0	1.0	2.5	Regel von l'Hôpital	f,g differenzierbar, g'(x)≠0, f(x)→0, g(x)→0 ∨ f(x)→∞, g(x)→∞ ⇒ lim_{x→x₀} f(x)÷g(x)=lim_{x→x₀} f'(x)÷g'(x)
+2019-04-03	0	1.0	2.5	Definition konkav	f: (a,b) → ℝ ist konkav gdw. f zweimal differenzierbar u. f''≤0
+2019-04-03	0	1.0	2.5	Definition konvex	f: (a,b) → ℝ ist konvex gdw. f zweimal differenzierbar u. f''≥0
+2019-04-01	4	39.3216	2.56	Definition Majorante	Eine Reihe sum(k=0,n,bk) mit |ak|≤bk heißt Majorante von sum(k=0,n,ak) (Minorante isomorph)
+2019-04-09	0	1.0	2.5	Definition Darboux-Integral	Zⁿ ist eine Folge von immer feineren Zerlegungen, f integrierbar: / ∫^{b}_{a}f(x)dx=lim_{n→∞}U_{Zₙ}(f)=lim_{n→∞}O_{Zₙ}(f)
+2019-04-09	0	1.0	2.5	Definition Integral	f:[a,b] → ℝ beschränkt. Falls U(f)=O(f), so heißt f integrierbar, Integral von f ist ∫^{b]_{a}f(x)dx=U(f)=O(f)
+2019-04-09	0	1.0	2.5	Definition Ober-/Unterintegral von f	U(f)=sup{U_z(f): Z ist Zerlegung von [a,b]}, O(f)=inf{O_z(f): Z ist Zerlegung von [a,b]}
+2019-04-09	0	1.0	2.5	Partielle Integration Formel	∫^{b}_{a}f(x)g'(x)dx=f(x)g(x)|^{a}_{b}-∫^{b}_{a}f'(x)g(x)dx
+2019-04-09	0	1.0	2.5	Substitutionsregel Integration	∫^{b}_{a} f(g(t))g'(t)dt=∫^{g(b)}_{g(a)} f(t)dt, g stetig u. differenzierbar
+2019-04-13	0	1.0	2.5	Bedingung für die Validität der Taylorreihe	lim_{n→∞} R_{n+1) → 0, R_{n+1}(a,x)=\frac{f^{(n+1)}(z)}{(n+1)!}*(x-a)^{n+1}
+2019-04-13	0	1.0	2.5	Definition Darboux-Integral	Zⁿ ist eine Folge von immer feineren Zerlegungen, f integrierbar: / ∫^{b}_{a}f(x)dx=lim_{n→∞}U_{Zⁿ}(f)=lim_{n→∞}O_{Zⁿ}(f)
+2019-04-13	0	1.0	2.5	Definition Taylorreihe	f(x)=sum(k=0;∞;f^{(k)}(a)/k!*(x-a)^k)

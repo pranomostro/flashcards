@@ -1,0 +1,6 @@
+#!/usr/bin/env rc
+
+for(i in `{ls *.tsv}) {
+	j=`{echo $i | sed 's/\.tsv$/.crd/'}
+	fulg add $i $j
+}

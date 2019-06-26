@@ -1,0 +1,24 @@
+The _ statement implies the _ statement.	The stronger statement implies the weaker statement.
+An arbitrary pre-condition A for a statement s is valid, whenever _.	A ⇒ WP[s](B) (A implies the weakest pre-condition for B)
+Weakest pre-condition for assignment	WP[x=e;](B)≡B[e/x] (substitute x by e everywhere in B)
+Weakest pre-condition for reading	WP[x=read();](B)≡∀x.B
+Weakest pre-condition for writing	WP[write(x);](B)≡B
+Weakest pre-condition for conditional branching	WP[b](B0, B1)≡((¬b)⇒B0)∧(b⇒B1) (or, simpler: (¬b∧B0)∨(b∧B1))
+Big-step operational semantics for tuples	e₁ ⇒ v₁ … ek ⇒ vk | (e₁,…,ek) ⇒ (v₁,…,vk)
+Big-step operational semantics for lists	e₁ ⇒ v₁, e₂ ⇒ v₂ | e₁::e₂ ⇒ v₁::v₂
+Big-step operational semantics for global definitions	f=e, e ⇒ v | f ⇒ v
+Big-step operational semantics for local definitions	e₁ ⇒ v₁, e₀[v₁/x] ⇒ v₀ | let x=e₁ in e₀ ⇒ v₀
+Big-step operational semantics for function calls with multiple arguments	e₀ ⇒ fun x₁…xk->e, e₁ ⇒ v₁…ek ⇒ vk, e[v₁/x₁,…,vk/xk] ⇒ v | e₀ e₁ … ek ⇒ v
+Big-step operational semantics for pattern matching	e₀ ⇒ v'≡pi[v₁/x₁,…,vk/xk], ei[v₁/x₁,…,vk/xk] ⇒ v | match e₀ with p₁->e₁ | … | pm->em ⇒ v
+Big-step operational semantics for built-in operators	e₁ ⇒ v₁, e₂ ⇒ v₂, v₁ op v₂ ⇒ v | e₁ op e₂ ⇒ v
+Big-step operational semantics for equality	v=v ⇒ true, v₁=v₂ ⇒ false (v₁, v₂ are not functions and syntactically different)
+Big-step operational semantics extension of equality	Non-termination: | e₁, e₂ both not terminating | e₁=e₂ / Termination | e₁ ⇒ v₁, e₂ ⇒ v₂, v₁=v₂ | e₁=e₂
+Big-step operational semantics for structured values	Tuples: v₁=v'₁ … vk=v'k | (v₁,…,vk)=(v'₁,…,v'k) / Lists: v₁=v₁', v₂=v₂' | v₁::v₂=v₁'::v₂'
+Big-step operational semantics for equality of functions (with extensional equality)	e₁[v/x₁]=e₂[v/x₂] für alle v | fun x₁ -> e₁ = fun x₂ -> e₂
+Substitution Lemma	e₁=e₂ | e[e₁/x]=e[e₂/x]
+Big-step operational semantics definition	A relation e ⇒ v between expressions and their values
+Simplification of local definitions in big-step operational semantics	e₁ terminates | let x=e₁ in e=e[e₁/x]
+Simplification of function calls in big-step operational semantics	e₀=fun x₁…xk->e, e₁,…,ek terminate | e₀ e₁ … ek=e[e₁/x₁,…,ek/xk]
+Simplification of pattern matching in big-step operational semantics	e₀=[] | match e₀ with [] -> e₁ | … | pm->em = e₁ / e₀ terminates, e₀=e'₁::e'₂ | match e₀ with [] -> e₁ | x::xs -> e₂ = e₂[e'₁/x,e'₂/xs]
+Method for verifying loops	Choose loop invariant that holds at every {entry, exit} of the loop body, prove the loop invariant locally consistent for one iteration
+Method for proving program termination	For each loop, identify an indicator value r so that / • r>0 when entering the loop / • r is decreased during every iteration of the loop /  / add the computation of r to the program, verify that the properties hold

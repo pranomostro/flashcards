@@ -1,0 +1,204 @@
+Arthr/o-	Gelenk
+Enter/o-	Darm, Dünndarm
+Gastr/o-	Magen
+Hepat/o-	Leber
+Kardio/o-	Herz
+Nephr/o-	Niere
+Neur/o-	Nerv
+Oste/o	Knochen
+Dys-	von der Norm abweichend, fehl-
+Poly-	viele
+Hyper	zu viel, oberhalb
+Hypo-	zu wenig, unterhalb
+Tachy-	schnell
+Brady-	langsam
+-itis	Entzündung
+-pathie	Leiden, Krankheit
+-iasis	krankhafter Zustand
+-om	Geschwulst, Tumor
+-ose	chronisch krankhafter/degenerativer Zustand
+-algie	Schmerz
+-ektomie	Herausschneiden, vollständige operative Entfernung
+-tomie	Schnitt, Schneiden
+-resektion	Zurückschneiden (Verkleinern)
+-excision	Ausschneiden
+-plastik	Wiederherstellen
+Amputation	Absetzen
+Biopsie	Gewebeprobe
+Exstirpation	Entfernung
+Extraktion	Herausziehen
+Rekonstruktion	Wiederherstellung
+Punktion	Hohlnadeleinstich
+Analgetika	schmerzhemmende Mittel
+Antibiotika	bakterienhemmende Mittel
+Antmykotika	pilztötende Mittel
+Antiphlogistika	entzündungshemmende Mittel
+Antipyretika	fiebersenkende Mittel
+Virostatika	virushemmende Mittel
+Zytostatika	tumorzellenschädigende Mittel
+Tabletten	oral gegebene Mittel
+Suppositorien	rektal gegebene Mittel, Zäpfchen
+Infusion	einfließende Mittel, hineingegossene Mittel
+Transfusion	hinübergegossene Mittel, übertragene Mittel
+Injektion	eingespritzte Mittel
+intravenös	in die Vene
+intraarteriell	in die Arterie
+intrakutan	in die Haut
+subkutan	unter die Haut
+intramuskulär	in den Muskel
+Zervikaler Abschnitt	Halswirbelsäule
+Thorakaler Abschnitt	Brustwirbelsäule
+Lumbaler Abschnitt	Lendenwirbelsäule
+Scapula	Schulterblatt
+Clavicula	Schlüsselbein
+Humerus	Oberarmknochen
+Abdomen	Bauch (lat)
+laparo	Bauch (gr)
+Anus	After, Mastdarm (lat)
+procto	After, Mastdarm (gr)
+Articulation	Gelenk (lat)
+Cerebrum	Gehirn (lat)
+enzephalo	Gehirn (gr)
+Cor	Herz (lat)
+Glandola	Drüse (lat)
+adeno	Drüse (gr)
+Intestinum	Darm, Verdauungstrakt (lat)
+Lien	Milz (lat)
+splen	Milz (gr)
+Musculus	Muskel (lat)
+myo	Muskel (gr)
+Nervus	Nerv (lat)
+Oculus	Auge (lat)
+ophthalmo	Auge (gr)
+Pectus	Brustkorb (lat)
+thorax	Brustkorb (gr)
+Pulmo	Lunge (lat)
+pneumo	Lunge (gr)
+Ren	Niere (lat)
+Vas	Gefäß (lat)
+angio	Gefäß (gr)
+Vena	Vene (lat)
+phlebo	Vene (gr)
+Ventriculus	Magen (lat)
+vertebra	Wirbel (lat)
+spondylo	Wirbel (gr)
+Collum	Hals (lat)
+zervix	Hals (gr)
+Medulla	Mark (Knochen-, Rücken-) (lat)
+myelo	Mark (Knochen-, Rücken-) (gr)
+Caput	Kopf (lat)
+zephalo	Kopf (gr)
+Vesica	Blase (lat)
+cysto	Blase (gr)
+dexter	rechts
+sinister	links
+occipital	den Hinterkopf betreffend
+frontal	die Stirn betreffend, stirnwärts
+dorsal	den Rücken betreffend, rückwärts
+ventral	den Bauch betreffend
+kranial	zum Kopf hin gelegen, kopfwärts
+kaudal	zum Steiß hin gelegen, steißwärts
+lateral	zur Seite hin gelegen, seitwärts
+medial	zur Mitte hin gelegen
+anterior	vorne, vorderer
+posterior	hinten, hinterer
+superior	oberer
+inferior	unterer
+proximal	näher zur Körpermitte, körpernah gelegen
+distal	entfernt von der Körpermitte, körperfern gelegen
+Flexion	Beugung
+Extension	Streckung
+Abduktion	Wegführen
+Adduktion	Heranführen
+Epicondylus lateralis	äußerer Gelenkknorren
+Epicondylus medialis	innerer Gelenkknorren (Musikantenknochen)
+Olecranon	Ellenbogenspitze
+Ulna	Elle
+Radius	Speiche
+Musculus trapezius	Kapuzenmuskel
+Musculus deltoideus	Deltamuskel
+Musculus triceps brachii	Trizepsmuskel
+Musculus latissimus dors	breiter Rückenmuskel
+Musculus glutaeus maximus	größter Gesäßmuskel
+Musculus bizeps brachii	Bizepsmuskel
+Musculus trapezius	Trapezmuskel
+Pelvis	Becken
+Os sacrum	Kreuzbein
+Os coxae	Hüftbein
+Os ilium	Darmbein
+Os pubis	Schambein
+Os ischii	Sitzbein
+Femur	Oberschenkelknochen
+Caput femoris	Schenkelkopf
+Collum femoris	Schenkelhals
+Trochanter major	großer Rollhügel
+Tibia	Schienbein
+Fibula	Wadenbein
+Talus	Sprungbein
+Calcaneus	Fersenbein
+Os naviculare	Kahnbein
+Mesencephalon	Mittelhirn
+Pons	Brücke
+Medulla oblangata	verlängertes Mark
+Meningis	Hirnhaut
+Dura mater	Harte Hirnhaut
+Arachnoidea	Spinngewebshaut
+Pia mater	Weiche Hirnhaut
+Kyphose	Wirbelsäulenkrümmung nach hinten (Buckel)
+Lordose	Wirbelsäulenkrümmung nach vorne (Hohlkreuz)
+Skoliose	Wirbelsäulenverkrümmung zur Seite
+Meninginitis	Hirnhautentzündung
+Emesis	Erbrechen
+Macula lutea	Gelber Fleck
+Papille	Sehnerv
+Hyperopie	Weitsichtigkeit
+Myopie	Kurzsichtigkeit
+Presbyopie	Altersweitsichtigkeit
+Hämostase	Blutgerinnung
+Musculus dilatator pupillae	Pupillenerweiterer
+Musculus sphincter pupillae	Pupillenschließmuskel
+Erythrozyten	Rote Blutkörperchen
+Leukozyten	Weiße Blutkörperchen
+Thrombozyten	Blutplättchen
+Embolie	Gefäßverschluss durch einen mit dem Blutstrom verschleppten Blutpfropfen
+Hämatokrit	zellulärer Anteil am Gesamtblutvolumen
+Serum	Plasma ohne Gerinnungsproteine
+Hämostase	Beendigung einer Blutung
+Vasokonstriktion	Zusammenziehen eines Blutgefäßes
+Systole	Kontraktionsphase des Herzens
+Diastole	Erschlaffungsphase des Herzens
+Endokard	Herzinnenhaut
+Myokard	Kerzmuskelschicht
+Epikard	Kerzaußenhaut
+Perikard	Herzbeutel
+Arrhytmie	Unregelmäßiger Herzschlag
+Tachykardie	Beschleunigter Herzschlag
+Bradykardie	Verlangsamung des Herzschlags
+Extrasystolen	Herzschlag außerhalb des regulären Grundrhythmus
+Pharynx	Rachen
+Nasus	Nase
+Sinus paranasales	Nasennebenhöhlen
+Larynx	Kehlkopf
+Epiglottis	Kehldeckel
+Trachea	Luftröhre
+Bronchien	Luftröhrenäste
+Bronchioli	kleine Luftröhrenäste
+Alveoli	Lungenbläschen
+Pleura	Brustfell
+Inspiration	Einatmung
+Exspiration	Ausatmung
+Perfusion	Durchblutung
+Ventilation	Belüftung
+Hyperventilation	gesteigerte Atemtätigkeit
+Hypoventilation	erniedrigte Atemtätigkeit
+Harnleiter	Ureter
+Harnröhre	Urethra
+Urämie	Harnvergiftung
+Oligurie	Verminderte Harnausscheidung (<500 ml)
+Anurie	Fehlende Harnausscheidung (<200ml)
+Nephritis	Nierenentzündung
+Diabetes mellitus	Zuckerkrankheit
+Hypertonie	Bluthochdruck
+Pharynx	Rachen
+Ösophagus	Speiseröhre
+Pankreas	Bauchspeicheldrüse
