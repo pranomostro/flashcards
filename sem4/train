@@ -1,6 +1,6 @@
 #!/usr/bin/env rc
 
-new=10
+new=20
 rev=100
 
 for(i in `{ls gnvs.crd med2*.crd | shuf})

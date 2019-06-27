@@ -1,94 +1,94 @@
-2019-06-27	0	1	2.5	Kategorien von Krankheitsursachen	Endogene Ursachen / Exogene Ursachen
-2019-06-27	0	1	2.5	Endogene Ursachen von Krankheiten	Genetische Defekte / Immunologische Faktoren / Psychische Faktoren
-2019-06-27	0	1	2.5	Exogene Ursachen von Krankheiten	Physikalische Ursachen (Hitze, Kälte, Strahlen) / Chemische Ursachen (Säure, Laugen, Gifte) / Mikroorganismen (Viren, Bakterien, Pilze) / Trauma / Ernährungsstörungen
-2019-06-27	0	1	2.5	Arten von Krankheitsverläufen	Akut / Inapparent / Chronisch / Rezidivierend / Latent / Remission / Exazerbation
-2019-06-27	0	1	2.5	Krankheitsverlauf Eigenschaften: Akut	schnell, heftig, plötzlich
-2019-06-27	0	1	2.5	Krankheitsverlauf Eigenschaften: Inapparent	unbemerkt
-2019-06-27	0	1	2.5	Krankheitsverlauf Eigenschaften: Chronisch	langsam entwickelnd, verlaufend
-2019-06-27	0	1	2.5	Krankheitsverlauf Eigenschaften: Rezidivierend	Rückfall, wiederauftretend
-2019-06-27	0	1	2.5	Krankheitsverlauf Eigenschaften: Latent	schlummernd, verborgene Erkrankung ohne Krankheitserscheinung, die wieder manifest werden kann
-2019-06-27	0	1	2.5	Krankheitsverlauf Eigenschaften: Remission	vorübergehendes Verschwinden od. Rückgang der Krankheitserscheinung
-2019-06-27	0	1	2.5	Krankheitsverlauf Eigenschaften: Exazerbation	Verschlimmerung bestehender Krankheitssymptome
-2019-06-27	0	1	2.5	Arten chronischer Krankheitsverläufe	chronisch progredient / chronisch kontinuierlich / chronisch rezidivierend
-2019-06-27	0	1	2.5	Krankheitsverlauf: Chronisch progredient	fortschreitend bis zum Tod
-2019-06-27	0	1	2.5	Krankheitsverlauf: Chronisch kontinuierlich	gleichmäßig u. langsam fortschreitend
-2019-06-27	0	1	2.5	Krankheitsverlauf: Chronisch rezidivierend	immer wieder auftretend
-2019-06-27	0	1	2.5	Therapietypen bei Krankheiten	Kurative Therapie / Palliative Heilung / Konservative Therapie / Operative Therapie
-2019-06-27	0	1	2.5	Therapietypen: Kurative Therapie	Heilende Behandlung oder Defektheilung
-2019-06-27	0	1	2.5	Therapietypen: Konservative Therapie	Kein Eingriff in das Gewebe
-2019-06-27	0	1	2.5	Therapietypen: Operative Therapie	Chirurgischer Eingriff
-2019-06-27	0	1	2.5	Therapietypen: Palliative Therapie	Lindernde Behandlung ohne Heilung
-2019-06-27	0	1	2.5	Ursachen für Atrophie	Wegfall der funktionellen Belastung / Durchblutungsstörung/Durchblutungsminderung / Druckatrophie / Nervenschädigung / Verminderte Hormonwirkung / Hungeratrophie
-2019-06-27	0	1	2.5	Charakteristika von Gewebe nach Metaplasie	Widerstandsfähiger / Funktionell minderwertiger
-2019-06-27	0	1	2.5	Ursache für Metaplasie	Chronische Irritation / Entzündungen
-2019-06-27	0	1	2.5	Entzündung Definition	Universelle Abwehrreaktion des lebenden Organismus gegen verschiedenartige Schädigungen
-2019-06-27	0	1	2.5	Symptome einer Entzündung	Schwellung (Tumor) / Erwärmung (Calor) / Schmerzen (Dolor) / Rötung (Rubor) / Funktionseinschränkung (Functio laesa)
-2019-06-27	0	1	2.5	Ausbreitungswege einer lokalen Entzündung	direkt übergreifend / kanalikulär (Gangsysteme) / lymphogen (Lymphgefäße) / neurogen (Nerven) / hämatogen (Blutgefäße)
-2019-06-27	0	1	2.5	Fakultative Allgemeinsymptome einer Entzündung	Tachykardie / Leukozytose / Erhöhte Plasmaproteine / Erhöhte Blutkörperchensenkungsgeschwindigkeit
-2019-06-27	0	1	2.5	Exogene Ursachen einer Entzündung	Erreger / Physikalische/Chemische/Mechanische Noxen
-2019-06-27	0	1	2.5	Endogene Ursachen einer Entzündung	Immunreaktion / Ischämie / Nekrose / Stoffwechselprodukte
-2019-06-27	0	1	2.5	Sepsis Definition	Organversagen mit Infektion
-2019-06-27	0	1	2.5	Einflussfaktoren für eine Entzündung	Art der Schädigung / Lokalisation / Dosis / Virulenz / Resistenz
-2019-06-27	0	1	2.5	Folgen einer Entzündung	Regeneration / Defektheilung / Chronischer Verlauf / Zweiterkrankung
-2019-06-27	0	1	2.5	Definition Immunität	Unempfindlichkeit des Organismus gegenüber Pathogenen
-2019-06-27	0	1	2.5	Definition Antigene	Substanzen, die eine immunologische Reaktion auslösen
-2019-06-27	0	1	2.5	Definition Antikörper	Von B-Lymphozyten gebildete Proteine, die speziell passende Antigene binden
-2019-06-27	0	1	2.5	Definition unspezifisches Abwehrsystem	Angeborene natürliche Immunität, antigenunabhängig, standartisierter Ablauf
-2019-06-27	0	1	2.5	Definition spezifisches Abwehrsystem	Erworbene, adaptive Immunität
-2019-06-27	0	1	2.5	Arten von Abwehrsystemen	Unspezifisches Abwehrsystem / Spezifisches Abwehrsystem
-2019-06-27	0	1	2.5	Einteilung des Abwehrsystems anhand der Lokalität	Zellulär / Humoral (nicht zellulär)
-2019-06-27	0	1	2.5	Bestandteile des unspezifischen zellulären Abwehrsystems	Makrophagen / Natürliche Killerzellen / Neutrophile Granulozyten
-2019-06-27	0	1	2.5	Bestandteile des spezifischen zellulären Abwehrsystems	T-Zellen: / • T-Helferzellen / • Zytotoxische Zellen / • T-Zell Gedächtnis
-2019-06-27	0	1	2.5	Bestandteile des unspezifischen humoralen Abwehrsystems	Zytokine / Lysozyme
-2019-06-27	0	1	2.5	Bestandteile des spezifischen humoralen Abwehrsystems	Antikörper (produziert von B-Zellen)
-2019-06-27	0	1	2.5	Äußere Schutzbarrieren des Immunsystems	Säureschutzmantel der Haut / Flimmerepithel der Atemwege / Tränen- und Speichelflüssigkeit / Magensäure / Schleimhaut der Vagina / Schleimhaut in der Harnröhre
-2019-06-27	0	1	2.5	Bildungsort der Abwehrzellen	Knochenmark
-2019-06-27	0	1	2.5	Bildungsort der T-Lymphozyten	Thymus
-2019-06-27	0	1	2.5	Bildungsort der B-Lymphozyten	Knochenmark
-2019-06-27	0	1	2.5	Was ist die Funktion sekundärer lymphatischer Organe?	• Vermehrung der Lymphozyten / • Filtration der Lymphe zur Antigenerkennung / • Bildung von Antikörpern
-2019-06-27	0	1	2.5	Nenne die sekundären lymphatischen Organe.	Milz, Lymphknoten, Tonsillen, lymphatisches Gewebe des Darms
-2019-06-27	0	1	2.5	Welche Funktion erfüllen T-Lymphozyten?	Tragen eine spezifische zelluläre Abwehr, aktivieren B-Zellen
-2019-06-27	0	1	2.5	Welche Funktion erfüllen B-Lymphozyten?	Tragen eine spezifische humorale Abwehr, produzieren Antikörper
-2019-06-27	0	1	2.5	Unterschied B-Zellen und T-Zellen	B-Zellen produzieren Antikörper, T-Zellen nicht
-2019-06-27	0	1	2.5	Phasen eines Infektionsverlaufes	Primäre Immunantwort / Sekundäre Immunantwort
-2019-06-27	0	1	2.5	Primäre Immunantwort Eigenschaften	Immunreaktion auf erstmaligen Kontakt mit Antigen / Bildung von Frühantikörper (IgM)
-2019-06-27	0	1	2.5	Sekundäre Immunantwort Eigenschaften	Immunreaktion bei erneutem Kontakt mit bekanntem Antigen / Bildung von Spät- bzw. Schutzantikörper (IgG)
-2019-06-27	0	1	2.5	Arten von Impfungen	Aktive Immunisierung / Passive Immunisierung
-2019-06-27	0	1	2.5	Nenne Beispiele pathologisch gesteigerter Immunabwehr.	Allergien, Autoimmunerkrankungen
-2019-06-27	0	1	2.5	Nenne Beispiele pathologisch verringerter Immunabwehr.	Angeborene/erworbene Immundefekte
-2019-06-27	0	1	2.5	Aktive Immunisierung Funktionsweise	Antikörperbildung durch Impfung mit abgeschwächten Erregern
-2019-06-27	0	1	2.5	Passive Immunisierung Funktionsweise	Verabreichung spezifischer Antikörper
-2019-06-27	0	1	2.5	Auslöser von Asthma	Verengung der Atemwege durch chronisch entzündliche Erkrankung (Überempfindlichkeit des Bronchialsystems)
-2019-06-27	0	1	2.5	Patophysiologischer Mechanismus von Asthma	Verengung der Atemwege durch / • Schleimhautödem / • vermehrte Schleimbildung / • Kontraktion der Bronchialmuskulatur
-2019-06-27	0	1	2.5	Arten von Asthma	Allergisches Asthma, Nicht-allergisches Asthma
-2019-06-27	0	1	2.5	Ursachen allergischen Asthmas	Genetische Disposition zu allergischer Reaktion (z.B. auf Pollen/Tierhaare)
-2019-06-27	0	1	2.5	Ursachen nicht-allergischen Asthmas	Atemwegsinfektionen, Medikamente, Luftschadstoffe
-2019-06-27	0	1	2.5	Ursachen von Asthma	Körperliche + äußere Faktoren (allergische und nicht-allergische) -> Luftnot & Angst
-2019-06-27	0	1	2.5	Symptome von Asthma	Atemnot, andauernder Husten, pfeifendes Ausatmen
-2019-06-27	0	1	2.5	Definition Infektionskrankheiten	Krankheiten, die durch Eindringen und Vermehrung lebender Mikroorganismen entstehen
-2019-06-27	0	1	2.5	Definition fakultativ pathogener Erreger	Erreger, der nur bei bestehender Disposition Infektionen auslöst
-2019-06-27	0	1	2.5	Direkte Übertragungswege bei Infektionskrankheiten	Tröpfchemierinfektion (oral), Tröfcheninfektion (aerogen), Blutweg (parenteral)
-2019-06-27	0	1	2.5	Indirekte Übertragungswege bei Infektionskrankheiten	Trinkwasser, Lebensmittel, Überträger
-2019-06-27	0	1	2.5	Arten von Übertragungswegen bei Infektionskrankheiten	Direkt / Indirekt
-2019-06-27	0	1	2.5	Definition Bakterium	Einzelliges Lebewesen mit eigenem Stoffwechsel ohne echten Zellkern (mit DNA)
-2019-06-27	0	1	2.5	Therapie gegen Bakterien	Antibiotika
-2019-06-27	0	1	2.5	Definition Virus	Kleiner Infektionsträger ohne eigenen Stoffwechsel
-2019-06-27	0	1	2.5	Wie vermehrt sich ein Virus?	Durch Einschleusen von DNA/RNA in eine Wirtszellen.
-2019-06-27	0	1	2.5	Wie vermehrt sich ein Bakterium?	Durch einfache Zellteilung.
-2019-06-27	0	1	2.5	Inwiefern ist ein Bakterium schadhaft?	Durch direkte Zellschädigung oder Toxinwirkung.
-2019-06-27	0	1	2.5	Definition latente Infektion	Nach Erstinfektion lebenslanges Persistieren von Viren in verschiedenem Gewebe, nach Reaktivierung / erneute Virusproduktion.
-2019-06-27	0	1	2.5	Unterschied gutartiger/bösartiger Tumor (Alter des Patientien)	Jugendliche/Ältere Menschen
-2019-06-27	0	1	2.5	Symptome einer Embolie	• Paleness (Blässe) / Paresthesia (Gefühlstörung) / • Pulslessness (Pulslosigkeit) / • Paralysis (Lähmung) / Pain (Schmerz) / Prostation (Schock)
-2019-06-27	0	1	2.5	Arten von Schlaganfällen (nach Ursache)	• Ischämischer Schlaganfall: Arterielle Durchblutungsstörung / • Hämorrhagischer Infarkt: Intrazerebrale Massenblutung
-2019-06-27	0	1	2.5	Inzidenz der Schlaganfälle	Ischämischer Schlaganfall: 85% / Hämorrhagischer Infarkt: 15%
-2019-06-27	0	1	2.5	Letalität der Schlaganfälle	Ischämischer Infarkt: 20% / Hämorrhagischer Infarkt: 80%
-2019-06-27	0	1	2.5	Symptome eines Schlaganfalls	• Einseitige Lähmung / • Sprachstörung / • Einseitige Störungen (Sprache, Sehen, Gefühl)
-2019-06-27	0	1	2.5	Leitsymptom der Koronaren Herzkrankheit	Angina pectoris (Brustenge)
-2019-06-27	0	1	2.5	Therapien bei einem Herzinfarkt	• Medikamentöse Therapie (Auflösung des Thrombus) / • Perkutane transluminale coronare Angioplastie (PTCA) (Aufdehnung von Stenosen) / • Bypass-Operation (Umgehung der Stenose) / • Thromektomie (Entfernung eines Blutgerinnsels durch Absaugen/Zerkleinern)
-2019-06-27	0	1	2.5	Leitsymptom der Linksherzinsuffizienz	Atemnot durch Lungenödeme
-2019-06-27	0	1	2.5	Leitsymptom der Rechtsherzinsuffizienz	Ödeme (u. a. Beinödeme)
-2019-06-27	0	1	2.5	Kompensierte Herzinsuffizienz	Herzschaden, Pumpleistung des Herzens wird noch aufrechterhalten
-2019-06-27	0	1	2.5	Dekompensierte Herzinsuffizienz	Herzschaden, Pumpleistung des Herzens kann nicht mehr aufrechterhalten werden
-2019-06-27	0	1	2.5	Bildungsort von Insulin	β-Zellen in den Pankreas
-2019-06-27	0	1	2.5	Symptome Diabetes Typ 1	Starker Durst / Erhöhtes Urinvolumen
-2019-06-27	0	1	2.5	Risikofaktoren Diabetes	• Adipositas / • Bewegungsmangel / • Fettstoffwechselstörungen / • Genetische Prädisposition
+2019-06-27	1	1	2.6	Kategorien von Krankheitsursachen	Endogene Ursachen / Exogene Ursachen
+2019-06-27	1	1	2.28	Endogene Ursachen von Krankheiten	Genetische Defekte / Immunologische Faktoren / Psychische Faktoren
+2019-06-27	1	1	2.04	Exogene Ursachen von Krankheiten	Physikalische Ursachen (Hitze, Kälte, Strahlen) / Chemische Ursachen (Säure, Laugen, Gifte) / Mikroorganismen (Viren, Bakterien, Pilze) / Trauma / Ernährungsstörungen
+2019-06-27	1	1	1.96	Arten von Krankheitsverläufen	Akut / Inapparent / Chronisch / Rezidivierend / Latent / Remission / Exazerbation
+2019-06-27	1	1	2.5	Krankheitsverlauf Eigenschaften: Akut	schnell, heftig, plötzlich
+2019-06-27	1	1	2.5	Krankheitsverlauf Eigenschaften: Inapparent	unbemerkt
+2019-06-27	1	1	2.5	Krankheitsverlauf Eigenschaften: Chronisch	langsam entwickelnd, verlaufend
+2019-06-27	1	1	1.52	Krankheitsverlauf Eigenschaften: Rezidivierend	Rückfall, wiederauftretend
+2019-06-27	1	1	2.36	Krankheitsverlauf Eigenschaften: Latent	schlummernd, verborgene Erkrankung ohne Krankheitserscheinung, die wieder manifest werden kann
+2019-06-27	1	1	1.96	Krankheitsverlauf Eigenschaften: Remission	vorübergehendes Verschwinden od. Rückgang der Krankheitserscheinung
+2019-06-27	0	1.0	2.5	Krankheitsverlauf Eigenschaften: Exazerbation	Verschlimmerung bestehender Krankheitssymptome
+2019-06-27	0	1.0	2.5	Arten chronischer Krankheitsverläufe	chronisch progredient / chronisch kontinuierlich / chronisch rezidivierend
+2019-06-27	0	1.0	2.5	Krankheitsverlauf: Chronisch progredient	fortschreitend bis zum Tod
+2019-06-27	0	1.0	2.5	Krankheitsverlauf: Chronisch kontinuierlich	gleichmäßig u. langsam fortschreitend
+2019-06-27	0	1.0	2.5	Krankheitsverlauf: Chronisch rezidivierend	immer wieder auftretend
+2019-06-27	0	1.0	2.5	Therapietypen bei Krankheiten	Kurative Therapie / Palliative Heilung / Konservative Therapie / Operative Therapie
+2019-06-27	0	1.0	2.5	Therapietypen: Kurative Therapie	Heilende Behandlung oder Defektheilung
+2019-06-27	0	1.0	2.5	Therapietypen: Konservative Therapie	Kein Eingriff in das Gewebe
+2019-06-27	0	1.0	2.5	Therapietypen: Operative Therapie	Chirurgischer Eingriff
+2019-06-27	0	1.0	2.5	Therapietypen: Palliative Therapie	Lindernde Behandlung ohne Heilung
+2019-06-27	0	1.0	2.5	Ursachen für Atrophie	Wegfall der funktionellen Belastung / Durchblutungsstörung/Durchblutungsminderung / Druckatrophie / Nervenschädigung / Verminderte Hormonwirkung / Hungeratrophie
+2019-06-27	0	1.0	2.5	Charakteristika von Gewebe nach Metaplasie	Widerstandsfähiger / Funktionell minderwertiger
+2019-06-27	0	1.0	2.5	Ursache für Metaplasie	Chronische Irritation / Entzündungen
+2019-06-27	0	1.0	2.5	Entzündung Definition	Universelle Abwehrreaktion des lebenden Organismus gegen verschiedenartige Schädigungen
+2019-06-27	0	1.0	2.5	Symptome einer Entzündung	Schwellung (Tumor) / Erwärmung (Calor) / Schmerzen (Dolor) / Rötung (Rubor) / Funktionseinschränkung (Functio laesa)
+2019-06-27	0	1.0	2.5	Ausbreitungswege einer lokalen Entzündung	direkt übergreifend / kanalikulär (Gangsysteme) / lymphogen (Lymphgefäße) / neurogen (Nerven) / hämatogen (Blutgefäße)
+2019-06-27	0	1.0	2.5	Fakultative Allgemeinsymptome einer Entzündung	Tachykardie / Leukozytose / Erhöhte Plasmaproteine / Erhöhte Blutkörperchensenkungsgeschwindigkeit
+2019-06-27	0	1.0	2.5	Exogene Ursachen einer Entzündung	Erreger / Physikalische/Chemische/Mechanische Noxen
+2019-06-27	0	1.0	2.5	Endogene Ursachen einer Entzündung	Immunreaktion / Ischämie / Nekrose / Stoffwechselprodukte
+2019-06-27	0	1.0	2.5	Sepsis Definition	Organversagen mit Infektion
+2019-06-27	0	1.0	2.5	Einflussfaktoren für eine Entzündung	Art der Schädigung / Lokalisation / Dosis / Virulenz / Resistenz
+2019-06-27	0	1.0	2.5	Folgen einer Entzündung	Regeneration / Defektheilung / Chronischer Verlauf / Zweiterkrankung
+2019-06-27	0	1.0	2.5	Definition Immunität	Unempfindlichkeit des Organismus gegenüber Pathogenen
+2019-06-27	0	1.0	2.5	Definition Antigene	Substanzen, die eine immunologische Reaktion auslösen
+2019-06-27	0	1.0	2.5	Definition Antikörper	Von B-Lymphozyten gebildete Proteine, die speziell passende Antigene binden
+2019-06-27	0	1.0	2.5	Definition unspezifisches Abwehrsystem	Angeborene natürliche Immunität, antigenunabhängig, standartisierter Ablauf
+2019-06-27	0	1.0	2.5	Definition spezifisches Abwehrsystem	Erworbene, adaptive Immunität
+2019-06-27	0	1.0	2.5	Arten von Abwehrsystemen	Unspezifisches Abwehrsystem / Spezifisches Abwehrsystem
+2019-06-27	0	1.0	2.5	Einteilung des Abwehrsystems anhand der Lokalität	Zellulär / Humoral (nicht zellulär)
+2019-06-27	0	1.0	2.5	Bestandteile des unspezifischen zellulären Abwehrsystems	Makrophagen / Natürliche Killerzellen / Neutrophile Granulozyten
+2019-06-27	0	1.0	2.5	Bestandteile des spezifischen zellulären Abwehrsystems	T-Zellen: / • T-Helferzellen / • Zytotoxische Zellen / • T-Zell Gedächtnis
+2019-06-27	0	1.0	2.5	Bestandteile des unspezifischen humoralen Abwehrsystems	Zytokine / Lysozyme
+2019-06-27	0	1.0	2.5	Bestandteile des spezifischen humoralen Abwehrsystems	Antikörper (produziert von B-Zellen)
+2019-06-27	0	1.0	2.5	Äußere Schutzbarrieren des Immunsystems	Säureschutzmantel der Haut / Flimmerepithel der Atemwege / Tränen- und Speichelflüssigkeit / Magensäure / Schleimhaut der Vagina / Schleimhaut in der Harnröhre
+2019-06-27	0	1.0	2.5	Bildungsort der Abwehrzellen	Knochenmark
+2019-06-27	0	1.0	2.5	Bildungsort der T-Lymphozyten	Thymus
+2019-06-27	0	1.0	2.5	Bildungsort der B-Lymphozyten	Knochenmark
+2019-06-27	0	1.0	2.5	Was ist die Funktion sekundärer lymphatischer Organe?	• Vermehrung der Lymphozyten / • Filtration der Lymphe zur Antigenerkennung / • Bildung von Antikörpern
+2019-06-27	0	1.0	2.5	Nenne die sekundären lymphatischen Organe.	Milz, Lymphknoten, Tonsillen, lymphatisches Gewebe des Darms
+2019-06-27	0	1.0	2.5	Welche Funktion erfüllen T-Lymphozyten?	Tragen eine spezifische zelluläre Abwehr, aktivieren B-Zellen
+2019-06-27	0	1.0	2.5	Welche Funktion erfüllen B-Lymphozyten?	Tragen eine spezifische humorale Abwehr, produzieren Antikörper
+2019-06-27	0	1.0	2.5	Unterschied B-Zellen und T-Zellen	B-Zellen produzieren Antikörper, T-Zellen nicht
+2019-06-27	0	1.0	2.5	Phasen eines Infektionsverlaufes	Primäre Immunantwort / Sekundäre Immunantwort
+2019-06-27	0	1.0	2.5	Primäre Immunantwort Eigenschaften	Immunreaktion auf erstmaligen Kontakt mit Antigen / Bildung von Frühantikörper (IgM)
+2019-06-27	0	1.0	2.5	Sekundäre Immunantwort Eigenschaften	Immunreaktion bei erneutem Kontakt mit bekanntem Antigen / Bildung von Spät- bzw. Schutzantikörper (IgG)
+2019-06-27	0	1.0	2.5	Arten von Impfungen	Aktive Immunisierung / Passive Immunisierung
+2019-06-27	0	1.0	2.5	Nenne Beispiele pathologisch gesteigerter Immunabwehr.	Allergien, Autoimmunerkrankungen
+2019-06-27	0	1.0	2.5	Nenne Beispiele pathologisch verringerter Immunabwehr.	Angeborene/erworbene Immundefekte
+2019-06-27	0	1.0	2.5	Aktive Immunisierung Funktionsweise	Antikörperbildung durch Impfung mit abgeschwächten Erregern
+2019-06-27	0	1.0	2.5	Passive Immunisierung Funktionsweise	Verabreichung spezifischer Antikörper
+2019-06-27	0	1.0	2.5	Auslöser von Asthma	Verengung der Atemwege durch chronisch entzündliche Erkrankung (Überempfindlichkeit des Bronchialsystems)
+2019-06-27	0	1.0	2.5	Patophysiologischer Mechanismus von Asthma	Verengung der Atemwege durch / • Schleimhautödem / • vermehrte Schleimbildung / • Kontraktion der Bronchialmuskulatur
+2019-06-27	0	1.0	2.5	Arten von Asthma	Allergisches Asthma, Nicht-allergisches Asthma
+2019-06-27	0	1.0	2.5	Ursachen allergischen Asthmas	Genetische Disposition zu allergischer Reaktion (z.B. auf Pollen/Tierhaare)
+2019-06-27	0	1.0	2.5	Ursachen nicht-allergischen Asthmas	Atemwegsinfektionen, Medikamente, Luftschadstoffe
+2019-06-27	0	1.0	2.5	Ursachen von Asthma	Körperliche + äußere Faktoren (allergische und nicht-allergische) -> Luftnot & Angst
+2019-06-27	0	1.0	2.5	Symptome von Asthma	Atemnot, andauernder Husten, pfeifendes Ausatmen
+2019-06-27	0	1.0	2.5	Definition Infektionskrankheiten	Krankheiten, die durch Eindringen und Vermehrung lebender Mikroorganismen entstehen
+2019-06-27	0	1.0	2.5	Definition fakultativ pathogener Erreger	Erreger, der nur bei bestehender Disposition Infektionen auslöst
+2019-06-27	0	1.0	2.5	Direkte Übertragungswege bei Infektionskrankheiten	Tröpfchemierinfektion (oral), Tröfcheninfektion (aerogen), Blutweg (parenteral)
+2019-06-27	0	1.0	2.5	Indirekte Übertragungswege bei Infektionskrankheiten	Trinkwasser, Lebensmittel, Überträger
+2019-06-27	0	1.0	2.5	Arten von Übertragungswegen bei Infektionskrankheiten	Direkt / Indirekt
+2019-06-27	0	1.0	2.5	Definition Bakterium	Einzelliges Lebewesen mit eigenem Stoffwechsel ohne echten Zellkern (mit DNA)
+2019-06-27	0	1.0	2.5	Therapie gegen Bakterien	Antibiotika
+2019-06-27	0	1.0	2.5	Definition Virus	Kleiner Infektionsträger ohne eigenen Stoffwechsel
+2019-06-27	0	1.0	2.5	Wie vermehrt sich ein Virus?	Durch Einschleusen von DNA/RNA in eine Wirtszellen.
+2019-06-27	0	1.0	2.5	Wie vermehrt sich ein Bakterium?	Durch einfache Zellteilung.
+2019-06-27	0	1.0	2.5	Inwiefern ist ein Bakterium schadhaft?	Durch direkte Zellschädigung oder Toxinwirkung.
+2019-06-27	0	1.0	2.5	Definition latente Infektion	Nach Erstinfektion lebenslanges Persistieren von Viren in verschiedenem Gewebe, nach Reaktivierung / erneute Virusproduktion.
+2019-06-27	0	1.0	2.5	Unterschied gutartiger/bösartiger Tumor (Alter des Patientien)	Jugendliche/Ältere Menschen
+2019-06-27	0	1.0	2.5	Symptome einer Embolie	• Paleness (Blässe) / Paresthesia (Gefühlstörung) / • Pulslessness (Pulslosigkeit) / • Paralysis (Lähmung) / Pain (Schmerz) / Prostation (Schock)
+2019-06-27	0	1.0	2.5	Arten von Schlaganfällen (nach Ursache)	• Ischämischer Schlaganfall: Arterielle Durchblutungsstörung / • Hämorrhagischer Infarkt: Intrazerebrale Massenblutung
+2019-06-27	0	1.0	2.5	Inzidenz der Schlaganfälle	Ischämischer Schlaganfall: 85% / Hämorrhagischer Infarkt: 15%
+2019-06-27	0	1.0	2.5	Letalität der Schlaganfälle	Ischämischer Infarkt: 20% / Hämorrhagischer Infarkt: 80%
+2019-06-27	0	1.0	2.5	Symptome eines Schlaganfalls	• Einseitige Lähmung / • Sprachstörung / • Einseitige Störungen (Sprache, Sehen, Gefühl)
+2019-06-27	0	1.0	2.5	Leitsymptom der Koronaren Herzkrankheit	Angina pectoris (Brustenge)
+2019-06-27	0	1.0	2.5	Therapien bei einem Herzinfarkt	• Medikamentöse Therapie (Auflösung des Thrombus) / • Perkutane transluminale coronare Angioplastie (PTCA) (Aufdehnung von Stenosen) / • Bypass-Operation (Umgehung der Stenose) / • Thromektomie (Entfernung eines Blutgerinnsels durch Absaugen/Zerkleinern)
+2019-06-27	0	1.0	2.5	Leitsymptom der Linksherzinsuffizienz	Atemnot durch Lungenödeme
+2019-06-27	0	1.0	2.5	Leitsymptom der Rechtsherzinsuffizienz	Ödeme (u. a. Beinödeme)
+2019-06-27	0	1.0	2.5	Kompensierte Herzinsuffizienz	Herzschaden, Pumpleistung des Herzens wird noch aufrechterhalten
+2019-06-27	0	1.0	2.5	Dekompensierte Herzinsuffizienz	Herzschaden, Pumpleistung des Herzens kann nicht mehr aufrechterhalten werden
+2019-06-27	0	1.0	2.5	Bildungsort von Insulin	β-Zellen in den Pankreas
+2019-06-27	0	1.0	2.5	Symptome Diabetes Typ 1	Starker Durst / Erhöhtes Urinvolumen
+2019-06-27	0	1.0	2.5	Risikofaktoren Diabetes	• Adipositas / • Bewegungsmangel / • Fettstoffwechselstörungen / • Genetische Prädisposition
