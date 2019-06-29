@@ -68,3 +68,23 @@ Auf welchen Schichten findet Kanalkodierung statt?	2 (Sicherungsschicht), 4 (Tra
 Was tut man, wenn die Kanalkodierung fehlschlägt?	Fehler erkennen und Payload erneut anfordern.
 Wie funktioniert ein Blockcode?	Er unterteilt den Payload in Blöcke der Länge k, übersetzt diese in Kanalwörter der Länge n / (n-k für Fehlererkennung und Redundanz).
 Definition Leitungscode	Abfolge von Grundimpulsen, welche Bits oder Gruppen von Bits repräsentieren.
+Was sind wichtige Eigenschaften von Leitungscodes?	• Anzahl der Signalstufen / • Anzahl kodierter Bits pro Symbol / • Symbolrate (in Baud)
+Je mehr abrupte Signalwechsel bei einem Leitungscode stattfinden, desto _ ist das benötigte Spektrum.	breiter
+Wie funkioniert ein Rechteckimpuls?	1, falls das für das Symbol t gilt -½≤t<½, 0 sonst
+Vorteile des Rechteckimpulses	Einfachste Darstellung  im Zeitbereich
+Nachteile des Rechteckimpulses	Viele abrupte Signalwechsel / Langsam abklingendes Spektrum
+Wie funktioniert ein cos²-Impuls?	(cos(2πt))², falls -½≤t<½, 0 sonst
+Vorteile des cos²-Impulses	Einfache Umsetzung / Schnell abklingendes Spektrum
+Nachteile des cos²-Impulses	Schwere Abtastung, wenn Sender und Empfänger nicht taktsynchron sind
+Beschreibe die Funktionsweise des Non-Return-To-Zero Codes.	Rechtecksignal, das -1 ist, falls das jetzige Signal 0 ist, und 1, falls das jetzige Signal 1 ist. / Signal ist 0 beim Nicht-Senden.
+Expansion NRZ	Non-Return-To-Zero
+Effizienz des NRZ-Leitungscodes	1 Symbol/bit
+Expansion RZ	Return-To-Zero
+Wie funktioniert der Return-To-Zero Leidungscode?	Falls Sendebit 1, Taktflanke von 1 auf 0 / Falls Sendebit 0, Taktflanke von 0 auf -1. / 0 durchgehend beim Nicht-Senden.
+Effizienz des RZ-Leitungscodes	2 Symbole/bit
+Beschreibe die Funktionsweise des Manchester-Codes.	Falls Sendebit 1, Taktflanke von 1 auf -1 / Falls Sendebit 0, Taktflanke von -1 auf 1 / 0 durchgehend beim Nicht-Senden.
+Effizienz des Manchester-Leitungscodes	2 Symbole/bit
+Expansion MLT3	Multi-Level-Transmit 3
+Erkläre, wie sich der MLT3-Leitungscode verhält.	Bei jedem neuen Sendebit 1 wird 1 Stufe gewechselt / (also von 1 auf 0, 0 auf -1, -1 auf 0 und 0 zurück auf 1)
+Effizienz MLT3-Leitungscode	1 Symbol/bit
+Wie können Beginn und Ende einer Nachricht erkannt werden?	• Coderegelverletzung (Code folgt einer Regel, Nachricht ist vorbei, wenn diese verletzt wird) / • Steuerzeichen (spezielle Abfolgen für Anfang/Ende einer Nachricht)

@@ -1,13 +1,13 @@
-2019-06-27	1	1	2.36	Funktionsweise eines Schichtenmodells	• Niedrigere Schichten bieten höheren Schichten Dienste an / • Festlegung der Art, aber nicht der Implementierung von Diensten
-2019-06-27	1	1	2.06	Standard-Schichtenmodell	OSI model: Open Systems Interconnection model
-2019-06-27	1	1	2.18	Sieben Schichten des OSI-Modells (von weniger abstrakt zu abstrakt)	1 Physikalische Schicht/Physical Layer / 2 Sicherungsschicht/Data Link Layer / 3 Vermittlungsschicht/Network Layer / 4 Transportschicht/Transport Layer / 5 Sitzungsschicht/Session Layer / 6 Darstellungsschicht/Presentation Layer / 7 Anwendungsschicht/Application Layer
-2019-06-27	1	1	2.6	Expansion IDU	Interface Data Unit
-2019-06-27	1	1	2.6	Expansion SDU	Service Data Unit: Datenpaket
-2019-06-27	1	1	2.28	Expansion ICI	Interface Control Information
-2019-06-27	1	1	2.5	Expansion PCI	Protocol Control Information: Häufig in Form eines Headers/Trailers
-2019-06-27	1	1	2.6	Expansion PDU	Protocol Data Unit: Verbindung von PCI und SDU
-2019-06-27	1	1	2.6	Erkläre den Begriff N-IDU.	Die Daten, die die Schicht N+1 an die Schicht N weitergibt
-2019-06-27	1	1	2.18	Welchen Bezug haben N-IDU, N-SDU und N-ICI?	Die N-IDU wird in die N-SDU und die N-ICI aufgespalten.
+2019-06-27	1	1.0	2.36	Funktionsweise eines Schichtenmodells	• Niedrigere Schichten bieten höheren Schichten Dienste an / • Festlegung der Art, aber nicht der Implementierung von Diensten
+2019-06-27	1	1.0	2.06	Standard-Schichtenmodell	OSI model: Open Systems Interconnection model
+2019-06-27	1	1.0	2.18	Sieben Schichten des OSI-Modells (von weniger abstrakt zu abstrakt)	1 Physikalische Schicht/Physical Layer / 2 Sicherungsschicht/Data Link Layer / 3 Vermittlungsschicht/Network Layer / 4 Transportschicht/Transport Layer / 5 Sitzungsschicht/Session Layer / 6 Darstellungsschicht/Presentation Layer / 7 Anwendungsschicht/Application Layer
+2019-06-27	1	1.0	2.6	Expansion IDU	Interface Data Unit
+2019-06-27	1	1.0	2.6	Expansion SDU	Service Data Unit: Datenpaket
+2019-06-27	1	1.0	2.28	Expansion ICI	Interface Control Information
+2019-06-27	1	1.0	2.5	Expansion PCI	Protocol Control Information: Häufig in Form eines Headers/Trailers
+2019-06-27	1	1.0	2.6	Expansion PDU	Protocol Data Unit: Verbindung von PCI und SDU
+2019-06-27	1	1.0	2.6	Erkläre den Begriff N-IDU.	Die Daten, die die Schicht N+1 an die Schicht N weitergibt
+2019-06-27	1	1.0	2.18	Welchen Bezug haben N-IDU, N-SDU und N-ICI?	Die N-IDU wird in die N-SDU und die N-ICI aufgespalten.
 2019-06-27	0	1.0	2.5	Erkläre den Begriff N-SDU.	Nutzdaten für die N-te Schicht.
 2019-06-27	0	1.0	2.5	Erkläre den Begriff N-ICI.	Kontrollinformationen, die für den Dinst auf Schicht N notwendig sind (Länge der SDU und Adressinformationen).
 2019-06-27	0	1.0	2.5	Erkläre den Begriff N-PCI.	Die Daten, die für die N-te Schicht auf der anderen Seite hinzugefügt werden / (wird häufig als Header vorangestellt).
@@ -68,3 +68,23 @@
 2019-06-27	0	1.0	2.5	Was tut man, wenn die Kanalkodierung fehlschlägt?	Fehler erkennen und Payload erneut anfordern.
 2019-06-27	0	1.0	2.5	Wie funktioniert ein Blockcode?	Er unterteilt den Payload in Blöcke der Länge k, übersetzt diese in Kanalwörter der Länge n / (n-k für Fehlererkennung und Redundanz).
 2019-06-27	0	1.0	2.5	Definition Leitungscode	Abfolge von Grundimpulsen, welche Bits oder Gruppen von Bits repräsentieren.
+2019-06-28	0	1.0	2.5	Beschreibe die Funktionsweise des Manchester-Codes.	Falls Sendebit 1, Taktflanke von 1 auf -1 / Falls Sendebit 0, Taktflanke von -1 auf 1 / 0 durchgehend beim Nicht-Senden.
+2019-06-28	0	1.0	2.5	Beschreibe die Funktionsweise des Non-Return-To-Zero Codes.	Rechtecksignal, das -1 ist, falls das jetzige Signal 0 ist, und 1, falls das jetzige Signal 1 ist. / Signal ist 0 beim Nicht-Senden.
+2019-06-28	0	1.0	2.5	Effizienz MLT3-Leitungscode	1 Symbol/bit
+2019-06-28	0	1.0	2.5	Effizienz des Manchester-Leitungscodes	2 Symbole/bit
+2019-06-28	0	1.0	2.5	Effizienz des NRZ-Leitungscodes	1 Symbol/bit
+2019-06-28	0	1.0	2.5	Effizienz des RZ-Leitungscodes	2 Symbole/bit
+2019-06-28	0	1.0	2.5	Erkläre, wie sich der MLT3-Leitungscode verhält.	Bei jedem neuen Sendebit 1 wird 1 Stufe gewechselt / (also von 1 auf 0, 0 auf -1, -1 auf 0 und 0 zurück auf 1)
+2019-06-28	0	1.0	2.5	Expansion MLT3	Multi-Level-Transmit 3
+2019-06-28	0	1.0	2.5	Expansion NRZ	Non-Return-To-Zero
+2019-06-28	0	1.0	2.5	Expansion RZ	Return-To-Zero
+2019-06-28	0	1.0	2.5	Je mehr abrupte Signalwechsel bei einem Leitungscode stattfinden, desto _ ist das benötigte Spektrum.	breiter
+2019-06-28	0	1.0	2.5	Nachteile des Rechteckimpulses	Viele abrupte Signalwechsel / Langsam abklingendes Spektrum
+2019-06-28	0	1.0	2.5	Nachteile des cos²-Impulses	Schwere Abtastung, wenn Sender und Empfänger nicht taktsynchron sind
+2019-06-28	0	1.0	2.5	Vorteile des Rechteckimpulses	Einfachste Darstellung  im Zeitbereich
+2019-06-28	0	1.0	2.5	Vorteile des cos²-Impulses	Einfache Umsetzung / Schnell abklingendes Spektrum
+2019-06-28	0	1.0	2.5	Was sind wichtige Eigenschaften von Leitungscodes?	• Anzahl der Signalstufen / • Anzahl kodierter Bits pro Symbol / • Symbolrate (in Baud)
+2019-06-28	0	1.0	2.5	Wie funkioniert ein Rechteckimpuls?	1, falls das für das Symbol t gilt -½≤t<½, 0 sonst
+2019-06-28	0	1.0	2.5	Wie funktioniert der Return-To-Zero Leidungscode?	Falls Sendebit 1, Taktflanke von 1 auf 0 / Falls Sendebit 0, Taktflanke von 0 auf -1. / 0 durchgehend beim Nicht-Senden.
+2019-06-28	0	1.0	2.5	Wie funktioniert ein cos²-Impuls?	(cos(2πt))², falls -½≤t<½, 0 sonst
+2019-06-28	0	1.0	2.5	Wie können Beginn und Ende einer Nachricht erkannt werden?	• Coderegelverletzung (Code folgt einer Regel, Nachricht ist vorbei, wenn diese verletzt wird) / • Steuerzeichen (spezielle Abfolgen für Anfang/Ende einer Nachricht)

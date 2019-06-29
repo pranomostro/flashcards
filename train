@@ -2,7 +2,7 @@
 
 bd=`{pwd}
 
-for(i in (sem4 sem3 sem1 sem2)) {
+for(i in (sem4 sem1 sem2 sem3)) {
 	cd $i
 	./train
 	cd $bd

@@ -3,5 +3,5 @@
 new=20
 rev=100
 
-for(i in `{ls gnvs.crd med2*.crd | shuf})
+for(i in `{ls gnvs.crd med2*.crd norm*.crd | shuf})
 	fulg run -r -f '../split-filter' -R $rev -N $new $i
