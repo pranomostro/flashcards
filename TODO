@@ -57,6 +57,7 @@ dwt:
 med2_imp:
 	"Funktionseinschränkung" ist kaputt
 	"Folgen einer Entzündung" eher "Verlauf einer Entzündung"?
+	"Ursachen für Atrophie" -atrophie postfix entfernen
 
 med2_norm:
 	"Carcinoma in situ" genauer -> in med_imp, zu "Carcinoma in situ Eigenschaften"?

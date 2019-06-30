@@ -1,33 +1,33 @@
-2019-06-28	2	6	2.7	Kategorien von Krankheitsursachen	Endogene Ursachen / Exogene Ursachen
-2019-06-28	2	6	2.38	Endogene Ursachen von Krankheiten	Genetische Defekte / Immunologische Faktoren / Psychische Faktoren
-2019-06-28	2	6	2.04	Exogene Ursachen von Krankheiten	Physikalische Ursachen (Hitze, Kälte, Strahlen) / Chemische Ursachen (Säure, Laugen, Gifte) / Mikroorganismen (Viren, Bakterien, Pilze) / Trauma / Ernährungsstörungen
-2019-06-28	2	6	1.82	Arten von Krankheitsverläufen	Akut / Inapparent / Chronisch / Rezidivierend / Latent / Remission / Exazerbation
-2019-06-28	2	6	2.5	Krankheitsverlauf Eigenschaften: Akut	schnell, heftig, plötzlich
-2019-06-28	2	6	2.5	Krankheitsverlauf Eigenschaften: Inapparent	unbemerkt
-2019-06-28	2	6	2.5	Krankheitsverlauf Eigenschaften: Chronisch	langsam entwickelnd, verlaufend
-2019-06-28	0	1.3	1.3	Krankheitsverlauf Eigenschaften: Rezidivierend	Rückfall, wiederauftretend
-2019-06-28	0	2.04	2.04	Krankheitsverlauf Eigenschaften: Latent	schlummernd, verborgene Erkrankung ohne Krankheitserscheinung, die wieder manifest werden kann
-2019-06-28	2	6	1.96	Krankheitsverlauf Eigenschaften: Remission	vorübergehendes Verschwinden od. Rückgang der Krankheitserscheinung
-2019-06-28	0	1.96	1.96	Krankheitsverlauf Eigenschaften: Exazerbation	Verschlimmerung bestehender Krankheitssymptome
-2019-06-28	0	1.96	1.96	Arten chronischer Krankheitsverläufe	chronisch progredient / chronisch kontinuierlich / chronisch rezidivierend
-2019-06-28	1	1	2.5	Krankheitsverlauf: Chronisch progredient	fortschreitend bis zum Tod
-2019-06-28	1	1	2.5	Krankheitsverlauf: Chronisch kontinuierlich	gleichmäßig u. langsam fortschreitend
-2019-06-28	0	1.96	1.96	Krankheitsverlauf: Chronisch rezidivierend	immer wieder auftretend
-2019-06-27	0	1.0	2.5	Therapietypen bei Krankheiten	Kurative Therapie / Palliative Heilung / Konservative Therapie / Operative Therapie
-2019-06-27	0	1.0	2.5	Therapietypen: Kurative Therapie	Heilende Behandlung oder Defektheilung
-2019-06-27	0	1.0	2.5	Therapietypen: Konservative Therapie	Kein Eingriff in das Gewebe
-2019-06-27	0	1.0	2.5	Therapietypen: Operative Therapie	Chirurgischer Eingriff
-2019-06-27	0	1.0	2.5	Therapietypen: Palliative Therapie	Lindernde Behandlung ohne Heilung
-2019-06-27	0	1.0	2.5	Ursachen für Atrophie	Wegfall der funktionellen Belastung / Durchblutungsstörung/Durchblutungsminderung / Druckatrophie / Nervenschädigung / Verminderte Hormonwirkung / Hungeratrophie
-2019-06-27	0	1.0	2.5	Charakteristika von Gewebe nach Metaplasie	Widerstandsfähiger / Funktionell minderwertiger
-2019-06-27	0	1.0	2.5	Ursache für Metaplasie	Chronische Irritation / Entzündungen
-2019-06-27	0	1.0	2.5	Entzündung Definition	Universelle Abwehrreaktion des lebenden Organismus gegen verschiedenartige Schädigungen
-2019-06-27	0	1.0	2.5	Symptome einer Entzündung	Schwellung (Tumor) / Erwärmung (Calor) / Schmerzen (Dolor) / Rötung (Rubor) / Funktionseinschränkung (Functio laesa)
-2019-06-27	0	1.0	2.5	Ausbreitungswege einer lokalen Entzündung	direkt übergreifend / kanalikulär (Gangsysteme) / lymphogen (Lymphgefäße) / neurogen (Nerven) / hämatogen (Blutgefäße)
-2019-06-27	0	1.0	2.5	Fakultative Allgemeinsymptome einer Entzündung	Tachykardie / Leukozytose / Erhöhte Plasmaproteine / Erhöhte Blutkörperchensenkungsgeschwindigkeit
-2019-06-27	0	1.0	2.5	Exogene Ursachen einer Entzündung	Erreger / Physikalische/Chemische/Mechanische Noxen
-2019-06-27	0	1.0	2.5	Endogene Ursachen einer Entzündung	Immunreaktion / Ischämie / Nekrose / Stoffwechselprodukte
-2019-06-27	0	1.0	2.5	Sepsis Definition	Organversagen mit Infektion
+2019-06-28	2	6.0	2.7	Kategorien von Krankheitsursachen	Endogene Ursachen / Exogene Ursachen
+2019-06-28	2	6.0	2.38	Endogene Ursachen von Krankheiten	Genetische Defekte / Immunologische Faktoren / Psychische Faktoren
+2019-06-28	2	6.0	2.04	Exogene Ursachen von Krankheiten	Physikalische Ursachen (Hitze, Kälte, Strahlen) / Chemische Ursachen (Säure, Laugen, Gifte) / Mikroorganismen (Viren, Bakterien, Pilze) / Trauma / Ernährungsstörungen
+2019-06-28	2	6.0	1.82	Arten von Krankheitsverläufen	Akut / Inapparent / Chronisch / Rezidivierend / Latent / Remission / Exazerbation
+2019-06-28	2	6.0	2.5	Krankheitsverlauf Eigenschaften: Akut	schnell, heftig, plötzlich
+2019-06-28	2	6.0	2.5	Krankheitsverlauf Eigenschaften: Inapparent	unbemerkt
+2019-06-28	2	6.0	2.5	Krankheitsverlauf Eigenschaften: Chronisch	langsam entwickelnd, verlaufend
+2019-06-29	1	1	1.3	Krankheitsverlauf Eigenschaften: Rezidivierend	Rückfall, wiederauftretend
+2019-06-29	1	1	1.5	Krankheitsverlauf Eigenschaften: Latent	schlummernd, verborgene Erkrankung ohne Krankheitserscheinung, die wieder manifest werden kann
+2019-06-28	2	6.0	1.96	Krankheitsverlauf Eigenschaften: Remission	vorübergehendes Verschwinden od. Rückgang der Krankheitserscheinung
+2019-06-29	1	1	1.96	Krankheitsverlauf Eigenschaften: Exazerbation	Verschlimmerung bestehender Krankheitssymptome
+2019-06-29	1	1	1.82	Arten chronischer Krankheitsverläufe	chronisch progredient / chronisch kontinuierlich / chronisch rezidivierend
+2019-06-29	1	1	2.18	Krankheitsverlauf: Chronisch progredient	fortschreitend bis zum Tod
+2019-06-29	2	6	2.5	Krankheitsverlauf: Chronisch kontinuierlich	gleichmäßig u. langsam fortschreitend
+2019-06-29	1	1	1.3	Krankheitsverlauf: Chronisch rezidivierend	immer wieder auftretend
+2019-06-29	1	1	2.36	Therapietypen bei Krankheiten	Kurative Therapie / Palliative Heilung / Konservative Therapie / Operative Therapie
+2019-06-29	1	1	2.5	Therapietypen: Kurative Therapie	Heilende Behandlung oder Defektheilung
+2019-06-29	1	1	2.5	Therapietypen: Konservative Therapie	Kein Eingriff in das Gewebe
+2019-06-29	1	1	2.6	Therapietypen: Operative Therapie	Chirurgischer Eingriff
+2019-06-29	1	1	2.5	Therapietypen: Palliative Therapie	Lindernde Behandlung ohne Heilung
+2019-06-29	1	1	1.82	Ursachen für Atrophie	Wegfall der funktionellen Belastung / Durchblutungsstörung/Durchblutungsminderung / Druckatrophie / Nervenschädigung / Verminderte Hormonwirkung / Hungeratrophie
+2019-06-29	1	1	2.5	Charakteristika von Gewebe nach Metaplasie	Widerstandsfähiger / Funktionell minderwertiger
+2019-06-29	1	1	1.3	Ursache für Metaplasie	Chronische Irritation / Entzündungen
+2019-06-29	1	1	2.18	Entzündung Definition	Universelle Abwehrreaktion des lebenden Organismus gegen verschiedenartige Schädigungen
+2019-06-29	1	1	2.5	Symptome einer Entzündung	Schwellung (Tumor) / Erwärmung (Calor) / Schmerzen (Dolor) / Rötung (Rubor) / Funktionseinschränkung (Functio laesa)
+2019-06-29	1	1	2.36	Ausbreitungswege einer lokalen Entzündung	direkt übergreifend / kanalikulär (Gangsysteme) / lymphogen (Lymphgefäße) / neurogen (Nerven) / hämatogen (Blutgefäße)
+2019-06-29	1	1	1.82	Fakultative Allgemeinsymptome einer Entzündung	Tachykardie / Leukozytose / Erhöhte Plasmaproteine / Erhöhte Blutkörperchensenkungsgeschwindigkeit
+2019-06-29	1	1	2.36	Exogene Ursachen einer Entzündung	Erreger / Physikalische/Chemische/Mechanische Noxen
+2019-06-29	1	1	1.3	Endogene Ursachen einer Entzündung	Immunreaktion / Ischämie / Nekrose / Stoffwechselprodukte
+2019-06-29	1	1	1.42	Sepsis Definition	Organversagen mit Infektion
 2019-06-27	0	1.0	2.5	Einflussfaktoren für eine Entzündung	Art der Schädigung / Lokalisation / Dosis / Virulenz / Resistenz
 2019-06-27	0	1.0	2.5	Folgen einer Entzündung	Regeneration / Defektheilung / Chronischer Verlauf / Zweiterkrankung
 2019-06-27	0	1.0	2.5	Definition Immunität	Unempfindlichkeit des Organismus gegenüber Pathogenen
