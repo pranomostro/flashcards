@@ -6,20 +6,20 @@
 2019-06-30	2	6.0	2.38	Expansion ICI	Interface Control Information
 2019-06-30	2	6.0	2.5	Expansion PCI	Protocol Control Information: Häufig in Form eines Headers/Trailers
 2019-06-30	2	6.0	2.6	Expansion PDU	Protocol Data Unit: Verbindung von PCI und SDU
-2019-07-02	1	1.0	2.06	Erkläre den Begriff N-IDU.	Die Daten, die die Schicht N+1 an die Schicht N weitergibt
+2019-07-03	2	6	1.92	Erkläre den Begriff N-IDU.	Die Daten, die die Schicht N+1 an die Schicht N weitergibt
 2019-06-30	2	6.0	2.18	Welchen Bezug haben N-IDU, N-SDU und N-ICI?	Die N-IDU wird in die N-SDU und die N-ICI aufgespalten.
 2019-07-02	1	1.0	2.5	Erkläre den Begriff N-SDU.	Nutzdaten für die N-te Schicht.
 2019-07-02	1	1.0	2.5	Erkläre den Begriff N-ICI.	Kontrollinformationen, die für den Dinst auf Schicht N notwendig sind (Länge der SDU und Adressinformationen).
 2019-07-02	1	1.0	2.04	Erkläre den Begriff N-PCI.	Die Daten, die für die N-te Schicht auf der anderen Seite hinzugefügt werden / (wird häufig als Header vorangestellt).
 2019-07-02	1	1.0	2.18	Welchen Bezug haben N-PCI, N-PDU und N-SDU?	Die N-PCI und die N-SDU werden in die N-PDU zum Transport zusammengefasst.
 2019-07-02	1	1.0	1.5	Erkläre den Begriff N-PDU.	Der Payload, der mit der (N-1)-ICI etikettiert wird und dann als (N-1)-IDU / über die Schicht N-1 transportiert wird.
-2019-07-02	1	1.0	2.5	Gib Beispiele für die Namen der PDU auf 2 Schicthen an.	Beispiele: Segmente, Pakete, Rahmen
+2019-07-03	2	6	2.5	Gib Beispiele für die Namen der PDU auf 2 Schicthen an.	Beispiele: Segmente, Pakete, Rahmen
 2019-07-02	1	1.0	2.5	Segment wird auf der _schicht verwendet	Transportschicht
-2019-07-02	1	1.0	1.3	Paket wird auf der _schicht verwendet	Vermittlungsschicht
+2019-07-03	2	6	1.4	Paket wird auf der _schicht verwendet	Vermittlungsschicht
 2019-07-02	1	1.0	1.3	Rahmen wird auf der _schicht verwendet	Sicherungsschicht
 2019-07-02	1	1.0	1.3	Die Transportschicht verwendet _	Segmente
 2019-07-02	1	1.0	1.42	Die Sicherungsschicht verwendet _	Rahmen
-2019-07-02	1	1.0	2.36	Die Vermittlungsschicht verwendet _	Pakete
+2019-07-03	2	6	2.46	Die Vermittlungsschicht verwendet _	Pakete
 2019-07-02	1	1.0	2.36	Definition Bedingte Entropie	Verbleibende Unsicherheit über Y, wenn X bekannt sind: H(Y|X)
 2019-07-02	1	1.0	1.3	Formel bedingte Entropie	H(Y|X)=sum(x∈X;p(x)*H(Y|X=x))=-sum(x∈Xp(x)*sum(y∈Y;p(y|x)*log₂(p(y|x)))
 2019-07-02	1	1.0	1.86	Definition Informationsgehalt eines Zeichens	Wie viel Information durch das Zeichen übertragen wird / (Je seltener ein Zeichen ist, desto höher sein Informationsgehalt)

@@ -88,3 +88,20 @@ Expansion MLT3	Multi-Level-Transmit 3
 Erkläre, wie sich der MLT3-Leitungscode verhält.	Bei jedem neuen Sendebit 1 wird 1 Stufe gewechselt / (also von 1 auf 0, 0 auf -1, -1 auf 0 und 0 zurück auf 1)
 Effizienz MLT3-Leitungscode	1 Symbol/bit
 Wie können Beginn und Ende einer Nachricht erkannt werden?	• Coderegelverletzung (Code folgt einer Regel, Nachricht ist vorbei, wenn diese verletzt wird) / • Steuerzeichen (spezielle Abfolgen für Anfang/Ende einer Nachricht)
+Was ist ein Sendeimpuls?	Ein Sendeimpuls ist eine Abfolge von Grundimpulsen, die Bits/Gruppen von Bits repräsentieren.
+Welche wichtigen Eigenschaften haben Leitungscodes?	Anzahl der Signalstufen (binär, ternär, quaternär etc.) / Anzahl kodierter Bits pro Symbol / Schrittgeschwindigkeit (Symbolrate/Baudrate)
+Wie kann man erreichen, dass ein Kanal von mehreren Übertragungen gleichzeitig verwendet wird?	Tiefpassfilterung → Begrenzung des Spektrums / Modulation auf Trägersignal → Verschiebung des Spektrums
+Expansion FDM	Frequency Division Multiplex
+Wie funktioniert ein digitales Modulationsverfahren prinzipiell?	Sendeimpulse werden tiefpassgefiltert / Sendesignal wird auf ein Trägersignal aufmoduliert
+Expansion ASK	Amplitude Shift Keying
+Wie funktioniert ASK grundlegend?	N Bits des Datenstroms werden auf einen Wert aus einem Signalraum abgebildet / Dieser Wert wird auf das Trägersignal multipliziert / z.B. 00->1, 01->0.5, 10->-0.5, 11->-1
+Expansion QAM	Quadratur-Amplituden-Modulation
+Wie funktioniert QAM grundlegend?	Bitgruppen werden auf den Raum der komplexen Zahlen abgebildet, / die auf das Trägersignal multipliziert werden
+Was sind die Unterschiede und Ziele zwischen Quellenkodierung, Kanalkodierung und Leitungskodierung?	Quellenkodierung: Entfernung von Redundanz aus den übertragenden Daten / Kanalkodierung: Erkennung und Korrektur von Bitfehlern / Leitungskodierung: Repräsentierung von Bits/Gruppen von Bits
+Warum werden trotz aller Kodierverfahren zusätzliche Verfahren zur Fehlererkennung benötigt?	Der Rest der fehlererkennenden Mechanismen ist nicht akkurat und robust genug.
+Welche Arten von Übertragungsmedien gibt es?	• leitungsgebundene Übertragung / • nicht-leitungsgebundene Übertragung /  / • akustische Wellen / • elektromagnetische Wellen
+Wie ist ein Twisted-Pair-Kabel aufgebaut?	2/4 Aderpaare aus Kupferlitzen / Verdrillte Aderpaare / Inverse Kodierung
+Expansion UTP	Unshielded twist pair
+Expansion STP	Shielded twist pair
+Expansion S/UTP	Screened/Unshielded twisted pair
+Expansion S/STP	Screened/Shielded twisted pair
