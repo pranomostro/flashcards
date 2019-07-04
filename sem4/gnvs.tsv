@@ -105,3 +105,6 @@ Expansion UTP	Unshielded twist pair
 Expansion STP	Shielded twist pair
 Expansion S/UTP	Screened/Unshielded twisted pair
 Expansion S/STP	Screened/Shielded twisted pair
+Welchen Einfluss hat Schirmung auf Kabel?	Signalqualität (Vermeiden von Übersprechen elektr. Leitungen) / Flexibilität von Kabeln (gute Schirmung → steifer)
+Wie funktioniert ein optischer Leiter?	Leiter aus Kern&Mantel, die unterschiedliche optische Dichten besitzen / → Totalreflexion am Mantel
+Vorteile optischer Leiter zu elektrischen Leitern	• Hohe Datenraten / • Weiter Strecken überbrückbar / • Kein Übersprechen / • Entkopplung von Sendern/Empfänger

@@ -1,44 +1,51 @@
-2019-07-03	1	1	2.5	physiologischer Zelltod	Apoptose
-2019-07-03	1	1	2.6	Organverkleinerung	Atrophie
-2019-07-03	1	1	2.6	Übertritt von Erregern in die Blutbahn	Bakteriämie
-2019-07-03	1	1	2.6	Wärme	Calor
-2019-07-03	1	1	1.96	Flüssigkeitsansammlung in einer präformierten Höhle	Erguss
-2019-07-03	1	1	1.96	Ersatz physiologischen Gewebes durch Bindegewebe	Fibrose
-2019-07-03	1	1	2.6	Funktionseinschränkung	Functio laesa
-2019-07-03	1	1	1.64	Gewebevergrößerung durch Zellvermehrung	Hyperplasie
-2019-07-03	1	1	2.5	Gewebevergrößerung durch Zellvergrößerung	Hypertrophie
-2019-07-03	1	1	2.5	Gewebeverkleinerung durch Abnahme der Zellzahl	Hypoplasie
-2019-07-03	1	1	2.6	Gewebeverkleinerung durch Zellverkleinerung	Hypotrophie
-2019-07-03	1	1	1.96	Entzündung	Inflammatio
-2019-07-03	1	1	2.5	Gewebeumwandlung	Metaplasie
-2019-07-03	1	1	1.52	Zelltod durch exogene/endogene Noxen	Nekrose
-2019-07-03	1	1	2.5	Rötung	Rubor
-2019-07-03	1	1	1.96	Bildung von Eiterherden in Organen	Sepktikopyämie
-2019-07-03	1	1	2.36	Lehre der Krankheitsursachen	Ätiologie
-2019-07-03	1	1	2.5	Flüssigkeitsansammlung im Zwischengewebsraum	Ödem
-2019-07-03	1	1	2.06	Biologisches Verhalten des Tumors (gutartig/bösartig)	Dignität
-2019-07-03	1	1	2.18	Tumorrückbildung	Regression
-2019-06-27	0	1.0	2.5	Vorübergehende oder dauernde Abschwächung eines Tumors	Remission
-2019-06-27	0	1.0	2.5	1) Volumenzunahme eines Gewebes / 2) Abnorme Gewebbsvermehrung durch autonome Proliferation körpereigener Zellen	Tumor
-2019-06-27	0	1.0	2.5	Veränderung in einem Zellverband, häufig reversibel	Dysplasie
-2019-06-27	0	1.0	2.5	Obligate Präkanzerose / Atypisches Gewebe mit aufgehobener Zellschichtung / Fehlendes Tiefenwachstum / Keine Metastasen	Carcinoma in situ
-2019-06-27	0	1.0	2.5	Tumor mit zerstörter Basalmembran, Tumorzelleninvasion	Invasives Karzinom
-2019-06-27	0	1.0	2.5	Gangbildung	Fistelung
-2019-06-27	0	1.0	2.5	Geschwür	Ulzeration
-2019-06-27	0	1.0	2.5	Einengung	Stenosierung
-2019-06-27	0	1.0	2.5	Brustenge	Angina pectoris
-2019-06-27	0	1.0	2.5	Blutgerinnsel	Thrombus
-2019-06-27	0	1.0	2.5	Erhöhtes Urinvolumen	Polyurie
-2019-06-27	0	1.0	2.5	Fettleibigkeit	Adipositas
-2019-06-27	0	1.0	2.5	Druckgeschwür	Dekubitus
-2019-06-27	0	1.0	2.5	Atrophie durch Durchblutungsstörung	Vaskuläre Atrophie
-2019-06-27	0	1.0	2.5	erhöhte Herzschlagfrequenz	Tachykardie
-2019-06-27	0	1.0	2.5	Über die Gangsysteme	Kanalikulär
-2019-06-27	0	1.0	2.5	Über die Lymphgefäße	Lymphogen
-2019-06-27	0	1.0	2.5	Über die Nerven	Neurogen
-2019-06-27	0	1.0	2.5	Über die Blutgefäße	Hämatogen
-2019-06-27	0	1.0	2.5	krankmachende Eigenschaft eines Erregers	Pathogenität
+2019-07-04	2	6	2.6	physiologischer Zelltod	Apoptose
+2019-07-04	2	6	2.7	Organverkleinerung	Atrophie
+2019-07-04	2	6	2.6	Übertritt von Erregern in die Blutbahn	Bakteriämie
+2019-07-04	2	6	2.7	Wärme	Calor
+2019-07-04	1	1	1.3	Flüssigkeitsansammlung in einer präformierten Höhle	Erguss
+2019-07-04	2	6	2.06	Ersatz physiologischen Gewebes durch Bindegewebe	Fibrose
+2019-07-04	2	6	2.7	Funktionseinschränkung	Functio laesa
+2019-07-04	2	6	1.74	Gewebevergrößerung durch Zellvermehrung	Hyperplasie
+2019-07-04	1	1	2.28	Gewebevergrößerung durch Zellvergrößerung	Hypertrophie
+2019-07-04	1	1	2.18	Gewebeverkleinerung durch Abnahme der Zellzahl	Hypoplasie
+2019-07-04	1	1	2.38	Gewebeverkleinerung durch Zellverkleinerung	Hypotrophie
+2019-07-04	2	6	2.06	Entzündung	Inflammatio
+2019-07-04	2	6	2.5	Gewebeumwandlung	Metaplasie
+2019-07-04	2	6	1.62	Zelltod durch exogene/endogene Noxen	Nekrose
+2019-07-04	1	1	2.06	Rötung	Rubor
+2019-07-04	1	1	1.74	Bildung von Eiterherden in Organen	Sepktikopyämie
+2019-07-04	2	6	2.36	Lehre der Krankheitsursachen	Ätiologie
+2019-07-04	2	6	2.6	Flüssigkeitsansammlung im Zwischengewebsraum	Ödem
+2019-07-04	2	6	2.06	Biologisches Verhalten des Tumors (gutartig/bösartig)	Dignität
+2019-07-04	2	6	2.28	Tumorrückbildung	Regression
+2019-07-04	1	1	2.6	Vorübergehende oder dauernde Abschwächung eines Tumors	Remission
+2019-07-04	1	1	2.6	1) Volumenzunahme eines Gewebes / 2) Abnorme Gewebbsvermehrung durch autonome Proliferation körpereigener Zellen	Tumor
+2019-07-04	1	1	1.96	Veränderung in einem Zellverband, häufig reversibel	Dysplasie
+2019-07-04	1	1	2.5	Obligate Präkanzerose / Atypisches Gewebe mit aufgehobener Zellschichtung / Fehlendes Tiefenwachstum / Keine Metastasen	Carcinoma in situ
+2019-07-04	1	1	1.96	Tumor mit zerstörter Basalmembran, Tumorzelleninvasion	Invasives Karzinom
+2019-07-04	1	1	2.5	Gangbildung	Fistelung
+2019-07-04	1	1	2.06	Geschwür	Ulzeration
+2019-07-04	1	1	2.36	Einengung	Stenosierung
+2019-07-04	1	1	2.5	Brustenge	Angina pectoris
+2019-07-04	1	1	2.06	Blutgerinnsel	Thrombus
+2019-07-04	1	1	2.06	Erhöhtes Urinvolumen	Polyurie
+2019-07-04	1	1	2.5	Fettleibigkeit	Adipositas
+2019-07-04	1	1	1.42	Druckgeschwür	Dekubitus
+2019-07-04	1	1	1.96	Atrophie durch Durchblutungsstörung	Vaskuläre Atrophie
+2019-07-04	1	1	2.5	erhöhte Herzschlagfrequenz	Tachykardie
+2019-07-04	1	1	1.96	Über die Gangsysteme	Kanalikulär
+2019-07-04	1	1	2.5	Über die Lymphgefäße	Lymphogen
+2019-07-04	1	1	2.5	Über die Nerven	Neurogen
+2019-07-04	1	1	1.42	Über die Blutgefäße	Hämatogen
+2019-07-04	1	1	2.06	krankmachende Eigenschaft eines Erregers	Pathogenität
 2019-06-27	0	1.0	2.5	Potenz eines Erregers	Virulenz
 2019-06-27	0	1.0	2.5	Übertragungsfähigkeit	Kontagiosität
 2019-06-27	0	1.0	2.5	Fähigkeit eines Erregers, einen Wirt zu infizieren	Infektiosität
 2019-06-27	0	1.0	2.5	Zeit zwischen Eindringen eines Erregers und ersten Krankheitszeichen	Inkubationszeit
+2019-07-04	0	1	2.5	Bösartige epitheliale Tumore	Karzinom, Adenokarzinom
+2019-07-04	0	1	2.5	Bösartige mesenchymale Tumore	Liposarkom, Chondrosarkom, Angiosarkom
+2019-07-04	0	1	2.5	Gutartige epitheliale Tumore	Papillom, Adenom
+2019-07-04	0	1	2.5	Gutartige mesenchymale Tumore	Lipom, Chondrom, Angiom
+2019-07-04	0	1	2.5	Tochtertumore	Filiae
+2019-07-04	0	1	2.5	Tumore im Deck- u. Drüsengewebe	Epitheliale Tumoren
+2019-07-04	0	1	2.5	Tumore im Stütz- u. Bindegewebe	Mesenchymale Tumoren

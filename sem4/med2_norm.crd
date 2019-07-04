@@ -42,3 +42,10 @@
 2019-06-29	1	1.0	2.5	Kontagiosität	Übertragungsfähigkeit
 2019-06-29	1	1.0	2.18	Infektiosität	Fähigkeit eines Erregers, einen Wirt zu infizieren
 2019-06-29	1	1.0	2.5	Inkubationszeit	Zeit zwischen Eindringen eines Erregers und ersten Krankheitszeichen
+2019-07-04	0	1.0	2.5	Epitheliale Tumoren	Tumore im Deck- u. Drüsengewebe
+2019-07-04	0	1.0	2.5	Filiae	Tochtertumore
+2019-07-04	0	1.0	2.5	Karzinom, Adenokarzinom	Bösartige epitheliale Tumore
+2019-07-04	0	1.0	2.5	Lipom, Chondrom, Angiom	Gutartige mesenchymale Tumore
+2019-07-04	0	1.0	2.5	Liposarkom, Chondrosarkom, Angiosarkom	Bösartige mesenchymale Tumore
+2019-07-04	0	1.0	2.5	Mesenchymale Tumoren	Tumore im Stütz- u. Bindegewebe
+2019-07-04	0	1.0	2.5	Papillom, Adenom	Gutartige epitheliale Tumore

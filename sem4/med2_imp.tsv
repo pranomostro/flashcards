@@ -92,3 +92,55 @@ Dekompensierte Herzinsuffizienz	Herzschaden, Pumpleistung des Herzens kann nicht
 Bildungsort von Insulin	β-Zellen in den Pankreas
 Symptome Diabetes Typ 1	Starker Durst / Erhöhtes Urinvolumen
 Risikofaktoren Diabetes	• Adipositas / • Bewegungsmangel / • Fettstoffwechselstörungen / • Genetische Prädisposition
+Definition Krebs	Allgemeine Bezeichnung für bösartige Tumoren
+Gutartiger Tumor Alter Patient	Jugendliche/mittleres Lebensalter
+Gutartiger Tumor Symptomzahl	Syomptomarm
+Bösartiger Tumor Symptomzahl	Symptomreich
+Bösartiger Tumor Alter Patient	Ältere Menschen
+Gutartiger Tumor Verlauf	Lang, nicht tödlich
+Bösartiger Tumor Verlauf	Kurz, tödlich
+Gutartiger Tumor Metastasenvorkommen	Fehlend
+Bösartiger Tumor Metastasenvorkommen	Häufig
+Gutartiger Tumor Rezidive	Rarität
+Bösartiger Tumor Rezidive	Häufig
+Nenne die Dignitätskriterien eines Tumors	Wachstumsrate / Lokale Ausbreitung / Histologie / Umgebendes Gewebe / Klinik / Metastasierung
+Wachstumsrate Benigner Tumor	• langsam wachsend / • Mitosefiguren selten
+Wachstumsrate Maligner Tumor	• langsam bis schnell wachsend / • Mitosefiguren häufig / • atypische Mitosen
+Lokale Ausbreitung Benigner Tumor	• zusammenhängend, begrenzt / • expansives, verdrängendes Wachstum / • fibröse Tumorkapsel
+Lokale Ausbreitung Maligner Tumor	• schlecht begrenzter Tumor / • invasives, destruierendes Wachstum
+Histologie Benigner Tumor	• Tumorgewebe ähnlich zu Ursprungsgewebe
+Histologie Maligner Tumor	• Verlust der Ähnlichkeit zum Ursprungsgewebe / • Zellatypien
+Umgebendes Gewebe Benigner Tumor Folgen	• Kompression / • Druckatrophie
+Umgebendes Gewebe Maligner Tumor Folgen	• Invasion / • Destruktion
+Heilungsmethoden Benigner Tumor	Chirurgische Exzision
+Heilungsmethoden Maligner Tumor	Chirurgische Exzision
+Gibt es Metastasen bei Benignen Tumoren?	Nein.
+Gibt es Metastasen bei Malignen Tumoren?	Potentiell ja.
+Risikofaktoren für Krebs	Familiäre Disposition / Hormonelle Faktoren / Lebensalter / Lebensstil / Umweltfaktoren (Karzinogene)
+Definition Metastasierung	Verschleppung von Tumorzellen zu entfernten Körperstellen mit Bildung von Tochtertumoren
+Metastasierungsorte	Knochen, Lunge, Leber
+Definition TNM-Klassifikation	Anatomisch basierte Beschreibung des Primärtumors und dessen Ausbreitung im Körper nach dem TNM-Schema sowie des Krankheitsverlaufs
+Expansion TNM	T: Primärtumor (Größe, Infiltration) / N: Nodaler Befall (Zustand der regionären Lymphknoten) / M: Metastasenbildung
+TNM-Klassifikation Bedeutung pTis	Präinvasives Karzinom (Carcinoma in situ)
+TNM-Klassifikation Bedeutung pT0	Keine histologische Evidenz für einen Primärtumor
+TNM-Klassifikation Bedeutung pT1, pT2, pT3, pT4	zunehmende Ausbreitung des Primärtumors
+TNM-Klassifikation Bedeutung pTX	Lokale Tumorausbreitung kann histopathologisch nicht bestimmt werden
+TNM-Klassifikation Bedeutung pN0	Kein Befall regionärer Lymphknoten
+TNM-Klassifikation Bedeutung pN1, pN2, pN3, pN4	Zunehmender Befall regionärer Lymphknoten
+TNM-Klassifikation Bedeutung pNX	Befall regionärer Lymphknoten kann nicht genau bestimmt werden
+TNM-Klassifikation Bedeutung pM0	Keine Fernmetastasen
+TNM-Klassifikation Bedeutung pM1	Fernmetastasen
+TNM-Klassifikation Bedeutung pMX	Vorliegen von Fernmetastasen kann nicht bestimmt werden
+Voraussetzungen Stadium I TNM-Klassifikation	T1/T2, N0, M0
+Voraussetzungen Stadium II TNM-Klassifikation	T3/T4, N0, M0
+Voraussetzungen Stadium III TNM-Klassifikation	T*, N1/N2, M0
+Voraussetzungen Stadium IV TNM-Klassifikation	T*, N*, M1
+Therapieformen bei Krebs	• Operation / • Chemotherapie / • Strahlentherapie / • Hormontherapie / • Hyperthermie / • Immuntherapie / • Zielgerichtete Therapie / • Palliativmedizin
+Funktionsweise Chemotherapie	Verhinderung der Zellteilung von Tumorzellen
+Funktionsweise Strahlentherapie	Zerstörung von Tumorzellen durch ionisierte, elektromagnetische Strahlung
+Funktionsweise Hormontherapie	Ausschaltung körpereigener Hormone hemmt die Ausbreitung hormonabhängiger Tumore
+Funktionsweise Hyperthermie	Zerstörung von Tumorzellen durch Erhöhen der Körpertemperatur
+Funktionsweise Immuntherapie	Aktivierung des Immunsystems zur Abtötung von Tumorzellen
+Definition Tumormarker	Proteine, die von Tumorzellen unter abnormen Bedingungen produziert werden
+Warum sind Tumormarker wichtig?	Weil sie im Serum Gesunder nicht oder nur in extrem niedrigen Mengen nachweisbar sind
+Anwendung Tumormarker	Therapie- und Verlaufskontrolle / Anwendung in der Diagnostik

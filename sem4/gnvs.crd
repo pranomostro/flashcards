@@ -6,20 +6,20 @@
 2019-06-30	2	6.0	2.38	Expansion ICI	Interface Control Information
 2019-06-30	2	6.0	2.5	Expansion PCI	Protocol Control Information: Häufig in Form eines Headers/Trailers
 2019-06-30	2	6.0	2.6	Expansion PDU	Protocol Data Unit: Verbindung von PCI und SDU
-2019-07-03	2	6	1.92	Erkläre den Begriff N-IDU.	Die Daten, die die Schicht N+1 an die Schicht N weitergibt
+2019-07-03	2	6.0	1.92	Erkläre den Begriff N-IDU.	Die Daten, die die Schicht N+1 an die Schicht N weitergibt
 2019-06-30	2	6.0	2.18	Welchen Bezug haben N-IDU, N-SDU und N-ICI?	Die N-IDU wird in die N-SDU und die N-ICI aufgespalten.
 2019-07-02	1	1.0	2.5	Erkläre den Begriff N-SDU.	Nutzdaten für die N-te Schicht.
 2019-07-02	1	1.0	2.5	Erkläre den Begriff N-ICI.	Kontrollinformationen, die für den Dinst auf Schicht N notwendig sind (Länge der SDU und Adressinformationen).
 2019-07-02	1	1.0	2.04	Erkläre den Begriff N-PCI.	Die Daten, die für die N-te Schicht auf der anderen Seite hinzugefügt werden / (wird häufig als Header vorangestellt).
 2019-07-02	1	1.0	2.18	Welchen Bezug haben N-PCI, N-PDU und N-SDU?	Die N-PCI und die N-SDU werden in die N-PDU zum Transport zusammengefasst.
 2019-07-02	1	1.0	1.5	Erkläre den Begriff N-PDU.	Der Payload, der mit der (N-1)-ICI etikettiert wird und dann als (N-1)-IDU / über die Schicht N-1 transportiert wird.
-2019-07-03	2	6	2.5	Gib Beispiele für die Namen der PDU auf 2 Schicthen an.	Beispiele: Segmente, Pakete, Rahmen
+2019-07-03	2	6.0	2.5	Gib Beispiele für die Namen der PDU auf 2 Schicthen an.	Beispiele: Segmente, Pakete, Rahmen
 2019-07-02	1	1.0	2.5	Segment wird auf der _schicht verwendet	Transportschicht
-2019-07-03	2	6	1.4	Paket wird auf der _schicht verwendet	Vermittlungsschicht
+2019-07-03	2	6.0	1.4	Paket wird auf der _schicht verwendet	Vermittlungsschicht
 2019-07-02	1	1.0	1.3	Rahmen wird auf der _schicht verwendet	Sicherungsschicht
 2019-07-02	1	1.0	1.3	Die Transportschicht verwendet _	Segmente
 2019-07-02	1	1.0	1.42	Die Sicherungsschicht verwendet _	Rahmen
-2019-07-03	2	6	2.46	Die Vermittlungsschicht verwendet _	Pakete
+2019-07-03	2	6.0	2.46	Die Vermittlungsschicht verwendet _	Pakete
 2019-07-02	1	1.0	2.36	Definition Bedingte Entropie	Verbleibende Unsicherheit über Y, wenn X bekannt sind: H(Y|X)
 2019-07-02	1	1.0	1.3	Formel bedingte Entropie	H(Y|X)=sum(x∈X;p(x)*H(Y|X=x))=-sum(x∈Xp(x)*sum(y∈Y;p(y|x)*log₂(p(y|x)))
 2019-07-02	1	1.0	1.86	Definition Informationsgehalt eines Zeichens	Wie viel Information durch das Zeichen übertragen wird / (Je seltener ein Zeichen ist, desto höher sein Informationsgehalt)
@@ -88,3 +88,23 @@
 2019-06-28	0	1.0	2.5	Wie funktioniert der Return-To-Zero Leidungscode?	Falls Sendebit 1, Taktflanke von 1 auf 0 / Falls Sendebit 0, Taktflanke von 0 auf -1. / 0 durchgehend beim Nicht-Senden.
 2019-06-28	0	1.0	2.5	Wie funktioniert ein cos²-Impuls?	(cos(2πt))², falls -½≤t<½, 0 sonst
 2019-06-28	0	1.0	2.5	Wie können Beginn und Ende einer Nachricht erkannt werden?	• Coderegelverletzung (Code folgt einer Regel, Nachricht ist vorbei, wenn diese verletzt wird) / • Steuerzeichen (spezielle Abfolgen für Anfang/Ende einer Nachricht)
+2019-07-04	0	1.0	2.5	Expansion ASK	Amplitude Shift Keying
+2019-07-04	0	1.0	2.5	Expansion FDM	Frequency Division Multiplex
+2019-07-04	0	1.0	2.5	Expansion QAM	Quadratur-Amplituden-Modulation
+2019-07-04	0	1.0	2.5	Expansion S/STP	Screened/Shielded twisted pair
+2019-07-04	0	1.0	2.5	Expansion S/UTP	Screened/Unshielded twisted pair
+2019-07-04	0	1.0	2.5	Expansion STP	Shielded twist pair
+2019-07-04	0	1.0	2.5	Expansion UTP	Unshielded twist pair
+2019-07-04	0	1.0	2.5	Warum werden trotz aller Kodierverfahren zusätzliche Verfahren zur Fehlererkennung benötigt?	Der Rest der fehlererkennenden Mechanismen ist nicht akkurat und robust genug.
+2019-07-04	0	1.0	2.5	Was ist ein Sendeimpuls?	Ein Sendeimpuls ist eine Abfolge von Grundimpulsen, die Bits/Gruppen von Bits repräsentieren.
+2019-07-04	0	1.0	2.5	Was sind die Unterschiede und Ziele zwischen Quellenkodierung, Kanalkodierung und Leitungskodierung?	Quellenkodierung: Entfernung von Redundanz aus den übertragenden Daten / Kanalkodierung: Erkennung und Korrektur von Bitfehlern / Leitungskodierung: Repräsentierung von Bits/Gruppen von Bits
+2019-07-04	0	1.0	2.5	Welche Arten von Übertragungsmedien gibt es?	• leitungsgebundene Übertragung / • nicht-leitungsgebundene Übertragung /  / • akustische Wellen / • elektromagnetische Wellen
+2019-07-04	0	1.0	2.5	Welche wichtigen Eigenschaften haben Leitungscodes?	Anzahl der Signalstufen (binär, ternär, quaternär etc.) / Anzahl kodierter Bits pro Symbol / Schrittgeschwindigkeit (Symbolrate/Baudrate)
+2019-07-04	0	1.0	2.5	Wie funktioniert ASK grundlegend?	N Bits des Datenstroms werden auf einen Wert aus einem Signalraum abgebildet / Dieser Wert wird auf das Trägersignal multipliziert / z.B. 00->1, 01->0.5, 10->-0.5, 11->-1
+2019-07-04	0	1.0	2.5	Wie funktioniert QAM grundlegend?	Bitgruppen werden auf den Raum der komplexen Zahlen abgebildet, / die auf das Trägersignal multipliziert werden
+2019-07-04	0	1.0	2.5	Wie funktioniert ein digitales Modulationsverfahren prinzipiell?	Sendeimpulse werden tiefpassgefiltert / Sendesignal wird auf ein Trägersignal aufmoduliert
+2019-07-04	0	1.0	2.5	Wie ist ein Twisted-Pair-Kabel aufgebaut?	2/4 Aderpaare aus Kupferlitzen / Verdrillte Aderpaare / Inverse Kodierung
+2019-07-04	0	1.0	2.5	Wie kann man erreichen, dass ein Kanal von mehreren Übertragungen gleichzeitig verwendet wird?	Tiefpassfilterung → Begrenzung des Spektrums / Modulation auf Trägersignal → Verschiebung des Spektrums
+2019-07-04	0	1.0	2.5	Vorteile optischer Leiter zu elektrischen Leitern	• Hohe Datenraten / • Weiter Strecken überbrückbar / • Kein Übersprechen / • Entkopplung von Sendern/Empfänger
+2019-07-04	0	1.0	2.5	Welchen Einfluss hat Schirmung auf Kabel?	Signalqualität (Vermeiden von Übersprechen elektr. Leitungen) / Flexibilität von Kabeln (gute Schirmung → steifer)
+2019-07-04	0	1.0	2.5	Wie funktioniert ein optischer Leiter?	Leiter aus Kern&Mantel, die unterschiedliche optische Dichten besitzen / → Totalreflexion am Mantel
