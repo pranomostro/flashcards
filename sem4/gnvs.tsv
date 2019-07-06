@@ -108,3 +108,8 @@ Expansion S/STP	Screened/Shielded twisted pair
 Welchen Einfluss hat Schirmung auf Kabel?	Signalqualität (Vermeiden von Übersprechen elektr. Leitungen) / Flexibilität von Kabeln (gute Schirmung → steifer)
 Wie funktioniert ein optischer Leiter?	Leiter aus Kern&Mantel, die unterschiedliche optische Dichten besitzen / → Totalreflexion am Mantel
 Vorteile optischer Leiter zu elektrischen Leitern	• Hohe Datenraten / • Weiter Strecken überbrückbar / • Kein Übersprechen / • Entkopplung von Sendern/Empfänger
+Definition Direktverbindungsnetzwerk	• Alle angeschlossenen Knoten sind direkt erreichbar / • All angeschlossenen Knoten werden mittels einfacher Adressen auf Schicht 2 identifiziert / • Keine Vermittung / • Bridging/Switching möglich
+Wozu wird die Sicherungsschicht verwendet?	• Steuerung des Medienzugriffs / • Prüfung übertragener Nachrichten auf Fehler / • Adressierung innerhalb von Direktverbindungsnetzwerken
+Wie wird in der Sicherungsschicht die Steuerung des Medienzugriffs erreicht?	Alle Computer werden zu einem Bus verbunden
+Was ist die Aufgabe des Empfängers auf der Sicherungsschicht?	Entscheiden, ob eine Nachricht für ihn bestimmt ist.
+Welche Arten von Netzwerktopologien gibt es?	• Punkt-zu-Punkt / • Kette / • Stern / • Vermaschung / • Baum / • Bus
