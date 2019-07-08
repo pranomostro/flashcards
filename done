@@ -15,9 +15,9 @@ med2_imp:
 	Kapitel 1, Folien: {2,3,4,13,18,21,32,38}; ✔
 	Kapitel 2, Folien: {2,4,5,8,10,14,15,17,24,25,27,29,30,31,35,36}; ✔
 	Kapitel 3, Folien: {5,6,8,"Dignitätskriterien",16,18,23,24,25,26,"Therapieformen",37,TNM Klassifikation,Next Generation Sequencing,Tumormarker}; ✔
-	Kapitel 4, Folien: {9,13,15,22,23,35,39,41,Insuffizienzen}
+	Kapitel 4, Folien: {9,13,15,22,23,35,39,41,Insuffizienzen} ✔
 	Kapitel 5, Folien: {2,3,5,6,8,14,15,17,20 ("Körperliche Untersuchung"),35,38}
 theo: [1;47]
 dwt: [1;38]
-gnvs: 0, 1, [1;7]
-vlinalg: [1;19]
+gnvs: 0, 1, [1;21]
+linalg: [1;19]

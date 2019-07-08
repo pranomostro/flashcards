@@ -113,3 +113,9 @@ Wozu wird die Sicherungsschicht verwendet?	• Steuerung des Medienzugriffs / �
 Wie wird in der Sicherungsschicht die Steuerung des Medienzugriffs erreicht?	Alle Computer werden zu einem Bus verbunden
 Was ist die Aufgabe des Empfängers auf der Sicherungsschicht?	Entscheiden, ob eine Nachricht für ihn bestimmt ist.
 Welche Arten von Netzwerktopologien gibt es?	• Punkt-zu-Punkt / • Kette / • Stern / • Vermaschung / • Baum / • Bus
+Wie erhält man die Matrix, welche die Kosten eines kürzesten Pfads zwischen zwei Knoten enthält?	Man potenziert die Distanzmatrix über das min-plus-Produkt.
+Was ist der minimale Wert für die Potenz der Distanzmatrix für eine akkurate Pfaddistanzmatrix?	Länge des längsten einfachen Pfades im Netzwerk (nach oben begrenzt durch die Anzahl der Knoten im Graph).
+Definition Shortest Path Tree	Baum, der alle Knoten in einem Graph mit minimalen Pfadkosten verbindet
+Definition Minimum Spanning Tree	Baum, der alle Knoten in einem Graph mit minimalen Gesamtkosten verbindet
+Eigenschaften von Verbindungen zwischen zwei Knoten	Übertragungsrate / • Übertragungsverzögerung / • Übertragungsrichtung / • Mehrfachzugriff (Multiplexing)
+Definition Serialisierungs	Die notwendige Zeit, um L Datenbits auf ein Übertragungsmedium zu legen.

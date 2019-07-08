@@ -1,6 +1,6 @@
 2019-06-28	2	6.0	2.7	Kategorien von Krankheitsursachen	Endogene Ursachen / Exogene Ursachen
 2019-06-28	2	6.0	2.38	Endogene Ursachen von Krankheiten	Genetische Defekte / Immunologische Faktoren / Psychische Faktoren
-2019-06-28	2	6.0	2.04	Exogene Ursachen von Krankheiten	Physikalische Ursachen (Hitze, Kälte, Strahlen) / Chemische Ursachen (Säure, Laugen, Gifte) / Mikroorganismen (Viren, Bakterien, Pilze) / Trauma / Ernährungsstörungen
+2019-07-07	3	11.4	1.9	Exogene Ursachen von Krankheiten	Physikalische Ursachen (Hitze, Kälte, Strahlen) / Chemische Ursachen (Säure, Laugen, Gifte) / Mikroorganismen (Viren, Bakterien, Pilze) / Trauma / Ernährungsstörungen
 2019-06-28	2	6.0	1.82	Arten von Krankheitsverläufen	Akut / Inapparent / Chronisch / Rezidivierend / Latent / Remission / Exazerbation
 2019-06-28	2	6.0	2.5	Krankheitsverlauf Eigenschaften: Akut	schnell, heftig, plötzlich
 2019-06-28	2	6.0	2.5	Krankheitsverlauf Eigenschaften: Inapparent	unbemerkt
@@ -8,7 +8,7 @@
 2019-06-29	1	1.0	1.3	Krankheitsverlauf Eigenschaften: Rezidivierend	Rückfall, wiederauftretend
 2019-06-29	1	1.0	1.5	Krankheitsverlauf Eigenschaften: Latent	schlummernd, verborgene Erkrankung ohne Krankheitserscheinung, die wieder manifest werden kann
 2019-06-28	2	6.0	1.96	Krankheitsverlauf Eigenschaften: Remission	vorübergehendes Verschwinden od. Rückgang der Krankheitserscheinung
-2019-06-29	1	1.0	1.96	Krankheitsverlauf Eigenschaften: Exazerbation	Verschlimmerung bestehender Krankheitssymptome
+2019-07-07	2	6.0	2.06	Krankheitsverlauf Eigenschaften: Exazerbation	Verschlimmerung bestehender Krankheitssymptome
 2019-06-29	1	1.0	1.82	Arten chronischer Krankheitsverläufe	chronisch progredient / chronisch kontinuierlich / chronisch rezidivierend
 2019-06-29	1	1.0	2.18	Krankheitsverlauf: Chronisch progredient	fortschreitend bis zum Tod
 2019-06-29	2	6.0	2.5	Krankheitsverlauf: Chronisch kontinuierlich	gleichmäßig u. langsam fortschreitend
@@ -92,3 +92,94 @@
 2019-06-27	0	1.0	2.5	Bildungsort von Insulin	β-Zellen in den Pankreas
 2019-06-27	0	1.0	2.5	Symptome Diabetes Typ 1	Starker Durst / Erhöhtes Urinvolumen
 2019-06-27	0	1.0	2.5	Risikofaktoren Diabetes	• Adipositas / • Bewegungsmangel / • Fettstoffwechselstörungen / • Genetische Prädisposition
+2019-07-08	0	1	2.5	Anwendung Tumormarker	Therapie- und Verlaufskontrolle / Anwendung in der Diagnostik
+2019-07-08	0	1	2.5	Arten der Herzinsuffizienz	• Kompensierte Herzinsuffizienz / • Dekompensierte Herzinsuffizienz
+2019-07-08	0	1	2.5	Arten von Schlaganfällen	Ischämischer Infarkt / Hämorrhagischer Infarkt
+2019-07-08	0	1	2.5	Bösartiger Tumor Alter Patient	Ältere Menschen
+2019-07-08	0	1	2.5	Bösartiger Tumor Metastasenvorkommen	Häufig
+2019-07-08	0	1	2.5	Bösartiger Tumor Rezidive	Häufig
+2019-07-08	0	1	2.5	Bösartiger Tumor Symptomzahl	Symptomreich
+2019-07-08	0	1	2.5	Bösartiger Tumor Verlauf	Kurz, tödlich
+2019-07-08	0	1	2.5	Charakteristika dekompensierte Herzinsuffizienz	• Unzureichende Pumpleistung / • Symptomatik auch im Ruhezustand
+2019-07-08	0	1	2.5	Charakteristika kompensierte Herzinsuffizienz	• Pumpleistung wird aufrechterhalten / • Symptomatik nur bei Belastung
+2019-07-08	0	1	2.5	Definition Arteriosklerose	Arterienerkrankungen führen zu Verdickung, Verhärtung und Elastizitätsverlust der Gefaßwand
+2019-07-08	0	1	2.5	Definition Atherosklerose	Anhäufung von Atheromen (Fette, Bindegewebe, Kohlenhydrate) in einem Gefäß
+2019-07-08	0	1	2.5	Definition Embolie	Gefäßverschluss durch Verschleppung von nicht löslichem Material
+2019-07-08	0	1	2.5	Definition Herzinfarkt	Tod von Herzmuskelgewebe: Arteriosklerose → Verschluss der Herzkranzarterie → Sauerstoffmangel im Herz
+2019-07-08	0	1	2.5	Definition Herzinsuffizienz	Funktionsstörung des Herzens mit eingeschränkter körperlicher Belastbarkeit (ungenügende Sauerstoffversorgung)
+2019-07-08	0	1	2.5	Definition Koronare Herzkrankheit	Minderdurchblutung des Herzmuskels aufgrund verengter Herzkranzgefäße
+2019-07-08	0	1	2.5	Definition Krebs	Allgemeine Bezeichnung für bösartige Tumoren
+2019-07-08	0	1	2.5	Definition Metastasierung	Verschleppung von Tumorzellen zu entfernten Körperstellen mit Bildung von Tochtertumoren
+2019-07-08	0	1	2.5	Definition Schlaganfall	Durchblutungsstörung im Gehirn → Unterversorgung mit Sauerstoff und Nährstoffen
+2019-07-08	0	1	2.5	Definition TNM-Klassifikation	Anatomisch basierte Beschreibung des Primärtumors und dessen Ausbreitung im Körper nach dem TNM-Schema sowie des Krankheitsverlaufs
+2019-07-08	0	1	2.5	Definition Thrombose	Erkrankung aufgrund eines Gefäßverschlusses durch Blutgerinnselbildung
+2019-07-08	0	1	2.5	Definition Tumormarker	Proteine, die von Tumorzellen unter abnormen Bedingungen produziert werden
+2019-07-08	0	1	2.5	Eigenschaft dilative Herzinsuffizienz	Erschlafftes Myokard
+2019-07-08	0	1	2.5	Eigenschaft hypertrophe Herzinsuffizienz	Verdicktes Myokard
+2019-07-08	0	1	2.5	Expansion KHK	Koronare Herzkrankheit
+2019-07-08	0	1	2.5	Expansion TNM	T: Primärtumor (Größe, Infiltration) / N: Nodaler Befall (Zustand der regionären Lymphknoten) / M: Metastasenbildung
+2019-07-08	0	1	2.5	Folgeerkrankungen der KHK	Herzrhythmusstörungen / Herzinfarkt / Herzinsuffizienz / Plötzlicher Herztod
+2019-07-08	0	1	2.5	Folgen von Arteriosklerose	Gefäßverengung, Gefäßverschluss, Gefäßwandläsion
+2019-07-08	0	1	2.5	Funktionsweise Bypass-Operation bei Herzinfarkt	Umgehung der Stenose mittels einer anderswo entnommenen Vene oder Brustarterie
+2019-07-08	0	1	2.5	Funktionsweise Chemotherapie	Verhinderung der Zellteilung von Tumorzellen
+2019-07-08	0	1	2.5	Funktionsweise Hormontherapie	Ausschaltung körpereigener Hormone hemmt die Ausbreitung hormonabhängiger Tumore
+2019-07-08	0	1	2.5	Funktionsweise Hyperthermie	Zerstörung von Tumorzellen durch Erhöhen der Körpertemperatur
+2019-07-08	0	1	2.5	Funktionsweise Immuntherapie	Aktivierung des Immunsystems zur Abtötung von Tumorzellen
+2019-07-08	0	1	2.5	Funktionsweise Perkutane transluminale coronare Angioplastie bei Herzinfarkt	Aufdehnung von Stenosen durch Ballon
+2019-07-08	0	1	2.5	Funktionsweise Strahlentherapie	Zerstörung von Tumorzellen durch ionisierte, elektromagnetische Strahlung
+2019-07-08	0	1	2.5	Funktionsweise Thrombektomie bei Herzinfarkt	Entfernung eines Blutgerinnsels durch Absaugen oder Zerkleinern mithilfe spezieller Instrumente
+2019-07-08	0	1	2.5	Gibt es Metastasen bei Benignen Tumoren?	Nein.
+2019-07-08	0	1	2.5	Gibt es Metastasen bei Malignen Tumoren?	Potentiell ja.
+2019-07-08	0	1	2.5	Gutartiger Tumor Alter Patient	Jugendliche/mittleres Lebensalter
+2019-07-08	0	1	2.5	Gutartiger Tumor Metastasenvorkommen	Fehlend
+2019-07-08	0	1	2.5	Gutartiger Tumor Rezidive	Rarität
+2019-07-08	0	1	2.5	Gutartiger Tumor Symptomzahl	Syomptomarm
+2019-07-08	0	1	2.5	Gutartiger Tumor Verlauf	Lang, nicht tödlich
+2019-07-08	0	1	2.5	Heilungsmethoden Benigner Tumor	Chirurgische Exzision
+2019-07-08	0	1	2.5	Heilungsmethoden Maligner Tumor	Chirurgische Exzision
+2019-07-08	0	1	2.5	Histologie Benigner Tumor	• Tumorgewebe ähnlich zu Ursprungsgewebe
+2019-07-08	0	1	2.5	Histologie Maligner Tumor	• Verlust der Ähnlichkeit zum Ursprungsgewebe / • Zellatypien
+2019-07-08	0	1	2.5	Instabile Angina pectoris Eigenschaften	• Zunahme der Anfallsdauer und Intensität / • Auftreten von Beschwerden in Ruhe / • Nitroglyzerin hilft nicht
+2019-07-08	0	1	2.5	Leitsymptom Linksherzinsuffizienz	Atemnot
+2019-07-08	0	1	2.5	Leitsymptom Rechtsherzinsuffizienz	Ödeme
+2019-07-08	0	1	2.5	Letalität verschiedene Arten von Schlaganfällen	Ischämischer Infarkt: 20% / Hämorrhagischer Infarkt: 80%
+2019-07-08	0	1	2.5	Lokale Ausbreitung Benigner Tumor	• zusammenhängend, begrenzt / • expansives, verdrängendes Wachstum / • fibröse Tumorkapsel
+2019-07-08	0	1	2.5	Lokale Ausbreitung Maligner Tumor	• schlecht begrenzter Tumor / • invasives, destruierendes Wachstum
+2019-07-08	0	1	2.5	Medikamentöse Therapie bei Herzinfarkt Funktionsweise	Auflösung eines Blutgerinnsels durch ein Medikament
+2019-07-08	0	1	2.5	Metastasierungsorte	Knochen, Lunge, Leber
+2019-07-08	0	1	2.5	Nenne die Dignitätskriterien eines Tumors	Wachstumsrate / Lokale Ausbreitung / Histologie / Umgebendes Gewebe / Klinik / Metastasierung
+2019-07-08	0	1	2.5	Nenne die Ursache eines hämorrhagischen Schlaganfalls.	Eine intrazerebrale Massenblutung tritt aufgrund von Arteriosklerose/Aneurysma auf.
+2019-07-08	0	1	2.5	Nenne die Ursache eines ischämischen Schlaganfalls.	Es gibt eine arterielle Durchblutungsstörung, hervorgerufen durch arteriosklerotische Veränderungen
+2019-07-08	0	1	2.5	Reperfusionstherapie bei Herzinfarkt	Wiederherstellung der Durchblutung im Infarktgebiet
+2019-07-08	0	1	2.5	Risikofaktoren für Krebs	Familiäre Disposition / Hormonelle Faktoren / Lebensalter / Lebensstil / Umweltfaktoren (Karzinogene)
+2019-07-08	0	1	2.5	Stabile Angina pectoris Eigenschaften	• Verschwinden der Symptome in Ruhe / • Besserung der Symptome durch Nitroglyceringabe / • Reproduzierbare Beschwerden
+2019-07-08	0	1	2.5	Symptom der KHK	Brustenge
+2019-07-08	0	1	2.5	Symptome Embolie	• Blässe / • Gefühlsstörung / • Pulslosigkeit / • Lähmung / • Schmerz / • Schock
+2019-07-08	0	1	2.5	Symptome Linksherzinsuffizienz	• Atemnot / • Zyanose / • Lungenödem
+2019-07-08	0	1	2.5	Symptome Rechtsherzinsuffizienz	Prätibiale Ödeme / • Halsvenenstauung / • Beinödeme / • Lebervergrößerung / • nächtliches Wasserlassen
+2019-07-08	0	1	2.5	Symptome Schlaganfall	• einseitige Lähmungserscheinungen/Gefühlstörungen/Sehstörungen / • Sprachstörungen / • einseitige Kopfschmerzen / Sprachverständisprobleme
+2019-07-08	0	1	2.5	TNM-Klassifikation Bedeutung pM0	Keine Fernmetastasen
+2019-07-08	0	1	2.5	TNM-Klassifikation Bedeutung pM1	Fernmetastasen
+2019-07-08	0	1	2.5	TNM-Klassifikation Bedeutung pMX	Vorliegen von Fernmetastasen kann nicht bestimmt werden
+2019-07-08	0	1	2.5	TNM-Klassifikation Bedeutung pN0	Kein Befall regionärer Lymphknoten
+2019-07-08	0	1	2.5	TNM-Klassifikation Bedeutung pN1, pN2, pN3, pN4	Zunehmender Befall regionärer Lymphknoten
+2019-07-08	0	1	2.5	TNM-Klassifikation Bedeutung pNX	Befall regionärer Lymphknoten kann nicht genau bestimmt werden
+2019-07-08	0	1	2.5	TNM-Klassifikation Bedeutung pT0	Keine histologische Evidenz für einen Primärtumor
+2019-07-08	0	1	2.5	TNM-Klassifikation Bedeutung pT1, pT2, pT3, pT4	zunehmende Ausbreitung des Primärtumors
+2019-07-08	0	1	2.5	TNM-Klassifikation Bedeutung pTX	Lokale Tumorausbreitung kann histopathologisch nicht bestimmt werden
+2019-07-08	0	1	2.5	TNM-Klassifikation Bedeutung pTis	Präinvasives Karzinom (Carcinoma in situ)
+2019-07-08	0	1	2.5	Therapieformen bei Krebs	• Operation / • Chemotherapie / • Strahlentherapie / • Hormontherapie / • Hyperthermie / • Immuntherapie / • Zielgerichtete Therapie / • Palliativmedizin
+2019-07-08	0	1	2.5	Umgebendes Gewebe Benigner Tumor Folgen	• Kompression / • Druckatrophie
+2019-07-08	0	1	2.5	Umgebendes Gewebe Maligner Tumor Folgen	• Invasion / • Destruktion
+2019-07-08	0	1	2.5	Ursachen Linksherzinsuffizienz	• Herzinfarkt / • Klappenfehler / • Hypertonie
+2019-07-08	0	1	2.5	Ursachen Rechtsherzinsuffizienz	• Linksherzinsuffizienz / • Lungenerkrankungen
+2019-07-08	0	1	2.5	Ursachen von Thrombose	Gefäßwandläsion, Strömungsverlangsamung, Erhöhte Blutgerinnungsneigung
+2019-07-08	0	1	2.5	Verschiedene Symptomarten der KHK	Stabile Angina Pectoris / Instabile Angina pectoris
+2019-07-08	0	1	2.5	Voraussetzungen Stadium I TNM-Klassifikation	T1/T2, N0, M0
+2019-07-08	0	1	2.5	Voraussetzungen Stadium II TNM-Klassifikation	T3/T4, N0, M0
+2019-07-08	0	1	2.5	Voraussetzungen Stadium III TNM-Klassifikation	T*, N1/N2, M0
+2019-07-08	0	1	2.5	Voraussetzungen Stadium IV TNM-Klassifikation	T*, N*, M1
+2019-07-08	0	1	2.5	Wachstumsrate Benigner Tumor	• langsam wachsend / • Mitosefiguren selten
+2019-07-08	0	1	2.5	Wachstumsrate Maligner Tumor	• langsam bis schnell wachsend / • Mitosefiguren häufig / • atypische Mitosen
+2019-07-08	0	1	2.5	Warum sind Tumormarker wichtig?	Weil sie im Serum Gesunder nicht oder nur in extrem niedrigen Mengen nachweisbar sind
+2019-07-08	0	1	2.5	Wie häufig kommen die verschiedenen Arten von Schlaganfällen vor?	Ischämischer Infarkt: 85% / Hämorrhagischer Infarkt: 15%

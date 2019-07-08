@@ -7,61 +7,61 @@
 2019-07-06	3	15.6	2.6	Expansion PCI	Protocol Control Information: Häufig in Form eines Headers/Trailers
 2019-07-06	3	16.2	2.7	Expansion PDU	Protocol Data Unit: Verbindung von PCI und SDU
 2019-07-03	2	6.0	1.92	Erkläre den Begriff N-IDU.	Die Daten, die die Schicht N+1 an die Schicht N weitergibt
-2019-07-06	0	12.9888	1.32	Welchen Bezug haben N-IDU, N-SDU und N-ICI?	Die N-IDU wird in die N-SDU und die N-ICI aufgespalten.
-2019-07-06	1	1	2.28	Erkläre den Begriff N-SDU.	Nutzdaten für die N-te Schicht.
-2019-07-06	1	1	2.04	Erkläre den Begriff N-ICI.	Kontrollinformationen, die für den Dinst auf Schicht N notwendig sind (Länge der SDU und Adressinformationen).
-2019-07-06	2	6	1.9	Erkläre den Begriff N-PCI.	Die Daten, die für die N-te Schicht auf der anderen Seite hinzugefügt werden / (wird häufig als Header vorangestellt).
-2019-07-06	1	1	1.86	Welchen Bezug haben N-PCI, N-PDU und N-SDU?	Die N-PCI und die N-SDU werden in die N-PDU zum Transport zusammengefasst.
-2019-07-06	2	6	1.5	Erkläre den Begriff N-PDU.	Der Payload, der mit der (N-1)-ICI etikettiert wird und dann als (N-1)-IDU / über die Schicht N-1 transportiert wird.
+2019-07-08	1	1	1.4	Welchen Bezug haben N-IDU, N-SDU und N-ICI?	Die N-IDU wird in die N-SDU und die N-ICI aufgespalten.
+2019-07-08	2	6	2.14	Erkläre den Begriff N-SDU.	Nutzdaten für die N-te Schicht.
+2019-07-08	1	1	1.36	Erkläre den Begriff N-ICI.	Kontrollinformationen, die für den Dinst auf Schicht N notwendig sind (Länge der SDU und Adressinformationen).
+2019-07-06	2	6.0	1.9	Erkläre den Begriff N-PCI.	Die Daten, die für die N-te Schicht auf der anderen Seite hinzugefügt werden / (wird häufig als Header vorangestellt).
+2019-07-08	2	6	1.86	Welchen Bezug haben N-PCI, N-PDU und N-SDU?	Die N-PCI und die N-SDU werden in die N-PDU zum Transport zusammengefasst.
+2019-07-06	2	6.0	1.5	Erkläre den Begriff N-PDU.	Der Payload, der mit der (N-1)-ICI etikettiert wird und dann als (N-1)-IDU / über die Schicht N-1 transportiert wird.
 2019-07-03	2	6.0	2.5	Gib Beispiele für die Namen der PDU auf 2 Schicthen an.	Beispiele: Segmente, Pakete, Rahmen
-2019-07-06	2	6	2.6	Segment wird auf der _schicht verwendet	Transportschicht
+2019-07-06	2	6.0	2.6	Segment wird auf der _schicht verwendet	Transportschicht
 2019-07-03	2	6.0	1.4	Paket wird auf der _schicht verwendet	Vermittlungsschicht
-2019-07-06	1	1	1.4	Rahmen wird auf der _schicht verwendet	Sicherungsschicht
-2019-07-06	2	6	1.4	Die Transportschicht verwendet _	Segmente
-2019-07-06	2	6	1.42	Die Sicherungsschicht verwendet _	Rahmen
+2019-07-08	1	1	1.3	Rahmen wird auf der _schicht verwendet	Sicherungsschicht
+2019-07-06	2	6.0	1.4	Die Transportschicht verwendet _	Segmente
+2019-07-06	2	6.0	1.42	Die Sicherungsschicht verwendet _	Rahmen
 2019-07-03	2	6.0	2.46	Die Vermittlungsschicht verwendet _	Pakete
-2019-07-06	2	6	2.36	Definition Bedingte Entropie	Verbleibende Unsicherheit über Y, wenn X bekannt sind: H(Y|X)
-2019-07-06	1	1	1.4	Formel bedingte Entropie	H(Y|X)=sum(x∈X;p(x)*H(Y|X=x))=-sum(x∈Xp(x)*sum(y∈Y;p(y|x)*log₂(p(y|x)))
-2019-07-06	2	6	1.96	Definition Informationsgehalt eines Zeichens	Wie viel Information durch das Zeichen übertragen wird / (Je seltener ein Zeichen ist, desto höher sein Informationsgehalt)
-2019-07-06	1	1	2.06	Definition Entropie	Der mittlere Informationsgehalt einer Quelle
-2019-07-06	2	6	1.96	Definition Information	Unsicherheit, Veränderung eines Signals vorherzusagen
-2019-07-06	2	6	2.46	Definition Verbundentropie	Addition der Quellenentropie H(x) mit dem von dieser Quelle / statistisch unabhängigen Anteil H(Y|X) einer anderen Quelle
-2019-07-06	1	1	1.3	Formel Verbundentropie	H(X,Y)=H(X)+H(Y|X)
-2019-07-06	1	1	2.5	Definition Transinformation	Die von Sender zu Empfänger über einen gedächtnislosen Kanal transportierte Information
-2019-07-06	1	1	1.96	Formel Transinformation	I(X;Y)=H(X)-H(X|Y)=H(Y)-H(Y|X) / Sendeentropie H(X), Fehlentropie H(Y|X), Informationsverlust H(X|Y)
-2019-07-06	1	1	2.36	Die transportierte Information entspricht _ abzüglich _	Sendeentropie – Informatiensverlust / Empfangsentropie – Fehlinformation
-2019-07-06	1	1	2.5	Definition Bedeutung von Information	Abbildung zwischen Symbolen und Daten (Interpretationsvorschrift)
-2019-07-06	1	1	2.36	Was bedeutet Zeitdiskretisierung?	In regelmäßigen Zeitabständen werden Samples genommen.
-2019-07-06	1	1	2.5	Was bedeutet Quantisierung?	Kontinuierliche Signale werden gerundet.
-2019-07-06	1	1	2.06	Wozu benutzt man Kanalkodierung?	Zur Fehlererkennung/Fehlerkodierung.
-2019-07-06	0	3.2144	1.64	Was bedeutet Leitungskodierung?	Festlegung von Abbildungsvorschriften und Interpretationsvorschriften für die / Datenübertragung.
-2019-07-06	1	1	2.36	Welche Arten von Störfaktoren gibt es bei der Signalübertragung?	• Rauschen / • Dämpfung / • Verzerrung
-2019-07-06	1	1	2.5	Beschreibung Fourierreihe	Darstellung periodischer Funktionen in ℝ als Überlagerung von Sinus- und Kosinusschwingungen unterschiedlicher Frequenz
-2019-07-06	1	1	2.36	Unterschied Fourierreihe und Fouriertransformation	Fourierreihe für periodische Signale, Fouriertransformation für nicht-periodische Signale (kontinuierliches Spektrum)
-2019-07-06	1	1	2.06	Fourier-Transformation Signaleigenschaft Punktsymmetrie zu (T/2, 0) Vereinfachung	a₀=0
-2019-07-06	1	1	2.28	Bedeutung Analyse (Signaldarstellung (z.B. Fouriertransformation))	Signale werden in ihre spektralen Bestandteile zerlegt
-2019-07-06	0	2.7832	1.42	Bedeutung (Signaldarstellung (z.B. Fouriertransformation))	Signale werden aus spektralen Bestandteilen generiert
-2019-07-06	1	1	2.6	Eigenschaften von physikalischen Signalen	Zeitkontinuierlich, Wertkontinuierlich
-2019-07-06	1	1	2.06	Diskretisierung von Signalen durch _	• Abtastung (Zeitbereich) / • Quantisierung (Wertbereich)
-2019-07-06	0	3.5752	1.64	Rekonstruktion des ursprünglichen Signals	Abtastwerte werden als Stützstellen für Interpolation verwendet
-2019-07-06	1	1	2.06	Wann ist verlustfreie Rekonstrukion möglich?	Wenn die Abtastfrequenz einen bestimmten Wert fₐ>2B überschreitet / B ist Frequenz des Basisbandes (des ursprünglichen transformierten Signals)
-2019-07-06	1	1	2.5	Was passiert, wenn fₐ kleiner als die geringste nötige Frequenz ist?	Die periodischen Wiederholungen des Spektrums überlappen sich, Effekt Aliasing -> keine verlustfreie Rekonstruktion.
-2019-07-06	0	3.2144	1.64	Abtasttheorem von Shannon und Nyquist	Ein auf |f|≤B bandbegrenztes Signal s(t) ist vollständig durch äquidistante Abtastwerte ŝ[n] beschrieben, / sofern diese nicht weiter als T_{a}≤½B auseinanderliegen / B: Bandbreite
-2019-06-27	0	1.0	2.5	Unter welchen Bedingungen kann ein natürlich vorkommendes Signal aus abgetasteten und quantisierten Werten verlustfrei rekonstruiert werden?	Falls die Abtastfrequenz fₐ>2B ist (Basisfrequenz B).
-2019-06-27	0	1.0	2.5	Unter welchen Umständen sollte ein Signal linear quantisiert werden?	Wenn die alle Symbole gleich wahrscheinlich sind.
-2019-06-27	0	1.0	2.5	Wie verteilen sich quantisierte Signale um die 0 herum?	Die 0 ist keine Signalgrenze, sondern liegt in der Mitte zweier Quantisierungsgrenzen.
-2019-06-27	0	1.0	2.5	Definition Nyquist-Rate	Minimale Abtastrate, mithilfe der eine vollständige Rekonstruktion eines Signals möglich ist / Obere Schrank für Symbole pro Zeiteinheit, die ausgelesen werden können
-2019-06-27	0	1.0	2.5	Definition Tiefpass	Niedrige Frequenzen passieren ungehindert, hohe werden gedämpft (bis hin zur Sperrung)
-2019-06-27	0	1.0	2.5	Was sind die relevanten Variablen für die Bestimmung der maximalen Datenrate?	Kanalbandbreite B, Anzahl M unterscheidbarer Signalstufen, Signal-to-Noise ratio
-2019-06-27	0	1.0	2.5	Was beschreibt Hartleys Gesetz?	Die Kanalkapazität in Abhängigkeit von Basisbandfrequenz und Anzahl unterscheidbarer Signalstufen.
-2019-06-27	0	1.0	2.5	Definition Signalleistung	Erwartungswert des Quadrats der Signalamplitude
-2019-06-27	0	1.0	2.5	Formel Signalleistung	P_{Y}=Var[Y], Y ist Signalwert
-2019-06-27	0	1.0	2.5	Was beschreibt das Shannon-Hartley-Theorem?	Bestimmung der Datenrate durch SNR und Basisfrequenz
-2019-06-27	0	1.0	2.5	Was bedeutet das Symbol C_{S} genau?	Die Datenrate eines Kanals mit additivem Rauschen, ohne Quantisierungsfehler.
-2019-06-27	0	1.0	2.5	Was bedeutet das Symbol C_{H} genau?	Die Datenrate eines Kanals mit Quantisierungsfehlern, ohne Kanaleinflüsse.
-2019-06-27	0	1.0	2.5	Stufen in der Nachrichtenübertragung	Digital Daten –(Quellenkodierung)→ / Codewörter –(Kanalkodierung)→ / Kanalwörter –(Leitungskodierung)→ / Basisbandimpulse –(Modulation)→ / Übertragung über den Kanal
-2019-06-27	0	1.0	2.5	Definition Quellenkodierung	Abbildung von Bitsequenzen auf Codewörter zur Vermeidung von Redundanz
-2019-06-27	0	1.0	2.5	In welcher Schicht des OSI-Modells findet die Quellenkodierung statt?	Quellenkodierung kann in allen Schichten statfinden, sowohl in niedrigen als auch in hohen (Dateiformat vs. Run-Length-Encoding)
+2019-07-06	2	6.0	2.36	Definition Bedingte Entropie	Verbleibende Unsicherheit über Y, wenn X bekannt sind: H(Y|X)
+2019-07-08	2	6	1.4	Formel bedingte Entropie	H(Y|X)=sum(x∈X;p(x)*H(Y|X=x))=-sum(x∈Xp(x)*sum(y∈Y;p(y|x)*log₂(p(y|x)))
+2019-07-06	2	6.0	1.96	Definition Informationsgehalt eines Zeichens	Wie viel Information durch das Zeichen übertragen wird / (Je seltener ein Zeichen ist, desto höher sein Informationsgehalt)
+2019-07-08	2	6	2.06	Definition Entropie	Der mittlere Informationsgehalt einer Quelle
+2019-07-06	2	6.0	1.96	Definition Information	Unsicherheit, Veränderung eines Signals vorherzusagen
+2019-07-06	2	6.0	2.46	Definition Verbundentropie	Addition der Quellenentropie H(x) mit dem von dieser Quelle / statistisch unabhängigen Anteil H(Y|X) einer anderen Quelle
+2019-07-08	1	1	1.3	Formel Verbundentropie	H(X,Y)=H(X)+H(Y|X)
+2019-07-08	2	6	2.5	Definition Transinformation	Die von Sender zu Empfänger über einen gedächtnislosen Kanal transportierte Information
+2019-07-08	2	6	1.82	Formel Transinformation	I(X;Y)=H(X)-H(X|Y)=H(Y)-H(Y|X) / Sendeentropie H(X), Fehlentropie H(Y|X), Informationsverlust H(X|Y)
+2019-07-08	2	6	2.46	Die transportierte Information entspricht _ abzüglich _	Sendeentropie – Informatiensverlust / Empfangsentropie – Fehlinformation
+2019-07-08	2	6	2.5	Definition Bedeutung von Information	Abbildung zwischen Symbolen und Daten (Interpretationsvorschrift)
+2019-07-08	2	6	2.36	Was bedeutet Zeitdiskretisierung?	In regelmäßigen Zeitabständen werden Samples genommen.
+2019-07-08	2	6	2.6	Was bedeutet Quantisierung?	Kontinuierliche Signale werden gerundet.
+2019-07-08	2	6	2.16	Wozu benutzt man Kanalkodierung?	Zur Fehlererkennung/Fehlerkodierung.
+2019-07-08	0	5.432336	1.3	Was bedeutet Leitungskodierung?	Festlegung von Abbildungsvorschriften und Interpretationsvorschriften für die / Datenübertragung.
+2019-07-08	2	6	2.22	Welche Arten von Störfaktoren gibt es bei der Signalübertragung?	• Rauschen / • Dämpfung / • Verzerrung
+2019-07-08	2	6	2.5	Beschreibung Fourierreihe	Darstellung periodischer Funktionen in ℝ als Überlagerung von Sinus- und Kosinusschwingungen unterschiedlicher Frequenz
+2019-07-08	2	6	2.36	Unterschied Fourierreihe und Fouriertransformation	Fourierreihe für periodische Signale, Fouriertransformation für nicht-periodische Signale (kontinuierliches Spektrum)
+2019-07-08	2	6	2.16	Fourier-Transformation Signaleigenschaft Punktsymmetrie zu (T/2, 0) Vereinfachung	a₀=0
+2019-07-08	2	6	2.28	Bedeutung Analyse (Signaldarstellung (z.B. Fouriertransformation))	Signale werden in ihre spektralen Bestandteile zerlegt
+2019-07-08	1	1	1.42	Bedeutung (Signaldarstellung (z.B. Fouriertransformation))	Signale werden aus spektralen Bestandteilen generiert
+2019-07-08	2	6	2.7	Eigenschaften von physikalischen Signalen	Zeitkontinuierlich, Wertkontinuierlich
+2019-07-08	2	6	2.06	Diskretisierung von Signalen durch _	• Abtastung (Zeitbereich) / • Quantisierung (Wertbereich)
+2019-07-08	1	1	1.3	Rekonstruktion des ursprünglichen Signals	Abtastwerte werden als Stützstellen für Interpolation verwendet
+2019-07-08	2	6	2.06	Wann ist verlustfreie Rekonstrukion möglich?	Wenn die Abtastfrequenz einen bestimmten Wert fₐ>2B überschreitet / B ist Frequenz des Basisbandes (des ursprünglichen transformierten Signals)
+2019-07-08	2	6	2.5	Was passiert, wenn fₐ kleiner als die geringste nötige Frequenz ist?	Die periodischen Wiederholungen des Spektrums überlappen sich, Effekt Aliasing -> keine verlustfreie Rekonstruktion.
+2019-07-08	1	1	1.3	Abtasttheorem von Shannon und Nyquist	Ein auf |f|≤B bandbegrenztes Signal s(t) ist vollständig durch äquidistante Abtastwerte ŝ[n] beschrieben, / sofern diese nicht weiter als T_{a}≤½B auseinanderliegen / B: Bandbreite
+2019-07-08	1	1	2.5	Unter welchen Bedingungen kann ein natürlich vorkommendes Signal aus abgetasteten und quantisierten Werten verlustfrei rekonstruiert werden?	Falls die Abtastfrequenz fₐ>2B ist (Basisfrequenz B).
+2019-07-08	1	1	1.96	Unter welchen Umständen sollte ein Signal linear quantisiert werden?	Wenn die alle Symbole gleich wahrscheinlich sind.
+2019-07-08	1	1	2.5	Wie verteilen sich quantisierte Signale um die 0 herum?	Die 0 ist keine Signalgrenze, sondern liegt in der Mitte zweier Quantisierungsgrenzen.
+2019-07-08	1	1	2.06	Definition Nyquist-Rate	Minimale Abtastrate, mithilfe der eine vollständige Rekonstruktion eines Signals möglich ist / Obere Schrank für Symbole pro Zeiteinheit, die ausgelesen werden können
+2019-07-08	1	1	2.5	Definition Tiefpass	Niedrige Frequenzen passieren ungehindert, hohe werden gedämpft (bis hin zur Sperrung)
+2019-07-08	1	1	2.04	Was sind die relevanten Variablen für die Bestimmung der maximalen Datenrate?	Kanalbandbreite B, Anzahl M unterscheidbarer Signalstufen, Signal-to-Noise ratio
+2019-07-08	0	2.7832	1.42	Was beschreibt Hartleys Gesetz?	Die Kanalkapazität in Abhängigkeit von Basisbandfrequenz und Anzahl unterscheidbarer Signalstufen.
+2019-07-08	1	1	2.06	Definition Signalleistung	Erwartungswert des Quadrats der Signalamplitude
+2019-07-08	1	1	2.06	Formel Signalleistung	P_{Y}=Var[Y], Y ist Signalwert
+2019-07-08	0	1.96	1.96	Was beschreibt das Shannon-Hartley-Theorem?	Bestimmung der Datenrate durch SNR und Basisfrequenz
+2019-07-08	0	1.96	1.96	Was bedeutet das Symbol C_{S} genau?	Die Datenrate eines Kanals mit additivem Rauschen, ohne Quantisierungsfehler.
+2019-07-08	0	1.96	1.96	Was bedeutet das Symbol C_{H} genau?	Die Datenrate eines Kanals mit Quantisierungsfehlern, ohne Kanaleinflüsse.
+2019-07-08	0	1.96	1.96	Stufen in der Nachrichtenübertragung	Digital Daten –(Quellenkodierung)→ / Codewörter –(Kanalkodierung)→ / Kanalwörter –(Leitungskodierung)→ / Basisbandimpulse –(Modulation)→ / Übertragung über den Kanal
+2019-07-08	0	2.18	2.18	Definition Quellenkodierung	Abbildung von Bitsequenzen auf Codewörter zur Vermeidung von Redundanz
+2019-07-08	0	2.18	2.18	In welcher Schicht des OSI-Modells findet die Quellenkodierung statt?	Quellenkodierung kann in allen Schichten statfinden, sowohl in niedrigen als auch in hohen (Dateiformat vs. Run-Length-Encoding)
 2019-06-27	0	1.0	2.5	Definition Kanalkodierung	Hinzufügen von Redundanz zu übertragenden Daten zur Erkennung & Korrektur von Bitfehlern
 2019-06-27	0	1.0	2.5	Methoden für die Kanalkodierung	• Prüfsummen / • Quittungsprotokolle
 2019-06-27	0	1.0	2.5	Auf welchen Schichten findet Kanalkodierung statt?	2 (Sicherungsschicht), 4 (Transportschicht), 7 (Anwendungsschicht)
@@ -108,3 +108,12 @@
 2019-07-04	0	1.0	2.5	Vorteile optischer Leiter zu elektrischen Leitern	• Hohe Datenraten / • Weiter Strecken überbrückbar / • Kein Übersprechen / • Entkopplung von Sendern/Empfänger
 2019-07-04	0	1.0	2.5	Welchen Einfluss hat Schirmung auf Kabel?	Signalqualität (Vermeiden von Übersprechen elektr. Leitungen) / Flexibilität von Kabeln (gute Schirmung → steifer)
 2019-07-04	0	1.0	2.5	Wie funktioniert ein optischer Leiter?	Leiter aus Kern&Mantel, die unterschiedliche optische Dichten besitzen / → Totalreflexion am Mantel
+2019-07-08	0	1	2.5	Definition Direktverbindungsnetzwerk	• Alle angeschlossenen Knoten sind direkt erreichbar / • All angeschlossenen Knoten werden mittels einfacher Adressen auf Schicht 2 identifiziert / • Keine Vermittung / • Bridging/Switching möglich
+2019-07-08	0	1	2.5	Definition Minimum Spanning Tree	Baum, der alle Knoten in einem Graph mit minimalen Gesamtkosten verbindet
+2019-07-08	0	1	2.5	Definition Shortest Path Tree	Baum, der alle Knoten in einem Graph mit minimalen Pfadkosten verbindet
+2019-07-08	0	1	2.5	Was ist der minimale Wert für die Potenz der Distanzmatrix für eine akkurate Pfaddistanzmatrix?	Länge des längsten einfachen Pfades im Netzwerk (nach oben begrenzt durch die Anzahl der Knoten im Graph).
+2019-07-08	0	1	2.5	Was ist die Aufgabe des Empfängers auf der Sicherungsschicht?	Entscheiden, ob eine Nachricht für ihn bestimmt ist.
+2019-07-08	0	1	2.5	Welche Arten von Netzwerktopologien gibt es?	• Punkt-zu-Punkt / • Kette / • Stern / • Vermaschung / • Baum / • Bus
+2019-07-08	0	1	2.5	Wie erhält man die Matrix, welche die Kosten eines kürzesten Pfads zwischen zwei Knoten enthält?	Man potenziert die Distanzmatrix über das min-plus-Produkt.
+2019-07-08	0	1	2.5	Wie wird in der Sicherungsschicht die Steuerung des Medienzugriffs erreicht?	Alle Computer werden zu einem Bus verbunden
+2019-07-08	0	1	2.5	Wozu wird die Sicherungsschicht verwendet?	• Steuerung des Medienzugriffs / • Prüfung übertragener Nachrichten auf Fehler / • Adressierung innerhalb von Direktverbindungsnetzwerken
