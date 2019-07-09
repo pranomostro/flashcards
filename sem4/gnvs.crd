@@ -117,3 +117,17 @@
 2019-07-08	0	1	2.5	Wie erhält man die Matrix, welche die Kosten eines kürzesten Pfads zwischen zwei Knoten enthält?	Man potenziert die Distanzmatrix über das min-plus-Produkt.
 2019-07-08	0	1	2.5	Wie wird in der Sicherungsschicht die Steuerung des Medienzugriffs erreicht?	Alle Computer werden zu einem Bus verbunden
 2019-07-08	0	1	2.5	Wozu wird die Sicherungsschicht verwendet?	• Steuerung des Medienzugriffs / • Prüfung übertragener Nachrichten auf Fehler / • Adressierung innerhalb von Direktverbindungsnetzwerken
+2019-07-09	0	1	2.5	Berechnung Übertragungszeit	Serialisierungszeit plus Ausbreitungsverzögerung
+2019-07-09	0	1	2.5	Definition Bandbreitenverzögerungsprodukt	Die Anzahl an Bits, die sich in einer Senderichtung gleichzeitig auf der Leitung befinden können.
+2019-07-09	0	1	2.5	Definition Multiplexing	Senden von Nachrichten unterschiedlicher Teilnehmer gemeinsam über eine Leitung
+2019-07-09	0	1	2.5	Definition Serialisierungszeit	Die notwendige Zeit, um L Datenbits auf ein Übertragungsmedium zu legen.
+2019-07-09	0	1	2.5	Eigenschaften von Verbindungen zwischen zwei Knoten	Übertragungsrate / • Übertragungsverzögerung / • Übertragungsrichtung / • Mehrfachzugriff (Multiplexing)
+2019-07-09	0	1	2.5	Expansion TDMA	Time Division Multiple Access
+2019-07-09	0	1	2.5	Funktionsweise Codemultiplex	Verwendung orthogonaler Alphabete und Zuweisung der Alphabete an Kommunikationspartner
+2019-07-09	0	1	2.5	Funktionsweise Frequenzmultiplex	Aufteilung des Kanals in unterschiedliche Frequenzbänder und deren Zuweisung an Kommunikationspartner
+2019-07-09	0	1	2.5	Funktionsweise Raummultiplex	Verwendung mehrerer paralleler Kabel
+2019-07-09	0	1	2.5	Funktionsweise Zeitmultiplex	Sequentielles Senden von Signalen über eine Leitung
+2019-07-09	0	1	2.5	Varianten von Multiplex	• Zeitmultiplex / • Frequenzmultiplex / • Raummultiplex / • Codemultiplex
+2019-07-09	0	1	2.5	Was bedeutet es, wenn eine Leitung Halbduplex als Übertragungsrichtung hat?	Es kann nur eine Nachricht gleichzeitig gesendet werden, aber in beide Richtungen.
+2019-07-09	0	1	2.5	Was bedeutet es, wenn eine Leitung Simplex als Übertragungsrichtung hat?	Es kann nur in eine Richtung gesendet werden.
+2019-07-09	0	1	2.5	Was bedeutet es, wenn eine Leitung im Vollduplex übertragen kann?	Nachrichten können bidirektional zur gleichen Zeit gesendet werden.

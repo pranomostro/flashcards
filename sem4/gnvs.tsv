@@ -118,4 +118,16 @@ Was ist der minimale Wert für die Potenz der Distanzmatrix für eine akkurate P
 Definition Shortest Path Tree	Baum, der alle Knoten in einem Graph mit minimalen Pfadkosten verbindet
 Definition Minimum Spanning Tree	Baum, der alle Knoten in einem Graph mit minimalen Gesamtkosten verbindet
 Eigenschaften von Verbindungen zwischen zwei Knoten	Übertragungsrate / • Übertragungsverzögerung / • Übertragungsrichtung / • Mehrfachzugriff (Multiplexing)
-Definition Serialisierungs	Die notwendige Zeit, um L Datenbits auf ein Übertragungsmedium zu legen.
+Definition Serialisierungszeit	Die notwendige Zeit, um L Datenbits auf ein Übertragungsmedium zu legen.
+Berechnung Übertragungszeit	Serialisierungszeit plus Ausbreitungsverzögerung
+Definition Bandbreitenverzögerungsprodukt	Die Anzahl an Bits, die sich in einer Senderichtung gleichzeitig auf der Leitung befinden können.
+Was bedeutet es, wenn eine Leitung Simplex als Übertragungsrichtung hat?	Es kann nur in eine Richtung gesendet werden.
+Was bedeutet es, wenn eine Leitung Halbduplex als Übertragungsrichtung hat?	Es kann nur eine Nachricht gleichzeitig gesendet werden, aber in beide Richtungen.
+Was bedeutet es, wenn eine Leitung im Vollduplex übertragen kann?	Nachrichten können bidirektional zur gleichen Zeit gesendet werden.
+Definition Multiplexing	Senden von Nachrichten unterschiedlicher Teilnehmer gemeinsam über eine Leitung
+Varianten von Multiplex	• Zeitmultiplex / • Frequenzmultiplex / • Raummultiplex / • Codemultiplex
+Funktionsweise Zeitmultiplex	Sequentielles Senden von Signalen über eine Leitung
+Funktionsweise Frequenzmultiplex	Aufteilung des Kanals in unterschiedliche Frequenzbänder und deren Zuweisung an Kommunikationspartner
+Funktionsweise Raummultiplex	Verwendung mehrerer paralleler Kabel
+Funktionsweise Codemultiplex	Verwendung orthogonaler Alphabete und Zuweisung der Alphabete an Kommunikationspartner
+Expansion TDMA	Time Division Multiple Access
