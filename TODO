@@ -70,3 +70,6 @@ gnvs:
 	"Beschreibung Fourierreihe" -> newlines
 	"transportierte Information entspricht" -> Informatiensverlust
 	"Bedeutung (Signaldarstellung" -> Bedeutung Synthese
+	"Erkläre den Begriff N-ICI" -> typo: "Dinst"
+	"Gib Beispiele für die Namen der PDU" -> typo: Schicthen
+	"Stufen in der Nachrichtenübertragung" -> typo: Digital Daten

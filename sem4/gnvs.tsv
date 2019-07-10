@@ -131,3 +131,18 @@ Funktionsweise Frequenzmultiplex	Aufteilung des Kanals in unterschiedliche Frequ
 Funktionsweise Raummultiplex	Verwendung mehrerer paralleler Kabel
 Funktionsweise Codemultiplex	Verwendung orthogonaler Alphabete und Zuweisung der Alphabete an Kommunikationspartner
 Expansion TDMA	Time Division Multiple Access
+Nenne Beispiele für Protokolle bei asynchronem konkurrierendem Zugriff.	• ALOHA / • CSMA/CD / • CSMA/CA
+Nenne Beispiele für Protokolle bei asynchronem geregeltem Zugriff.	• Token Passing / • CSMA/CA+RTS/CTS
+Bewertungskriterien für Medienzugriffsverfahren	• Durchsatz (Nachrichten/Zeit) / • Verzögerung für einzelne Nachrichten / • Fairness zwischen Teilnehmern / • Implementierungsaufwand
+Nenne alternativen zu synchronem TDMA	Zufälliger/konkurrierender/dynamisch geregelter Medienzugriff
+Erläutere die Funktionsweise von ALOHA.	Station sendet an zentrale Station, sobald Daten vorliegen. / Senden 2 gleichzeitig, kommt es zu Kollisionen. / Quittierungen werden auf anderer Frequenz gesendet.
+Was ist ALOHA?	ALOHA ist ein Random-Access Medienzugriffsprotokoll.
+Wie unterscheidet sich ALOHA von Slotted ALOHA?	Bei Slotted ALOHA dürfen Übertragungen nur zu bestimmten Zeitpunkten begonnen werden.
+Expansion CSMA	Carrier Sense Multiple Access
+Funktionsweise CSMA	ALOHA, aber der Sender sendet erst, wenn auf dem Kanal nicht mehr gesendet wird.
+Was ist p-persistentes CSMA?	CSMA, aber wenn der Kanal frei wird, wird mit der Wahrscheinlichkeit p gesendet.
+Was zeichnet nicht-persistentes CSMA aus?	Wenn das Medium belegt ist, wird eine zufällig gewählte Zeitspanne gewartet und dann gesendet.
+Expansion CSMA/CD	Carrier Sense Multiple Access with Collision Detection
+Expansion CSMA/CA	Carrier Sense Multiple Access with Collision Avoidance
+Wie funktioniert CSMA/CD?	Falls ein Sender ein anderes Signal empfängt, während er sendet, sendet er ein Jam-Signal, solange er noch empfängt. / Wird keine Kollision erkannt, gilt die Übertragung als erfolgreich.
+Formel Mindestlänge Kollisionserkennung CSMA/CD	L_{min}=(2⋅d)/(ν*c₀)⋅r
