@@ -1,5 +1,5 @@
 2019-07-10	3	16.8	2.8	Apoptose	physiologischer Zelltod
-2019-07-10	1	1	1.4	Atrophie	Organverkleinerung
+2019-07-11	0	1.69	1.3	Atrophie	Organverkleinerung
 2019-07-10	3	16.8	2.8	Bakteriämie	Übertritt von Erregern in die Blutbahn
 2019-07-10	3	16.8	2.8	Calor	Wärme
 2019-07-10	3	14.76	2.46	Erguss	Flüssigkeitsansammlung in einer präformierten Höhle
@@ -8,54 +8,54 @@
 2019-07-10	3	13.08	2.18	Hyperplasie	Gewebevergrößerung durch Zellvermehrung
 2019-07-10	3	15.6	2.6	Hypertrophie	Gewebevergrößerung durch Zellvergrößerung
 2019-07-10	3	16.2	2.7	Hypoplasie	Gewebeverkleinerung durch Abnahme der Zellzahl
-2019-07-10	2	6	2.38	Hypotrophie	Gewebeverkleinerung durch Zellverkleinerung
+2019-07-10	2	6.0	2.38	Hypotrophie	Gewebeverkleinerung durch Zellverkleinerung
 2019-07-10	3	12.96	2.16	Inflammatio	Entzündung
 2019-07-10	3	13.68	2.28	Metaplasie	Gewebeumwandlung
 2019-07-10	3	12.36	2.06	Nekrose	Zelltod durch exogene/endogene Noxen
 2019-07-10	3	16.8	2.8	Rubor	Rötung
-2019-07-10	2	6	2.02	Sepktikopyämie	Bildung von Eiterherden in Organen
+2019-07-10	2	6.0	2.02	Sepktikopyämie	Bildung von Eiterherden in Organen
 2019-07-10	3	13.56	2.26	Ätiologie	Lehre der Krankheitsursachen
 2019-07-10	3	15.36	2.56	Ödem	Flüssigkeitsansammlung im Zwischengewebsraum
 2019-07-10	3	15.6	2.6	Dignität	Biologisches Verhalten des Tumors (gutartig/bösartig)
-2019-07-10	1	1	1.3	Regression	Tumorrückbildung
-2019-07-10	0	1.69	1.3	Remission	Vorübergehende oder dauernde Abschwächung eines Tumors
-2019-07-10	2	6	1.82	Tumor	1) Volumenzunahme eines Gewebes / 2) Abnorme Gewebbsvermehrung durch autonome Proliferation körpereigener Zellen
+2019-07-11	2	6	1.3	Regression	Tumorrückbildung
+2019-07-11	1	1	1.3	Remission	Vorübergehende oder dauernde Abschwächung eines Tumors
+2019-07-10	2	6.0	1.82	Tumor	1) Volumenzunahme eines Gewebes / 2) Abnorme Gewebbsvermehrung durch autonome Proliferation körpereigener Zellen
 2019-07-10	3	10.92	1.82	Dysplasie	Veränderung in einem Zellverband, häufig reversibel
-2019-07-10	2	6	1.3	Carcinoma in situ	Obligate Präkanzerose / Atypisches Gewebe mit aufgehobener Zellschichtung / Fehlendes Tiefenwachstum / Keine Metastasen
+2019-07-10	2	6.0	1.3	Carcinoma in situ	Obligate Präkanzerose / Atypisches Gewebe mit aufgehobener Zellschichtung / Fehlendes Tiefenwachstum / Keine Metastasen
 2019-07-10	3	12.36	2.06	Invasives Karzinom	Tumor mit zerstörter Basalmembran, Tumorzelleninvasion
 2019-07-10	3	16.2	2.7	Fistelung	Gangbildung
 2019-07-10	3	16.2	2.7	Ulzeration	Geschwür
 2019-07-10	3	8.4	1.4	Stenosierung	Einengung
 2019-07-10	3	16.8	2.8	Angina pectoris	Brustenge
 2019-07-10	3	14.76	2.46	Thrombus	Blutgerinnsel
-2019-07-10	2	6	2.6	Polyurie	Erhöhtes Urinvolumen
+2019-07-10	2	6.0	2.6	Polyurie	Erhöhtes Urinvolumen
 2019-07-10	3	16.8	2.8	Adipositas	Fettleibigkeit
-2019-07-10	1	1	1.3	Dekubitus	Druckgeschwür
-2019-07-10	2	6	1.3	Vaskuläre Atrophie	Atrophie durch Durchblutungsstörung
-2019-07-10	2	6	2.6	Tachykardie	erhöhte Herzschlagfrequenz
-2019-07-10	1	1	1.92	Kanalikulär	Über die Gangsysteme
-2019-07-10	2	6	2.6	Lymphogen	Über die Lymphgefäße
-2019-07-10	2	6	2.7	Neurogen	Über die Nerven
+2019-07-11	2	6	1.4	Dekubitus	Druckgeschwür
+2019-07-10	2	6.0	1.3	Vaskuläre Atrophie	Atrophie durch Durchblutungsstörung
+2019-07-10	2	6.0	2.6	Tachykardie	erhöhte Herzschlagfrequenz
+2019-07-11	1	1	1.38	Kanalikulär	Über die Gangsysteme
+2019-07-10	2	6.0	2.6	Lymphogen	Über die Lymphgefäße
+2019-07-10	2	6.0	2.7	Neurogen	Über die Nerven
 2019-07-10	3	16.2	2.7	Hämatogen	Über die Blutgefäße
-2019-07-10	0	1.69	1.3	Pathogenität	krankmachende Eigenschaft eines Erregers
-2019-07-10	0	1.69	1.3	Virulenz	Potenz eines Erregers
-2019-07-10	2	6	2.5	Kontagiosität	Übertragungsfähigkeit
+2019-07-11	0	2.197	1.3	Pathogenität	krankmachende Eigenschaft eines Erregers
+2019-07-11	0	2.197	1.3	Virulenz	Potenz eines Erregers
+2019-07-10	2	6.0	2.5	Kontagiosität	Übertragungsfähigkeit
 2019-07-10	3	11.4	1.9	Infektiosität	Fähigkeit eines Erregers, einen Wirt zu infizieren
 2019-07-10	3	15.0	2.5	Inkubationszeit	Zeit zwischen Eindringen eines Erregers und ersten Krankheitszeichen
-2019-07-10	1	1	1.96	Epitheliale Tumoren	Tumore im Deck- u. Drüsengewebe
-2019-07-10	1	1	2.5	Filiae	Tochtertumore
-2019-07-10	1	1	2.6	Karzinom, Adenokarzinom	Bösartige epitheliale Tumore
-2019-07-10	1	1	2.5	Lipom, Chondrom, Angiom	Gutartige mesenchymale Tumore
-2019-07-10	1	1	2.5	Liposarkom, Chondrosarkom, Angiosarkom	Bösartige mesenchymale Tumore
-2019-07-10	1	1	2.06	Mesenchymale Tumoren	Tumore im Stütz- u. Bindegewebe
-2019-07-10	1	1	2.6	Papillom, Adenom	Gutartige epitheliale Tumore
-2019-07-10	1	1	2.06	Dyspnoe	Atemnot
-2019-07-10	0	1.96	1.96	Ischämie	Gefäßverschluss
-2019-07-10	0	2.18	2.18	Kardiomyopathie	Herzinsuffizienz
-2019-07-10	1	1	2.5	Koronarstenose	Verengung der Herzkranzgefäße
-2019-07-10	0	1.96	1.96	Nykturie	Nächtliches Wasserlassen
-2019-07-10	0	1.96	1.96	Paralysis	Lähmung
-2019-07-10	0	1.96	1.96	Paresthesia	Gefühlsstörung
-2019-07-10	0	1.96	1.96	Prostation	Schock
-2019-07-10	0	1.96	1.96	Stenose	Gefäßverengung
-2019-07-10	1	1	2.36	Zyanose	Blaufärbung der Haut/Schleimhaut
+2019-07-11	1	1	1.52	Epitheliale Tumoren	Tumore im Deck- u. Drüsengewebe
+2019-07-11	2	6	2.6	Filiae	Tochtertumore
+2019-07-11	0	2.28	2.28	Karzinom, Adenokarzinom	Bösartige epitheliale Tumore
+2019-07-11	0	1.96	1.96	Lipom, Chondrom, Angiom	Gutartige mesenchymale Tumore
+2019-07-11	2	6	2.6	Liposarkom, Chondrosarkom, Angiosarkom	Bösartige mesenchymale Tumore
+2019-07-11	2	6	2.16	Mesenchymale Tumoren	Tumore im Stütz- u. Bindegewebe
+2019-07-11	2	6	2.7	Papillom, Adenom	Gutartige epitheliale Tumore
+2019-07-11	2	6	2.16	Dyspnoe	Atemnot
+2019-07-11	0	2.7832	1.42	Ischämie	Gefäßverschluss
+2019-07-11	0	4.0548	1.86	Kardiomyopathie	Herzinsuffizienz
+2019-07-11	2	6	2.6	Koronarstenose	Verengung der Herzkranzgefäße
+2019-07-11	1	1	1.96	Nykturie	Nächtliches Wasserlassen
+2019-07-11	1	1	1.82	Paralysis	Lähmung
+2019-07-11	0	2.7832	1.42	Paresthesia	Gefühlsstörung
+2019-07-11	0	2.7832	1.42	Prostation	Schock
+2019-07-11	1	1	1.96	Stenose	Gefäßverengung
+2019-07-11	2	6	2.22	Zyanose	Blaufärbung der Haut/Schleimhaut
