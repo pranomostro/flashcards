@@ -162,3 +162,36 @@
 2019-07-13	0	1.0	2.5	Welche Möglichkeiten kann man verwenden, um unterschiedliche Rahmen auf der Leitung zu unterscheiden?	• Längenangaben / • Steuerzeichen / • Coderegelverletzungen
 2019-07-13	0	1.0	2.5	Wie funktionieren Begrenzungsfelder?	Eine Nachricht wird am Anfang/Ende mit einer bestimmten Bitfolge markiert.
 2019-07-13	0	1.0	2.5	Wie funktioniert Bit Stuffing?	Bei einer begrenzten Nachricht werden zufällig vorkommende Instanzen der Begrenzung / mit einem eingefügten weiteren Bit verletzt, das beim Empfang entfernt wird.
+2019-07-13	0	1	2.5	Erläutere kurz die MAC-Adresse.	Liegt in Read Only Memory, aufgetrennt in OUI (Organizationally Unique Identifier) und Device ID.
+2019-07-13	0	1	2.5	Expansion ATM	Asynchronous Transfer Mode
+2019-07-13	0	1	2.5	Expansion CRC	Cyclic Redundancy Check
+2019-07-13	0	1	2.5	Expansion MAC	Media Access Control
+2019-07-13	0	1	2.5	Expansion OUI	Organizationally Unique Identifier
+2019-07-13	0	1	2.5	Wann ist ein Polynom reduzibel?	Wenn es sich als Produkt anderer Polynome darstellen lässt.
+2019-07-13	0	1	2.5	Was ist der Zweck von CRC-Codes?	• Fehler sollen nur erkannt (nicht korrigiert) werden / • Hinzugefügte Redundanz soll minimal sein
+2019-07-13	0	1	2.5	Was ist die MAC Broadcast-Adresse?	ff:ff:ff:ff:ff:ff
+2019-07-13	0	1	2.5	Was wird durch den Grand n des Reduktionspolynoms r(x) bestimmt?	• Der maximale Grad aller möglichen Codewörter a∈F_{q}[x] ist n-1 / • Es können nur bestimmte Bitfehler bestimmt werden
+2019-07-13	0	1	2.5	Welche Anforderungen werden an Adressen in Schicht 2 (Sicherungsschicht) gestellt?	• Eindeutige Identifizierung eines Knoten innerhalb eines Netzwerkes / • Broadcast-Adresse / • Multicast-Adresse
+2019-07-13	0	1	2.5	Welche Fehler erkennt CRC nicht?	• Fehler, die länger sind als n / • Fehler aus mehreren Bursts / • Vielfache des Reduktionspolynoms
+2019-07-13	0	1	2.5	Welche Fehler werden von CRC erkannt?	• 1 bit Fehler / • Einige 2 bit Fehler / • Manche Burst-Fehler
+2019-07-13	0	1	2.5	Wie wird ein Empfänger eines Rahmens addressiert?	Über seine MAC-Adresse.
+2019-07-13	0	1	2.5	Wie wird eine Broadcast-Adresse verwendet?	Um alle Knoten in einem Direktverbindungsnetzwerk anzusprechen.
+2019-07-13	0	1	2.5	Wie wird eine CRC-Nachricht geprüft?	Sei e(x) der Übertragungsfehler, s(x) die gesendet Nachricht und s'(x)=s(x)+e(x), r(x) Reduktionspolynom  /  / 1. Sei Divisionsrest c'(x)=s'(x) mod r(x) / 2. Falls c'(x)=0, ist wahrscheinlich kein Fehler aufgetreten, falls c'(x)≠0, dann sicher Fehler.
+2019-07-13	0	1	2.5	Wie wird eine CRC-Nachricht kodiert?	Sei r(x) Reduktionspolynom mit Grad n, m(x) Nachricht mit Grad k /  / 1. Hänge n Nullen an m(x) an: m'(x)=m(x)⋅xⁿ / 2. Sei Divisionsrest (Prüfsumme) c(x)=m'(x) mod r(x) / 3. Sei Sendenachricht s(x)=m'(x)+c(x)
+2019-07-13	0	1	2.5	Wie wird eine Multicast-Adresse verwendet?	Um eine bestimmte Gruppe an Knoten in einem Direktverbindungsnetzwerk anzusprechen.
+2019-07-13	0	1	2.5	Wofür verwendet man ein Reduktionspolynom?	Wenn zwei Polynome multipliziert werden, verwendet man Modulo mit dem  Reduktionspolynom, / um das Produkt der Polynome zu berechnen.
+2019-07-13	0	1	2.5	Definition Collision Domain	Teil eines Direktverbindungsnetzes, innerhalb dessen eine Kollision bei gleichzeitiger Übertragung / mehr Knoten auftreten kann.
+2019-07-13	0	1	2.5	Welche Funktion erfüllt ein Hub?	Jede Nachricht, die empfangen wird, wird an alle anderen Knoten gesendet.
+2019-07-13	0	1	2.5	Welches Symbol wird für einen Hub verwendet?	Ein Block, auf den ein Pfeil gemalt ist.
+2019-07-13	0	1	2.5	Was ist die 5-4-3-Regel?	Baumtopolgien sollten sein: / • Nicht mehr als 5 Abschnitte, separiert durch Hubs, / • verbunden durch 4 Repeater, / • wobei nur in 3 Abschnitten aktive Endgeräte sein dürfen.
+2019-07-13	0	1	2.5	Was ist eine Bridge?	Ein Switch mit nur 2 Ports.
+2019-07-13	0	1	2.5	Was unterscheidet aktive Hubs von passiven Hubs?	Aktive Hubs verstärken Signale auf der physikalischen Schicht, passsive Hubs tun das nicht.
+2019-07-13	0	1	2.5	Welche Arten von Hubs gibt es?	• Aktive Hubs (Repeater) / • Passive Hubs
+2019-07-13	0	1	2.5	Welches Symbol wird für einen Switch verwendet?	Ein Block, auf den 8 Striche gemalt sind.
+2019-07-13	0	1	2.5	Wie funktioniert ein Switch?	Zuerst funktioniert er wie ein Hub, und lernt, woher Rahmen kommen. / Später kann er dann Rahmen mithilfe eines Switching-Table an spezifische Zielporte weiterleiten, / wobei der Zielport von der Zieladresse bestimmt wird.
+2019-07-13	0	1	2.5	Wozu werden Switches verwendet?	Um 2 Gruppen von Hosts, die jeweils über Hubs verbunden sind, zu koppeln.
+2019-07-13	0	1	2.5	Wozu wird ein Switch verwendet?	Um Kollisionsdomänen zu trennen.
+2019-07-13	0	1	2.5	Hat ein Switch eine eigene MAC-Adresse?	Nein.
+2019-07-13	0	1	2.5	Inwiefern verändert ein Switch die Sender- und Empfänger-Adresse?	Garnicht.
+2019-07-13	0	1	2.5	Welche Arten von Switching gibt es?	• Store-and-Forward: Eingehende Rahmen werden vollständig empfangen, geprüft und gepuffert / • Cut-through: Rahmen werden sofort weitergesendet
+2019-07-13	0	1	2.5	Wozu wird ein Switch verwendet?	• Um Kollisionsdomänen zu trennen. / • Um Netzsegmente mit unterschiedlichen Zugriffsverfahren zu koppeln (mit kompatiblen MAC-Adressen)
