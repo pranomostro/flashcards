@@ -155,3 +155,10 @@ Wie funktioniert kollisionsfreie Übertragung mit Tokens?	Token zirkuliert in ei
 Was sind mögliche Probleme bei Token-Ringen?	Doppelte Tokens, endlos kreisende Nachrichten, 0 Tokens
 Was passiert, wenn ein Problem in einem Token-Ring auftritt?	Enie Monitor-Station beobachtet den Token-Ring und löst Probleme.
 Was sind die Nachteile eines Token-Ring?	Ringzusammenschaltung ist aufwendig / Monitoring Station muss bestimmt werden / Fragilität aufgrund von Ringstruktur
+Welche Möglichkeiten kann man verwenden, um unterschiedliche Rahmen auf der Leitung zu unterscheiden?	• Längenangaben / • Steuerzeichen / • Coderegelverletzungen
+Definition Codetransparenz	Die Fähigkeit, über einen Kanal beliebige Zeichenfolgen zu übertragen
+Welche Methoden kann man verwenden, um den Beginn eines Rahmens zu erkennen?	• Steuerzeichen / • Vorangestellte Beggrenzungsfelder / • Coderegelverletzung
+Was macht der 4B5B-Code?	Er bildet Gruppen von 4 bit auf Gruppen von 5 bit ab, mit Steuerzeichen.
+Was tut man, wenn Steuerzeichen in den Nutzdaten vorkommen?	• Einen Escape-Character benutzen / • Einen Code verwenden, der das verhindert
+Wie funktionieren Begrenzungsfelder?	Eine Nachricht wird am Anfang/Ende mit einer bestimmten Bitfolge markiert.
+Wie funktioniert Bit Stuffing?	Bei einer begrenzten Nachricht werden zufällig vorkommende Instanzen der Begrenzung / mit einem eingefügten weiteren Bit verletzt, das beim Empfang entfernt wird.
