@@ -1,5 +1,5 @@
 2019-07-10	3	16.8	2.8	Apoptose	physiologischer Zelltod
-2019-07-13	2	6	1.3	Atrophie	Organverkleinerung
+2019-07-13	2	6.0	1.3	Atrophie	Organverkleinerung
 2019-07-10	3	16.8	2.8	Bakteriämie	Übertritt von Erregern in die Blutbahn
 2019-07-10	3	16.8	2.8	Calor	Wärme
 2019-07-10	3	14.76	2.46	Erguss	Flüssigkeitsansammlung in einer präformierten Höhle
@@ -18,7 +18,7 @@
 2019-07-10	3	15.36	2.56	Ödem	Flüssigkeitsansammlung im Zwischengewebsraum
 2019-07-10	3	15.6	2.6	Dignität	Biologisches Verhalten des Tumors (gutartig/bösartig)
 2019-07-11	2	6.0	1.3	Regression	Tumorrückbildung
-2019-07-13	2	6	1.3	Remission	Vorübergehende oder dauernde Abschwächung eines Tumors
+2019-07-13	2	6.0	1.3	Remission	Vorübergehende oder dauernde Abschwächung eines Tumors
 2019-07-10	2	6.0	1.82	Tumor	1) Volumenzunahme eines Gewebes / 2) Abnorme Gewebbsvermehrung durch autonome Proliferation körpereigener Zellen
 2019-07-10	3	10.92	1.82	Dysplasie	Veränderung in einem Zellverband, häufig reversibel
 2019-07-10	2	6.0	1.3	Carcinoma in situ	Obligate Präkanzerose / Atypisches Gewebe mit aufgehobener Zellschichtung / Fehlendes Tiefenwachstum / Keine Metastasen
@@ -37,25 +37,25 @@
 2019-07-10	2	6.0	2.6	Lymphogen	Über die Lymphgefäße
 2019-07-10	2	6.0	2.7	Neurogen	Über die Nerven
 2019-07-10	3	16.2	2.7	Hämatogen	Über die Blutgefäße
-2019-07-13	1	1	1.3	Pathogenität	krankmachende Eigenschaft eines Erregers
-2019-07-13	1	1	1.4	Virulenz	Potenz eines Erregers
+2019-07-13	1	1.0	1.3	Pathogenität	krankmachende Eigenschaft eines Erregers
+2019-07-13	1	1.0	1.4	Virulenz	Potenz eines Erregers
 2019-07-10	2	6.0	2.5	Kontagiosität	Übertragungsfähigkeit
 2019-07-10	3	11.4	1.9	Infektiosität	Fähigkeit eines Erregers, einen Wirt zu infizieren
 2019-07-10	3	15.0	2.5	Inkubationszeit	Zeit zwischen Eindringen eines Erregers und ersten Krankheitszeichen
 2019-07-12	2	6.0	1.62	Epitheliale Tumoren	Tumore im Deck- u. Drüsengewebe
 2019-07-11	2	6.0	2.6	Filiae	Tochtertumore
-2019-07-13	1	1	1.4	Karzinom, Adenokarzinom	Bösartige epitheliale Tumore
-2019-07-13	1	1	1.62	Lipom, Chondrom, Angiom	Gutartige mesenchymale Tumore
+2019-07-13	1	1.0	1.4	Karzinom, Adenokarzinom	Bösartige epitheliale Tumore
+2019-07-13	1	1.0	1.62	Lipom, Chondrom, Angiom	Gutartige mesenchymale Tumore
 2019-07-11	2	6.0	2.6	Liposarkom, Chondrosarkom, Angiosarkom	Bösartige mesenchymale Tumore
 2019-07-11	2	6.0	2.16	Mesenchymale Tumoren	Tumore im Stütz- u. Bindegewebe
 2019-07-11	2	6.0	2.7	Papillom, Adenom	Gutartige epitheliale Tumore
 2019-07-11	2	6.0	2.16	Dyspnoe	Atemnot
-2019-07-13	1	1	1.3	Ischämie	Gefäßverschluss
-2019-07-13	2	6	1.54	Kardiomyopathie	Herzinsuffizienz
+2019-07-13	1	1.0	1.3	Ischämie	Gefäßverschluss
+2019-07-13	2	6.0	1.54	Kardiomyopathie	Herzinsuffizienz
 2019-07-11	2	6.0	2.6	Koronarstenose	Verengung der Herzkranzgefäße
 2019-07-12	2	6.0	2.06	Nykturie	Nächtliches Wasserlassen
 2019-07-12	2	6.0	1.82	Paralysis	Lähmung
-2019-07-13	1	1	1.4	Paresthesia	Gefühlsstörung
-2019-07-13	1	1	1.3	Prostation	Schock
+2019-07-13	1	1.0	1.4	Paresthesia	Gefühlsstörung
+2019-07-13	1	1.0	1.3	Prostation	Schock
 2019-07-12	2	6.0	1.82	Stenose	Gefäßverengung
 2019-07-11	2	6.0	2.22	Zyanose	Blaufärbung der Haut/Schleimhaut
