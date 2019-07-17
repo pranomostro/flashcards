@@ -194,3 +194,18 @@ Welches Symbol wird für einen Switch verwendet?	Ein Block, auf den 8 Striche ge
 Hat ein Switch eine eigene MAC-Adresse?	Nein.
 Inwiefern verändert ein Switch die Sender- und Empfänger-Adresse?	Garnicht.
 Welche Arten von Switching gibt es?	• Store-and-Forward: Eingehende Rahmen werden vollständig empfangen, geprüft und gepuffert / • Cut-through: Rahmen werden sofort weitergesendet
+Was ist eine Schleife auf Schicht 2?	Switches sind miteinander so verbunden, dass ein Kreis im Netzwerk entsteht.
+Wie verhindert man Schleifen auf Schicht 2?	Man erstellt eine Hierarchie von Switches, die über das Spanning Tree Protocol (STP) funktionieren.
+Expansion STP	Spanning Tree Protocol
+Definition WLAN Access Point	Bridge zwischen Twisted Pair und Funkübertragung
+Unterschied WLAN Access Point ←→ Bridge/Switch	WLAN Access point nicht transparent (kann von Clients (Switches) "gesehen" werden)
+Warum ist der Begriff WLAN-Router technisch falsch?	Die Geräte, die als solche bezeichnet werden, enthalten gleichzeitig / • Switch / • WLAN Access Point / • Router / • DSL/Kabel-Modem
+Expansion MST	Minimum Spanning Tree
+Expansion SPT	Shortest Path Tree
+Sind Direktverbindungsnetzwerke skalierbar?	Nein.
+Warum sind Direktverbindungsnetzwerke nicht skalierbar?	• Keine logische Struktur zur Adressierung / • Subnetze sind nicht unterstüzt.
+Was sind die Aufgaben der Vermittlungsschicht?	• Kopplung von Direktverbindungsnetzwerken / • Bereitstellung von Subnetzstrukturen / • Eindeutige Adressierung / • Routing
+Definition Leitungsvermittlung	Reservierung einer Leitung zw. Senden & Empfänger
+Definition Nachrichtenvermittlung	Übertrage nur Nachrichten zw. Sender & Empfänger
+Definition Paketvermittlung	Übertrage nur Pakete zw. Sender & Empfänger, alles andere egal
+Phasen einer verbindungsorientierten Übertragung	• Verbindungsaufbau / • Datenaustausch / • Verbindungsabbau
