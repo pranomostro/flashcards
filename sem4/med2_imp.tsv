@@ -1,185 +1,392 @@
-Kategorien von Krankheitsursachen	Endogene Ursachen / Exogene Ursachen
-Endogene Ursachen von Krankheiten	Genetische Defekte / Immunologische Faktoren / Psychische Faktoren
-Exogene Ursachen von Krankheiten	Physikalische Ursachen (Hitze, Kälte, Strahlen) / Chemische Ursachen (Säure, Laugen, Gifte) / Mikroorganismen (Viren, Bakterien, Pilze) / Trauma / Ernährungsstörungen
-Arten von Krankheitsverläufen	Akut / Inapparent / Chronisch / Rezidivierend / Latent / Remission / Exazerbation
-Krankheitsverlauf Eigenschaften: Akut	schnell, heftig, plötzlich
-Krankheitsverlauf Eigenschaften: Inapparent	unbemerkt
-Krankheitsverlauf Eigenschaften: Chronisch	langsam entwickelnd, verlaufend
-Krankheitsverlauf Eigenschaften: Rezidivierend	Rückfall, wiederauftretend
-Krankheitsverlauf Eigenschaften: Latent	schlummernd, verborgene Erkrankung ohne Krankheitserscheinung, die wieder manifest werden kann
+Arterielle Hypertonieformen	primäre Hypertonie (ohne erkennbare Ursachen, ca 90%), sekundäre Hypertonie (Folge anderer Erkrankung, z.B. Nierenerkrankung, hormonelle Erkrankung, Gefäßerkrankung, ca 10%)
+Anonyme Informationen	Infos, die sich nicht auf identifizierbare Person beziehen/ Daten, die so anonymisiert wurden, dass Person nicht mehr identifiziert werden kann
 Krankheitsverlauf Eigenschaften: Remission	vorübergehendes Verschwinden od. Rückgang der Krankheitserscheinung
-Krankheitsverlauf Eigenschaften: Exazerbation	Verschlimmerung bestehender Krankheitssymptome
-Arten chronischer Krankheitsverläufe	chronisch progredient / chronisch kontinuierlich / chronisch rezidivierend
-Krankheitsverlauf: Chronisch progredient	fortschreitend bis zum Tod
-Krankheitsverlauf: Chronisch kontinuierlich	gleichmäßig u. langsam fortschreitend
-Krankheitsverlauf: Chronisch rezidivierend	immer wieder auftretend
-Therapietypen bei Krankheiten	Kurative Therapie / Palliative Heilung / Konservative Therapie / Operative Therapie
-Therapietypen: Kurative Therapie	Heilende Behandlung oder Defektheilung
-Therapietypen: Konservative Therapie	Kein Eingriff in das Gewebe
-Therapietypen: Operative Therapie	Chirurgischer Eingriff
-Therapietypen: Palliative Therapie	Lindernde Behandlung ohne Heilung
-Ursachen für Atrophie	Wegfall der funktionellen Belastung / Durchblutungsstörung/Durchblutungsminderung / Druckatrophie / Nervenschädigung / Verminderte Hormonwirkung / Hungeratrophie
-Charakteristika von Gewebe nach Metaplasie	Widerstandsfähiger / Funktionell minderwertiger
-Ursache für Metaplasie	Chronische Irritation / Entzündungen
-Entzündung Definition	Universelle Abwehrreaktion des lebenden Organismus gegen verschiedenartige Schädigungen
-Symptome einer Entzündung	Schwellung (Tumor) / Erwärmung (Calor) / Schmerzen (Dolor) / Rötung (Rubor) / Funktionseinschränkung (Functio laesa)
-Ausbreitungswege einer lokalen Entzündung	direkt übergreifend / kanalikulär (Gangsysteme) / lymphogen (Lymphgefäße) / neurogen (Nerven) / hämatogen (Blutgefäße)
-Fakultative Allgemeinsymptome einer Entzündung	Tachykardie / Leukozytose / Erhöhte Plasmaproteine / Erhöhte Blutkörperchensenkungsgeschwindigkeit
-Exogene Ursachen einer Entzündung	Erreger / Physikalische/Chemische/Mechanische Noxen
-Endogene Ursachen einer Entzündung	Immunreaktion / Ischämie / Nekrose / Stoffwechselprodukte
-Sepsis Definition	Organversagen mit Infektion
-Einflussfaktoren für eine Entzündung	Art der Schädigung / Lokalisation / Dosis / Virulenz / Resistenz
-Folgen einer Entzündung	Regeneration / Defektheilung / Chronischer Verlauf / Zweiterkrankung
-Definition Immunität	Unempfindlichkeit des Organismus gegenüber Pathogenen
-Definition Antigene	Substanzen, die eine immunologische Reaktion auslösen
-Definition Antikörper	Von B-Lymphozyten gebildete Proteine, die speziell passende Antigene binden
-Definition unspezifisches Abwehrsystem	Angeborene natürliche Immunität, antigenunabhängig, standartisierter Ablauf
-Definition spezifisches Abwehrsystem	Erworbene, adaptive Immunität
-Arten von Abwehrsystemen	Unspezifisches Abwehrsystem / Spezifisches Abwehrsystem
-Einteilung des Abwehrsystems anhand der Lokalität	Zellulär / Humoral (nicht zellulär)
-Bestandteile des unspezifischen zellulären Abwehrsystems	Makrophagen / Natürliche Killerzellen / Neutrophile Granulozyten
-Bestandteile des spezifischen zellulären Abwehrsystems	T-Zellen: / • T-Helferzellen / • Zytotoxische Zellen / • T-Zell Gedächtnis
-Bestandteile des unspezifischen humoralen Abwehrsystems	Zytokine / Lysozyme
-Bestandteile des spezifischen humoralen Abwehrsystems	Antikörper (produziert von B-Zellen)
-Äußere Schutzbarrieren des Immunsystems	Säureschutzmantel der Haut / Flimmerepithel der Atemwege / Tränen- und Speichelflüssigkeit / Magensäure / Schleimhaut der Vagina / Schleimhaut in der Harnröhre
-Bildungsort der Abwehrzellen	Knochenmark
-Bildungsort der T-Lymphozyten	Thymus
-Bildungsort der B-Lymphozyten	Knochenmark
-Was ist die Funktion sekundärer lymphatischer Organe?	• Vermehrung der Lymphozyten / • Filtration der Lymphe zur Antigenerkennung / • Bildung von Antikörpern
-Nenne die sekundären lymphatischen Organe.	Milz, Lymphknoten, Tonsillen, lymphatisches Gewebe des Darms
-Welche Funktion erfüllen T-Lymphozyten?	Tragen eine spezifische zelluläre Abwehr, aktivieren B-Zellen
-Welche Funktion erfüllen B-Lymphozyten?	Tragen eine spezifische humorale Abwehr, produzieren Antikörper
-Unterschied B-Zellen und T-Zellen	B-Zellen produzieren Antikörper, T-Zellen nicht
-Phasen eines Infektionsverlaufes	Primäre Immunantwort / Sekundäre Immunantwort
-Primäre Immunantwort Eigenschaften	Immunreaktion auf erstmaligen Kontakt mit Antigen / Bildung von Frühantikörper (IgM)
-Sekundäre Immunantwort Eigenschaften	Immunreaktion bei erneutem Kontakt mit bekanntem Antigen / Bildung von Spät- bzw. Schutzantikörper (IgG)
-Arten von Impfungen	Aktive Immunisierung / Passive Immunisierung
-Nenne Beispiele pathologisch gesteigerter Immunabwehr.	Allergien, Autoimmunerkrankungen
+Allergisches Asthma 	allergische Reaktion auf Allergene mit genetischer Disposition
+2-tier-architecture	Trennung in Präsentation und Backend (auf Server)
+Best of Breed - Vorteile 	Flexibilität, stark an Anforderungen angepasst
 Nenne Beispiele pathologisch verringerter Immunabwehr.	Angeborene/erworbene Immundefekte
-Aktive Immunisierung Funktionsweise	Antikörperbildung durch Impfung mit abgeschwächten Erregern
-Passive Immunisierung Funktionsweise	Verabreichung spezifischer Antikörper
-Auslöser von Asthma	Verengung der Atemwege durch chronisch entzündliche Erkrankung (Überempfindlichkeit des Bronchialsystems)
-Patophysiologischer Mechanismus von Asthma	Verengung der Atemwege durch / • Schleimhautödem / • vermehrte Schleimbildung / • Kontraktion der Bronchialmuskulatur
-Arten von Asthma	Allergisches Asthma, Nicht-allergisches Asthma
-Ursachen allergischen Asthmas	Genetische Disposition zu allergischer Reaktion (z.B. auf Pollen/Tierhaare)
-Ursachen nicht-allergischen Asthmas	Atemwegsinfektionen, Medikamente, Luftschadstoffe
-Ursachen von Asthma	Körperliche + äußere Faktoren (allergische und nicht-allergische) -> Luftnot & Angst
-Symptome von Asthma	Atemnot, andauernder Husten, pfeifendes Ausatmen
-Definition Infektionskrankheiten	Krankheiten, die durch Eindringen und Vermehrung lebender Mikroorganismen entstehen
-Definition fakultativ pathogener Erreger	Erreger, der nur bei bestehender Disposition Infektionen auslöst
-Direkte Übertragungswege bei Infektionskrankheiten	Tröpfchemierinfektion (oral), Tröfcheninfektion (aerogen), Blutweg (parenteral)
-Indirekte Übertragungswege bei Infektionskrankheiten	Trinkwasser, Lebensmittel, Überträger
-Arten von Übertragungswegen bei Infektionskrankheiten	Direkt / Indirekt
-Definition Bakterium	Einzelliges Lebewesen mit eigenem Stoffwechsel ohne echten Zellkern (mit DNA)
-Therapie gegen Bakterien	Antibiotika
-Definition Virus	Kleiner Infektionsträger ohne eigenen Stoffwechsel
-Wie vermehrt sich ein Virus?	Durch Einschleusen von DNA/RNA in eine Wirtszellen.
-Wie vermehrt sich ein Bakterium?	Durch einfache Zellteilung.
-Inwiefern ist ein Bakterium schadhaft?	Durch direkte Zellschädigung oder Toxinwirkung.
-Definition latente Infektion	Nach Erstinfektion lebenslanges Persistieren von Viren in verschiedenem Gewebe, nach Reaktivierung / erneute Virusproduktion.
-Unterschied gutartiger/bösartiger Tumor (Alter des Patientien)	Jugendliche/Ältere Menschen
-Symptome einer Embolie	• Paleness (Blässe) / Paresthesia (Gefühlstörung) / • Pulslessness (Pulslosigkeit) / • Paralysis (Lähmung) / Pain (Schmerz) / Prostation (Schock)
-Arten von Schlaganfällen (nach Ursache)	• Ischämischer Schlaganfall: Arterielle Durchblutungsstörung / • Hämorrhagischer Infarkt: Intrazerebrale Massenblutung
-Inzidenz der Schlaganfälle	Ischämischer Schlaganfall: 85% / Hämorrhagischer Infarkt: 15%
-Letalität der Schlaganfälle	Ischämischer Infarkt: 20% / Hämorrhagischer Infarkt: 80%
-Symptome eines Schlaganfalls	• Einseitige Lähmung / • Sprachstörung / • Einseitige Störungen (Sprache, Sehen, Gefühl)
-Leitsymptom der Koronaren Herzkrankheit	Angina pectoris (Brustenge)
-Therapien bei einem Herzinfarkt	• Medikamentöse Therapie (Auflösung des Thrombus) / • Perkutane transluminale coronare Angioplastie (PTCA) (Aufdehnung von Stenosen) / • Bypass-Operation (Umgehung der Stenose) / • Thromektomie (Entfernung eines Blutgerinnsels durch Absaugen/Zerkleinern)
-Leitsymptom der Linksherzinsuffizienz	Atemnot durch Lungenödeme
-Leitsymptom der Rechtsherzinsuffizienz	Ödeme (u. a. Beinödeme)
-Kompensierte Herzinsuffizienz	Herzschaden, Pumpleistung des Herzens wird noch aufrechterhalten
-Dekompensierte Herzinsuffizienz	Herzschaden, Pumpleistung des Herzens kann nicht mehr aufrechterhalten werden
-Bildungsort von Insulin	β-Zellen in den Pankreas
-Symptome Diabetes Typ 1	Starker Durst / Erhöhtes Urinvolumen
-Risikofaktoren Diabetes	• Adipositas / • Bewegungsmangel / • Fettstoffwechselstörungen / • Genetische Prädisposition
-Definition Krebs	Allgemeine Bezeichnung für bösartige Tumoren
-Gutartiger Tumor Alter Patient	Jugendliche/mittleres Lebensalter
-Gutartiger Tumor Symptomzahl	Syomptomarm
-Bösartiger Tumor Symptomzahl	Symptomreich
-Bösartiger Tumor Alter Patient	Ältere Menschen
-Gutartiger Tumor Verlauf	Lang, nicht tödlich
-Bösartiger Tumor Verlauf	Kurz, tödlich
-Gutartiger Tumor Metastasenvorkommen	Fehlend
-Bösartiger Tumor Metastasenvorkommen	Häufig
-Gutartiger Tumor Rezidive	Rarität
-Bösartiger Tumor Rezidive	Häufig
-Nenne die Dignitätskriterien eines Tumors	Wachstumsrate / Lokale Ausbreitung / Histologie / Umgebendes Gewebe / Klinik / Metastasierung
-Wachstumsrate Benigner Tumor	• langsam wachsend / • Mitosefiguren selten
-Wachstumsrate Maligner Tumor	• langsam bis schnell wachsend / • Mitosefiguren häufig / • atypische Mitosen
-Lokale Ausbreitung Benigner Tumor	• zusammenhängend, begrenzt / • expansives, verdrängendes Wachstum / • fibröse Tumorkapsel
-Lokale Ausbreitung Maligner Tumor	• schlecht begrenzter Tumor / • invasives, destruierendes Wachstum
-Histologie Benigner Tumor	• Tumorgewebe ähnlich zu Ursprungsgewebe
-Histologie Maligner Tumor	• Verlust der Ähnlichkeit zum Ursprungsgewebe / • Zellatypien
-Umgebendes Gewebe Benigner Tumor Folgen	• Kompression / • Druckatrophie
-Umgebendes Gewebe Maligner Tumor Folgen	• Invasion / • Destruktion
-Heilungsmethoden Benigner Tumor	Chirurgische Exzision
-Heilungsmethoden Maligner Tumor	Chirurgische Exzision
-Gibt es Metastasen bei Benignen Tumoren?	Nein.
-Gibt es Metastasen bei Malignen Tumoren?	Potentiell ja.
-Risikofaktoren für Krebs	Familiäre Disposition / Hormonelle Faktoren / Lebensalter / Lebensstil / Umweltfaktoren (Karzinogene)
-Definition Metastasierung	Verschleppung von Tumorzellen zu entfernten Körperstellen mit Bildung von Tochtertumoren
-Metastasierungsorte	Knochen, Lunge, Leber
-Definition TNM-Klassifikation	Anatomisch basierte Beschreibung des Primärtumors und dessen Ausbreitung im Körper nach dem TNM-Schema sowie des Krankheitsverlaufs
-Expansion TNM	T: Primärtumor (Größe, Infiltration) / N: Nodaler Befall (Zustand der regionären Lymphknoten) / M: Metastasenbildung
-TNM-Klassifikation Bedeutung pTis	Präinvasives Karzinom (Carcinoma in situ)
-TNM-Klassifikation Bedeutung pT0	Keine histologische Evidenz für einen Primärtumor
-TNM-Klassifikation Bedeutung pT1, pT2, pT3, pT4	zunehmende Ausbreitung des Primärtumors
-TNM-Klassifikation Bedeutung pTX	Lokale Tumorausbreitung kann histopathologisch nicht bestimmt werden
-TNM-Klassifikation Bedeutung pN0	Kein Befall regionärer Lymphknoten
-TNM-Klassifikation Bedeutung pN1, pN2, pN3, pN4	Zunehmender Befall regionärer Lymphknoten
-TNM-Klassifikation Bedeutung pNX	Befall regionärer Lymphknoten kann nicht genau bestimmt werden
-TNM-Klassifikation Bedeutung pM0	Keine Fernmetastasen
-TNM-Klassifikation Bedeutung pM1	Fernmetastasen
-TNM-Klassifikation Bedeutung pMX	Vorliegen von Fernmetastasen kann nicht bestimmt werden
-Voraussetzungen Stadium I TNM-Klassifikation	T1/T2, N0, M0
-Voraussetzungen Stadium II TNM-Klassifikation	T3/T4, N0, M0
-Voraussetzungen Stadium III TNM-Klassifikation	T*, N1/N2, M0
-Voraussetzungen Stadium IV TNM-Klassifikation	T*, N*, M1
-Therapieformen bei Krebs	• Operation / • Chemotherapie / • Strahlentherapie / • Hormontherapie / • Hyperthermie / • Immuntherapie / • Zielgerichtete Therapie / • Palliativmedizin
-Funktionsweise Chemotherapie	Verhinderung der Zellteilung von Tumorzellen
-Funktionsweise Strahlentherapie	Zerstörung von Tumorzellen durch ionisierte, elektromagnetische Strahlung
+Patienten- und Sozialgeheimnis	Datenschutz und Schweigepflicht sind gleichrangige, voneinand. unabhängige Pflichten, durch verschiedene Gesetze geregelt
+Embolie 	Gefäßverschluss durch Verschleppung von nicht löslichen Material<div><br></div>
 Funktionsweise Hormontherapie	Ausschaltung körpereigener Hormone hemmt die Ausbreitung hormonabhängiger Tumore
-Funktionsweise Hyperthermie	Zerstörung von Tumorzellen durch Erhöhen der Körpertemperatur
-Funktionsweise Immuntherapie	Aktivierung des Immunsystems zur Abtötung von Tumorzellen
-Definition Tumormarker	Proteine, die von Tumorzellen unter abnormen Bedingungen produziert werden
-Warum sind Tumormarker wichtig?	Weil sie im Serum Gesunder nicht oder nur in extrem niedrigen Mengen nachweisbar sind
-Anwendung Tumormarker	Therapie- und Verlaufskontrolle / Anwendung in der Diagnostik
-Definition Arteriosklerose	Arterienerkrankungen führen zu Verdickung, Verhärtung und Elastizitätsverlust der Gefaßwand
-Definition Atherosklerose	Anhäufung von Atheromen (Fette, Bindegewebe, Kohlenhydrate) in einem Gefäß
-Folgen von Arteriosklerose	Gefäßverengung, Gefäßverschluss, Gefäßwandläsion
-Definition Thrombose	Erkrankung aufgrund eines Gefäßverschlusses durch Blutgerinnselbildung
-Ursachen von Thrombose	Gefäßwandläsion, Strömungsverlangsamung, Erhöhte Blutgerinnungsneigung
-Definition Embolie	Gefäßverschluss durch Verschleppung von nicht löslichem Material
-Symptome Embolie	• Blässe / • Gefühlsstörung / • Pulslosigkeit / • Lähmung / • Schmerz / • Schock
-Definition Schlaganfall	Durchblutungsstörung im Gehirn → Unterversorgung mit Sauerstoff und Nährstoffen
-Arten von Schlaganfällen	Ischämischer Infarkt / Hämorrhagischer Infarkt
-Wie häufig kommen die verschiedenen Arten von Schlaganfällen vor?	Ischämischer Infarkt: 85% / Hämorrhagischer Infarkt: 15%
-Letalität verschiedene Arten von Schlaganfällen	Ischämischer Infarkt: 20% / Hämorrhagischer Infarkt: 80%
-Nenne die Ursache eines ischämischen Schlaganfalls.	Es gibt eine arterielle Durchblutungsstörung, hervorgerufen durch arteriosklerotische Veränderungen
-Nenne die Ursache eines hämorrhagischen Schlaganfalls.	Eine intrazerebrale Massenblutung tritt aufgrund von Arteriosklerose/Aneurysma auf.
-Symptome Schlaganfall	• einseitige Lähmungserscheinungen/Gefühlstörungen/Sehstörungen / • Sprachstörungen / • einseitige Kopfschmerzen / Sprachverständisprobleme
-Expansion KHK	Koronare Herzkrankheit
-Definition Koronare Herzkrankheit	Minderdurchblutung des Herzmuskels aufgrund verengter Herzkranzgefäße
-Symptom der KHK	Brustenge
-Folgeerkrankungen der KHK	Herzrhythmusstörungen / Herzinfarkt / Herzinsuffizienz / Plötzlicher Herztod
-Verschiedene Symptomarten der KHK	Stabile Angina Pectoris / Instabile Angina pectoris
+Herzinfarkt - Theraphie - Thrombektomie	Entfernung von Blutgerinsel durch Absaugen oder Zerkleinern
+Voraussetzungen Stadium I TNM-Klassifikation	T1/T2, N0, M0
+Wachstumsrate Benigner Tumor	• langsam wachsend / • Mitosefiguren selten
+Unspezifisches Abwehrsystem	angeborene, natürliche Immunität, antigenunabhängig, standardisierter Ablauf
 Stabile Angina pectoris Eigenschaften	• Verschwinden der Symptome in Ruhe / • Besserung der Symptome durch Nitroglyceringabe / • Reproduzierbare Beschwerden
-Instabile Angina pectoris Eigenschaften	• Zunahme der Anfallsdauer und Intensität / • Auftreten von Beschwerden in Ruhe / • Nitroglyzerin hilft nicht
+Krankheitsursachen - Exogene Ursachen	physikalische Ursachen (Hitze, Kälte, Strahlen..), chemische Ursachen (Säure, Laugen, Gifte..), Microorganismen (Viren, Bakterien, Pilze..), Trauma, Ernährungsstörungen
+Ursachen für Atrophie	Wegfall der funktionellen Belastung / Durchblutungsstörung/Durchblutungsminderung / Druckatrophie / Nervenschädigung / Verminderte Hormonwirkung / Hungeratrophie
+instabile Angina pectoris	Zunahme Anfallsdauer, Anfallshäufigkeit oder Schmerzintensität, Auftreten v. Beschwerden in Ruhe, kein Ansprechen auf Nitroglycerin
+Therapie gegen Bakterien	Antibiotika
+Funktionsweise Chemotherapie	Verhinderung der Zellteilung von Tumorzellen
+TNM-Klassifikation Bedeutung pM0	Keine Fernmetastasen
+Koronare Herzkrankheit	Minderdurchblutung des Herzmuskels (Ischämie) aufgrund verengter Herzkrankgefäße durch Arteriosklerose
 Definition Herzinfarkt	Tod von Herzmuskelgewebe: Arteriosklerose → Verschluss der Herzkranzarterie → Sauerstoffmangel im Herz
-Reperfusionstherapie bei Herzinfarkt	Wiederherstellung der Durchblutung im Infarktgebiet
-Medikamentöse Therapie bei Herzinfarkt Funktionsweise	Auflösung eines Blutgerinnsels durch ein Medikament
-Funktionsweise Perkutane transluminale coronare Angioplastie bei Herzinfarkt	Aufdehnung von Stenosen durch Ballon
-Funktionsweise Bypass-Operation bei Herzinfarkt	Umgehung der Stenose mittels einer anderswo entnommenen Vene oder Brustarterie
-Funktionsweise Thrombektomie bei Herzinfarkt	Entfernung eines Blutgerinnsels durch Absaugen oder Zerkleinern mithilfe spezieller Instrumente
-Definition Herzinsuffizienz	Funktionsstörung des Herzens mit eingeschränkter körperlicher Belastbarkeit (ungenügende Sauerstoffversorgung)
+Stabile Angina pectoris	Verschwinden Symptome in Ruhe, Besserung Symptome durch Nytroglycerin, reproduzierbare Beschwerden
+Arteriosklerose Def. 	Arterienerkrankungen mit Umbau der Arterienwand, der zu Verdickung, Verhärtung und Elastitäsverlust des Gefäßes führt (Arterienverkalkung) (oft Artherosklerose genannt)<div><br></div>
+Bösartiger Tumor Rezidive	Häufig
+Elektronische Gesundsheitskarte	Smartcard, PIN für Authentifizierung wird von Karteninhaber festgelegt, hybride Verschlüsselung von Gesundheitsdaten
+chronisch kontinuierlich	gleichmäßig, langsam fortschreitend (z.B. Pilzerkrankung)
+Modulare Systeme	ganzheitlich mit einer zentralen Datenbank, unabhängige Module für einzelne funktionale Einheiten
+Herzinsuffizienz	Funktionsstörung Herz mit eingeschränkter körperlicher Belastbarkeit aufgrund ungenügender Blut- u. Sauerstoffversorgung von Organismus
+Gutartiger Tumor Symptomzahl	Syomptomarm
+Diabetis Mellitus	Stoffwechselkrankheit aufgrund unzureichener Insulinwirkung
+Pathophysiologische Faktoren Arteriosklerose	Gefäßverengung (Stenosen), Gefäßverschluss (Ischämie), Gefäßwandläsionen
+hybride Verschlüsselung	asymmetrische Verschlüsselung für symmetrische Schlüssel
 Arten der Herzinsuffizienz	• Kompensierte Herzinsuffizienz / • Dekompensierte Herzinsuffizienz
+Vorteile Papierakte 	hohe Anpassung an Arbeitsabläufe, Portabilität, unabhängig von Technik, flexibel bei Erfassung, hoher Infogehalt bei hoher Übersicht
+Verschiedene Symptomarten der KHK	Stabile Angina Pectoris / Instabile Angina pectoris
+Symptome einer Embolie	• Paleness (Blässe) / Paresthesia (Gefühlstörung) / • Pulslessness (Pulslosigkeit) / • Paralysis (Lähmung) / Pain (Schmerz) / Prostation (Schock)
+Typing - Epitheliale Tumoren (Deck‐ u. Drüsengewebe)	gutartig: Papillom, Adenom, bösartig: Karzinom, Adenokarzinom
+Voraussetzungen Stadium III TNM-Klassifikation	T*, N1/N2, M0
+Krankheitsverlauf Eigenschaften: Rezidivierend	Rückfall, wiederauftretend
+pathologisch gesteigerte Immunabwehr	Allergien, Autoimmunerkrankungen
+Krankheitsverlauf: Chronisch kontinuierlich	gleichmäßig u. langsam fortschreitend
+Modulare Systeme - Nachteile 	geringe Flexibilität, meistens alles von einem oder zwei Herstellern (Abhängigkeit)
+Heilungsmethoden Maligner Tumor	Chirurgische Exzision
+Verbot mit Erlaubnisvorbehalt	Erhebung, Verarbeitung und Nutzung von personenbez. Daten nur zulässig, wenn Gesetz es erlaubt, oder Betroffener eingewilligt hat
+Absolute Anonymität	Re-Identifikation unmöglich
+Therapietypen bei Krankheiten	Kurative Therapie / Palliative Heilung / Konservative Therapie / Operative Therapie
+Umgebendes Gewebe Maligner Tumor Folgen	• Invasion / • Destruktion
+Latenten Infektion	nach Erstinfektion lebenslanges Persistieren im Nervengewebe, Speicheldrüßen oder Blutzellen, die bei Reaktivierung zu erneuter Virusproduktion führt, z.B. Herpes, Windpocken
+Exogene Ursachen Entzündung 	Belebte Erreger (Viren, Bakterien, Parasiten), physikalische Noxen, chemische Noxen, mechanische Noxen
+Antigene	Substanzen, die immunologische Reaktionen auslösen können (körperfremd)
+Gibt es Metastasen bei Benignen Tumoren?	Nein.
+Definition spezifisches Abwehrsystem	Erworbene, adaptive Immunität
+Theraphietypen 	kurativ, konservativ, palliativ, operativ
+Lokale Ausbreitung Benigner Tumor	• zusammenhängend, begrenzt / • expansives, verdrängendes Wachstum / • fibröse Tumorkapsel
+TNM-Klassifikation Bedeutung pN1, pN2, pN3, pN4	Zunehmender Befall regionärer Lymphknoten
+Technische und organisatorische Maßnahmen Datenschutz 1	Im Falle einer automatisierten Verarbeitung muss folgendes sichergestellt werden: Zugangskontrolle, Datenträgerkontrolle, Speicherkontrolle (Verhinderung von unbefugter Eingabe, Veränderung etc.), Benutzerkontrolle
+Antikörper 	von B-Lymphozyten gebildete Proteine, die speziell zu ihnen passende Antigene binden
+Diabetis Mellitus - Folgeschäden Teil 2	Hyperlipidämie (erhöhte Blutfettwerte), z.B. Fettleber, Adipositas, Linsentrübung im Auge, Infektanfälligkeit durch Störung des Immunsystems, z.B. Pilzinfektionen, Harnwegsinfektionen, Embryopathie (Fehlbildungen Embryo während Schwangerschaft durch erkrankte Mutter)
+Definition TNM-Klassifikation	Anatomisch basierte Beschreibung des Primärtumors und dessen Ausbreitung im Körper nach dem TNM-Schema sowie des Krankheitsverlaufs
+Herzinfarkt - Theraphie - Bypass-Operation	Umgehung der Stenose mittels aus Bein entnommener Vene oder Brustarterie
+Definition Thrombose	Erkrankung aufgrund eines Gefäßverschlusses durch Blutgerinnselbildung
+Vegetative Anamnese	Gewichtsentwicklung, Appetit, Durst, Schlaf, Stuhlgang, Wasserlassen, Alkohol- und Zigarettenkonsum
+natürliche Immunität	erworbene Immunität, z.B. infolge durchgemachter Kinderkrankheiten<div><br></div>
+Vergrößerung	Hypertrophie, Hyperplasie
+pathologisch verringerte Immunabwehr	angeboren Immundefekte (meist durch erbliche Störungen der Lymphozytenentwicklung), erworbene Immundefekte (z.b. im hohen Alter, durch Infektionen/Tumorerkrankungen, medizinische Therapie)
+Palliative Therapie	lindernde Behandlung, keine Heilung
+Stadieneinteilung (Staging)	Internationale Einteilung von Tumorstadien auf Grundlage von TNM-Systems
+allgemeine elektronische Signatur	ohne Anforderungen, z.B. Name unter E-Mail
+Äußere Schutzbarrieren des Immunsystems	Säureschutzmantel der Haut / Flimmerepithel der Atemwege / Tränen- und Speichelflüssigkeit / Magensäure / Schleimhaut der Vagina / Schleimhaut in der Harnröhre
+Schichten Architektur	Presentation Layer, Application Logic Layer, Resource Management Layer
+Arten von Schlaganfällen (nach Ursache)	• Ischämischer Schlaganfall: Arterielle Durchblutungsstörung / • Hämorrhagischer Infarkt: Intrazerebrale Massenblutung
+Therapietypen: Palliative Therapie	Lindernde Behandlung ohne Heilung
+Leitsymptom der Rechtsherzinsuffizienz	Ödeme (u. a. Beinödeme)
+Tumor - Theraphieformen - Operation	Entfernung des Tumors u. der nächstliegenden Lymphknoten
+Anwendung Tumormarker	Therapie- und Verlaufskontrolle / Anwendung in der Diagnostik
+Ursachen von Thrombose	Gefäßwandläsion, Strömungsverlangsamung, Erhöhte Blutgerinnungsneigung
+Symptome einer Entzündung	Schwellung (Tumor) / Erwärmung (Calor) / Schmerzen (Dolor) / Rötung (Rubor) / Funktionseinschränkung (Functio laesa)
+Bsp. für konkrete technische und organisatorische Maßnahmen Datenschutz	Schloss, Zutrittsberechtigung, Kryptographie, Zugriffsrechte, Funktionstrennung
+Nenne die Ursache eines hämorrhagischen Schlaganfalls.	Eine intrazerebrale Massenblutung tritt aufgrund von Arteriosklerose/Aneurysma auf.
+Spezifisches Abwehrsystem	erworbene, adaptive Immunität, langsame Wirkung bei Erstkontakt mit Antigen, spezifisch gegen spezielle Antigene, Bildung v. Antigengedächnis, schnelle Wirkung bei 2ten Kontakt
+Folgen von Arteriosklerose	Gefäßverengung, Gefäßverschluss, Gefäßwandläsion
+Gutartiger Tumor Alter Patient	Jugendliche/mittleres Lebensalter
+Herzinfarkt - medikamentöse Theraphie	Auflösung von Blutgerinnsel (Thrombus)
+Definition Virus	Kleiner Infektionsträger ohne eigenen Stoffwechsel
+Artherosklerose - Risikofaktoren	familäre Prädisposition, Lebens- u. Ernährungsgewohnheiten, Geschlechtsunterschied bei Frauen nur bis Menopause
+Funktionsweise Bypass-Operation bei Herzinfarkt	Umgehung der Stenose mittels einer anderswo entnommenen Vene oder Brustarterie
+Exogene Ursachen einer Entzündung	Erreger / Physikalische/Chemische/Mechanische Noxen
+Therapieformen bei Krebs	• Operation / • Chemotherapie / • Strahlentherapie / • Hormontherapie / • Hyperthermie / • Immuntherapie / • Zielgerichtete Therapie / • Palliativmedizin
+Folgen einer Entzündung 	Regeneration, Defektheilung, chronischer Verlauf, Zweiterkrankung
+Bestandteile des unspezifischen zellulären Abwehrsystems	Makrophagen / Natürliche Killerzellen / Neutrophile Granulozyten
+Bestandteile des spezifischen humoralen Abwehrsystems	Antikörper (produziert von B-Zellen)
+Diabetis Mellitus - Kennzeichen 	erhöhter Blutzuckerspiegel (Hyperglykämie), Zuckerausscheidung im Urin
+Was ist die Funktion sekundärer lymphatischer Organe?	• Vermehrung der Lymphozyten / • Filtration der Lymphe zur Antigenerkennung / • Bildung von Antikörpern
+Definition unspezifisches Abwehrsystem	Angeborene natürliche Immunität, antigenunabhängig, standartisierter Ablauf
+Ischämischer Infarkt	häufigere, weniger tödliche Form, arterielle Durchblutungsstörung, meist Embolie, selten Stenose
+Letalität der Schlaganfälle	Ischämischer Infarkt: 20% / Hämorrhagischer Infarkt: 80%
+Symptome Schlaganfall	• einseitige Lähmungserscheinungen/Gefühlstörungen/Sehstörungen / • Sprachstörungen / • einseitige Kopfschmerzen / Sprachverständisprobleme
+Bösartiger Tumor Symptomzahl	Symptomreich
+Wie vermehrt sich ein Bakterium?	Durch einfache Zellteilung.
+TNM-Klassifikation Bedeutung pNX	Befall regionärer Lymphknoten kann nicht genau bestimmt werden
+Wie häufig kommen die verschiedenen Arten von Schlaganfällen vor?	Ischämischer Infarkt: 85% / Hämorrhagischer Infarkt: 15%
+Arten von Impfungen	Aktive Immunisierung / Passive Immunisierung
+Def: Auftrgsverarbeiter	Person/Behörde, die personenbezogene Daten im Auftrag von Verantwortlichen verarbeitet
+Bsp. für Integrationsprofile	Bildmarkierungen (Notizen an digitale Bilder anhängen), Korrektur der Patienteninformationen (ungeplante Untersuchungen und unbekannte Patienten), Arbeitsfluss für die Bildverarbeitung (Bilddarstellung und CAD)
+Formale Anonymität	Entfernung der direkten Identifikatoren
+Gibt es Metastasen bei Malignen Tumoren?	Potentiell ja.
+Metastasierungsorte	Knochen, Lunge, Leber
+Gutartiger Tumor Rezidive	Rarität
+Symptome Embolie	• Blässe / • Gefühlsstörung / • Pulslosigkeit / • Lähmung / • Schmerz / • Schock
+Definition Antikörper	Von B-Lymphozyten gebildete Proteine, die speziell passende Antigene binden
+Organverkleinerung durch	Zellverkleinerung (Hypotrophie, einfache Atrophie), Abnahme d. Zellzahl (Hypoplasie, numerische Atrophie)
+Definition Metastasierung	Verschleppung von Tumorzellen zu entfernten Körperstellen mit Bildung von Tochtertumoren
+Tumormarker - Anwendung	Therapie- und Verlaufskontrolle (Staging), eingeschränkte Anwendung zur Diagnostik (Screening)
+Symptome Embolie	Paleness (Blässe), Paresthesia (Gefühlsstörung), Pulslessness (Pulslosigkeit), Paralysis (Lähmung), Pain (Schmerz), Prostation (Schock)
+Ursachen von Asthma	Körperliche + äußere Faktoren (allergische und nicht-allergische) -> Luftnot & Angst
+Tumor - Theraphieformen - Hyperthermie 	Zerstörung von Tumorzellen durch Erhöhen der Körpertemperatur
+Definition Herzinsuffizienz	Funktionsstörung des Herzens mit eingeschränkter körperlicher Belastbarkeit (ungenügende Sauerstoffversorgung)
+Histologie Benigner Tumor	• Tumorgewebe ähnlich zu Ursprungsgewebe
+Entzündung Definition	Universelle Abwehrreaktion des lebenden Organismus gegen verschiedenartige Schädigungen
+Rechtsherzinsuffizienz - Ursachen	Linksherzinsuffizienz, Lungenerkrankungen
+Körperliche Untersuchung - Vitalzeichen erster Ordnung	Körpertemperatur, Puls, Blutdruck, Atmung, Bewusstseinsstatus
+Remission	vorübergehendes Verschwinden oder Rückgang der Krankheitserscheinung (z.B. Tumor nach Chemo)
+Einteilung des Abwehrsystems anhand der Lokalität	Zellulär / Humoral (nicht zellulär)
+Aktive Immunisierung Funktionsweise	Antikörperbildung durch Impfung mit abgeschwächten Erregern
+Nenne die sekundären lymphatischen Organe.	Milz, Lymphknoten, Tonsillen, lymphatisches Gewebe des Darms
+Symptome von Asthma	Atemnot, andauernder Husten, pfeifendes Ausatmen
+Artherosklerose - Risikofaktoren 2. Ordnung	Übergewicht, Stress, Bewegungsmangel, Gicht, hormonelle Faktoren, erhöhtes Lipoprotein<div><br></div>
+Arten von Abwehrsystemen	Unspezifisches Abwehrsystem / Spezifisches Abwehrsystem
+Definition Bakterium	Einzelliges Lebewesen mit eigenem Stoffwechsel ohne echten Zellkern (mit DNA)
+Anwendungen der Gesundheitskarte	Notfalldatensatz (z.B. Vorerkrankungen, Allergien), Abgleich und Aktualisierungen von Versicherungsstammdaten, sicherere Kommunikation von Arzt zu Arzt, Zusammenarbeit von verschiedenen Kliniken und Praxen
+Arten chronischer Krankheitsverläufe	chronisch progredient / chronisch kontinuierlich / chronisch rezidivierend
 Charakteristika kompensierte Herzinsuffizienz	• Pumpleistung wird aufrechterhalten / • Symptomatik nur bei Belastung
+Welche Funktion erfüllen T-Lymphozyten?	Tragen eine spezifische zelluläre Abwehr, aktivieren B-Zellen
+Rechte des Betroffenen	Rechte auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung, Widerruf etc. sind unveräußerlich, können also nicht durch Rechtsgeschäft ausgeschlossen oder beschränkt werden
+Kernproblem Heterogenität	Neuentwicklung von KIS schwierig, es gibt starke Spezialisierung und Systeme müssen stark an Anforderungen angepasst werden, Medizingeräte haben meistens integrierte Software
+hämorrhaischer Infarkt 	weniger häufige Form, Letalität 80%, intrazerebrale Massenblutung, meist Angiopathie (Gefäßleiden) infolge von arterieller Hypertonie, Artiosklerose, Aneurysma
+Grading	Einstufung des Malignitätsgrades über Beurteilung der Übereinstimmung des Tumors mit seinem ursprünglichen Muttergewebe
+Was ist ein Integrationsprofil?	Darstellung von medizinischen Abläufen + Kommunikationsvorgängen, erleichtern Kommunikation zwischen Anwendern und Firmen
+Entzündung Kardinalsymptome 	Dolor (Schmerz), Rubor (Rötung), Calor (Wärme), Tumor (Schwellung), Functio laesa (Funktionseinschränkung)
+Tumor - Theraphieformen - Strahlentherapie	Zerstörung von Tumorzellen durch ionisierte, elektromagnetische<br>Strahlung
+Endogene Ursachen von Krankheiten	Genetische Defekte / Immunologische Faktoren / Psychische Faktoren
+Diabetis Mellitus - Symtome	Gewichtsverlust, Sehstörungen, Hautinfektionen, Juckreiz
+Arterielle Hypertonieformen - Symptome	Kopfschmerzen, Nasenbluten, Ohrensausen, Schwindel
+Herzinfarkt - Reperfusionstheraphie	Wiederherstellung der Durchblutung im Infarktgebiet
+Symptome eines Schlaganfalls	• Einseitige Lähmung / • Sprachstörung / • Einseitige Störungen (Sprache, Sehen, Gefühl)
+Ausbreitungswege einer lokalen Entzündung	direkt übergreifend / kanalikulär (Gangsysteme) / lymphogen (Lymphgefäße) / neurogen (Nerven) / hämatogen (Blutgefäße)
+Diabetis Mellitus - Folgeschäden Teil 1	Makroangiopathie (Erkrankung der großen arteriellen Blutgefäße, z.B. Artherosklerose, Schlaganfall etc.), Microangiopathie (Erkrankung der kleinen arteriellen Blutgefäße, z.B. Nierenschädigung, Netzhautläsionen), Nervenschädigungen
+Bösartiger Tumor Alter Patient	Ältere Menschen
+Latent 	schlummernde, verborgene Erkrankung ohne Krankheitserscheinungen, die wieder klinisch manifest werden kann (z.B. Herpes)
+Pseudonymisierung	Verarbeitung von pers.bez. Daten, sodass Daten ohne zusätzl. Infos nicht mehr Person zugeordnet werden können
 Charakteristika dekompensierte Herzinsuffizienz	• Unzureichende Pumpleistung / • Symptomatik auch im Ruhezustand
-Eigenschaft dilative Herzinsuffizienz	Erschlafftes Myokard
-Eigenschaft hypertrophe Herzinsuffizienz	Verdicktes Myokard
-Ursachen Linksherzinsuffizienz	• Herzinfarkt / • Klappenfehler / • Hypertonie
+Datenschutzmaßnahmen im Forschungskontext	Trennung von medizinischen und identifizierenden Daten, Einwilligung, Zugriffs- und Nutzungsregelungen
+Typing	International vereinheitlichte Bestimmung des histologischen Tumortyps (Art des Gewebes)
+Konservative Therapie	erhaltende Therapie ohne Eingriff in Gewebe (z.B. Pharmakotherapie, Physiotherapie)
+Verkleinerung 	Hypothrophie, Hypoplasie
+IgG 	Sekundärantwort (wird bei Zweiterkrankung gebildet), plazentagängig, lebenslanger Schutz
+Funktionsweise Hyperthermie	Zerstörung von Tumorzellen durch Erhöhen der Körpertemperatur
+Bronchialkarziom	Anteil von 35% aller malignen Tumoren bei Männern, Altersgipfel um 60LJ, 5-Jahres-Überlebensrate ca 5-10%
+Bestandteile des spezifischen zellulären Abwehrsystems	T-Zellen: / • T-Helferzellen / • Zytotoxische Zellen / • T-Zell Gedächtnis
+Krebs	allgemeine Bezeichnung für bösartige Tumoren
+Definition Koronare Herzkrankheit	Minderdurchblutung des Herzmuskels aufgrund verengter Herzkranzgefäße
 Leitsymptom Linksherzinsuffizienz	Atemnot
-Symptome Linksherzinsuffizienz	• Atemnot / • Zyanose / • Lungenödem
+Reperfusionstherapie bei Herzinfarkt	Wiederherstellung der Durchblutung im Infarktgebiet
+Primäre lymphatische Organe 	Thymus, Knochenmark (alle Abwehrzellen werden im Knochenmark gebildet)
+Inzidenz der Schlaganfälle	Ischämischer Schlaganfall: 85% / Hämorrhagischer Infarkt: 15%
+Tumor - Theraphieformen - Zielgerichtete Therapie<br><br>	richtet sich gezielt gegen Tumoreigenschaften, die das Wachstum<br>der Krebszellen fördern
+Hypertrophie 	vermehrte Arbeitsbelastung, Kompensation (z.B. bei Organverlust), hormoneller Stimulus (z.B. Uterushypertrophie bei Schwangerschaft)
+B-Gedächniszellen	"langlebige Zellen mit ""Antigengedächnis"""
+Best of Breed 	Summe von Speziallösungen
+Exogene Ursachen von Krankheiten	Physikalische Ursachen (Hitze, Kälte, Strahlen) / Chemische Ursachen (Säure, Laugen, Gifte) / Mikroorganismen (Viren, Bakterien, Pilze) / Trauma / Ernährungsstörungen
+Kurative Therapie	heilende Behandlung oder Defektheilung, Ursachen d. Erkrankung oder Symptome werden therapiert
+Sekundäre lymphatische Organe	bilden Antikörper, Milz, Lymphknoten, Tonsillen, lymphatisches Gewebe des Darms
+Exazerbation 	deutliche Verschlimmerung von Symptomen einer bereits bestehenden Erkrankung
 Ursachen Rechtsherzinsuffizienz	• Linksherzinsuffizienz / • Lungenerkrankungen
+Tumor - Theraphieformen - Palliativmedizin	Schmerzlinderung u. Erhalt von Lebensqualität bei<br>fortgeschrittenen Tumoren im Endstadium
+Immunität	Unempfindlichkeit des Organismus gegenüber Pathogenen
+5-Jahres-Überlebensrate	Prozentsatz Tumorkranker, die nach 5 Jahren noch leben
+Funktionsweise Perkutane transluminale coronare Angioplastie bei Herzinfarkt	Aufdehnung von Stenosen durch Ballon
+Thrombose 	Erkrankung aufgrund Gefäßverschluss (Arterien, Venen) durch Blutgerinnselbildung (Thrombus)
+Herzinfarkt - perkulante transluminale coronare Angioplastie	Aufdehnung von Stenosen (Ballondilatation)<div><br></div>
+Direkte Übertragungswege bei Infektionskrankheiten	Tröpfchemierinfektion (oral), Tröfcheninfektion (aerogen), Blutweg (parenteral)
+Tumorfolgen	Tumorkachexie (Abnahme Körpergewicht mit Kräfteverfall), Tumoranämie (blutarmut), Tumorfieber, Tumormetastasierung
+elektronische Gesundheitsakte vs. elektronische Patientenakte	Gesundheitsakte: wird von Patienten selber über Dienstleister in Auftrag gegeben, Patientenakte: von behandelnen Institutionen geführt
+Krankheitsverlauf Eigenschaften: Exazerbation	Verschlimmerung bestehender Krankheitssymptome
+FHIR - Bsp. für References, Bsp. für Resource 	Ref: Subject, Res: Patient, Ref: Assesment, Res: Observation, Ref: Author, Res: Practitioner
+Krankheitsursachen - Endogene Ursachen	Genetische Defekte, immunologische Faktoren, psychische Faktoren
+Rezidivierend 	Rückfall, wiederauftretend
+TNM-Klassifikation Bedeutung pMX	Vorliegen von Fernmetastasen kann nicht bestimmt werden
+Therapien bei einem Herzinfarkt	• Medikamentöse Therapie (Auflösung des Thrombus) / • Perkutane transluminale coronare Angioplastie (PTCA) (Aufdehnung von Stenosen) / • Bypass-Operation (Umgehung der Stenose) / • Thromektomie (Entfernung eines Blutgerinnsels durch Absaugen/Zerkleinern)
+Plasmazellen 	produzieren Antikörper zur Bildung von hochselektiven Antigen-Antikörper-Komplexen (Schloss-Schlüssel-Prinzip)
+Inwiefern ist ein Bakterium schadhaft?	Durch direkte Zellschädigung oder Toxinwirkung.
+Kompensierte Herzinsuffizienz	Herzschaden, Pumpleistung des Herzens wird noch aufrechterhalten
+Insulin	Bildung in Pankreas, senkt Zucker im Blut durch Aufnahme von Glukose in Zellen, Überführung von Glukose in Glygoken, fördert Eiweißaufbau, fördert Fettbiosynthese
+Eitrige Entzündungen - Typen 	Abzess (Eiteransammlung in einem nicht vorbestehenden Hohlraum), Empyem (Eiterbildung in Körperhöhle), Phlegmone (diffuse, sich flächig ausbreitende Entzündung im Bindegewebe)
+Expansion KHK	Koronare Herzkrankheit
+Beispiele IT-Standards in Medizin 	ICD (Klassifikation von Diagnosen), SNOMED (Fokus Forschung), MeSH (Verschlagwortung med. Literatur)
+Kategorien von Krankheitsursachen	Endogene Ursachen / Exogene Ursachen
+Dignitätskriterien - bösartiger Tumor	vor allem ältere Menschen, symptomreich (aber spät), Verlauf kurz und tödlich, häufig Metastase, häufig Rezidive
+Arten von Schlaganfällen	Ischämischer Infarkt / Hämorrhagischer Infarkt
+Therapietypen: Konservative Therapie	Kein Eingriff in das Gewebe
+Körperliche Untersuchung 	Inspektion (Betrachtung), Palpation (Abtasten), Perkussion (Klopfen), Auskultation (Aushorchen)
+Fakultativ pathogene Erreger 	lösen nur bei entsprechender Disposition Infektionen aus (opportunisches Infektion)
+Modulare Systeme - Vorteile 	Datenkonsistenz, Erweiterbarkeit, Vermeidung von Medienbrüchen
+Krankheitsverlauf - akut 	schnell, heftig, plötzlich
+Nachteile elektronische Akte	Abhängigkeit von Technik und Hersteller, Sicherheitsprobleme, Einführungsaufwand, rechtliche Fragen, Abhängigkeit von Hardware (Notepads, WLAN)
+Definition Tumormarker	Proteine, die von Tumorzellen unter abnormen Bedingungen produziert werden
+Prinzipien des Datenschutz 2	Pers.bez. Daten müssen in Form gespeichert werden, die Identifizierung der Personen nur so lange ermöglicht, wie es für die Verarbeitungszwecke notwendig ist (Speicherbegrenzung), Sicherheit der Daten u. Schutz vor unrechtmäßiger Verarbeitung muss gewährt sein, Verantwortlicher ist für Einhaltung verantwortlich (Rechenschaftspflicht)
+Arten von Asthma	Allergisches Asthma, Nicht-allergisches Asthma
+Eigenschaft hypertrophe Herzinsuffizienz	Verdicktes Myokard
+Tumor - Theraphieformen - Hormontherapie	Ausschaltung körpereigener Hormone hemmt die Ausbreitung<br>hormonabhängiger Tumore (Antihormontherapie)
+Bösartiger Tumor Verlauf	Kurz, tödlich
+Diabetis Mellitus Typ 1	fehlende Insulinproduktion durch Zerstörung der Pankreaszellen, meist vor 40 LJ, schlanke Patienten, Autoimmunreaktion nach Virus-Infektionen (Röteln, Mumps), Therapie mit Insulin-Injektionen
+Heilungsmethoden Benigner Tumor	Chirurgische Exzision
 Leitsymptom Rechtsherzinsuffizienz	Ödeme
+Funktionsweise Immuntherapie	Aktivierung des Immunsystems zur Abtötung von Tumorzellen
+Tumor - Theraphieformen - Immuntherapie	Aktivierung des Immunsystems zur Abtötung von Tumorzellen
+Kommunikationsserver - Nachteile	verhindert nicht: Redundanz bei Daten, fehlende Synchronisation, Überlapp von Funktionen, es wird zusätzliche Hardware/Software benötigt
 Symptome Rechtsherzinsuffizienz	Prätibiale Ödeme / • Halsvenenstauung / • Beinödeme / • Lebervergrößerung / • nächtliches Wasserlassen
+Phasen eines Infektionsverlaufes	Primäre Immunantwort / Sekundäre Immunantwort
+Nicht-allergisches Asthma 	Atemwegsinfektionen, Medikamente, Luftschadstoffe (Abgase, Tabakrauch)
+Risikofaktoren Diabetes	• Adipositas / • Bewegungsmangel / • Fettstoffwechselstörungen / • Genetische Prädisposition
+Vorteil elektronische Akte	Zugriffszeit, Strukturierung, Verfügbarkeit, Konsistenzprüfung, Erinnerungshinweise
+Krankheitsverlauf: Chronisch rezidivierend	immer wieder auftretend
+Krankheitsverlauf: Chronisch progredient	fortschreitend bis zum Tod
+Mamma-Carcinom	häufigster bösartiger Tumor der Frau (20% aller Krebstodesfälle), Häufigkeitsgipfel 50-60LJ., Überlebensrate nach 10 Jahren bei 60%
+Enzündung endogene Ursachen	Immunreaktion, Stoffwechselprodukte, Ischämie (Minderdurchblutung von Gewebe, kann z.B. bei Thrombose auftreten), Nekrose
+Dysplasie	Veränderungen in einem Zellverband<br>häufig reversibel
+Indirekte Übertragungswege bei Infektionskrankheiten	Trinkwasser, Lebensmittel, Überträger
+Bildungsort der T-Lymphozyten	Thymus
+Diabetis Mellitus - Hauptsymtome	starker Durst (Polydipsie), erhöhtes Urinvolumen (Polyurie)
+Krankheitsverlauf Eigenschaften: Chronisch	langsam entwickelnd, verlaufend
+Definition Antigene	Substanzen, die eine immunologische Reaktion auslösen
+Lokale Ausbreitung Maligner Tumor	• schlecht begrenzter Tumor / • invasives, destruierendes Wachstum
+TNM-Klassifikation Bedeutung pT1, pT2, pT3, pT4	zunehmende Ausbreitung des Primärtumors
+Was macht die IHE (Integrating the Healthcare Enterprise)?	Spezifikationen, die in technischen Rahmenwerk zus.gefasst sind, Integrationsprofile, die medizinische bzw. verwaltungstechnische akteure beschreiben, definieren Regeln zur Nutzung von Standards, Prüfung von System auf connect-a-thon,
+Definition fakultativ pathogener Erreger	Erreger, der nur bei bestehender Disposition Infektionen auslöst
+Palpation - Beschreibung von Tastbefund	Lokalisation, Größe, Oberfläche (glatt-, grob-, feinhöckerig), Begrenzung (scharf, diffus, nicht abgrenzbar), Konsistenz (hart, weich, fluktuierend), Verschieblichkeit, Druckdolenz, Pulsation
+Atrophie verursacht durch 	Inaktivitätsatrophie (z.B. Gips), Vaskuläre Atrophie (Durchblutungsstörung), Druckatrophie (Durchblutungsminderung durch mechanischen Druck, z.B. Dekubitus), neurogene Atrophie (Muskelatrophie durch Nervenschädigung, z.B. Querschnittslähmung), hormonelle Atrophie (verminderte Hormonwirkung, z.B. Uterushypotrophie nach Schwangerschaft), generalisierte Atrophie (Hungeratrophie, Kachexie [z.B. bei Tumoren])
+DICOM Service Classes 	kapseln verschiedene Funktionalitäten, die DICOM Standard beinhaltet, z.B. store, print, worklist, die meisten Geräte unterstützen nur ein paar Service classes
+Inapperent 	unbemerkt (z.B. Röteln)
+1-tier-architecture	keine Trennung von Schichten, information system besteht aus presentation layer, application logic layer und resource management layer
+Viren	Infektionsträger ohne eigenen Stoffwechsel, benötigen Wirtsorganismus für Vermehrung, besitzen DNA/RNA zur Steuerung des Stoffwechsels in Wirtszelle
+Bildungsort der B-Lymphozyten	Knochenmark
+Primäre Immunantwort Eigenschaften	Immunreaktion auf erstmaligen Kontakt mit Antigen / Bildung von Frühantikörper (IgM)
+Symptome Linksherzinsuffizienz	• Atemnot / • Zyanose / • Lungenödem
+Informationssystem	Schnittstelle zwischen Mensch und Maschinen, kann automatisch oder manuell sein und ist für Datenverarbeitung zuständig
+Risikofaktoren für Krebs	Familiäre Disposition / Hormonelle Faktoren / Lebensalter / Lebensstil / Umweltfaktoren (Karzinogene)
+Eigenschaft dilative Herzinsuffizienz	Erschlafftes Myokard
+Krankenhausinformationssystem (KIS)	gesamtes informationsverabreitendes und informationsspeicherendes Teilsystem eines Krankenhauses
+Endogene Ursachen einer Entzündung	Immunreaktion / Ischämie / Nekrose / Stoffwechselprodukte
+Bedeutung von TNM-Klassifikation	Schätzung Prognose, Hilfe bei Therapieplanung, Auswertung Behandlungsergebnisse, Erleichterung Informationsaustausch, Grundlage zur Erforschung von Krebserkrankungen<div><br></div>
+F.A.S.T Test 	Face: Smile, Arms: Raise, Speech: Repeat a simple sentence, does person have trouble or slur words?, Time: critical, needs immediate medial attention
+Komplikationen der Arteriosklerose	koronare Herzkrankheit (z.B. Herzinfarkt), Schlaganfall, Bluthochdruck, Aneurymabildung, Thrombose
+Prinzipien des Datenschutz 1 	Personenbez. Daten müssen auf rechtmäßige u. nachvollziehbarer Weise verarbeitet werden, für festgelegte u. legitime Zwecke erhoben werden, angemessen beschränkt sein, sachlich richtig u. aktuell sein
+HL7 (Health Level 7)	Anwendungsspezifisches Protokoll auf Ebene 7 OSI-Modell (Anwendungsschicht), ursprünglich für Nachrichtenaustausch zwischen Systemen im Gesundheitswesen
+Symptome Schlaganfall	einseitige Lähmungserscheinungen/Gefühlsstörungen/Sehstörungen/Kopfschmerzen, Sprachstörungen, Sprachverständnisprobleme,
+Sepsis Definition	Organversagen mit Infektion
+TNM-Klassifikation Bedeutung pT0	Keine histologische Evidenz für einen Primärtumor
+Nenne die Ursache eines ischämischen Schlaganfalls.	Es gibt eine arterielle Durchblutungsstörung, hervorgerufen durch arteriosklerotische Veränderungen
+Krankenakte besteht aus	ärztlicher Dokumentation im Verlauf, Krankenblatt (enthält Vitaldaten, Medikation, Diagnosen, etc), geordnete Sammlung von Untersuchungsergebnissen, Unterlagen über Vorbehandlung, Dokumentation der Aufklärung, Patientenentscheidungen, Pflegerische Dokumentation
+Voraussetzungen Stadium II TNM-Klassifikation	T3/T4, N0, M0
+Dignitätskriterien - gutartiger Tumor	bevorzugt Jugendliche/mittleres Lebensalter, symptomarm, lang, nicht tödlich, keine Metastasen
+Nosokomiale Erreger	im Krankenhaus erworbene Infektionen (oft resistente Keime)
+Warum sind Tumormarker wichtig?	Weil sie im Serum Gesunder nicht oder nur in extrem niedrigen Mengen nachweisbar sind
+Gutartiger Tumor Metastasenvorkommen	Fehlend
+Therapietypen: Kurative Therapie	Heilende Behandlung oder Defektheilung
+TNM-Klassifikation Bedeutung pN0	Kein Befall regionärer Lymphknoten
+Definition Arteriosklerose	Arterienerkrankungen führen zu Verdickung, Verhärtung und Elastizitätsverlust der Gefaßwand
+äußere Schutzbarrieren	Säureschutzmantel der Haut, Flimmerepithel der Atemwege, Tränen- und Speichelflüssigkeit, Magensäure, saures Milieu der Vagina, Harnfluss der Harnröhre
+Metastasen - Zielorte	Leber (Mammakarzinom, malignes Melanom), Lunge (v.a. bei Sarkomen), Knochen (Bronchialkarzinom, Nierenkarzinom), ZNS (Mammakarzinom, Bronchialkarzinom)<div><br></div>
+Ursache für Metaplasie	Chronische Irritation / Entzündungen
+Unspezifisches humorales Abwehrsystem	in Körperflüssigkeiten gelöste Substanzen, die entweder ständig im Blut oder Lymphsystem zirkulieren oder aus geschädigten Zellen freigesetzt werden
+Schlaganfall (Apoplex)	Durchblutungsstörung im Gehirn führt über Unterversorgung von Sauerstoff und Nährstoffen zu einer Schädigung von Gehirngewebe
+Unterschied B-Zellen und T-Zellen	B-Zellen produzieren Antikörper, T-Zellen nicht
+Umgebendes Gewebe Benigner Tumor Folgen	• Kompression / • Druckatrophie
+Auslöser von Asthma	Verengung der Atemwege durch chronisch entzündliche Erkrankung (Überempfindlichkeit des Bronchialsystems)
+Typing - Mesenchymale Tumoren (Stütz‐ u. Bindegewebe)	gutartig: Lipom, Chondrom, Angiom, bösartig: Liposarkom, Chondrosarkom, Agiosarkom
+Bildungsort von Insulin	β-Zellen in den Pankreas
+B-Lymphozyten	bilden Antikörper, Träger der spezifischen humoralen Abwehr, Rezeptoren sind Antikörper
+B-Lymphozyten 	Vorläufer der Plasmazellen
+Pulsmerkmale	Frequenz, Rhythmus, Füllung
+Leitsymptom der Koronaren Herzkrankheit	Angina pectoris (Brustenge)
+Ausbreitungswege der lokalen Entzündung 	direkt übergreifend (per continuitatem), kanalikulär (Gangsysteme), lymphogen (Lymphgefäße), neurogen (Nerven), hämatogen (Blutgefäße)
+Definition Immunität	Unempfindlichkeit des Organismus gegenüber Pathogenen
+Instabile Angina pectoris Eigenschaften	• Zunahme der Anfallsdauer und Intensität / • Auftreten von Beschwerden in Ruhe / • Nitroglyzerin hilft nicht
+Passive Immunisierung Funktionsweise	Verabreichung spezifischer Antikörper
+Symptom der KHK	Brustenge
+Bakterien	einzellige Lebenwesen ohne echten Zellkern, wirtsunabhängige Vermehrung, Schädigung durch direkte Zellschädigung oder Toxinwirkung
+Dignitätskriterien - Merkmale - Malign	langsam bis schnell wachsend, Tumor oft schlecht begrenzt, invasives zerstörendes Wachstum, kann nur in Frühfällen chirugisch behandelt werden
+Symptome Diabetes Typ 1	Starker Durst / Erhöhtes Urinvolumen
+Bildungsort der Abwehrzellen	Knochenmark
+Dekompensierte Herzinsuffizienz	Herzschaden, Pumpleistung des Herzens kann nicht mehr aufrechterhalten werden
+fortgeschrittene elektronische Signatur	geheimer Signaturschlüssel, Signaturersteller muss identifizierbar sein
+Krankheitsverlauf Eigenschaften: Akut	schnell, heftig, plötzlich
+Abzess - Arten 	"Follikulitis (Entzündung des Haarbalgs), Furunkel (Entzündung von Haarfolikel und Talgdrüse), Karbunkel (flächenhafte Entzündung mehrere Folikel und Talgdrüßen, ""fressendes Geschwür"")"
+Faktische Anonymität 	Re-Identifikation nur mit hohem Zeit, Kosten, Arbeitsaufwand möglich
+Tumor	1) umschriebene Volumenzunahme eines Gewebes(Geschwulst, Schwellung)<br>2) abnorme Gewebsvermehrung durch autonome Teilungswachstum körpereigener Zellen (Neoplasie)
+Diabetis Mellitus - Risikofaktoren	Adipositas, Bewegungsmangel, Fettstoffwechselstörungen, genetische Prädisposition
+Wie vermehrt sich ein Virus?	Durch Einschleusen von DNA/RNA in eine Wirtszellen.
+Therapietypen: Operative Therapie	Chirurgischer Eingriff
+Umwandlung 	Metaplasie
+Arten von Architekturen	Business Architecture, Application Architecture, Data Architecture, Technical Architecture
+Primäre Immunantwort	bei erstmaligen Kontakt mit Antigen, Bildung von Frühantikörpern (IgM)
+Definition Krebs	Allgemeine Bezeichnung für bösartige Tumoren
+DICOM	Standard zur Formatierung von Bilddaten in Medizin, Anbindung bildgebender Modalitäten an KIS, Service Classes für Versenden, Empfangen und Abspeichern von medizinischen Bildern
+Definition Atherosklerose	Anhäufung von Atheromen (Fette, Bindegewebe, Kohlenhydrate) in einem Gefäß
+TNM-Klassifikation Bedeutung pTX	Lokale Tumorausbreitung kann histopathologisch nicht bestimmt werden
+Krankheitsverlauf Eigenschaften: Latent	schlummernd, verborgene Erkrankung ohne Krankheitserscheinung, die wieder manifest werden kann
+Artherosklerose - Risikofaktoren 1. Ordnung	Nikotinabusus, Hypertonie (Bluthochdruck), Diabetes Mellitus, Hyperlipidämie (erhöhte Fettwerte), Homocysteinämie (erhöhtes Homocystein)
+Technische und organisatorische Maßnahmen Datenschutz 2	Zugriffskontrolle, Übertragungskontrolle, Eingabekontrolle, Transportkontrolle, Wiederherstellbarkeit, Zuverlässigkeit, Datenintegrität, Auftragskontrolle, Verfügbarkeitskontrolle, Trennbarkeit
+Voraussetzungen Stadium IV TNM-Klassifikation	T*, N*, M1
+Fakultative Allgemeinsymptome einer Entzündung	Tachykardie / Leukozytose / Erhöhte Plasmaproteine / Erhöhte Blutkörperchensenkungsgeschwindigkeit
+Folgeerkrankungen der KHK	Herzrhythmusstörungen / Herzinfarkt / Herzinsuffizienz / Plötzlicher Herztod
+Ursachen nicht-allergischen Asthmas	Atemwegsinfektionen, Medikamente, Luftschadstoffe
+Definition Infektionskrankheiten	Krankheiten, die durch Eindringen und Vermehrung lebender Mikroorganismen entstehen
+IgM 	Primärantwort (wird bei Ersterkrankung gebildet)
+Gutartiger Tumor Verlauf	Lang, nicht tödlich
+Best of Breed - Nachteile	Inkonsistenzrisiko, hoher Administrationsaufwand, Fehlerbehandlung komplex (niemand zuständig)
+Definition latente Infektion	Nach Erstinfektion lebenslanges Persistieren von Viren in verschiedenem Gewebe, nach Reaktivierung / erneute Virusproduktion.
+Sekundäre Immunantwort	bei erneuten Kontakt mit demselben Antigen, Bildung von Spät- bzw. Schutzantikörper (IgG)
+TNM-Klassifikation Bedeutung pTis	Präinvasives Karzinom (Carcinoma in situ)
+TNM steht für...	T = Primärtumor (Größe, Infiltration), N  = Nodaler Befall (Zustand der regionären Lymphknoten), M = Metastasenbildung (Fehlen bzw. Vorhandensein von Metastasen)
+Dignitätskriterien - Merkmale - Benign 	langsam wachsend, kann oft chirugisch entfernt werden, hängt meistens zusammen und ist gut begrenzt
+Definition Embolie	Gefäßverschluss durch Verschleppung von nicht löslichem Material
+TNM Klassifikation	anatomisch basierte Beschreibung Primärtumor und dessen Ausbreitung im Körper sowie Krankheitsverlauf
+Tumormarker	Proteine, die von Tumorzellen unter abnormen Bedingungen produziert werden, im Serum Gesunder nicht oder nur in extrem niedrigen Mengen nachweisbar
+Körperliche Untersuchung - Grundmeßgrößen	Gewicht, Größe
+Histologie Maligner Tumor	• Verlust der Ähnlichkeit zum Ursprungsgewebe / • Zellatypien
+Sekundäre Immunantwort Eigenschaften	Immunreaktion bei erneutem Kontakt mit bekanntem Antigen / Bildung von Spät- bzw. Schutzantikörper (IgG)
+Expansion TNM	T: Primärtumor (Größe, Infiltration) / N: Nodaler Befall (Zustand der regionären Lymphknoten) / M: Metastasenbildung
+Ursachen allergischen Asthmas	Genetische Disposition zu allergischer Reaktion (z.B. auf Pollen/Tierhaare)
+Übertragungswege Infektionskrankheiten - direkt	Schmierinfektion (oral), Tröpfcheninfektion (aerogen), Blutweg (parenteral)
+Elektronische Signatur vs digitale Signatur	elektronische Signatur rechtlicher Begriff, digitale Signature technisch
+Irreversible Zellschäden 	Apothose (physiologischer Zelltod), Nekrose (Zelltod durch exogene oder endogene Noxen)
+Organvergrößerung durch 	Zellvergrößerung (Hypertrophie), Zellvermehrung (Hyperplasie)
+Funktionsweise Thrombektomie bei Herzinfarkt	Entfernung eines Blutgerinnsels durch Absaugen oder Zerkleinern mithilfe spezieller Instrumente
+Arten von Übertragungswegen bei Infektionskrankheiten	Direkt / Indirekt
+Tumor - Theraphieformen - Chemotherapie	Verhinderung der Zellteilung von Tumorzellen (Zytostatika)
+Wachstumsrate Maligner Tumor	• langsam bis schnell wachsend / • Mitosefiguren häufig / • atypische Mitosen
+Charakteristika von Gewebe nach Metaplasie	Widerstandsfähiger / Funktionell minderwertiger
+Rechtsherzinsuffizienz  - Symptome	Leitsymptom : Ödeme (z.B. am Bein), Halsvenenstauung, Lebervergrößerung, Nykturie (nächtliches Wasserlassen)
+Bösartiger Tumor Metastasenvorkommen	Häufig
+Nenne Beispiele pathologisch gesteigerter Immunabwehr.	Allergien, Autoimmunerkrankungen
+Übertragungswege Infektionskrankheiten - indirekt	Trinkwasser, Lebensmittel, Überträger
+Diabetis Mellitus Typ 2	Insulin wird gebildet, verliert aber Wirksamkeit (Insulinresistenz), meist ab 60 LJ, adipöse Patienten, starke genetische Prädisposition, Therapie mit blutzuckersenkenden Tabletten
+Bestandteile des unspezifischen humoralen Abwehrsystems	Zytokine / Lysozyme
+chronisch progredient 	fortschreitend bis zum Tod (z.B. MS)
+Spezifisches humorales Abwehrsystem - Antikörper	Neutralisierung der Antigene durch Bildung von Immunkomplexen, Markierung für unspezifische Abwehrzellen, Aktivierung von unspezifisches humoralen Substanzen
+Grundregeln des Datenschutzes	Zulässigkeit im Rahmen der Behandlung, Erforderlichkeit zur Aufgabenerfüllung, Zweckbindung, keine Vorratsdatenspeicherung, Patienteninformation, Einwilligung
+chronisch rezidivierend 	immer wieder auftretend (z.b. Neurodermitis)
+Kommunikationsserver - Vorteile	Zentrale Wartung von Schnittstellen, weniger Schnittstellen, erhöhte Herstellerunabhängigkeit
+Patophysiologischer Mechanismus von Asthma	Verengung der Atemwege durch / • Schleimhautödem / • vermehrte Schleimbildung / • Kontraktion der Bronchialmuskulatur
+Nenne die Dignitätskriterien eines Tumors	Wachstumsrate / Lokale Ausbreitung / Histologie / Umgebendes Gewebe / Klinik / Metastasierung
+T-Lymphozyten	Träger der spezifisches zellulären Abwehr, keine Antikörperbildung, können Antigene nur mithilfe von antigenpräsentierenden Zellen erkennen, Aktivierung von B-Zellen
+Einflussfaktoren für eine Entzündung	Art der Schädigung / Lokalisation / Dosis / Virulenz / Resistenz
+Definition Schlaganfall	Durchblutungsstörung im Gehirn → Unterversorgung mit Sauerstoff und Nährstoffen
+Folgeerkrankungen koronare Herzkrankheit	Herzrhythmusstörungen, Herzinfarkt, Herzinsuffizienz, plötzlicher Herztod, Leitsymptom: Angina pectoris (Herzenge)
+Schutzimpfung	aktive Immunisierung: Antikörperbildung durch Impfung mit abgeschwächten Erregern, passive Immunisierung: Verabreichung spezifischer Antikörper (kurzzeitige Wirkung)
+Folgen einer Entzündung	Regeneration / Defektheilung / Chronischer Verlauf / Zweiterkrankung
+Dignität	biologisches Verhalten eines Tumors<br>maligne (bösartig) / benigne (gutartige) Tumoren
+Welche Funktion erfüllen B-Lymphozyten?	Tragen eine spezifische humorale Abwehr, produzieren Antikörper
+Ursachen Thrombose	Gefäßwandläsion (z.B. Arterioskerose, Entzündung), Strömungsverlangsamung (Herzinsuffizienz, langes Stehen), Erhöhte Gerinnungsneigung (z.B. Operation, Pille)
+Linksherzinsuffizienz - Symptome 	Leitsymptome: Atemnot (bei Belastung), Zyanose, Lungenödem mit Rasselgeräuschen und Husten
+Mamma-Carcinom - Risikofaktoren	familäre Disposition, frühe Menarche, späte oder fehlende Schwangerschaft, orale Kontrazeptiva, späte Menopause<div><br></div>
+Untersuchungen, Eingriffe	Labordiagnostik, bildgebende Verfahren
+Operative Therapie	chirugischer Eingriff
+Krankheitsverlauf Eigenschaften: Inapparent	unbemerkt
+Ursachen Linksherzinsuffizienz	• Herzinfarkt / • Klappenfehler / • Hypertonie
+Patientenakte, Krankenakte	alle Dokumente, die im Zusammenhang mit med. eines Patienten erstellt werden, meistens einrichtungsbezogen
+chronisch	langsam entwickelnd, verlaufend
+Letalität verschiedene Arten von Schlaganfällen	Ischämischer Infarkt: 20% / Hämorrhagischer Infarkt: 80%
+Def: Verantwortlicher	Person/Behörde etc. die über Zwecke u. Mittel der Verarbeitung von personenbezogenen Daten entscheidet
+qualifizierte elektronische Signatur	Anforderungen gemäß SigG, z.B. Signaturerstellungseinheit (Smartcard)
+Praxis-DV	Praxisorganisation, Formularwesen, Befunddokumentation, Medikation, hohe Durchdringung (>95%)
+Reversible Zell- und Gewebeschäden	Zellschwellung, Verfettung, Verkalkung, Ödem, Erguss, Fibrose
+Schwerpunkte E-Health Gesetz	Stammdatenmanagement, Notfalldaten, elektronische Arztbriefe, elektronische Patientenakte, Förderung von Telemedizin
+Carcinoma in situ	obligate Präkanzerose, atypisches Gewebe mit aufgehobener Zellschichtung, fehlendes Tiefenwachstum, keine Metastasen
+Medikamentöse Therapie bei Herzinfarkt Funktionsweise	Auflösung eines Blutgerinnsels durch ein Medikament
+Funktionsweise Strahlentherapie	Zerstörung von Tumorzellen durch ionisierte, elektromagnetische Strahlung
+Arten von Krankheitsverläufen	Akut / Inapparent / Chronisch / Rezidivierend / Latent / Remission / Exazerbation
+Entzündung - Einflussfaktoren 	Art der Schädigung, Lokalisation, Dosis, Virulenz, Resistenz
+Unterschied gutartiger/bösartiger Tumor (Alter des Patientien)	Jugendliche/Ältere Menschen
+Def: Verarbeitung	Vorgang im Zusammenhang mit personenbezogenen Daten, z.B. Erheben, Erfassen, Organisation, Löschen, etc.
+Nachteile Papierakte	hoher Platzbedarf, geringe Verfügbarkeit, hohe Zugriffszeiten, geringe Strukturierung, handschriftl. Vermerke unleserlich, oft unvollständig
+Leitsymptom der Linksherzinsuffizienz	Atemnot durch Lungenödeme
+DICOM Service Classes - Bsp. 	DICOM Storage Service Class (umfasst Versenden, Empfangen, Abspeichern von med. Bildern), DICOM Worklist Management Service Class (Übertragen von Patientendaten)
+Krankenhaus-DV (KIS/KAS)	Arztbriefschreibung, Befunde, Auftragskommunikation, Terminplanung
+Linksherzinsuffizienz - Ursachen	Klappenfehler, Herzinfarkt, Hypertonie
+TNM-Klassifikation Bedeutung pM1	Fernmetastasen
+Herausforderungen bei Integration	Heterogenität, Fragmentierung, z.B. zwischen stationären und niedergelassenen Bereich, führt zu unzureichenden und verspäteten Informationen und oft unzureichender Mehrfachverwendung von Daten

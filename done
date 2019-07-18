@@ -13,9 +13,48 @@ med1: Kapitel 1-2, Terminologie
 vwl: Kapitel 1-5;7
 med2_imp:
 	Kapitel 1, Folien: {2,3,4,13,18,21,32,38}; ✔
+		Anpassungsreaktion
+		Entzündung
+		Krankheitsverläufe
+		Fibrose
+		Metaplasie
+		Wundheilung
+	Nicht:
+		Irreversible Zellschäden
+		Verfettung, Verkalkung
 	Kapitel 2, Folien: {2,4,5,8,10,14,15,17,24,25,27,29,30,31,35,36}; ✔
+		Mechanismus von Abwehrsystemen
+		Spezifisch/unspezifisch Abwehrsystem
+		Immuntoleranz
+		Antikörper, Antigene
+		Immunität
+		Asthma
+		Infektionskrankheiten Unterbegriffe
+		IGM/IGG frühe/späte Antikörper
+		Bakterien, Viren
+		Latente Infektion
+		Loma, Nosokomiale Erreger
+	Nicht:
+		Verschiedene Abwehrklassen
+		Untergruppen der Zellen
+		Atopie
+		Thetanus, Beispielkrankheiten
 	Kapitel 3, Folien: {5,6,8,"Dignitätskriterien",16,18,23,24,25,26,"Therapieformen",37,TNM Klassifikation,Next Generation Sequencing,Tumormarker}; ✔
+		Therapieformen bei Krebs
+		Tumorformen
+		Metastasen
+		TNM-Klassifikation
+		Tumormarker
+	Nicht:
+		Position Metastasen bei Primärtumoren
+		Tumorgene
+		Cup-Syndrom
+		Lungen-/Brustkrebs
 	Kapitel 4, Folien: {9,13,15,22,23,35,39,41,Insuffizienzen} ✔
+		Atherosklerose
+		Thrombose
+		Koronare Herzkrankheit
+		Herzinsuffizienz
 	Kapitel 5, Folien: {2,3,5,6,8,14,15,17,20 ("Körperliche Untersuchung"),35,38}
 theo: [1;47]
 dwt: [1;38]
