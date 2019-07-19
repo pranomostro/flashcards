@@ -11,6 +11,7 @@ funk: Folien [1;88]
 ana: Folien [1;45]
 med1: Kapitel 1-2, Terminologie
 vwl: Kapitel 1-5;7
+
 med2_imp:
 	Kapitel 1, Folien: {2,3,4,13,18,21,32,38}; ✔
 		Anpassungsreaktion
@@ -55,7 +56,56 @@ med2_imp:
 		Thrombose
 		Koronare Herzkrankheit
 		Herzinsuffizienz
+		Risikofaktoren/Symptome
+		Komplikationen
+		Therapieformen für Herzinfarkt
+		Links/Rechtsseitiger Herzinfarkt
+		FAST-Test
+	Nicht:
+		Hyperlipidämie
 	Kapitel 5, Folien: {2,3,5,6,8,14,15,17,20 ("Körperliche Untersuchung"),35,38}
+		Diabetes
+		Therapieformen Diabetes
+		Typen Diabetes, Risikofaktoren, Ursachen
+		Insulinproduktion
+		Autoantikörper
+		Bluthochdruck
+		Grundmessgrößen
+	Nicht:
+		Blutzuckerwerte
+		Bluthochdruckwerte
+		Herztöne
+		Zyanose
+		Schmerzanalyse
+	Medizininformatik
+		Stichworte
+		Definitionen wichtiger Begriffe
+		Ebenendarstellung Informationssystem
+		Patientenakte → Zweck?
+		Typische Inhalte einer elektronischen Gesundheitsakte
+		Vor- und Nachteile elektronischer/Papierakten
+		Anwendungen Telematik-Infrastruktur
+		Anwendungen Gesundheitskarte
+			Signatur
+			Autorisierung
+			Berechtigungssystem
+		Unterscheidung technischer layer
+		KAS (klinisches Arbeitsblatt-System)
+		Verschiedene Typen von Informationssystemen
+			(Trennung/Verbindung)
+		Best of three
+		Systemautonomie (verschieden Arten von Autonomie)
+		KAS mit klinischem Repository: Ansätze für Repositories
+		Fähigkeiten Kommunikationsserver
+		Begriffliche Achsen in der Medizin
+		Merkmale Klassifikation
+		Beschreibung/Verwendung Klassifikationssysteme
+		Nachrichtentypen HL7
+		DICOM: Bilder, Bildformat
+		Was sind Integrationsprofile?
+		Technische und organisatorische Maßnahmen des Datenschutzes
+		≥5 Datenschutzmaßnahmen
+
 theo: [1;47]
 dwt: [1;38]
 gnvs: 0, 1, 2, [1;8]
