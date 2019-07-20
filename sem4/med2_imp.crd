@@ -1,26 +1,26 @@
-2019-07-18	0	1.0	2.5	Inapperent	unbemerkt (z.B. Röteln)
-2019-07-18	0	1.0	2.5	allgemeine elektronische Signatur	ohne Anforderungen, z.B. Name unter E-Mail
-2019-07-18	0	1.0	2.5	Formale Anonymität	Entfernung der direkten Identifikatoren
-2019-07-07	3	11.4	1.9	Exogene Ursachen von Krankheiten	Physikalische Ursachen (Hitze, Kälte, Strahlen) / Chemische Ursachen (Säure, Laugen, Gifte) / Mikroorganismen (Viren, Bakterien, Pilze) / Trauma / Ernährungsstörungen
-2019-07-18	0	1.0	2.5	T-Lymphozyten	Träger der spezifisches zellulären Abwehr, keine Antikörperbildung, können Antigene nur mithilfe von antigenpräsentierenden Zellen erkennen, Aktivierung von B-Zellen
-2019-07-18	0	1.0	2.5	Tumor - Theraphieformen - Hormontherapie	Ausschaltung körpereigener Hormone hemmt die Ausbreitung hormonabhängiger Tumore (Antihormontherapie)
-2019-07-18	0	1	2.5	Was kann ein Kommunikationsserver nicht?	Datenprobleme lösen
-2019-07-18	0	1.0	2.5	Remission	vorübergehendes Verschwinden oder Rückgang der Krankheitserscheinung (z.B. Tumor nach Chemo)
-2019-07-18	0	1.0	2.5	Herzinfarkt - Theraphie - Thrombektomie	Entfernung von Blutgerinsel durch Absaugen oder Zerkleinern
-2019-07-18	0	1.0	2.5	Def: Auftrgsverarbeiter	Person/Behörde, die personenbezogene Daten im Auftrag von Verantwortlichen verarbeitet
-2019-07-08	0	1.0	2.5	Expansion KHK	Koronare Herzkrankheit
-2019-06-27	0	1.0	2.5	Dekompensierte Herzinsuffizienz	Herzschaden, Pumpleistung des Herzens kann nicht mehr aufrechterhalten werden
-2019-07-18	0	1	2.5	Expansion DICOM	Digital Imaging and Communications in Medicine
-2019-07-18	0	1.0	2.5	DICOM Service Classes	kapseln verschiedene Funktionalitäten, die DICOM Standard beinhaltet, z.B. store, print, worklist, die meisten Geräte unterstützen nur ein paar Service classes
-2019-07-08	0	1.0	2.5	Definition Krebs	Allgemeine Bezeichnung für bösartige Tumoren
-2019-07-13	0	3.61816	1.3	Definition Antigene	Substanzen, die eine immunologische Reaktion auslösen
+2019-07-19	1	1	1.96	Inapperent	unbemerkt (z.B. Röteln)
+2019-07-19	1	1	1.52	allgemeine elektronische Signatur	ohne Anforderungen, z.B. Name unter E-Mail
+2019-07-19	1	1	1.96	Formale Anonymität	Entfernung der direkten Identifikatoren
+2019-07-19	1	1	1.36	Exogene Ursachen von Krankheiten	Physikalische Ursachen (Hitze, Kälte, Strahlen) / Chemische Ursachen (Säure, Laugen, Gifte) / Mikroorganismen (Viren, Bakterien, Pilze) / Trauma / Ernährungsstörungen
+2019-07-19	1	1	1.96	T-Lymphozyten	Träger der spezifisches zellulären Abwehr, keine Antikörperbildung, können Antigene nur mithilfe von antigenpräsentierenden Zellen erkennen, Aktivierung von B-Zellen
+2019-07-19	1	1	2.18	Tumor - Theraphieformen - Hormontherapie	Ausschaltung körpereigener Hormone hemmt die Ausbreitung hormonabhängiger Tumore (Antihormontherapie)
+2019-07-19	1	1	2.5	Was kann ein Kommunikationsserver nicht?	Datenprobleme lösen
+2019-07-19	1	1	1.82	Remission	vorübergehendes Verschwinden oder Rückgang der Krankheitserscheinung (z.B. Tumor nach Chemo)
+2019-07-19	1	1	2.5	Herzinfarkt - Theraphie - Thrombektomie	Entfernung von Blutgerinsel durch Absaugen oder Zerkleinern
+2019-07-19	1	1	2.18	Def: Auftrgsverarbeiter	Person/Behörde, die personenbezogene Daten im Auftrag von Verantwortlichen verarbeitet
+2019-07-19	1	1	2.6	Expansion KHK	Koronare Herzkrankheit
+2019-07-19	1	1	1.64	Dekompensierte Herzinsuffizienz	Herzschaden, Pumpleistung des Herzens kann nicht mehr aufrechterhalten werden
+2019-07-19	1	1	1.74	Expansion DICOM	Digital Imaging and Communications in Medicine
+2019-07-19	1	1	2.36	DICOM Service Classes	kapseln verschiedene Funktionalitäten, die DICOM Standard beinhaltet, z.B. store, print, worklist, die meisten Geräte unterstützen nur ein paar Service classes
+2019-07-19	1	1	2.18	Definition Krebs	Allgemeine Bezeichnung für bösartige Tumoren
+2019-07-19	1	1	1.3	Definition Antigene	Substanzen, die eine immunologische Reaktion auslösen
 2019-07-14	2	6.0	1.68	Äußere Schutzbarrieren des Immunsystems	Säureschutzmantel der Haut / Flimmerepithel der Atemwege / Tränen- und Speichelflüssigkeit / Magensäure / Schleimhaut der Vagina / Schleimhaut in der Harnröhre
 2019-07-18	3	15.6	2.6	Therapietypen: Konservative Therapie	Kein Eingriff in das Gewebe
-2019-07-18	0	1.0	2.5	Schichten Architektur	Presentation Layer, Application Logic Layer, Resource Management Layer
-2019-07-08	0	1.0	2.5	Heilungsmethoden Benigner Tumor	Chirurgische Exzision
-2019-07-18	0	1	2.5	Wozu ist die Krankenakte da?	Dokumentation früherer Krankheiten / Dokumentation von Medikamentenkonsum
-2019-07-18	0	1	2.5	Komponente Informationsysteme	Mensch / Maschine / Daten / Prozesse / Funktionen / Verbindungen
-2019-07-18	0	1.0	2.5	Was macht die IHE (Integrating the Healthcare Enterprise)?	Spezifikationen, die in technischen Rahmenwerk zus.gefasst sind, Integrationsprofile, die medizinische bzw. verwaltungstechnische akteure beschreiben, definieren Regeln zur Nutzung von Standards, Prüfung von System auf connect-a-thon,
+2019-07-19	1	1	1.74	Schichten Architektur	Presentation Layer, Application Logic Layer, Resource Management Layer
+2019-07-19	1	1	2.5	Heilungsmethoden Benigner Tumor	Chirurgische Exzision
+2019-07-19	1	1	2.5	Wozu ist die Krankenakte da?	Dokumentation früherer Krankheiten / Dokumentation von Medikamentenkonsum
+2019-07-19	1	1	1.96	Komponente Informationsysteme	Mensch / Maschine / Daten / Prozesse / Funktionen / Verbindungen
+2019-07-19	1	1	1.82	Was macht die IHE (Integrating the Healthcare Enterprise)?	Spezifikationen, die in technischen Rahmenwerk zus.gefasst sind, Integrationsprofile, die medizinische bzw. verwaltungstechnische akteure beschreiben, definieren Regeln zur Nutzung von Standards, Prüfung von System auf connect-a-thon,
 2019-07-18	0	1.0	2.5	Folgen einer Entzündung	Regeneration, Defektheilung, chronischer Verlauf, Zweiterkrankung
 2019-06-27	0	1.0	2.5	Arten von Übertragungswegen bei Infektionskrankheiten	Direkt / Indirekt
 2019-07-14	2	6.0	1.5	Arten chronischer Krankheitsverläufe	chronisch progredient / chronisch kontinuierlich / chronisch rezidivierend
@@ -28,16 +28,16 @@
 2019-07-18	0	1.0	2.5	Diabetis Mellitus Typ 2	Insulin wird gebildet, verliert aber Wirksamkeit (Insulinresistenz), meist ab 60 LJ, adipöse Patienten, starke genetische Prädisposition, Therapie mit blutzuckersenkenden Tabletten
 2019-07-18	0	1.0	2.5	Best of Breed - Nachteile	Inkonsistenzrisiko, hoher Administrationsaufwand, Fehlerbehandlung komplex (niemand zuständig)
 2019-07-08	0	1.0	2.5	TNM-Klassifikation Bedeutung pTis	Präinvasives Karzinom (Carcinoma in situ)
-2019-07-18	0	1	2.5	Definition Achse	Kategorie, anhand derer geordnet wird (z.B.: Organe befallen, Art der Schädigung)
-2019-07-18	0	1	2.5	Arten von Autonomie beim Nutzer	• Entwurfsautonomie / • Assoziationsautonomie / • Kommunikationsautonomie / • Ausführungsautonomie
-2019-07-18	0	1	2.5	Definition Klassifikation	Begriffsordnung, die Begriffe zusammenfasst
+2019-07-18	0	1.0	2.5	Definition Achse	Kategorie, anhand derer geordnet wird (z.B.: Organe befallen, Art der Schädigung)
+2019-07-18	0	1.0	2.5	Arten von Autonomie beim Nutzer	• Entwurfsautonomie / • Assoziationsautonomie / • Kommunikationsautonomie / • Ausführungsautonomie
+2019-07-18	0	1.0	2.5	Definition Klassifikation	Begriffsordnung, die Begriffe zusammenfasst
 2019-07-18	0	1.0	2.5	Diabetis Mellitus - Kennzeichen	erhöhter Blutzuckerspiegel (Hyperglykämie), Zuckerausscheidung im Urin
 2019-07-08	0	1.0	2.5	Voraussetzungen Stadium III TNM-Klassifikation	T*, N1/N2, M0
-2019-07-18	0	1	2.5	Vorteile Kommunikationsserver	• Zentrale Wartung / Weniger Schnittstellen / • Monitoring / • Speichern von Übertragungsdaten
+2019-07-18	0	1.0	2.5	Vorteile Kommunikationsserver	• Zentrale Wartung / Weniger Schnittstellen / • Monitoring / • Speichern von Übertragungsdaten
 2019-07-13	0	2.7832	1.42	Bestandteile des unspezifischen zellulären Abwehrsystems	Makrophagen / Natürliche Killerzellen / Neutrophile Granulozyten
 2019-07-18	0	1.0	2.5	äußere Schutzbarrieren	Säureschutzmantel der Haut, Flimmerepithel der Atemwege, Tränen- und Speichelflüssigkeit, Magensäure, saures Milieu der Vagina, Harnfluss der Harnröhre
 2019-07-18	0	1.0	2.5	Rezidivierend	Rückfall, wiederauftretend
-2019-07-11	2	6.0	2.18	Entzündung Definition	Universelle Abwehrreaktion des lebenden Organismus gegen verschiedenartige Schädigungen
+2019-07-19	3	13.68	2.28	Entzündung Definition	Universelle Abwehrreaktion des lebenden Organismus gegen verschiedenartige Schädigungen
 2019-07-18	0	1.0	2.5	Spezifisches Abwehrsystem	erworbene, adaptive Immunität, langsame Wirkung bei Erstkontakt mit Antigen, spezifisch gegen spezielle Antigene, Bildung v. Antigengedächnis, schnelle Wirkung bei 2ten Kontakt
 2019-07-08	0	1.0	2.5	Nenne die Dignitätskriterien eines Tumors	Wachstumsrate / Lokale Ausbreitung / Histologie / Umgebendes Gewebe / Klinik / Metastasierung
 2019-07-18	0	1.0	2.5	Verbot mit Erlaubnisvorbehalt	Erhebung, Verarbeitung und Nutzung von personenbez. Daten nur zulässig, wenn Gesetz es erlaubt, oder Betroffener eingewilligt hat
@@ -49,31 +49,31 @@
 2019-07-18	0	1.0	2.5	IgM	Primärantwort (wird bei Ersterkrankung gebildet)
 2019-07-18	0	1.0	2.5	Artherosklerose - Risikofaktoren 2. Ordnung	Übergewicht, Stress, Bewegungsmangel, Gicht, hormonelle Faktoren, erhöhtes Lipoprotein
 2019-07-18	0	1.0	2.5	Herzinfarkt - Reperfusionstheraphie	Wiederherstellung der Durchblutung im Infarktgebiet
-2019-07-18	0	1	2.5	2 Arten von Datenfluss bei HL7	Unsolicited update ←→ Acknowledgement / Query ←→ Result
-2019-07-18	0	1	2.5	Beispiele Nachrichten HL7	Transfer message / Discharge Message / Admit patient / Create LIS lab request
-2019-07-18	0	1	2.5	Nachteile Schnittstellen	Einschränkungen Entwurfsautonomie (Standards!)
-2019-07-18	0	1	2.5	Grobe Funktionsweise HL7	Trigger event → HL7 msg → receive msg → send ack → receive ack
+2019-07-18	0	1.0	2.5	2 Arten von Datenfluss bei HL7	Unsolicited update ←→ Acknowledgement / Query ←→ Result
+2019-07-18	0	1.0	2.5	Beispiele Nachrichten HL7	Transfer message / Discharge Message / Admit patient / Create LIS lab request
+2019-07-18	0	1.0	2.5	Nachteile Schnittstellen	Einschränkungen Entwurfsautonomie (Standards!)
+2019-07-18	0	1.0	2.5	Grobe Funktionsweise HL7	Trigger event → HL7 msg → receive msg → send ack → receive ack
 2019-07-08	0	1.0	2.5	Bösartiger Tumor Rezidive	Häufig
 2019-07-18	3	16.8	2.8	Arten von Abwehrsystemen	Unspezifisches Abwehrsystem / Spezifisches Abwehrsystem
-2019-07-11	2	6.0	2.6	Symptome einer Entzündung	Schwellung (Tumor) / Erwärmung (Calor) / Schmerzen (Dolor) / Rötung (Rubor) / Funktionseinschränkung (Functio laesa)
+2019-07-19	1	1	2.16	Symptome einer Entzündung	Schwellung (Tumor) / Erwärmung (Calor) / Schmerzen (Dolor) / Rötung (Rubor) / Funktionseinschränkung (Functio laesa)
 2019-07-18	0	1.0	2.5	Eitrige Entzündungen - Typen	Abzess (Eiteransammlung in einem nicht vorbestehenden Hohlraum), Empyem (Eiterbildung in Körperhöhle), Phlegmone (diffuse, sich flächig ausbreitende Entzündung im Bindegewebe)
 2019-07-08	0	1.0	2.5	Voraussetzungen Stadium II TNM-Klassifikation	T3/T4, N0, M0
-2019-07-18	0	1	2.5	Expansion IHE	Integrating the Healthcare Enterprise
+2019-07-18	0	1.0	2.5	Expansion IHE	Integrating the Healthcare Enterprise
 2019-06-27	0	1.0	2.5	Wie vermehrt sich ein Virus?	Durch Einschleusen von DNA/RNA in eine Wirtszellen.
-2019-07-18	0	1	2.5	Schema Zweischichten-Architektur	Client (Presentation layer) ←→ Application logic layer, Resource management layer
-2019-07-18	0	1	2.5	Definition Integrationsprofil	Beschreibt Akteure und Handlungen, setzt Regeln zum Einsatz der Standards HL7 und DICOM fest ("einfach zu verstehende Darstellungen von medizinischen Arbeitsabläufen im täglichen Leben")
+2019-07-18	0	1.0	2.5	Schema Zweischichten-Architektur	Client (Presentation layer) ←→ Application logic layer, Resource management layer
+2019-07-18	0	1.0	2.5	Definition Integrationsprofil	Beschreibt Akteure und Handlungen, setzt Regeln zum Einsatz der Standards HL7 und DICOM fest ("einfach zu verstehende Darstellungen von medizinischen Arbeitsabläufen im täglichen Leben")
 2019-07-18	0	1.0	2.5	Organvergrößerung durch	Zellvergrößerung (Hypertrophie), Zellvermehrung (Hyperplasie)
 2019-07-18	0	1.0	2.5	chronisch kontinuierlich	gleichmäßig, langsam fortschreitend (z.B. Pilzerkrankung)
 2019-07-14	0	1.42	1.42	Bildungsort der B-Lymphozyten	Knochenmark
 2019-07-08	0	1.0	2.5	Definition Metastasierung	Verschleppung von Tumorzellen zu entfernten Körperstellen mit Bildung von Tochtertumoren
 2019-07-18	0	1.0	2.5	Tumor - Theraphieformen - Strahlentherapie	Zerstörung von Tumorzellen durch ionisierte, elektromagnetische Strahlung
 2019-07-08	0	1.0	2.5	Charakteristika dekompensierte Herzinsuffizienz	• Unzureichende Pumpleistung / • Symptomatik auch im Ruhezustand
-2019-07-18	0	1	2.5	SNOMED Struktur	Hierarchien, Konzepte, Text-Beschreibungen, Beziehungen
+2019-07-18	0	1.0	2.5	SNOMED Struktur	Hierarchien, Konzepte, Text-Beschreibungen, Beziehungen
 2019-07-08	0	1.0	2.5	Symptome Linksherzinsuffizienz	• Atemnot / • Zyanose / • Lungenödem
 2019-07-18	0	1.0	2.5	B-Lymphozyten	bilden Antikörper, Träger der spezifischen humoralen Abwehr, Rezeptoren sind Antikörper
 2019-07-18	0	1.0	2.5	Operative Therapie	chirugischer Eingriff
 2019-07-18	0	1.0	2.5	Metastasen - Zielorte	Leber (Mammakarzinom, malignes Melanom), Lunge (v.a. bei Sarkomen), Knochen (Bronchialkarzinom, Nierenkarzinom), ZNS (Mammakarzinom, Bronchialkarzinom)
-2019-07-18	0	1	2.5	Expansion DRG	Diagnosis Related Groups
+2019-07-18	0	1.0	2.5	Expansion DRG	Diagnosis Related Groups
 2019-07-08	0	1.0	2.5	Medikamentöse Therapie bei Herzinfarkt Funktionsweise	Auflösung eines Blutgerinnsels durch ein Medikament
 2019-07-08	0	1.0	2.5	Histologie Maligner Tumor	• Verlust der Ähnlichkeit zum Ursprungsgewebe / • Zellatypien
 2019-07-08	0	1.0	2.5	Symptome Rechtsherzinsuffizienz	Prätibiale Ödeme / • Halsvenenstauung / • Beinödeme / • Lebervergrößerung / • nächtliches Wasserlassen
@@ -81,26 +81,26 @@
 2019-07-18	0	1.0	2.5	Diabetis Mellitus	Stoffwechselkrankheit aufgrund unzureichener Insulinwirkung
 2019-07-18	0	1.0	2.5	Vergrößerung	Hypertrophie, Hyperplasie
 2019-07-08	0	1.0	2.5	Lokale Ausbreitung Benigner Tumor	• zusammenhängend, begrenzt / • expansives, verdrängendes Wachstum / • fibröse Tumorkapsel
-2019-07-18	0	1	2.5	Definition DICOM	Standard zur Formatierung von Bilddaten in der Medizin
-2019-07-18	0	1	2.5	Definition Pseudonymisierung	Daten können nicht ohne weitere Informationen zum Patienten zugeordnet werden / Diese weiteren Informationen müssen gesondert aufbewahrt werden
+2019-07-18	0	1.0	2.5	Definition DICOM	Standard zur Formatierung von Bilddaten in der Medizin
+2019-07-18	0	1.0	2.5	Definition Pseudonymisierung	Daten können nicht ohne weitere Informationen zum Patienten zugeordnet werden / Diese weiteren Informationen müssen gesondert aufbewahrt werden
 2019-07-14	0	1.42	1.42	Definition Antikörper	Von B-Lymphozyten gebildete Proteine, die speziell passende Antigene binden
-2019-07-16	1	1.0	1.3	Ursachen für Atrophie	Wegfall der funktionellen Belastung / Durchblutungsstörung/Durchblutungsminderung / Druckatrophie / Nervenschädigung / Verminderte Hormonwirkung / Hungeratrophie
+2019-07-19	2	6	1.3	Ursachen für Atrophie	Wegfall der funktionellen Belastung / Durchblutungsstörung/Durchblutungsminderung / Druckatrophie / Nervenschädigung / Verminderte Hormonwirkung / Hungeratrophie
 2019-07-18	0	1.0	2.5	Krankenhaus-DV (KIS/KAS)	Arztbriefschreibung, Befunde, Auftragskommunikation, Terminplanung
 2019-07-18	0	1.0	2.5	Modulare Systeme - Vorteile	Datenkonsistenz, Erweiterbarkeit, Vermeidung von Medienbrüchen
-2019-07-18	0	1	2.5	Vorteile/Nachteile Best of Breed	Vorteile: /  ~ Flexibilität, optimale Lösungen /  ~ Funktionale Inkongruenz, Inkonsistenzrisiko, Administrationsaufwand
+2019-07-18	0	1.0	2.5	Vorteile/Nachteile Best of Breed	Vorteile: /  ~ Flexibilität, optimale Lösungen /  ~ Funktionale Inkongruenz, Inkonsistenzrisiko, Administrationsaufwand
 2019-07-18	0	1.0	2.5	Kurative Therapie	heilende Behandlung oder Defektheilung, Ursachen d. Erkrankung oder Symptome werden therapiert
 2019-07-18	0	1.0	2.5	Informationssystem	Schnittstelle zwischen Mensch und Maschinen, kann automatisch oder manuell sein und ist für Datenverarbeitung zuständig
 2019-07-18	0	1.0	2.5	Bakterien	einzellige Lebenwesen ohne echten Zellkern, wirtsunabhängige Vermehrung, Schädigung durch direkte Zellschädigung oder Toxinwirkung
 2019-07-18	0	1.0	2.5	Tumor - Theraphieformen - Chemotherapie	Verhinderung der Zellteilung von Tumorzellen (Zytostatika)
-2019-07-18	0	1	2.5	Vorteile Abtrennung von Schichten	Kleinere, einfacher zu implementierende Module
+2019-07-18	0	1.0	2.5	Vorteile Abtrennung von Schichten	Kleinere, einfacher zu implementierende Module
 2019-07-08	0	1.0	2.5	Funktionsweise Chemotherapie	Verhinderung der Zellteilung von Tumorzellen
 2019-07-18	0	1.0	2.5	Typing - Epitheliale Tumoren (Deck‐ u. Drüsengewebe)	gutartig: Papillom, Adenom, bösartig: Karzinom, Adenokarzinom
 2019-07-18	0	1.0	2.5	Krankheitsursachen - Endogene Ursachen	Genetische Defekte, immunologische Faktoren, psychische Faktoren
-2019-07-18	0	1	2.5	Was kann ein Kommunikationsserver?	Daten verlässlich zwischen verschiedenen Interfaces übertragen.
+2019-07-18	0	1.0	2.5	Was kann ein Kommunikationsserver?	Daten verlässlich zwischen verschiedenen Interfaces übertragen.
 2019-07-08	0	1.0	2.5	Voraussetzungen Stadium I TNM-Klassifikation	T1/T2, N0, M0
 2019-07-18	0	1.0	2.5	Best of Breed	Summe von Speziallösungen
 2019-07-08	0	1.0	2.5	Definition Schlaganfall	Durchblutungsstörung im Gehirn → Unterversorgung mit Sauerstoff und Nährstoffen
-2019-07-13	2	6.0	2.16	Endogene Ursachen von Krankheiten	Genetische Defekte / Immunologische Faktoren / Psychische Faktoren
+2019-07-19	3	12.96	2.16	Endogene Ursachen von Krankheiten	Genetische Defekte / Immunologische Faktoren / Psychische Faktoren
 2019-07-18	0	1.0	2.5	Technische und organisatorische Maßnahmen Datenschutz 2	Zugriffskontrolle, Übertragungskontrolle, Eingabekontrolle, Transportkontrolle, Wiederherstellbarkeit, Zuverlässigkeit, Datenintegrität, Auftragskontrolle, Verfügbarkeitskontrolle, Trennbarkeit
 2019-07-08	0	1.0	2.5	Wachstumsrate Maligner Tumor	• langsam bis schnell wachsend / • Mitosefiguren häufig / • atypische Mitosen
 2019-06-27	0	1.0	2.5	Arten von Schlaganfällen (nach Ursache)	• Ischämischer Schlaganfall: Arterielle Durchblutungsstörung / • Hämorrhagischer Infarkt: Intrazerebrale Massenblutung
@@ -108,13 +108,13 @@
 2019-07-18	0	1.0	2.5	Tumor - Theraphieformen - Palliativmedizin	Schmerzlinderung u. Erhalt von Lebensqualität bei fortgeschrittenen Tumoren im Endstadium
 2019-07-18	3	15.0	2.5	Therapietypen: Kurative Therapie	Heilende Behandlung oder Defektheilung
 2019-07-18	0	1.0	2.5	chronisch progredient	fortschreitend bis zum Tod (z.B. MS)
-2019-07-18	0	1	2.5	Ausführungsautonomie	Lokale Informationen wird nur von lokalen Faktoren beeinflusst (keine Cloud)
+2019-07-18	0	1.0	2.5	Ausführungsautonomie	Lokale Informationen wird nur von lokalen Faktoren beeinflusst (keine Cloud)
 2019-07-18	0	1.0	2.5	chronisch	langsam entwickelnd, verlaufend
 2019-07-08	0	1.0	2.5	Ursachen Linksherzinsuffizienz	• Herzinfarkt / • Klappenfehler / • Hypertonie
 2019-06-27	0	1.0	2.5	Ursachen allergischen Asthmas	Genetische Disposition zu allergischer Reaktion (z.B. auf Pollen/Tierhaare)
 2019-07-18	0	1.0	2.5	Typing	International vereinheitlichte Bestimmung des histologischen Tumortyps (Art des Gewebes)
 2019-07-18	0	1.0	2.5	Arten von Architekturen	Business Architecture, Application Architecture, Data Architecture, Technical Architecture
-2019-07-18	0	1	2.5	Vorteile/Nachteile Systeme eines einzelnen Herstellers	Vorteile: /  ~ Klare Zuständigkeit, Sichere Interaktion, Datenkonsistenz /  ~ Nachteile: Abhängigkeit
+2019-07-18	0	1.0	2.5	Vorteile/Nachteile Systeme eines einzelnen Herstellers	Vorteile: /  ~ Klare Zuständigkeit, Sichere Interaktion, Datenkonsistenz /  ~ Nachteile: Abhängigkeit
 2019-06-27	0	1.0	2.5	Passive Immunisierung Funktionsweise	Verabreichung spezifischer Antikörper
 2019-07-08	0	1.0	2.5	Definition Thrombose	Erkrankung aufgrund eines Gefäßverschlusses durch Blutgerinnselbildung
 2019-07-18	0	1.0	2.5	Krankenhausinformationssystem (KIS)	gesamtes informationsverabreitendes und informationsspeicherendes Teilsystem eines Krankenhauses
@@ -124,9 +124,9 @@
 2019-07-18	0	1.0	2.5	Dignitätskriterien - bösartiger Tumor	vor allem ältere Menschen, symptomreich (aber spät), Verlauf kurz und tödlich, häufig Metastase, häufig Rezidive
 2019-07-18	0	1.0	2.5	DICOM Service Classes - Bsp.	DICOM Storage Service Class (umfasst Versenden, Empfangen, Abspeichern von med. Bildern), DICOM Worklist Management Service Class (Übertragen von Patientendaten)
 2019-07-18	0	1.0	2.5	Exazerbation	deutliche Verschlimmerung von Symptomen einer bereits bestehenden Erkrankung
-2019-07-18	0	1	2.5	Funktion eGK	• Überprüfung Versichertenstatus / • Notfalldaten / • eRezept / • Signatur / • Authentifizierung / • Verschlüsselung
+2019-07-18	0	1.0	2.5	Funktion eGK	• Überprüfung Versichertenstatus / • Notfalldaten / • eRezept / • Signatur / • Authentifizierung / • Verschlüsselung
 2019-07-18	0	1.0	2.5	Rechte des Betroffenen	Rechte auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung, Widerruf etc. sind unveräußerlich, können also nicht durch Rechtsgeschäft ausgeschlossen oder beschränkt werden
-2019-07-18	0	1	2.5	Erklärung DRG	Diagnosenbasierte Fallpauschale für die gesamte Behandlung im Krankenhaus (mit Grundlage im ICD/OPS)
+2019-07-18	0	1.0	2.5	Erklärung DRG	Diagnosenbasierte Fallpauschale für die gesamte Behandlung im Krankenhaus (mit Grundlage im ICD/OPS)
 2019-07-18	0	1.0	2.5	Prinzipien des Datenschutz 2	Pers.bez. Daten müssen in Form gespeichert werden, die Identifizierung der Personen nur so lange ermöglicht, wie es für die Verarbeitungszwecke notwendig ist (Speicherbegrenzung), Sicherheit der Daten u. Schutz vor unrechtmäßiger Verarbeitung muss gewährt sein, Verantwortlicher ist für Einhaltung verantwortlich (Rechenschaftspflicht)
 2019-07-08	0	1.0	2.5	Ursachen von Thrombose	Gefäßwandläsion, Strömungsverlangsamung, Erhöhte Blutgerinnungsneigung
 2019-07-18	0	1.0	2.5	Ausbreitungswege der lokalen Entzündung	direkt übergreifend (per continuitatem), kanalikulär (Gangsysteme), lymphogen (Lymphgefäße), neurogen (Nerven), hämatogen (Blutgefäße)
@@ -142,7 +142,7 @@
 2019-07-18	0	1.0	2.5	Linksherzinsuffizienz - Symptome	Leitsymptome: Atemnot (bei Belastung), Zyanose, Lungenödem mit Rasselgeräuschen und Husten
 2019-07-08	0	1.0	2.5	Eigenschaft dilative Herzinsuffizienz	Erschlafftes Myokard
 2019-07-18	0	1.0	2.5	Plasmazellen	produzieren Antikörper zur Bildung von hochselektiven Antigen-Antikörper-Komplexen (Schloss-Schlüssel-Prinzip)
-2019-07-18	0	1	2.5	Arten von Repository Datenteilung	Replikation (Kopieren) / Föderation (Teilen)
+2019-07-18	0	1.0	2.5	Arten von Repository Datenteilung	Replikation (Kopieren) / Föderation (Teilen)
 2019-07-08	0	1.0	2.5	Arten von Schlaganfällen	Ischämischer Infarkt / Hämorrhagischer Infarkt
 2019-07-18	0	1.0	2.5	Primäre Immunantwort	bei erstmaligen Kontakt mit Antigen, Bildung von Frühantikörpern (IgM)
 2019-07-18	3	16.8	2.8	Definition spezifisches Abwehrsystem	Erworbene, adaptive Immunität
@@ -153,11 +153,11 @@
 2019-06-27	0	1.0	2.5	Symptome einer Embolie	• Paleness (Blässe) / Paresthesia (Gefühlstörung) / • Pulslessness (Pulslosigkeit) / • Paralysis (Lähmung) / Pain (Schmerz) / Prostation (Schock)
 2019-07-18	0	1.0	2.5	Konservative Therapie	erhaltende Therapie ohne Eingriff in Gewebe (z.B. Pharmakotherapie, Physiotherapie)
 2019-07-18	0	1.0	2.5	Umwandlung	Metaplasie
-2019-07-18	0	1	2.5	Schema Dreischichten-Architektur	Client (Presentation layer) ←→ Middleware (Application logic layer) ←→ Resource management layer
+2019-07-18	0	1.0	2.5	Schema Dreischichten-Architektur	Client (Presentation layer) ←→ Middleware (Application logic layer) ←→ Resource management layer
 2019-07-18	0	1.0	2.5	Dignitätskriterien - gutartiger Tumor	bevorzugt Jugendliche/mittleres Lebensalter, symptomarm, lang, nicht tödlich, keine Metastasen
-2019-07-18	0	1	2.5	Definition CDA	Dokumentenstandard, der die Struktur und Semantik eines klinischen Dokuments beschreibt, / um Austausch zu vereinfachen.
+2019-07-18	0	1.0	2.5	Definition CDA	Dokumentenstandard, der die Struktur und Semantik eines klinischen Dokuments beschreibt, / um Austausch zu vereinfachen.
 2019-06-27	0	1.0	2.5	Primäre Immunantwort Eigenschaften	Immunreaktion auf erstmaligen Kontakt mit Antigen / Bildung von Frühantikörper (IgM)
-2019-07-18	0	1	2.5	Konkrete Datenschutzmaßnahmen	• Kryptographie / • Funktionstrennung / • Berechtigungskonzept / • Wiederherstellbarkeit / • Benutzeraccounts
+2019-07-18	0	1.0	2.5	Konkrete Datenschutzmaßnahmen	• Kryptographie / • Funktionstrennung / • Berechtigungskonzept / • Wiederherstellbarkeit / • Benutzeraccounts
 2019-07-18	0	1.0	2.5	Schutzimpfung	aktive Immunisierung: Antikörperbildung durch Impfung mit abgeschwächten Erregern, passive Immunisierung: Verabreichung spezifischer Antikörper (kurzzeitige Wirkung)
 2019-07-18	0	1.0	2.5	Dysplasie	Veränderungen in einem Zellverband häufig reversibel
 2019-07-08	0	1.0	2.5	Gutartiger Tumor Symptomzahl	Syomptomarm
@@ -178,14 +178,14 @@
 2019-06-27	0	1.0	2.5	Patophysiologischer Mechanismus von Asthma	Verengung der Atemwege durch / • Schleimhautödem / • vermehrte Schleimbildung / • Kontraktion der Bronchialmuskulatur
 2019-07-18	0	1.0	2.5	Pulsmerkmale	Frequenz, Rhythmus, Füllung
 2019-07-08	0	1.0	2.5	Gutartiger Tumor Rezidive	Rarität
-2019-07-18	0	1	2.5	Vorteile Papierkrankenakte	Keine Umschulung notwendig, Fehlschläge weniger wahrscheinlich
+2019-07-18	0	1.0	2.5	Vorteile Papierkrankenakte	Keine Umschulung notwendig, Fehlschläge weniger wahrscheinlich
 2019-07-18	0	1.0	2.5	5-Jahres-Überlebensrate	Prozentsatz Tumorkranker, die nach 5 Jahren noch leben
 2019-07-18	0	1.0	2.5	Palpation - Beschreibung von Tastbefund	Lokalisation, Größe, Oberfläche (glatt-, grob-, feinhöckerig), Begrenzung (scharf, diffus, nicht abgrenzbar), Konsistenz (hart, weich, fluktuierend), Verschieblichkeit, Druckdolenz, Pulsation
 2019-06-27	0	1.0	2.5	Leitsymptom der Rechtsherzinsuffizienz	Ödeme (u. a. Beinödeme)
 2019-07-18	0	1.0	2.5	DICOM	Standard zur Formatierung von Bilddaten in Medizin, Anbindung bildgebender Modalitäten an KIS, Service Classes für Versenden, Empfangen und Abspeichern von medizinischen Bildern
 2019-07-18	0	1.0	2.5	F.A.S.T Test	Face: Smile, Arms: Raise, Speech: Repeat a simple sentence, does person have trouble or slur words?, Time: critical, needs immediate medial attention
-2019-07-18	0	1	2.5	Definition Entwurfsautonomie	Nutzer kann Daten nach seiner Vorstellung strukturieren
-2019-07-11	2	6.0	2.36	Ausbreitungswege einer lokalen Entzündung	direkt übergreifend / kanalikulär (Gangsysteme) / lymphogen (Lymphgefäße) / neurogen (Nerven) / hämatogen (Blutgefäße)
+2019-07-18	0	1.0	2.5	Definition Entwurfsautonomie	Nutzer kann Daten nach seiner Vorstellung strukturieren
+2019-07-19	3	14.76	2.46	Ausbreitungswege einer lokalen Entzündung	direkt übergreifend / kanalikulär (Gangsysteme) / lymphogen (Lymphgefäße) / neurogen (Nerven) / hämatogen (Blutgefäße)
 2019-07-18	0	1.0	2.5	Beispiele IT-Standards in Medizin	ICD (Klassifikation von Diagnosen), SNOMED (Fokus Forschung), MeSH (Verschlagwortung med. Literatur)
 2019-07-18	0	1.0	2.5	Diabetis Mellitus - Risikofaktoren	Adipositas, Bewegungsmangel, Fettstoffwechselstörungen, genetische Prädisposition
 2019-07-18	0	1.0	2.5	Tumor - Theraphieformen - Immuntherapie	Aktivierung des Immunsystems zur Abtötung von Tumorzellen
@@ -194,11 +194,11 @@
 2019-07-18	0	1.0	2.5	fortgeschrittene elektronische Signatur	geheimer Signaturschlüssel, Signaturersteller muss identifizierbar sein
 2019-07-08	0	1.0	2.5	Symptome Schlaganfall	• einseitige Lähmungserscheinungen/Gefühlstörungen/Sehstörungen / • Sprachstörungen / • einseitige Kopfschmerzen / Sprachverständisprobleme
 2019-07-18	0	1.0	2.5	Praxis-DV	Praxisorganisation, Formularwesen, Befunddokumentation, Medikation, hohe Durchdringung (>95%)
-2019-07-18	0	1	2.5	Definition Virtuelles Repository	Daten auf einem Server, Metadaten für physisch verteilte Daten
+2019-07-18	0	1.0	2.5	Definition Virtuelles Repository	Daten auf einem Server, Metadaten für physisch verteilte Daten
 2019-07-18	0	1.0	2.5	Grading	Einstufung des Malignitätsgrades über Beurteilung der Übereinstimmung des Tumors mit seinem ursprünglichen Muttergewebe
 2019-07-18	0	1.0	2.5	Körperliche Untersuchung - Vitalzeichen erster Ordnung	Körpertemperatur, Puls, Blutdruck, Atmung, Bewusstseinsstatus
 2019-06-27	0	1.0	2.5	Risikofaktoren Diabetes	• Adipositas / • Bewegungsmangel / • Fettstoffwechselstörungen / • Genetische Prädisposition
-2019-07-18	0	1	2.5	Expansion CDA	Clinical Document Architecture
+2019-07-18	0	1.0	2.5	Expansion CDA	Clinical Document Architecture
 2019-07-18	0	1.0	2.5	Tumor	1) umschriebene Volumenzunahme eines Gewebes(Geschwulst, Schwellung) 2) abnorme Gewebsvermehrung durch autonome Teilungswachstum körpereigener Zellen (Neoplasie)
 2019-07-18	0	1.0	2.5	Diabetis Mellitus - Symtome	Gewichtsverlust, Sehstörungen, Hautinfektionen, Juckreiz
 2019-07-18	0	1.0	2.5	Bsp. für konkrete technische und organisatorische Maßnahmen Datenschutz	Schloss, Zutrittsberechtigung, Kryptographie, Zugriffsrechte, Funktionstrennung
@@ -216,16 +216,16 @@
 2019-07-08	0	1.0	2.5	Leitsymptom Linksherzinsuffizienz	Atemnot
 2019-07-18	0	1.0	2.5	B-Gedächniszellen	"langlebige Zellen mit ""Antigengedächnis"""
 2019-06-27	0	1.0	2.5	Ursachen von Asthma	Körperliche + äußere Faktoren (allergische und nicht-allergische) -> Luftnot & Angst
-2019-07-18	0	1	2.5	Nachteile Kommunikationsserver	• Zusätzliche Hardware
+2019-07-18	0	1.0	2.5	Nachteile Kommunikationsserver	• Zusätzliche Hardware
 2019-07-18	0	1.0	2.5	Tumorfolgen	Tumorkachexie (Abnahme Körpergewicht mit Kräfteverfall), Tumoranämie (blutarmut), Tumorfieber, Tumormetastasierung
-2019-07-18	0	1	2.5	Maßnahmen zum Datenschutz nach BDSG §64	• Zugangskontrolle / • Datenträgerkontrolle / • Übertragungskontrolle / • Benutzerkontrolle (Accounts) / • Eingabekontrolle
+2019-07-18	0	1.0	2.5	Maßnahmen zum Datenschutz nach BDSG §64	• Zugangskontrolle / • Datenträgerkontrolle / • Übertragungskontrolle / • Benutzerkontrolle (Accounts) / • Eingabekontrolle
 2019-07-08	0	1.0	2.5	Definition Arteriosklerose	Arterienerkrankungen führen zu Verdickung, Verhärtung und Elastizitätsverlust der Gefaßwand
 2019-07-18	0	1.0	2.5	Hypertrophie	vermehrte Arbeitsbelastung, Kompensation (z.B. bei Organverlust), hormoneller Stimulus (z.B. Uterushypertrophie bei Schwangerschaft)
-2019-07-18	0	1	2.5	Varianten Repository	Physikalisches Repository / Virtuelles Repository
+2019-07-18	0	1.0	2.5	Varianten Repository	Physikalisches Repository / Virtuelles Repository
 2019-07-18	0	1.0	2.5	Diabetis Mellitus - Folgeschäden Teil 1	Makroangiopathie (Erkrankung der großen arteriellen Blutgefäße, z.B. Artherosklerose, Schlaganfall etc.), Microangiopathie (Erkrankung der kleinen arteriellen Blutgefäße, z.B. Nierenschädigung, Netzhautläsionen), Nervenschädigungen
-2019-07-18	0	1	2.5	OPS Struktur	6 Kapitel, Nummern für Operationen: [0-9]-[0-9]+, hierarchisch
+2019-07-18	0	1.0	2.5	OPS Struktur	6 Kapitel, Nummern für Operationen: [0-9]-[0-9]+, hierarchisch
 2019-07-18	0	1.0	2.5	Elektronische Signatur vs digitale Signatur	elektronische Signatur rechtlicher Begriff, digitale Signature technisch
-2019-07-18	0	1	2.5	Definition Anonymisierung	Informationen können nicht mehr einer Person zugeordnet werden
+2019-07-18	0	1.0	2.5	Definition Anonymisierung	Informationen können nicht mehr einer Person zugeordnet werden
 2019-06-27	0	1.0	2.5	Wie vermehrt sich ein Bakterium?	Durch einfache Zellteilung.
 2019-06-27	0	1.0	2.5	Indirekte Übertragungswege bei Infektionskrankheiten	Trinkwasser, Lebensmittel, Überträger
 2019-07-11	3	10.08	1.68	Arten von Krankheitsverläufen	Akut / Inapparent / Chronisch / Rezidivierend / Latent / Remission / Exazerbation
@@ -242,7 +242,7 @@
 2019-07-18	0	1.0	2.5	Krankheitsverlauf - akut	schnell, heftig, plötzlich
 2019-07-18	0	1.0	2.5	Linksherzinsuffizienz - Ursachen	Klappenfehler, Herzinfarkt, Hypertonie
 2019-07-13	0	4.0548	1.86	Nenne die sekundären lymphatischen Organe.	Milz, Lymphknoten, Tonsillen, lymphatisches Gewebe des Darms
-2019-07-18	0	1	2.5	Beispiele von Integrationsprofilen	• Messdaten (Austausch, Format CAD etc.) / • Bildmarkierungen (individuelle Markierung von digitalen Bildern) / • Konsistente Bilddarstellung / • Korrekture von Patienteninformationen
+2019-07-18	0	1.0	2.5	Beispiele von Integrationsprofilen	• Messdaten (Austausch, Format CAD etc.) / • Bildmarkierungen (individuelle Markierung von digitalen Bildern) / • Konsistente Bilddarstellung / • Korrekture von Patienteninformationen
 2019-07-08	0	1.0	2.5	TNM-Klassifikation Bedeutung pT1, pT2, pT3, pT4	zunehmende Ausbreitung des Primärtumors
 2019-07-18	0	1.0	2.5	Insulin	Bildung in Pankreas, senkt Zucker im Blut durch Aufnahme von Glukose in Zellen, Überführung von Glukose in Glygoken, fördert Eiweißaufbau, fördert Fettbiosynthese
 2019-07-18	0	1.0	2.5	Def: Verarbeitung	Vorgang im Zusammenhang mit personenbezogenen Daten, z.B. Erheben, Erfassen, Organisation, Löschen, etc.
@@ -260,20 +260,20 @@
 2019-07-08	0	1.0	2.5	Therapieformen bei Krebs	• Operation / • Chemotherapie / • Strahlentherapie / • Hormontherapie / • Hyperthermie / • Immuntherapie / • Zielgerichtete Therapie / • Palliativmedizin
 2019-07-18	0	1.0	2.5	2-tier-architecture	Trennung in Präsentation und Backend (auf Server)
 2019-07-08	0	1.0	2.5	Funktionsweise Thrombektomie bei Herzinfarkt	Entfernung eines Blutgerinnsels durch Absaugen oder Zerkleinern mithilfe spezieller Instrumente
-2019-07-12	2	6.0	2.6	Bildungsort der Abwehrzellen	Knochenmark
+2019-07-19	3	16.2	2.7	Bildungsort der Abwehrzellen	Knochenmark
 2019-07-11	3	14.16	2.36	Krankheitsverlauf Eigenschaften: Inapparent	unbemerkt
 2019-07-08	0	1.0	2.5	Risikofaktoren für Krebs	Familiäre Disposition / Hormonelle Faktoren / Lebensalter / Lebensstil / Umweltfaktoren (Karzinogene)
-2019-07-18	0	1	2.5	ICD Struktur	26 Kapitel, Nummern für Krankheiten: [A-Z][0-9]+, monohierarchisch
+2019-07-18	0	1.0	2.5	ICD Struktur	26 Kapitel, Nummern für Krankheiten: [A-Z][0-9]+, monohierarchisch
 2019-07-08	0	1.0	2.5	Histologie Benigner Tumor	• Tumorgewebe ähnlich zu Ursprungsgewebe
 2019-07-18	0	1.0	2.5	Kommunikationsserver - Nachteile	verhindert nicht: Redundanz bei Daten, fehlende Synchronisation, Überlapp von Funktionen, es wird zusätzliche Hardware/Software benötigt
-2019-07-18	0	1	2.5	Nachteile Abtrennung von Schichten	Übertragung von Daten, weniger Funktionalität möglich
+2019-07-18	0	1.0	2.5	Nachteile Abtrennung von Schichten	Übertragung von Daten, weniger Funktionalität möglich
 2019-07-08	0	1.0	2.5	Definition Herzinfarkt	Tod von Herzmuskelgewebe: Arteriosklerose → Verschluss der Herzkranzarterie → Sauerstoffmangel im Herz
 2019-07-18	0	1.0	2.5	Koronare Herzkrankheit	Minderdurchblutung des Herzmuskels (Ischämie) aufgrund verengter Herzkrankgefäße durch Arteriosklerose
 2019-07-18	0	1.0	2.5	FHIR - Bsp. für References, Bsp. für Resource	Ref: Subject, Res: Patient, Ref: Assesment, Res: Observation, Ref: Author, Res: Practitioner
 2019-07-13	3	12.96	2.16	Krankheitsverlauf Eigenschaften: Exazerbation	Verschlimmerung bestehender Krankheitssymptome
 2019-07-14	2	6.0	1.3	Sepsis Definition	Organversagen mit Infektion
 2019-07-08	0	1.0	2.5	Letalität verschiedene Arten von Schlaganfällen	Ischämischer Infarkt: 20% / Hämorrhagischer Infarkt: 80%
-2019-07-18	0	1	2.5	Beispiele Layer Informationssystem	Presentation layer / Application logic layer / Resource management layer
+2019-07-18	0	1.0	2.5	Beispiele Layer Informationssystem	Presentation layer / Application logic layer / Resource management layer
 2019-07-18	0	1.0	2.5	Anwendungen der Gesundheitskarte	Notfalldatensatz (z.B. Vorerkrankungen, Allergien), Abgleich und Aktualisierungen von Versicherungsstammdaten, sicherere Kommunikation von Arzt zu Arzt, Zusammenarbeit von verschiedenen Kliniken und Praxen
 2019-07-08	0	1.0	2.5	Gibt es Metastasen bei Benignen Tumoren?	Nein.
 2019-07-18	0	1.0	2.5	Folgeerkrankungen koronare Herzkrankheit	Herzrhythmusstörungen, Herzinfarkt, Herzinsuffizienz, plötzlicher Herztod, Leitsymptom: Angina pectoris (Herzenge)
@@ -284,9 +284,9 @@
 2019-07-18	0	1.0	2.5	Tumor - Theraphieformen - Zielgerichtete Therapie	richtet sich gezielt gegen Tumoreigenschaften, die das Wachstum der Krebszellen fördern
 2019-07-08	0	1.0	2.5	Anwendung Tumormarker	Therapie- und Verlaufskontrolle / Anwendung in der Diagnostik
 2019-07-18	0	1.0	2.5	Krebs	allgemeine Bezeichnung für bösartige Tumoren
-2019-07-18	0	1	2.5	Was sind typische Überschneidungen von KIS-Subsystemen?	KAS & PDM & Admin. / RIS & PACS
+2019-07-18	0	1.0	2.5	Was sind typische Überschneidungen von KIS-Subsystemen?	KAS & PDM & Admin. / RIS & PACS
 2019-07-18	0	1.0	2.5	Anonyme Informationen	Infos, die sich nicht auf identifizierbare Person beziehen/ Daten, die so anonymisiert wurden, dass Person nicht mehr identifiziert werden kann
-2019-07-18	0	1	2.5	Prinzipien des Datenschutzes	• Zweckbindung: Bindung an eindeutige und legitime Zwecke / • Datensparsamkeit: Dem Zweck angemessen und beschränkt / • Speicherbegrenzung: Daten werden nur so lange wie nötig gespeichert
+2019-07-18	0	1.0	2.5	Prinzipien des Datenschutzes	• Zweckbindung: Bindung an eindeutige und legitime Zwecke / • Datensparsamkeit: Dem Zweck angemessen und beschränkt / • Speicherbegrenzung: Daten werden nur so lange wie nötig gespeichert
 2019-06-27	0	1.0	2.5	Bildungsort von Insulin	β-Zellen in den Pankreas
 2019-07-18	0	1.0	2.5	Def: Verantwortlicher	Person/Behörde etc. die über Zwecke u. Mittel der Verarbeitung von personenbezogenen Daten entscheidet
 2019-06-27	0	1.0	2.5	Sekundäre Immunantwort Eigenschaften	Immunreaktion bei erneutem Kontakt mit bekanntem Antigen / Bildung von Spät- bzw. Schutzantikörper (IgG)
@@ -298,25 +298,25 @@
 2019-07-08	0	1.0	2.5	Symptome Embolie	• Blässe / • Gefühlsstörung / • Pulslosigkeit / • Lähmung / • Schmerz / • Schock
 2019-07-18	0	1.0	2.5	Ischämischer Infarkt	häufigere, weniger tödliche Form, arterielle Durchblutungsstörung, meist Embolie, selten Stenose
 2019-07-11	3	15.6	2.6	Krankheitsverlauf Eigenschaften: Akut	schnell, heftig, plötzlich
-2019-07-18	0	1	2.5	Was ist der Unterschied zwischen der elektronischen Gesundheitsakte und der elektronischen Patientenakte?	Die Gesundheitsakte ist unter Verwaltung des Patienten / Die Patientenakte ist unter Verwaltung der behandelnden Institutionen
+2019-07-18	0	1.0	2.5	Was ist der Unterschied zwischen der elektronischen Gesundheitsakte und der elektronischen Patientenakte?	Die Gesundheitsakte ist unter Verwaltung des Patienten / Die Patientenakte ist unter Verwaltung der behandelnden Institutionen
 2019-07-18	0	1.0	2.5	Nachteile elektronische Akte	Abhängigkeit von Technik und Hersteller, Sicherheitsprobleme, Einführungsaufwand, rechtliche Fragen, Abhängigkeit von Hardware (Notepads, WLAN)
 2019-07-08	0	1.0	2.5	Funktionsweise Strahlentherapie	Zerstörung von Tumorzellen durch ionisierte, elektromagnetische Strahlung
-2019-07-18	0	1	2.5	Expansion KIS	Krankenhausinformationssystem
-2019-07-18	0	1	2.5	Expansion HBA	Heilberufeausweis
+2019-07-18	0	1.0	2.5	Expansion KIS	Krankenhausinformationssystem
+2019-07-18	0	1.0	2.5	Expansion HBA	Heilberufeausweis
 2019-07-18	0	1.0	2.5	IgG	Sekundärantwort (wird bei Zweiterkrankung gebildet), plazentagängig, lebenslanger Schutz
 2019-07-08	0	1.0	2.5	Funktionsweise Bypass-Operation bei Herzinfarkt	Umgehung der Stenose mittels einer anderswo entnommenen Vene oder Brustarterie
 2019-07-18	0	1.0	2.5	Kernproblem Heterogenität	Neuentwicklung von KIS schwierig, es gibt starke Spezialisierung und Systeme müssen stark an Anforderungen angepasst werden, Medizingeräte haben meistens integrierte Software
 2019-07-16	0	3.71293	1.3	Ursache für Metaplasie	Chronische Irritation / Entzündungen
 2019-07-18	0	1.0	2.5	Latent	schlummernde, verborgene Erkrankung ohne Krankheitserscheinungen, die wieder klinisch manifest werden kann (z.B. Herpes)
 2019-07-14	2	6.0	1.3	Einflussfaktoren für eine Entzündung	Art der Schädigung / Lokalisation / Dosis / Virulenz / Resistenz
-2019-07-13	2	6.0	2.04	Kategorien von Krankheitsursachen	Endogene Ursachen / Exogene Ursachen
+2019-07-19	3	12.84	2.14	Kategorien von Krankheitsursachen	Endogene Ursachen / Exogene Ursachen
 2019-07-13	0	2.7832	1.42	Einteilung des Abwehrsystems anhand der Lokalität	Zellulär / Humoral (nicht zellulär)
 2019-07-18	0	1.0	2.5	Reversible Zell- und Gewebeschäden	Zellschwellung, Verfettung, Verkalkung, Ödem, Erguss, Fibrose
 2019-07-18	0	1.0	2.5	Artherosklerose - Risikofaktoren 1. Ordnung	Nikotinabusus, Hypertonie (Bluthochdruck), Diabetes Mellitus, Hyperlipidämie (erhöhte Fettwerte), Homocysteinämie (erhöhtes Homocystein)
 2019-06-27	0	1.0	2.5	Arten von Asthma	Allergisches Asthma, Nicht-allergisches Asthma
-2019-07-18	0	1	2.5	Definition SNOMED	Systematische Sammlung der Begriffe aus der Medizin (verwendet in Forschung)
+2019-07-18	0	1.0	2.5	Definition SNOMED	Systematische Sammlung der Begriffe aus der Medizin (verwendet in Forschung)
 2019-07-13	0	2.7832	1.42	Bildungsort der T-Lymphozyten	Thymus
-2019-07-18	0	1	2.5	Vorteile Terminologie	Hohe Präzision / Kenntnis eines Fachgebiets
+2019-07-18	0	1.0	2.5	Vorteile Terminologie	Hohe Präzision / Kenntnis eines Fachgebiets
 2019-07-08	0	1.0	2.5	Gibt es Metastasen bei Malignen Tumoren?	Potentiell ja.
 2019-07-18	0	1.0	2.5	Allergisches Asthma	allergische Reaktion auf Allergene mit genetischer Disposition
 2019-07-08	0	1.0	2.5	Warum sind Tumormarker wichtig?	Weil sie im Serum Gesunder nicht oder nur in extrem niedrigen Mengen nachweisbar sind
@@ -325,21 +325,21 @@
 2019-07-18	0	1.0	2.5	Pathophysiologische Faktoren Arteriosklerose	Gefäßverengung (Stenosen), Gefäßverschluss (Ischämie), Gefäßwandläsionen
 2019-07-18	0	1.0	2.5	Abzess - Arten	"Follikulitis (Entzündung des Haarbalgs), Furunkel (Entzündung von Haarfolikel und Talgdrüse), Karbunkel (flächenhafte Entzündung mehrere Folikel und Talgdrüßen, ""fressendes Geschwür"")"
 2019-07-08	0	1.0	2.5	Funktionsweise Hyperthermie	Zerstörung von Tumorzellen durch Erhöhen der Körpertemperatur
-2019-07-11	2	6.0	2.46	Exogene Ursachen einer Entzündung	Erreger / Physikalische/Chemische/Mechanische Noxen
+2019-07-19	3	14.76	2.46	Exogene Ursachen einer Entzündung	Erreger / Physikalische/Chemische/Mechanische Noxen
 2019-07-08	0	1.0	2.5	TNM-Klassifikation Bedeutung pT0	Keine histologische Evidenz für einen Primärtumor
 2019-07-08	0	1.0	2.5	TNM-Klassifikation Bedeutung pM0	Keine Fernmetastasen
 2019-07-18	0	1.0	2.5	Tumormarker	Proteine, die von Tumorzellen unter abnormen Bedingungen produziert werden, im Serum Gesunder nicht oder nur in extrem niedrigen Mengen nachweisbar
 2019-06-27	0	1.0	2.5	Unterschied B-Zellen und T-Zellen	B-Zellen produzieren Antikörper, T-Zellen nicht
 2019-07-18	0	1.0	2.5	Diabetis Mellitus - Hauptsymtome	starker Durst (Polydipsie), erhöhtes Urinvolumen (Polyurie)
 2019-07-18	0	1.0	2.5	Primäre lymphatische Organe	Thymus, Knochenmark (alle Abwehrzellen werden im Knochenmark gebildet)
-2019-07-18	0	1	2.5	Expansion eGK	elektronische Gesundheitskarte
+2019-07-18	0	1.0	2.5	Expansion eGK	elektronische Gesundheitskarte
 2019-07-08	0	1.0	2.5	Eigenschaft hypertrophe Herzinsuffizienz	Verdicktes Myokard
 2019-07-18	0	1.0	2.5	Bronchialkarziom	Anteil von 35% aller malignen Tumoren bei Männern, Altersgipfel um 60LJ, 5-Jahres-Überlebensrate ca 5-10%
 2019-07-18	0	1.0	2.5	Was ist ein Integrationsprofil?	Darstellung von medizinischen Abläufen + Kommunikationsvorgängen, erleichtern Kommunikation zwischen Anwendern und Firmen
-2019-07-18	0	1	2.5	Definition Kommunikationsautonomie	Freiheit darin, mit wem kommuniziert werden kann
-2019-07-18	0	1	2.5	Beispiele Trigger-Events HL7	Patiententransfer / LIS Lab-Anfrage / Pathologie-report
+2019-07-18	0	1.0	2.5	Definition Kommunikationsautonomie	Freiheit darin, mit wem kommuniziert werden kann
+2019-07-18	0	1.0	2.5	Beispiele Trigger-Events HL7	Patiententransfer / LIS Lab-Anfrage / Pathologie-report
 2019-06-27	0	1.0	2.5	Symptome Diabetes Typ 1	Starker Durst / Erhöhtes Urinvolumen
-2019-07-18	0	1	2.5	Expansion SNOMED	Systematized Nomenclature of Pathology
+2019-07-18	0	1.0	2.5	Expansion SNOMED	Systematized Nomenclature of Pathology
 2019-07-18	3	14.28	2.38	Krankheitsverlauf: Chronisch progredient	fortschreitend bis zum Tod
 2019-07-18	0	1.0	2.5	qualifizierte elektronische Signatur	Anforderungen gemäß SigG, z.B. Signaturerstellungseinheit (Smartcard)
 2019-07-14	2	6.0	1.86	Definition Immunität	Unempfindlichkeit des Organismus gegenüber Pathogenen
@@ -350,28 +350,28 @@
 2019-07-18	0	1.0	2.5	TNM steht für...	T = Primärtumor (Größe, Infiltration), N  = Nodaler Befall (Zustand der regionären Lymphknoten), M = Metastasenbildung (Fehlen bzw. Vorhandensein von Metastasen)
 2019-07-18	0	1.0	2.5	Modulare Systeme - Nachteile	geringe Flexibilität, meistens alles von einem oder zwei Herstellern (Abhängigkeit)
 2019-07-18	0	1.0	2.5	Tumor - Theraphieformen - Hyperthermie	Zerstörung von Tumorzellen durch Erhöhen der Körpertemperatur
-2019-07-18	0	1	2.5	Definition Homogenität bei KIS	Sukzessiver Ausbau des KIS über einer logisch zentralen Datenbank
+2019-07-18	0	1.0	2.5	Definition Homogenität bei KIS	Sukzessiver Ausbau des KIS über einer logisch zentralen Datenbank
 2019-07-18	0	1.0	2.5	Sekundäre lymphatische Organe	bilden Antikörper, Milz, Lymphknoten, Tonsillen, lymphatisches Gewebe des Darms
-2019-07-18	0	1	2.5	Definition Assoziationsautonomie	Nutzer kann das System austauschen/das System (oder Teile dessen) lokal selbst bestimmen
-2019-07-18	0	1	2.5	Expansion ICD	International Classification of Diseases
+2019-07-18	0	1.0	2.5	Definition Assoziationsautonomie	Nutzer kann das System austauschen/das System (oder Teile dessen) lokal selbst bestimmen
+2019-07-18	0	1.0	2.5	Expansion ICD	International Classification of Diseases
 2019-07-18	0	1.0	2.5	Fakultativ pathogene Erreger	lösen nur bei entsprechender Disposition Infektionen aus (opportunisches Infektion)
-2019-07-18	0	1	2.5	Definition Physikalisches Repository	Papierkrankenakten in einem Raum
+2019-07-18	0	1.0	2.5	Definition Physikalisches Repository	Papierkrankenakten in einem Raum
 2019-07-18	3	15.6	2.6	Therapietypen: Operative Therapie	Chirurgischer Eingriff
 2019-07-08	0	1.0	2.5	Funktionsweise Immuntherapie	Aktivierung des Immunsystems zur Abtötung von Tumorzellen
 2019-07-18	0	1.0	2.5	Entzündung Kardinalsymptome	Dolor (Schmerz), Rubor (Rötung), Calor (Wärme), Tumor (Schwellung), Functio laesa (Funktionseinschränkung)
 2019-07-18	0	1.0	2.5	Typing - Mesenchymale Tumoren (Stütz‐ u. Bindegewebe)	gutartig: Lipom, Chondrom, Angiom, bösartig: Liposarkom, Chondrosarkom, Agiosarkom
 2019-07-18	0	1.0	2.5	Mamma-Carcinom - Risikofaktoren	familäre Disposition, frühe Menarche, späte oder fehlende Schwangerschaft, orale Kontrazeptiva, späte Menopause
-2019-07-18	0	1	2.5	Definition Best of Breed	Summe von optimalen Speziallösungen verschiedener Hersteller
+2019-07-18	0	1.0	2.5	Definition Best of Breed	Summe von optimalen Speziallösungen verschiedener Hersteller
 2019-07-18	0	1.0	2.5	Schwerpunkte E-Health Gesetz	Stammdatenmanagement, Notfalldaten, elektronische Arztbriefe, elektronische Patientenakte, Förderung von Telemedizin
 2019-06-27	0	1.0	2.5	Nenne Beispiele pathologisch verringerter Immunabwehr.	Angeborene/erworbene Immundefekte
 2019-07-18	0	1.0	2.5	pathologisch gesteigerte Immunabwehr	Allergien, Autoimmunerkrankungen
-2019-07-13	2	6.0	1.3	Krankheitsverlauf Eigenschaften: Latent	schlummernd, verborgene Erkrankung ohne Krankheitserscheinung, die wieder manifest werden kann
+2019-07-19	3	8.4	1.4	Krankheitsverlauf Eigenschaften: Latent	schlummernd, verborgene Erkrankung ohne Krankheitserscheinung, die wieder manifest werden kann
 2019-07-18	0	1.0	2.5	Rechtsherzinsuffizienz  - Symptome	Leitsymptom : Ödeme (z.B. am Bein), Halsvenenstauung, Lebervergrößerung, Nykturie (nächtliches Wasserlassen)
 2019-07-08	0	1.0	2.5	Umgebendes Gewebe Maligner Tumor Folgen	• Invasion / • Destruktion
 2019-07-08	0	1.0	2.5	Nenne die Ursache eines hämorrhagischen Schlaganfalls.	Eine intrazerebrale Massenblutung tritt aufgrund von Arteriosklerose/Aneurysma auf.
 2019-07-13	0	2.8561	1.3	Endogene Ursachen einer Entzündung	Immunreaktion / Ischämie / Nekrose / Stoffwechselprodukte
 2019-07-08	0	1.0	2.5	TNM-Klassifikation Bedeutung pNX	Befall regionärer Lymphknoten kann nicht genau bestimmt werden
-2019-07-18	0	1	2.5	Voraussetzungen Datenverarbeitung in der Forschung	• Einwilligung / • Zugriffsregelung / • Pseudonymisierung / • Kommittee / • Datenschutzbeauftragte
+2019-07-18	0	1.0	2.5	Voraussetzungen Datenverarbeitung in der Forschung	• Einwilligung / • Zugriffsregelung / • Pseudonymisierung / • Kommittee / • Datenschutzbeauftragte
 2019-06-27	0	1.0	2.5	Kompensierte Herzinsuffizienz	Herzschaden, Pumpleistung des Herzens wird noch aufrechterhalten
 2019-06-27	0	1.0	2.5	Symptome eines Schlaganfalls	• Einseitige Lähmung / • Sprachstörung / • Einseitige Störungen (Sprache, Sehen, Gefühl)
 2019-07-11	3	15.0	2.5	Krankheitsverlauf Eigenschaften: Chronisch	langsam entwickelnd, verlaufend
@@ -384,7 +384,7 @@
 2019-07-18	0	1.0	2.5	Prinzipien des Datenschutz 1	Personenbez. Daten müssen auf rechtmäßige u. nachvollziehbarer Weise verarbeitet werden, für festgelegte u. legitime Zwecke erhoben werden, angemessen beschränkt sein, sachlich richtig u. aktuell sein
 2019-06-27	0	1.0	2.5	Ursachen nicht-allergischen Asthmas	Atemwegsinfektionen, Medikamente, Luftschadstoffe
 2019-07-18	0	1.0	2.5	Schlaganfall (Apoplex)	Durchblutungsstörung im Gehirn führt über Unterversorgung von Sauerstoff und Nährstoffen zu einer Schädigung von Gehirngewebe
-2019-07-13	2	6.0	1.82	Folgen einer Entzündung	Regeneration / Defektheilung / Chronischer Verlauf / Zweiterkrankung
+2019-07-19	3	10.92	1.82	Folgen einer Entzündung	Regeneration / Defektheilung / Chronischer Verlauf / Zweiterkrankung
 2019-07-18	0	1.0	2.5	Übertragungswege Infektionskrankheiten - indirekt	Trinkwasser, Lebensmittel, Überträger
 2019-06-27	0	1.0	2.5	Definition Bakterium	Einzelliges Lebewesen mit eigenem Stoffwechsel ohne echten Zellkern (mit DNA)
 2019-06-27	0	1.0	2.5	Nenne Beispiele pathologisch gesteigerter Immunabwehr.	Allergien, Autoimmunerkrankungen
@@ -400,7 +400,7 @@
 2019-07-11	3	14.16	2.36	Krankheitsverlauf: Chronisch kontinuierlich	gleichmäßig u. langsam fortschreitend
 2019-07-08	0	1.0	2.5	TNM-Klassifikation Bedeutung pTX	Lokale Tumorausbreitung kann histopathologisch nicht bestimmt werden
 2019-07-18	0	1.0	2.5	Unspezifisches humorales Abwehrsystem	in Körperflüssigkeiten gelöste Substanzen, die entweder ständig im Blut oder Lymphsystem zirkulieren oder aus geschädigten Zellen freigesetzt werden
-2019-07-18	0	1	2.5	Teilsysteme eines KIS	Klinisches Arbeitsplatzsystem (KAS) / Laborinformationsystem (LIS) / Radiologie Informationsystem (RIS) / Picture Archiving and Communication (PACS)
+2019-07-18	0	1.0	2.5	Teilsysteme eines KIS	Klinisches Arbeitsplatzsystem (KAS) / Laborinformationsystem (LIS) / Radiologie Informationsystem (RIS) / Picture Archiving and Communication (PACS)
 2019-07-18	0	1.0	2.5	Antikörper	von B-Lymphozyten gebildete Proteine, die speziell zu ihnen passende Antigene binden
 2019-07-08	0	1.0	2.5	Wachstumsrate Benigner Tumor	• langsam wachsend / • Mitosefiguren selten
 2019-07-18	0	1.0	2.5	Immunität	Unempfindlichkeit des Organismus gegenüber Pathogenen
@@ -411,37 +411,37 @@
 2019-07-08	0	1.0	2.5	Definition Embolie	Gefäßverschluss durch Verschleppung von nicht löslichem Material
 2019-07-18	0	1.0	2.5	Entzündung - Einflussfaktoren	Art der Schädigung, Lokalisation, Dosis, Virulenz, Resistenz
 2019-06-27	0	1.0	2.5	Leitsymptom der Koronaren Herzkrankheit	Angina pectoris (Brustenge)
-2019-07-18	0	1	2.5	Definition HL7	Anwendungsspezifisches Protokoll auf Ebene 7 des OSI-Modells
+2019-07-18	0	1.0	2.5	Definition HL7	Anwendungsspezifisches Protokoll auf Ebene 7 des OSI-Modells
 2019-07-08	0	1.0	2.5	Arten der Herzinsuffizienz	• Kompensierte Herzinsuffizienz / • Dekompensierte Herzinsuffizienz
 2019-07-18	0	1.0	2.5	Tumormarker - Anwendung	Therapie- und Verlaufskontrolle (Staging), eingeschränkte Anwendung zur Diagnostik (Screening)
 2019-07-18	0	1.0	2.5	Sekundäre Immunantwort	bei erneuten Kontakt mit demselben Antigen, Bildung von Spät- bzw. Schutzantikörper (IgG)
 2019-07-08	0	1.0	2.5	Verschiedene Symptomarten der KHK	Stabile Angina Pectoris / Instabile Angina pectoris
 2019-07-18	0	1.0	2.5	Arterielle Hypertonieformen	primäre Hypertonie (ohne erkennbare Ursachen, ca 90%), sekundäre Hypertonie (Folge anderer Erkrankung, z.B. Nierenerkrankung, hormonelle Erkrankung, Gefäßerkrankung, ca 10%)
 2019-07-08	0	1.0	2.5	Definition Koronare Herzkrankheit	Minderdurchblutung des Herzmuskels aufgrund verengter Herzkranzgefäße
-2019-07-11	2	6.0	2.6	Charakteristika von Gewebe nach Metaplasie	Widerstandsfähiger / Funktionell minderwertiger
-2019-07-18	0	1	2.5	Definition ICD	Katalog für Krankheiten
+2019-07-19	3	16.2	2.7	Charakteristika von Gewebe nach Metaplasie	Widerstandsfähiger / Funktionell minderwertiger
+2019-07-18	0	1.0	2.5	Definition ICD	Katalog für Krankheiten
 2019-07-08	0	1.0	2.5	Folgen von Arteriosklerose	Gefäßverengung, Gefäßverschluss, Gefäßwandläsion
 2019-07-18	0	1.0	2.5	Stadieneinteilung (Staging)	Internationale Einteilung von Tumorstadien auf Grundlage von TNM-Systems
 2019-07-08	0	1.0	2.5	Gutartiger Tumor Verlauf	Lang, nicht tödlich
 2019-07-18	3	14.16	2.36	Therapietypen bei Krankheiten	Kurative Therapie / Palliative Heilung / Konservative Therapie / Operative Therapie
 2019-07-14	2	6.0	1.3	Krankheitsverlauf: Chronisch rezidivierend	immer wieder auftretend
-2019-07-18	0	1	2.5	Nenn Achsen, nach denen geordnet wird.	• Topography (anatomic terms) / • Morphology (changes in cells & tissue) / • Living organisms (bacteria & viruses) / • Chemical (drugs) / • Function (signs & symptoms) / • Occupation / • Diagnostic terms / • Procedures / • Social context
+2019-07-18	0	1.0	2.5	Nenn Achsen, nach denen geordnet wird.	• Topography (anatomic terms) / • Morphology (changes in cells & tissue) / • Living organisms (bacteria & viruses) / • Chemical (drugs) / • Function (signs & symptoms) / • Occupation / • Diagnostic terms / • Procedures / • Social context
 2019-07-18	0	1.0	2.5	Unspezifisches Abwehrsystem	angeborene, natürliche Immunität, antigenunabhängig, standardisierter Ablauf
 2019-07-18	0	1.0	2.5	Herzinfarkt - perkulante transluminale coronare Angioplastie	Aufdehnung von Stenosen (Ballondilatation)
-2019-07-18	0	1	2.5	Schema Monolithische Architektur	Client ←→ Informationssystem
+2019-07-18	0	1.0	2.5	Schema Monolithische Architektur	Client ←→ Informationssystem
 2019-07-18	0	1.0	2.5	Herzinfarkt - medikamentöse Theraphie	Auflösung von Blutgerinnsel (Thrombus)
-2019-07-18	0	1	2.5	Expansion HL7	Health Level 7
-2019-07-18	0	1	2.5	Verfahren hybride Verschlüsselung	Generiere symmetrischen Schlüssel → / Verschlüssele Nachricht mit dem Schlüssel → / Verschlüssele symmetrischen Schlüssel asymmetrisch → / Schicke Nachricht+Schlüssel
+2019-07-18	0	1.0	2.5	Expansion HL7	Health Level 7
+2019-07-18	0	1.0	2.5	Verfahren hybride Verschlüsselung	Generiere symmetrischen Schlüssel → / Verschlüssele Nachricht mit dem Schlüssel → / Verschlüssele symmetrischen Schlüssel asymmetrisch → / Schicke Nachricht+Schlüssel
 2019-07-18	0	1.0	2.5	Viren	Infektionsträger ohne eigenen Stoffwechsel, benötigen Wirtsorganismus für Vermehrung, besitzen DNA/RNA zur Steuerung des Stoffwechsels in Wirtszelle
 2019-07-18	0	1.0	2.5	Absolute Anonymität	Re-Identifikation unmöglich
 2019-07-13	0	2.7832	1.42	Bestandteile des spezifischen humoralen Abwehrsystems	Antikörper (produziert von B-Zellen)
-2019-07-18	0	1	2.5	Beispiele DICOM Service Classes	• Verification / • Storage / • Query/Retrieve / • Print Management
-2019-07-18	0	1	2.5	Funktion HBA	• Signatur / • Authentifizierung / • Verschlüsselung
+2019-07-18	0	1.0	2.5	Beispiele DICOM Service Classes	• Verification / • Storage / • Query/Retrieve / • Print Management
+2019-07-18	0	1.0	2.5	Funktion HBA	• Signatur / • Authentifizierung / • Verschlüsselung
 2019-07-18	0	1.0	2.5	Symptome Embolie	Paleness (Blässe), Paresthesia (Gefühlsstörung), Pulslessness (Pulslosigkeit), Paralysis (Lähmung), Pain (Schmerz), Prostation (Schock)
 2019-07-08	0	1.0	2.5	Funktionsweise Perkutane transluminale coronare Angioplastie bei Herzinfarkt	Aufdehnung von Stenosen durch Ballon
 2019-07-18	0	1.0	2.5	Stabile Angina pectoris	Verschwinden Symptome in Ruhe, Besserung Symptome durch Nytroglycerin, reproduzierbare Beschwerden
-2019-07-18	0	1	2.5	Expansion OPS	Operationen- und Prozedurenschlüssel
-2019-07-18	0	1	2.5	Level von CDA	Level 1: Syntax / Level 2: Konzept (Struktur des Dokuments) / Level 3: Terminologie: Inhalte von Feldern
+2019-07-18	0	1.0	2.5	Expansion OPS	Operationen- und Prozedurenschlüssel
+2019-07-18	0	1.0	2.5	Level von CDA	Level 1: Syntax / Level 2: Konzept (Struktur des Dokuments) / Level 3: Terminologie: Inhalte von Feldern
 2019-07-18	0	1.0	2.5	Vegetative Anamnese	Gewichtsentwicklung, Appetit, Durst, Schlaf, Stuhlgang, Wasserlassen, Alkohol- und Zigarettenkonsum
 2019-07-08	0	1.0	2.5	Definition TNM-Klassifikation	Anatomisch basierte Beschreibung des Primärtumors und dessen Ausbreitung im Körper nach dem TNM-Schema sowie des Krankheitsverlaufs
 2019-07-18	0	1.0	2.5	Komplikationen der Arteriosklerose	koronare Herzkrankheit (z.B. Herzinfarkt), Schlaganfall, Bluthochdruck, Aneurymabildung, Thrombose

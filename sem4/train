@@ -1,6 +1,6 @@
 #!/usr/bin/env rc
 
-new=20
+new=40
 rev=100
 
 for(i in `{echo gnvs.crd med2_norm.crd med2_imp.crd norm_med2.crd | tr ' ' '\n' | shuf})
