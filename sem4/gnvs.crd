@@ -14,7 +14,7 @@
 2019-07-17	2	6.0	1.64	Welchen Bezug haben N-PCI, N-PDU und N-SDU?	Die N-PCI und die N-SDU werden in die N-PDU zum Transport zusammengefasst.
 2019-07-12	3	8.16	1.36	Erkläre den Begriff N-PDU.	Der Payload, der mit der (N-1)-ICI etikettiert wird und dann als (N-1)-IDU / über die Schicht N-1 transportiert wird.
 2019-07-10	3	15.0	2.5	Gib Beispiele für die Namen der PDU auf 2 Schicthen an.	Beispiele: Segmente, Pakete, Rahmen
-2019-07-15	2	6.0	1.72	Segment wird auf der _schicht verwendet	Transportschicht
+2019-07-22	0	7.8	1.3	Segment wird auf der _schicht verwendet	Transportschicht
 2019-07-13	2	6.0	1.4	Paket wird auf der _schicht verwendet	Vermittlungsschicht
 2019-07-16	3	8.4	1.4	Rahmen wird auf der _schicht verwendet	Sicherungsschicht
 2019-07-14	2	6.0	1.5	Die Transportschicht verwendet _	Segmente
@@ -210,3 +210,45 @@
 2019-07-17	0	1.0	2.5	Phasen einer verbindungsorientierten Übertragung	• Verbindungsaufbau / • Datenaustausch / • Verbindungsabbau
 2019-07-17	0	1.0	2.5	Warum sind Direktverbindungsnetzwerke nicht skalierbar?	• Keine logische Struktur zur Adressierung / • Subnetze sind nicht unterstüzt.
 2019-07-17	0	1.0	2.5	Was sind die Aufgaben der Vermittlungsschicht?	• Kopplung von Direktverbindungsnetzwerken / • Bereitstellung von Subnetzstrukturen / • Eindeutige Adressierung / • Routing
+2019-07-22	0	1.0	2.5	An welche Adresse wird ein ARP-Request geschickt?	Die MAC-Broadcast-Adresse ff:ff:ff:ff:ff:ff
+2019-07-22	0	1.0	2.5	Definition Big Endian	Niederwertigstes Byte steht an höchstwertigster Adresse (255=0x0100)
+2019-07-22	0	1.0	2.5	Definition Little Endian	Niederwertigstes Byte steht an niederwertigster Adresse (255=0x0001)
+2019-07-22	0	1.0	2.5	Definition Nachrichtenvermittlung	Nachricht wird mit Header versehen, der die Übertragung möglich macht.
+2019-07-22	0	1.0	2.5	Definition Network Byte Order	Big Endian
+2019-07-22	0	1.0	2.5	Definition Paketvermittlung	Es werden Teile von Nachrichten mithilfe von Headern unabhängig übertragen.
+2019-07-22	0	1.0	2.5	Expansion ARP	Address Resolution Protocol
+2019-07-22	0	1.0	2.5	Expansion ICMP	Internet Control Message Protocol
+2019-07-22	0	1.0	2.5	Expansion IHL	IP Header Length
+2019-07-22	0	1.0	2.5	Expansion IP	Internet Protocol
+2019-07-22	0	1.0	2.5	Expansion MTU	Maximum Transmission Unit
+2019-07-22	0	1.0	2.5	Expansion TOS	Type of Service
+2019-07-22	0	1.0	2.5	Expansion TTL	Time to live
+2019-07-22	0	1.0	2.5	Nachteile Leitungsvermittlung	• Keine dauerhafte Auslastung der Leitung / • Komplexer Verbindungsaufbau
+2019-07-22	0	1.0	2.5	Vorteile Leitungsvermittlung	• Qualität der Übertragung bleibt während der Verbindung gleich / • Keine weiteren Entscheidungen über Vermittlungsart
+2019-07-22	0	1.0	2.5	Vorteile/Nachteile Multiplexing auf Paketebene	Vorteile: /  ~ Pufferung von Paketen / Nachteile: Verlust von Paketen durch Pufferbegrenzung möglich /  ~ Overhead durch Header für Pakete /  ~ Zusammensetzen notwendig
+2019-07-22	0	1.0	2.5	Was ist die vorgesehene Reihenfolge in einer DHCP-Kommunikation?	• DHCP-Discover / • DHCP-Offer / • DHCP-Request / • DHCP-ACK/NACK
+2019-07-22	0	1.0	2.5	Was macht ein Router?	Trifft Weiterleitungsentscheidungen auf Basis einer IP-Adresse.
+2019-07-22	0	1.0	2.5	Was passiert mit unangefragten ARP-Antworten?	Sie werden auch im ARP-Cache gespeichert.
+2019-07-22	0	1.0	2.5	Was passiert, wenn ein Paket über die Grenzen eines lokalen Netzwerks gesendet werden soll?	ARP-Request löst sich zum Router (Default Gateway) auf, der das Paket weiterschickt.
+2019-07-22	0	1.0	2.5	Welche Services bietet die Vermittlungsschicht an?	• Global eindeutige strukturierte Adressierung / • Verfahren zur Pfagbestimmung in Netzwerken
+2019-07-22	0	1.0	2.5	Welche speziellen Eigenschaften hat die IP-Header Prüfsumme?	TTL-- ←→ Checksum++
+2019-07-22	0	1.0	2.5	Wie lange dauert es, bis der ARP-Cache geleert wird?	5-10 Minuten
+2019-07-22	0	1.0	2.5	Wofür steht das DF-Flag in einem IP-Paket?	"Don't fragment" → Paket darf nicht fragmentiert werden.
+2019-07-22	0	1.0	2.5	Wofür steht das MF-Flag in einem IP-Paket?	"More fragments" → Weiter Pakete folgen auf dieses (0 falls Paket nicht fragmentiert wurde).
+2019-07-22	0	1.0	2.5	Worauf wird die Prüfsumme von IP berechnet?	Auf den IP-Header.
+2019-07-22	0	1.0	2.5	Wovon ist die MTU abhängig?	Von den Protokollen auf Schicht 1/2.
+2019-07-22	0	1.0	2.5	Wozu wird ICMP verwendet?	Um Sender von Problemen während des Sendens zu benachrichtigen. / Echo request. / Pakete umleiten.
+2019-07-22	0	1.0	2.5	Wozu wird das Fragment Offset Feld in einem IP-Paket verwendet?	Position der Daten in diesem Paket relativ zu den Gesamtdaten in Vielfachen von 8B. / → Reassemblierung
+2019-07-22	0	1.0	2.5	Anzahl nutzbarer Adressen für Hosts Formel.	2^{Länge des Host-Teils in der Maske}-2
+2019-07-22	0	1.0	2.5	Expansion CIDR	Classless Inter-Domain Routing
+2019-07-22	0	1.0	2.5	Präfixschreibweise Subnetzmaske	"Netzadresse/Länge der Netzmaske"
+2019-07-22	0	1.0	2.5	Welche Funktion erfüllt eine Subnetzmaske?	Unterteilt die IP-Adresse in einen Netzanteil und einen Hostanteil
+2019-07-22	0	1.0	2.5	Wie sieht eine Subnetzmaske aus?	32 bit lang, 1 steht für Netzanteil, 0 für Hostanteil.
+2019-07-22	0	1	2.5	Beschreibung Anycast	Pakete, die an eine beliebige Station einer bestimmten Gruppe adressiert sind.
+2019-07-22	0	1	2.5	Beschreibung Broadcast	Pakete, die an alle Stationen im Netzwerk adressiert sind
+2019-07-22	0	1	2.5	Beschreibung Multicast	Pakete, die an eine bestimmte Gruppe von Knoten adressiert sind
+2019-07-22	0	1	2.5	Beschreibung Unicast	Pakete, die an ein einzelnes Ziel adressiert sind
+2019-07-22	0	1	2.5	Expansion APIPA	Automatic Private IP Adressing
+2019-07-22	0	1	2.5	Expansion PIM	Protocol independent multicast
+2019-07-22	0	1	2.5	Nenne die Adressierungsarten auf Schicht 4.	• Unicast / • Broadcast / • Multicast / • Anycast
+2019-07-22	0	1	2.5	Wozu wird bei IPv6 das Flow Label verwendet?	Um zusammenhängende Pakete zu erkennen & gleich zu behandeln (gleiches Routing).

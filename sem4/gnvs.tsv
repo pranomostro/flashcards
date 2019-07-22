@@ -214,3 +214,40 @@ Nachteile Leitungsvermittlung	• Keine dauerhafte Auslastung der Leitung / • 
 Definition Nachrichtenvermittlung	Nachricht wird mit Header versehen, der die Übertragung möglich macht.
 Definition Paketvermittlung	Es werden Teile von Nachrichten mithilfe von Headern unabhängig übertragen.
 Vorteile/Nachteile Multiplexing auf Paketebene	Vorteile: /  ~ Pufferung von Paketen / Nachteile: Verlust von Paketen durch Pufferbegrenzung möglich /  ~ Overhead durch Header für Pakete /  ~ Zusammensetzen notwendig
+Welche Services bietet die Vermittlungsschicht an?	• Global eindeutige strukturierte Adressierung / • Verfahren zur Pfagbestimmung in Netzwerken
+Was macht ein Router?	Trifft Weiterleitungsentscheidungen auf Basis einer IP-Adresse.
+Expansion IP	Internet Protocol
+Expansion IHL	IP Header Length
+Expansion TOS	Type of Service
+Expansion TTL	Time to live
+Expansion MTU	Maximum Transmission Unit
+Wovon ist die MTU abhängig?	Von den Protokollen auf Schicht 1/2.
+Wofür steht das DF-Flag in einem IP-Paket?	"Don't fragment" → Paket darf nicht fragmentiert werden.
+Wofür steht das MF-Flag in einem IP-Paket?	"More fragments" → Weiter Pakete folgen auf dieses (0 falls Paket nicht fragmentiert wurde).
+Wozu wird das Fragment Offset Feld in einem IP-Paket verwendet?	Position der Daten in diesem Paket relativ zu den Gesamtdaten in Vielfachen von 8B. / → Reassemblierung
+Worauf wird die Prüfsumme von IP berechnet?	Auf den IP-Header.
+Welche speziellen Eigenschaften hat die IP-Header Prüfsumme?	TTL-- ←→ Checksum++
+Definition Big Endian	Niederwertigstes Byte steht an höchstwertigster Adresse (255=0x0100)
+Definition Little Endian	Niederwertigstes Byte steht an niederwertigster Adresse (255=0x0001)
+Definition Network Byte Order	Big Endian
+Expansion ARP	Address Resolution Protocol
+An welche Adresse wird ein ARP-Request geschickt?	Die MAC-Broadcast-Adresse ff:ff:ff:ff:ff:ff
+Was passiert, wenn ein Paket über die Grenzen eines lokalen Netzwerks gesendet werden soll?	ARP-Request löst sich zum Router (Default Gateway) auf, der das Paket weiterschickt.
+Wie lange dauert es, bis der ARP-Cache geleert wird?	5-10 Minuten
+Was passiert mit unangefragten ARP-Antworten?	Sie werden auch im ARP-Cache gespeichert.
+Expansion ICMP	Internet Control Message Protocol
+Wozu wird ICMP verwendet?	Um Sender von Problemen während des Sendens zu benachrichtigen. / Echo request. / Pakete umleiten.
+Was ist die vorgesehene Reihenfolge in einer DHCP-Kommunikation?	• DHCP-Discover / • DHCP-Offer / • DHCP-Request / • DHCP-ACK/NACK
+Expansion CIDR	Classless Inter-Domain Routing
+Welche Funktion erfüllt eine Subnetzmaske?	Unterteilt die IP-Adresse in einen Netzanteil und einen Hostanteil
+Wie sieht eine Subnetzmaske aus?	32 bit lang, 1 steht für Netzanteil, 0 für Hostanteil.
+Anzahl nutzbarer Adressen für Hosts Formel.	2^{Länge des Host-Teils in der Maske}-2
+Präfixschreibweise Subnetzmaske	"Netzadresse/Länge der Netzmaske"
+Expansion APIPA	Automatic Private IP Adressing
+Wozu wird bei IPv6 das Flow Label verwendet?	Um zusammenhängende Pakete zu erkennen & gleich zu behandeln (gleiches Routing).
+Nenne die Adressierungsarten auf Schicht 4.	• Unicast / • Broadcast / • Multicast / • Anycast
+Beschreibung Unicast	Pakete, die an ein einzelnes Ziel adressiert sind
+Beschreibung Broadcast	Pakete, die an alle Stationen im Netzwerk adressiert sind
+Beschreibung Multicast	Pakete, die an eine bestimmte Gruppe von Knoten adressiert sind
+Beschreibung Anycast	Pakete, die an eine beliebige Station einer bestimmten Gruppe adressiert sind.
+Expansion PIM	Protocol independent multicast
