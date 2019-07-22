@@ -209,3 +209,8 @@ Definition Leitungsvermittlung	Reservierung einer Leitung zw. Senden & Empfänge
 Definition Nachrichtenvermittlung	Übertrage nur Nachrichten zw. Sender & Empfänger
 Definition Paketvermittlung	Übertrage nur Pakete zw. Sender & Empfänger, alles andere egal
 Phasen einer verbindungsorientierten Übertragung	• Verbindungsaufbau / • Datenaustausch / • Verbindungsabbau
+Vorteile Leitungsvermittlung	• Qualität der Übertragung bleibt während der Verbindung gleich / • Keine weiteren Entscheidungen über Vermittlungsart
+Nachteile Leitungsvermittlung	• Keine dauerhafte Auslastung der Leitung / • Komplexer Verbindungsaufbau
+Definition Nachrichtenvermittlung	Nachricht wird mit Header versehen, der die Übertragung möglich macht.
+Definition Paketvermittlung	Es werden Teile von Nachrichten mithilfe von Headern unabhängig übertragen.
+Vorteile/Nachteile Multiplexing auf Paketebene	Vorteile: /  ~ Pufferung von Paketen / Nachteile: Verlust von Paketen durch Pufferbegrenzung möglich /  ~ Overhead durch Header für Pakete /  ~ Zusammensetzen notwendig
