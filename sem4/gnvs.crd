@@ -1,42 +1,42 @@
 2019-07-19	4	25.9584	2.08	Funktionsweise eines Schichtenmodells	• Niedrigere Schichten bieten höheren Schichten Dienste an / • Festlegung der Art, aber nicht der Implementierung von Diensten
 2019-07-19	4	27.9936	2.16	Standard-Schichtenmodell	OSI model: Open Systems Interconnection model
-2019-07-06	3	13.08	2.18	Sieben Schichten des OSI-Modells (von weniger abstrakt zu abstrakt)	1 Physikalische Schicht/Physical Layer / 2 Sicherungsschicht/Data Link Layer / 3 Vermittlungsschicht/Network Layer / 4 Transportschicht/Transport Layer / 5 Sitzungsschicht/Session Layer / 6 Darstellungsschicht/Presentation Layer / 7 Anwendungsschicht/Application Layer
-2019-07-06	3	16.8	2.8	Expansion IDU	Interface Data Unit
-2019-07-06	3	16.8	2.8	Expansion SDU	Service Data Unit: Datenpaket
-2019-07-06	3	14.88	2.48	Expansion ICI	Interface Control Information
-2019-07-06	3	15.6	2.6	Expansion PCI	Protocol Control Information: Häufig in Form eines Headers/Trailers
-2019-07-06	3	16.2	2.7	Expansion PDU	Protocol Data Unit: Verbindung von PCI und SDU
-2019-07-10	3	12.12	2.02	Erkläre den Begriff N-IDU.	Die Daten, die die Schicht N+1 an die Schicht N weitergibt
-2019-07-17	0	1.3	1.3	Welchen Bezug haben N-IDU, N-SDU und N-ICI?	Die N-IDU wird in die N-SDU und die N-ICI aufgespalten.
-2019-07-17	2	6.0	1.7	Erkläre den Begriff N-SDU.	Nutzdaten für die N-te Schicht.
+2019-07-23	4	28.5144	2.18	Sieben Schichten des OSI-Modells (von weniger abstrakt zu abstrakt)	1 Physikalische Schicht/Physical Layer / 2 Sicherungsschicht/Data Link Layer / 3 Vermittlungsschicht/Network Layer / 4 Transportschicht/Transport Layer / 5 Sitzungsschicht/Session Layer / 6 Darstellungsschicht/Presentation Layer / 7 Anwendungsschicht/Application Layer
+2019-07-23	4	48.72	2.9	Expansion IDU	Interface Data Unit
+2019-07-23	4	48.72	2.9	Expansion SDU	Service Data Unit: Datenpaket
+2019-07-23	4	38.3904	2.58	Expansion ICI	Interface Control Information
+2019-07-23	4	42.12	2.7	Expansion PCI	Protocol Control Information: Häufig in Form eines Headers/Trailers
+2019-07-23	4	45.36	2.8	Expansion PDU	Protocol Data Unit: Verbindung von PCI und SDU
+2019-07-23	4	22.7856	1.88	Erkläre den Begriff N-IDU.	Die Daten, die die Schicht N+1 an die Schicht N weitergibt
+2019-07-23	1	1	1.3	Welchen Bezug haben N-IDU, N-SDU und N-ICI?	Die N-IDU wird in die N-SDU und die N-ICI aufgespalten.
+2019-07-23	3	10.8	1.8	Erkläre den Begriff N-SDU.	Nutzdaten für die N-te Schicht.
 2019-07-16	3	7.8	1.3	Erkläre den Begriff N-ICI.	Kontrollinformationen, die für den Dinst auf Schicht N notwendig sind (Länge der SDU und Adressinformationen).
 2019-07-12	3	11.4	1.9	Erkläre den Begriff N-PCI.	Die Daten, die für die N-te Schicht auf der anderen Seite hinzugefügt werden / (wird häufig als Header vorangestellt).
-2019-07-17	2	6.0	1.64	Welchen Bezug haben N-PCI, N-PDU und N-SDU?	Die N-PCI und die N-SDU werden in die N-PDU zum Transport zusammengefasst.
-2019-07-12	3	8.16	1.36	Erkläre den Begriff N-PDU.	Der Payload, der mit der (N-1)-ICI etikettiert wird und dann als (N-1)-IDU / über die Schicht N-1 transportiert wird.
+2019-07-23	3	9.84	1.64	Welchen Bezug haben N-PCI, N-PDU und N-SDU?	Die N-PCI und die N-SDU werden in die N-PDU zum Transport zusammengefasst.
+2019-07-23	1	1	1.3	Erkläre den Begriff N-PDU.	Der Payload, der mit der (N-1)-ICI etikettiert wird und dann als (N-1)-IDU / über die Schicht N-1 transportiert wird.
 2019-07-10	3	15.0	2.5	Gib Beispiele für die Namen der PDU auf 2 Schicthen an.	Beispiele: Segmente, Pakete, Rahmen
-2019-07-22	0	7.8	1.3	Segment wird auf der _schicht verwendet	Transportschicht
-2019-07-13	2	6.0	1.4	Paket wird auf der _schicht verwendet	Vermittlungsschicht
+2019-07-23	1	1	1.4	Segment wird auf der _schicht verwendet	Transportschicht
+2019-07-23	1	1	1.4	Paket wird auf der _schicht verwendet	Vermittlungsschicht
 2019-07-16	3	8.4	1.4	Rahmen wird auf der _schicht verwendet	Sicherungsschicht
-2019-07-14	2	6.0	1.5	Die Transportschicht verwendet _	Segmente
-2019-07-12	3	9.12	1.52	Die Sicherungsschicht verwendet _	Rahmen
-2019-07-19	0	7.8	1.3	Die Vermittlungsschicht verwendet _	Pakete
+2019-07-23	3	9.6	1.6	Die Transportschicht verwendet _	Segmente
+2019-07-23	4	14.7744	1.62	Die Sicherungsschicht verwendet _	Rahmen
+2019-07-23	1	1	1.4	Die Vermittlungsschicht verwendet _	Pakete
 2019-07-12	3	14.16	2.36	Definition Bedingte Entropie	Verbleibende Unsicherheit über Y, wenn X bekannt sind: H(Y|X)
 2019-07-16	3	9.0	1.5	Formel bedingte Entropie	H(Y|X)=sum(x∈X;p(x)*H(Y|X=x))=-sum(x∈Xp(x)*sum(y∈Y;p(y|x)*log₂(p(y|x)))
 2019-07-12	3	11.76	1.96	Definition Informationsgehalt eines Zeichens	Wie viel Information durch das Zeichen übertragen wird / (Je seltener ein Zeichen ist, desto höher sein Informationsgehalt)
 2019-07-19	2	6.0	1.5	Definition Entropie	Der mittlere Informationsgehalt einer Quelle
 2019-07-12	3	11.76	1.96	Definition Information	Unsicherheit, Veränderung eines Signals vorherzusagen
-2019-07-15	2	6.0	1.3	Definition Verbundentropie	Addition der Quellenentropie H(x) mit dem von dieser Quelle / statistisch unabhängigen Anteil H(Y|X) einer anderen Quelle
+2019-07-23	1	1	1.3	Definition Verbundentropie	Addition der Quellenentropie H(x) mit dem von dieser Quelle / statistisch unabhängigen Anteil H(Y|X) einer anderen Quelle
 2019-07-16	3	7.8	1.3	Formel Verbundentropie	H(X,Y)=H(X)+H(Y|X)
 2019-07-16	3	15.0	2.5	Definition Transinformation	Die von Sender zu Empfänger über einen gedächtnislosen Kanal transportierte Information
-2019-07-17	0	13.182	1.3	Formel Transinformation	I(X;Y)=H(X)-H(X|Y)=H(Y)-H(Y|X) / Sendeentropie H(X), Fehlentropie H(Y|X), Informationsverlust H(X|Y)
+2019-07-23	1	1	1.3	Formel Transinformation	I(X;Y)=H(X)-H(X|Y)=H(Y)-H(Y|X) / Sendeentropie H(X), Fehlentropie H(Y|X), Informationsverlust H(X|Y)
 2019-07-15	3	15.36	2.56	Die transportierte Information entspricht _ abzüglich _	Sendeentropie – Informatiensverlust / Empfangsentropie – Fehlinformation
 2019-07-16	3	14.16	2.36	Definition Bedeutung von Information	Abbildung zwischen Symbolen und Daten (Interpretationsvorschrift)
-2019-07-17	2	6.0	2.04	Was bedeutet Zeitdiskretisierung?	In regelmäßigen Zeitabständen werden Samples genommen.
+2019-07-23	3	12.24	2.04	Was bedeutet Zeitdiskretisierung?	In regelmäßigen Zeitabständen werden Samples genommen.
 2019-07-15	3	16.2	2.7	Was bedeutet Quantisierung?	Kontinuierliche Signale werden gerundet.
 2019-07-14	3	12.96	2.16	Wozu benutzt man Kanalkodierung?	Zur Fehlererkennung/Fehlerkodierung.
-2019-07-22	0	7.8	1.3	Was bedeutet Leitungskodierung?	Festlegung von Abbildungsvorschriften und Interpretationsvorschriften für die / Datenübertragung.
-2019-07-17	2	6.0	1.76	Welche Arten von Störfaktoren gibt es bei der Signalübertragung?	• Rauschen / • Dämpfung / • Verzerrung
-2019-07-17	2	6.0	2.06	Beschreibung Fourierreihe	Darstellung periodischer Funktionen in ℝ als Überlagerung von Sinus- und Kosinusschwingungen unterschiedlicher Frequenz
+2019-07-23	1	1	1.4	Was bedeutet Leitungskodierung?	Festlegung von Abbildungsvorschriften und Interpretationsvorschriften für die / Datenübertragung.
+2019-07-23	3	11.16	1.86	Welche Arten von Störfaktoren gibt es bei der Signalübertragung?	• Rauschen / • Dämpfung / • Verzerrung
+2019-07-23	3	12.96	2.16	Beschreibung Fourierreihe	Darstellung periodischer Funktionen in ℝ als Überlagerung von Sinus- und Kosinusschwingungen unterschiedlicher Frequenz
 2019-07-16	3	14.76	2.46	Unterschied Fourierreihe und Fouriertransformation	Fourierreihe für periodische Signale, Fouriertransformation für nicht-periodische Signale (kontinuierliches Spektrum)
 2019-07-16	3	13.56	2.26	Fourier-Transformation Signaleigenschaft Punktsymmetrie zu (T/2, 0) Vereinfachung	a₀=0
 2019-07-15	3	14.28	2.38	Bedeutung Analyse (Signaldarstellung (z.B. Fouriertransformation))	Signale werden in ihre spektralen Bestandteile zerlegt
@@ -44,87 +44,87 @@
 2019-07-16	3	15.36	2.56	Eigenschaften von physikalischen Signalen	Zeitkontinuierlich, Wertkontinuierlich
 2019-07-14	3	11.52	1.92	Diskretisierung von Signalen durch _	• Abtastung (Zeitbereich) / • Quantisierung (Wertbereich)
 2019-07-16	3	7.8	1.3	Rekonstruktion des ursprünglichen Signals	Abtastwerte werden als Stützstellen für Interpolation verwendet
-2019-07-17	2	6.0	1.72	Wann ist verlustfreie Rekonstrukion möglich?	Wenn die Abtastfrequenz einen bestimmten Wert fₐ>2B überschreitet / B ist Frequenz des Basisbandes (des ursprünglichen transformierten Signals)
+2019-07-23	3	10.32	1.72	Wann ist verlustfreie Rekonstrukion möglich?	Wenn die Abtastfrequenz einen bestimmten Wert fₐ>2B überschreitet / B ist Frequenz des Basisbandes (des ursprünglichen transformierten Signals)
 2019-07-15	3	15.0	2.5	Was passiert, wenn fₐ kleiner als die geringste nötige Frequenz ist?	Die periodischen Wiederholungen des Spektrums überlappen sich, Effekt Aliasing -> keine verlustfreie Rekonstruktion.
-2019-07-12	2	6.0	1.3	Abtasttheorem von Shannon und Nyquist	Ein auf |f|≤B bandbegrenztes Signal s(t) ist vollständig durch äquidistante Abtastwerte ŝ[n] beschrieben, / sofern diese nicht weiter als T_{a}≤½B auseinanderliegen / B: Bandbreite
+2019-07-23	1	1	1.3	Abtasttheorem von Shannon und Nyquist	Ein auf |f|≤B bandbegrenztes Signal s(t) ist vollständig durch äquidistante Abtastwerte ŝ[n] beschrieben, / sofern diese nicht weiter als T_{a}≤½B auseinanderliegen / B: Bandbreite
 2019-07-16	3	16.2	2.7	Unter welchen Bedingungen kann ein natürlich vorkommendes Signal aus abgetasteten und quantisierten Werten verlustfrei rekonstruiert werden?	Falls die Abtastfrequenz fₐ>2B ist (Basisfrequenz B).
 2019-07-16	3	12.36	2.06	Unter welchen Umständen sollte ein Signal linear quantisiert werden?	Wenn die alle Symbole gleich wahrscheinlich sind.
 2019-07-16	3	15.0	2.5	Wie verteilen sich quantisierte Signale um die 0 herum?	Die 0 ist keine Signalgrenze, sondern liegt in der Mitte zweier Quantisierungsgrenzen.
 2019-07-17	3	8.28	1.38	Definition Nyquist-Rate	Minimale Abtastrate, mithilfe der eine vollständige Rekonstruktion eines Signals möglich ist / Obere Schrank für Symbole pro Zeiteinheit, die ausgelesen werden können
 2019-07-16	3	15.0	2.5	Definition Tiefpass	Niedrige Frequenzen passieren ungehindert, hohe werden gedämpft (bis hin zur Sperrung)
-2019-07-17	2	6.0	1.46	Was sind die relevanten Variablen für die Bestimmung der maximalen Datenrate?	Kanalbandbreite B, Anzahl M unterscheidbarer Signalstufen, Signal-to-Noise ratio
+2019-07-23	3	9.36	1.56	Was sind die relevanten Variablen für die Bestimmung der maximalen Datenrate?	Kanalbandbreite B, Anzahl M unterscheidbarer Signalstufen, Signal-to-Noise ratio
 2019-07-19	3	8.4	1.4	Was beschreibt Hartleys Gesetz?	Die Kanalkapazität in Abhängigkeit von Basisbandfrequenz und Anzahl unterscheidbarer Signalstufen.
 2019-07-19	3	9.6	1.6	Definition Signalleistung	Erwartungswert des Quadrats der Signalamplitude
-2019-07-17	2	6.0	2.04	Formel Signalleistung	P_{Y}=Var[Y], Y ist Signalwert
+2019-07-23	3	12.24	2.04	Formel Signalleistung	P_{Y}=Var[Y], Y ist Signalwert
 2019-07-19	2	6.0	1.3	Was beschreibt das Shannon-Hartley-Theorem?	Bestimmung der Datenrate durch SNR und Basisfrequenz
-2019-07-19	0	7.8	1.3	Was bedeutet das Symbol C_{S} genau?	Die Datenrate eines Kanals mit additivem Rauschen, ohne Quantisierungsfehler.
+2019-07-23	1	1	1.4	Was bedeutet das Symbol C_{S} genau?	Die Datenrate eines Kanals mit additivem Rauschen, ohne Quantisierungsfehler.
 2019-07-17	3	11.52	1.92	Was bedeutet das Symbol C_{H} genau?	Die Datenrate eines Kanals mit Quantisierungsfehlern, ohne Kanaleinflüsse.
-2019-07-16	2	6.0	1.3	Stufen in der Nachrichtenübertragung	Digital Daten –(Quellenkodierung)→ / Codewörter –(Kanalkodierung)→ / Kanalwörter –(Leitungskodierung)→ / Basisbandimpulse –(Modulation)→ / Übertragung über den Kanal
+2019-07-23	3	7.8	1.3	Stufen in der Nachrichtenübertragung	Digital Daten –(Quellenkodierung)→ / Codewörter –(Kanalkodierung)→ / Kanalwörter –(Leitungskodierung)→ / Basisbandimpulse –(Modulation)→ / Übertragung über den Kanal
 2019-07-19	3	8.4	1.4	Definition Quellenkodierung	Abbildung von Bitsequenzen auf Codewörter zur Vermeidung von Redundanz
 2019-07-17	3	13.68	2.28	In welcher Schicht des OSI-Modells findet die Quellenkodierung statt?	Quellenkodierung kann in allen Schichten statfinden, sowohl in niedrigen als auch in hohen (Dateiformat vs. Run-Length-Encoding)
 2019-07-17	3	14.76	2.46	Definition Kanalkodierung	Hinzufügen von Redundanz zu übertragenden Daten zur Erkennung & Korrektur von Bitfehlern
 2019-07-22	3	7.8	1.3	Methoden für die Kanalkodierung	• Prüfsummen / • Quittungsprotokolle
-2019-07-13	2	6.0	1.4	Auf welchen Schichten findet Kanalkodierung statt?	2 (Sicherungsschicht), 4 (Transportschicht), 7 (Anwendungsschicht)
+2019-07-23	3	9.0	1.5	Auf welchen Schichten findet Kanalkodierung statt?	2 (Sicherungsschicht), 4 (Transportschicht), 7 (Anwendungsschicht)
 2019-07-17	3	16.2	2.7	Was tut man, wenn die Kanalkodierung fehlschlägt?	Fehler erkennen und Payload erneut anfordern.
 2019-07-19	3	12.36	2.06	Wie funktioniert ein Blockcode?	Er unterteilt den Payload in Blöcke der Länge k, übersetzt diese in Kanalwörter der Länge n / (n-k für Fehlererkennung und Redundanz).
 2019-07-19	2	6.0	1.3	Definition Leitungscode	Abfolge von Grundimpulsen, welche Bits oder Gruppen von Bits repräsentieren.
-2019-07-15	2	6.0	1.4	Beschreibe die Funktionsweise des Manchester-Codes.	Falls Sendebit 1, Taktflanke von 1 auf -1 / Falls Sendebit 0, Taktflanke von -1 auf 1 / 0 durchgehend beim Nicht-Senden.
-2019-07-12	2	6.0	1.96	Beschreibe die Funktionsweise des Non-Return-To-Zero Codes.	Rechtecksignal, das -1 ist, falls das jetzige Signal 0 ist, und 1, falls das jetzige Signal 1 ist. / Signal ist 0 beim Nicht-Senden.
-2019-07-14	2	6.0	1.5	Effizienz MLT3-Leitungscode	1 Symbol/bit
-2019-07-19	0	9.12	1.52	Effizienz des Manchester-Leitungscodes	2 Symbole/bit
-2019-07-17	0	12.36	2.06	Effizienz des NRZ-Leitungscodes	1 Symbol/bit
-2019-07-15	2	6.0	1.5	Effizienz des RZ-Leitungscodes	2 Symbole/bit
-2019-07-13	2	6.0	2.04	Erkläre, wie sich der MLT3-Leitungscode verhält.	Bei jedem neuen Sendebit 1 wird 1 Stufe gewechselt / (also von 1 auf 0, 0 auf -1, -1 auf 0 und 0 zurück auf 1)
-2019-07-12	2	6.0	2.6	Expansion MLT3	Multi-Level-Transmit 3
+2019-07-23	1	1	1.4	Beschreibe die Funktionsweise des Manchester-Codes.	Falls Sendebit 1, Taktflanke von 1 auf -1 / Falls Sendebit 0, Taktflanke von -1 auf 1 / 0 durchgehend beim Nicht-Senden.
+2019-07-23	1	1	1.4	Beschreibe die Funktionsweise des Non-Return-To-Zero Codes.	Rechtecksignal, das -1 ist, falls das jetzige Signal 0 ist, und 1, falls das jetzige Signal 1 ist. / Signal ist 0 beim Nicht-Senden.
+2019-07-23	3	9.6	1.6	Effizienz MLT3-Leitungscode	1 Symbol/bit
+2019-07-23	1	1	1.62	Effizienz des Manchester-Leitungscodes	2 Symbole/bit
+2019-07-23	1	1	2.16	Effizienz des NRZ-Leitungscodes	1 Symbol/bit
+2019-07-23	3	9.6	1.6	Effizienz des RZ-Leitungscodes	2 Symbole/bit
+2019-07-23	1	1	1.6	Erkläre, wie sich der MLT3-Leitungscode verhält.	Bei jedem neuen Sendebit 1 wird 1 Stufe gewechselt / (also von 1 auf 0, 0 auf -1, -1 auf 0 und 0 zurück auf 1)
+2019-07-23	3	16.2	2.7	Expansion MLT3	Multi-Level-Transmit 3
 2019-07-19	3	16.8	2.8	Expansion NRZ	Non-Return-To-Zero
 2019-07-19	3	16.8	2.8	Expansion RZ	Return-To-Zero
-2019-07-16	2	6.0	2.7	Je mehr abrupte Signalwechsel bei einem Leitungscode stattfinden, desto _ ist das benötigte Spektrum.	breiter
-2019-07-15	2	6.0	1.96	Nachteile des Rechteckimpulses	Viele abrupte Signalwechsel / Langsam abklingendes Spektrum
-2019-07-17	2	6.0	1.52	Nachteile des cos²-Impulses	Schwere Abtastung, wenn Sender und Empfänger nicht taktsynchron sind
-2019-07-15	2	6.0	1.82	Vorteile des Rechteckimpulses	Einfachste Darstellung  im Zeitbereich
-2019-07-17	2	6.0	2.24	Vorteile des cos²-Impulses	Einfache Umsetzung / Schnell abklingendes Spektrum
-2019-07-17	2	6.0	1.3	Was sind wichtige Eigenschaften von Leitungscodes?	• Anzahl der Signalstufen / • Anzahl kodierter Bits pro Symbol / • Symbolrate (in Baud)
-2019-07-15	2	6.0	2.28	Wie funkioniert ein Rechteckimpuls?	1, falls das für das Symbol t gilt -½≤t<½, 0 sonst
-2019-07-14	2	6.0	2.36	Wie funktioniert der Return-To-Zero Leidungscode?	Falls Sendebit 1, Taktflanke von 1 auf 0 / Falls Sendebit 0, Taktflanke von 0 auf -1. / 0 durchgehend beim Nicht-Senden.
-2019-07-15	2	6.0	2.06	Wie funktioniert ein cos²-Impuls?	(cos(2πt))², falls -½≤t<½, 0 sonst
-2019-07-16	2	6.0	2.6	Wie können Beginn und Ende einer Nachricht erkannt werden?	• Coderegelverletzung (Code folgt einer Regel, Nachricht ist vorbei, wenn diese verletzt wird) / • Steuerzeichen (spezielle Abfolgen für Anfang/Ende einer Nachricht)
-2019-07-15	2	6.0	2.7	Expansion ASK	Amplitude Shift Keying
-2019-07-17	0	3.5752	1.64	Expansion FDM	Frequency Division Multiplex
-2019-07-17	2	6.0	2.7	Expansion QAM	Quadratur-Amplituden-Modulation
-2019-07-17	0	2.7832	1.42	Expansion S/STP	Screened/Shielded twisted pair
-2019-07-17	0	2.06	2.06	Expansion S/UTP	Screened/Unshielded twisted pair
-2019-07-17	0	2.28	2.28	Expansion STP	Shielded twist pair
-2019-07-17	0	2.06	2.06	Expansion UTP	Unshielded twist pair
-2019-07-17	2	6.0	2.6	Warum werden trotz aller Kodierverfahren zusätzliche Verfahren zur Fehlererkennung benötigt?	Der Rest der fehlererkennenden Mechanismen ist nicht akkurat und robust genug.
-2019-07-17	0	2.7832	1.42	Was ist ein Sendeimpuls?	Ein Sendeimpuls ist eine Abfolge von Grundimpulsen, die Bits/Gruppen von Bits repräsentieren.
-2019-07-17	2	6.0	2.6	Was sind die Unterschiede und Ziele zwischen Quellenkodierung, Kanalkodierung und Leitungskodierung?	Quellenkodierung: Entfernung von Redundanz aus den übertragenden Daten / Kanalkodierung: Erkennung und Korrektur von Bitfehlern / Leitungskodierung: Repräsentierung von Bits/Gruppen von Bits
+2019-07-23	3	16.8	2.8	Je mehr abrupte Signalwechsel bei einem Leitungscode stattfinden, desto _ ist das benötigte Spektrum.	breiter
+2019-07-23	3	11.76	1.96	Nachteile des Rechteckimpulses	Viele abrupte Signalwechsel / Langsam abklingendes Spektrum
+2019-07-23	3	9.12	1.52	Nachteile des cos²-Impulses	Schwere Abtastung, wenn Sender und Empfänger nicht taktsynchron sind
+2019-07-23	3	11.52	1.92	Vorteile des Rechteckimpulses	Einfachste Darstellung  im Zeitbereich
+2019-07-23	3	13.44	2.24	Vorteile des cos²-Impulses	Einfache Umsetzung / Schnell abklingendes Spektrum
+2019-07-23	3	8.4	1.4	Was sind wichtige Eigenschaften von Leitungscodes?	• Anzahl der Signalstufen / • Anzahl kodierter Bits pro Symbol / • Symbolrate (in Baud)
+2019-07-23	3	14.28	2.38	Wie funkioniert ein Rechteckimpuls?	1, falls das für das Symbol t gilt -½≤t<½, 0 sonst
+2019-07-23	1	1	1.68	Wie funktioniert der Return-To-Zero Leidungscode?	Falls Sendebit 1, Taktflanke von 1 auf 0 / Falls Sendebit 0, Taktflanke von 0 auf -1. / 0 durchgehend beim Nicht-Senden.
+2019-07-23	3	11.52	1.92	Wie funktioniert ein cos²-Impuls?	(cos(2πt))², falls -½≤t<½, 0 sonst
+2019-07-23	3	16.2	2.7	Wie können Beginn und Ende einer Nachricht erkannt werden?	• Coderegelverletzung (Code folgt einer Regel, Nachricht ist vorbei, wenn diese verletzt wird) / • Steuerzeichen (spezielle Abfolgen für Anfang/Ende einer Nachricht)
+2019-07-23	3	16.2	2.7	Expansion ASK	Amplitude Shift Keying
+2019-07-23	1	1	1.5	Expansion FDM	Frequency Division Multiplex
+2019-07-23	3	16.8	2.8	Expansion QAM	Quadratur-Amplituden-Modulation
+2019-07-23	1	1	1.3	Expansion S/STP	Screened/Shielded twisted pair
+2019-07-23	1	1	1.92	Expansion S/UTP	Screened/Unshielded twisted pair
+2019-07-23	1	1	2.38	Expansion STP	Shielded twist pair
+2019-07-23	1	1	2.16	Expansion UTP	Unshielded twist pair
+2019-07-23	3	14.76	2.46	Warum werden trotz aller Kodierverfahren zusätzliche Verfahren zur Fehlererkennung benötigt?	Der Rest der fehlererkennenden Mechanismen ist nicht akkurat und robust genug.
+2019-07-23	1	1	1.3	Was ist ein Sendeimpuls?	Ein Sendeimpuls ist eine Abfolge von Grundimpulsen, die Bits/Gruppen von Bits repräsentieren.
+2019-07-23	3	16.2	2.7	Was sind die Unterschiede und Ziele zwischen Quellenkodierung, Kanalkodierung und Leitungskodierung?	Quellenkodierung: Entfernung von Redundanz aus den übertragenden Daten / Kanalkodierung: Erkennung und Korrektur von Bitfehlern / Leitungskodierung: Repräsentierung von Bits/Gruppen von Bits
 2019-07-19	2	6.0	1.92	Welche Arten von Übertragungsmedien gibt es?	• leitungsgebundene Übertragung / • nicht-leitungsgebundene Übertragung /  / • akustische Wellen / • elektromagnetische Wellen
-2019-07-16	0	2.18	2.18	Welche wichtigen Eigenschaften haben Leitungscodes?	Anzahl der Signalstufen (binär, ternär, quaternär etc.) / Anzahl kodierter Bits pro Symbol / Schrittgeschwindigkeit (Symbolrate/Baudrate)
-2019-07-16	0	1.96	1.96	Wie funktioniert ASK grundlegend?	N Bits des Datenstroms werden auf einen Wert aus einem Signalraum abgebildet / Dieser Wert wird auf das Trägersignal multipliziert / z.B. 00->1, 01->0.5, 10->-0.5, 11->-1
-2019-07-04	0	1.0	2.5	Wie funktioniert QAM grundlegend?	Bitgruppen werden auf den Raum der komplexen Zahlen abgebildet, / die auf das Trägersignal multipliziert werden
-2019-07-04	0	1.0	2.5	Wie funktioniert ein digitales Modulationsverfahren prinzipiell?	Sendeimpulse werden tiefpassgefiltert / Sendesignal wird auf ein Trägersignal aufmoduliert
-2019-07-04	0	1.0	2.5	Wie ist ein Twisted-Pair-Kabel aufgebaut?	2/4 Aderpaare aus Kupferlitzen / Verdrillte Aderpaare / Inverse Kodierung
-2019-07-04	0	1.0	2.5	Wie kann man erreichen, dass ein Kanal von mehreren Übertragungen gleichzeitig verwendet wird?	Tiefpassfilterung → Begrenzung des Spektrums / Modulation auf Trägersignal → Verschiebung des Spektrums
-2019-07-04	0	1.0	2.5	Vorteile optischer Leiter zu elektrischen Leitern	• Hohe Datenraten / • Weiter Strecken überbrückbar / • Kein Übersprechen / • Entkopplung von Sendern/Empfänger
-2019-07-04	0	1.0	2.5	Welchen Einfluss hat Schirmung auf Kabel?	Signalqualität (Vermeiden von Übersprechen elektr. Leitungen) / Flexibilität von Kabeln (gute Schirmung → steifer)
-2019-07-04	0	1.0	2.5	Wie funktioniert ein optischer Leiter?	Leiter aus Kern&Mantel, die unterschiedliche optische Dichten besitzen / → Totalreflexion am Mantel
-2019-07-08	0	1.0	2.5	Definition Direktverbindungsnetzwerk	• Alle angeschlossenen Knoten sind direkt erreichbar / • All angeschlossenen Knoten werden mittels einfacher Adressen auf Schicht 2 identifiziert / • Keine Vermittung / • Bridging/Switching möglich
-2019-07-08	0	1.0	2.5	Definition Minimum Spanning Tree	Baum, der alle Knoten in einem Graph mit minimalen Gesamtkosten verbindet
-2019-07-08	0	1.0	2.5	Definition Shortest Path Tree	Baum, der alle Knoten in einem Graph mit minimalen Pfadkosten verbindet
-2019-07-08	0	1.0	2.5	Was ist der minimale Wert für die Potenz der Distanzmatrix für eine akkurate Pfaddistanzmatrix?	Länge des längsten einfachen Pfades im Netzwerk (nach oben begrenzt durch die Anzahl der Knoten im Graph).
-2019-07-08	0	1.0	2.5	Was ist die Aufgabe des Empfängers auf der Sicherungsschicht?	Entscheiden, ob eine Nachricht für ihn bestimmt ist.
-2019-07-08	0	1.0	2.5	Welche Arten von Netzwerktopologien gibt es?	• Punkt-zu-Punkt / • Kette / • Stern / • Vermaschung / • Baum / • Bus
-2019-07-08	0	1.0	2.5	Wie erhält man die Matrix, welche die Kosten eines kürzesten Pfads zwischen zwei Knoten enthält?	Man potenziert die Distanzmatrix über das min-plus-Produkt.
-2019-07-08	0	1.0	2.5	Wie wird in der Sicherungsschicht die Steuerung des Medienzugriffs erreicht?	Alle Computer werden zu einem Bus verbunden
-2019-07-08	0	1.0	2.5	Wozu wird die Sicherungsschicht verwendet?	• Steuerung des Medienzugriffs / • Prüfung übertragener Nachrichten auf Fehler / • Adressierung innerhalb von Direktverbindungsnetzwerken
-2019-07-09	0	1.0	2.5	Berechnung Übertragungszeit	Serialisierungszeit plus Ausbreitungsverzögerung
-2019-07-09	0	1.0	2.5	Definition Bandbreitenverzögerungsprodukt	Die Anzahl an Bits, die sich in einer Senderichtung gleichzeitig auf der Leitung befinden können.
-2019-07-09	0	1.0	2.5	Definition Multiplexing	Senden von Nachrichten unterschiedlicher Teilnehmer gemeinsam über eine Leitung
-2019-07-09	0	1.0	2.5	Definition Serialisierungszeit	Die notwendige Zeit, um L Datenbits auf ein Übertragungsmedium zu legen.
-2019-07-09	0	1.0	2.5	Eigenschaften von Verbindungen zwischen zwei Knoten	Übertragungsrate / • Übertragungsverzögerung / • Übertragungsrichtung / • Mehrfachzugriff (Multiplexing)
-2019-07-09	0	1.0	2.5	Expansion TDMA	Time Division Multiple Access
-2019-07-09	0	1.0	2.5	Funktionsweise Codemultiplex	Verwendung orthogonaler Alphabete und Zuweisung der Alphabete an Kommunikationspartner
-2019-07-09	0	1.0	2.5	Funktionsweise Frequenzmultiplex	Aufteilung des Kanals in unterschiedliche Frequenzbänder und deren Zuweisung an Kommunikationspartner
+2019-07-23	1	1	2.28	Welche wichtigen Eigenschaften haben Leitungscodes?	Anzahl der Signalstufen (binär, ternär, quaternär etc.) / Anzahl kodierter Bits pro Symbol / Schrittgeschwindigkeit (Symbolrate/Baudrate)
+2019-07-23	1	1	1.52	Wie funktioniert ASK grundlegend?	N Bits des Datenstroms werden auf einen Wert aus einem Signalraum abgebildet / Dieser Wert wird auf das Trägersignal multipliziert / z.B. 00->1, 01->0.5, 10->-0.5, 11->-1
+2019-07-23	1	1	2.5	Wie funktioniert QAM grundlegend?	Bitgruppen werden auf den Raum der komplexen Zahlen abgebildet, / die auf das Trägersignal multipliziert werden
+2019-07-23	1	1	1.42	Wie funktioniert ein digitales Modulationsverfahren prinzipiell?	Sendeimpulse werden tiefpassgefiltert / Sendesignal wird auf ein Trägersignal aufmoduliert
+2019-07-23	1	1	1.5	Wie ist ein Twisted-Pair-Kabel aufgebaut?	2/4 Aderpaare aus Kupferlitzen / Verdrillte Aderpaare / Inverse Kodierung
+2019-07-23	1	1	1.42	Wie kann man erreichen, dass ein Kanal von mehreren Übertragungen gleichzeitig verwendet wird?	Tiefpassfilterung → Begrenzung des Spektrums / Modulation auf Trägersignal → Verschiebung des Spektrums
+2019-07-23	1	1	1.3	Vorteile optischer Leiter zu elektrischen Leitern	• Hohe Datenraten / • Weiter Strecken überbrückbar / • Kein Übersprechen / • Entkopplung von Sendern/Empfänger
+2019-07-23	1	1	2.28	Welchen Einfluss hat Schirmung auf Kabel?	Signalqualität (Vermeiden von Übersprechen elektr. Leitungen) / Flexibilität von Kabeln (gute Schirmung → steifer)
+2019-07-23	1	1	2.6	Wie funktioniert ein optischer Leiter?	Leiter aus Kern&Mantel, die unterschiedliche optische Dichten besitzen / → Totalreflexion am Mantel
+2019-07-23	1	1	1.64	Definition Direktverbindungsnetzwerk	• Alle angeschlossenen Knoten sind direkt erreichbar / • All angeschlossenen Knoten werden mittels einfacher Adressen auf Schicht 2 identifiziert / • Keine Vermittung / • Bridging/Switching möglich
+2019-07-23	1	1	2.5	Definition Minimum Spanning Tree	Baum, der alle Knoten in einem Graph mit minimalen Gesamtkosten verbindet
+2019-07-23	1	1	2.6	Definition Shortest Path Tree	Baum, der alle Knoten in einem Graph mit minimalen Pfadkosten verbindet
+2019-07-23	1	1	2.5	Was ist der minimale Wert für die Potenz der Distanzmatrix für eine akkurate Pfaddistanzmatrix?	Länge des längsten einfachen Pfades im Netzwerk (nach oben begrenzt durch die Anzahl der Knoten im Graph).
+2019-07-23	1	1	2.06	Was ist die Aufgabe des Empfängers auf der Sicherungsschicht?	Entscheiden, ob eine Nachricht für ihn bestimmt ist.
+2019-07-23	1	1	2.36	Welche Arten von Netzwerktopologien gibt es?	• Punkt-zu-Punkt / • Kette / • Stern / • Vermaschung / • Baum / • Bus
+2019-07-23	1	1	2.6	Wie erhält man die Matrix, welche die Kosten eines kürzesten Pfads zwischen zwei Knoten enthält?	Man potenziert die Distanzmatrix über das min-plus-Produkt.
+2019-07-23	1	1	1.4	Wie wird in der Sicherungsschicht die Steuerung des Medienzugriffs erreicht?	Alle Computer werden zu einem Bus verbunden
+2019-07-23	1	1	2.36	Wozu wird die Sicherungsschicht verwendet?	• Steuerung des Medienzugriffs / • Prüfung übertragener Nachrichten auf Fehler / • Adressierung innerhalb von Direktverbindungsnetzwerken
+2019-07-23	1	1	2.5	Berechnung Übertragungszeit	Serialisierungszeit plus Ausbreitungsverzögerung
+2019-07-23	1	1	2.36	Definition Bandbreitenverzögerungsprodukt	Die Anzahl an Bits, die sich in einer Senderichtung gleichzeitig auf der Leitung befinden können.
+2019-07-23	1	1	2.5	Definition Multiplexing	Senden von Nachrichten unterschiedlicher Teilnehmer gemeinsam über eine Leitung
+2019-07-23	1	1	2.18	Definition Serialisierungszeit	Die notwendige Zeit, um L Datenbits auf ein Übertragungsmedium zu legen.
+2019-07-23	1	1	1.3	Eigenschaften von Verbindungen zwischen zwei Knoten	Übertragungsrate / • Übertragungsverzögerung / • Übertragungsrichtung / • Mehrfachzugriff (Multiplexing)
+2019-07-23	1	1	2.6	Expansion TDMA	Time Division Multiple Access
+2019-07-23	1	1	2.18	Funktionsweise Codemultiplex	Verwendung orthogonaler Alphabete und Zuweisung der Alphabete an Kommunikationspartner
+2019-07-23	1	1	2.5	Funktionsweise Frequenzmultiplex	Aufteilung des Kanals in unterschiedliche Frequenzbänder und deren Zuweisung an Kommunikationspartner
 2019-07-09	0	1.0	2.5	Funktionsweise Raummultiplex	Verwendung mehrerer paralleler Kabel
 2019-07-09	0	1.0	2.5	Funktionsweise Zeitmultiplex	Sequentielles Senden von Signalen über eine Leitung
 2019-07-09	0	1.0	2.5	Varianten von Multiplex	• Zeitmultiplex / • Frequenzmultiplex / • Raummultiplex / • Codemultiplex

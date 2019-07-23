@@ -29,18 +29,18 @@
 2019-07-22	2	6.0	2.36	Best of Breed - Nachteile	Inkonsistenzrisiko, hoher Administrationsaufwand, Fehlerbehandlung komplex (niemand zuständig)
 2019-07-22	1	1.0	2.06	TNM-Klassifikation Bedeutung pTis	Präinvasives Karzinom (Carcinoma in situ)
 2019-07-22	2	6.0	2.46	Definition Achse	Kategorie, anhand derer geordnet wird (z.B.: Organe befallen, Art der Schädigung)
-2019-07-22	1	1.0	2.18	Arten von Autonomie beim Nutzer	• Entwurfsautonomie / • Assoziationsautonomie / • Kommunikationsautonomie / • Ausführungsautonomie
+2019-07-23	2	6	2.18	Arten von Autonomie beim Nutzer	• Entwurfsautonomie / • Assoziationsautonomie / • Kommunikationsautonomie / • Ausführungsautonomie
 2019-07-22	1	1.0	1.3	Definition Klassifikation	Begriffsordnung, die Begriffe zusammenfasst
 2019-07-22	1	1.0	1.3	Diabetis Mellitus - Kennzeichen	erhöhter Blutzuckerspiegel (Hyperglykämie), Zuckerausscheidung im Urin
-2019-07-22	1	1.0	1.4	Voraussetzungen Stadium III TNM-Klassifikation	T*, N1/N2, M0
+2019-07-23	2	6	1.5	Voraussetzungen Stadium III TNM-Klassifikation	T*, N1/N2, M0
 2019-07-22	2	6.0	2.22	Vorteile Kommunikationsserver	• Zentrale Wartung / Weniger Schnittstellen / • Monitoring / • Speichern von Übertragungsdaten
 2019-07-22	0	7.94909752	1.3	Bestandteile des unspezifischen zellulären Abwehrsystems	Makrophagen / Natürliche Killerzellen / Neutrophile Granulozyten
 2019-07-22	2	6.0	2.5	äußere Schutzbarrieren	Säureschutzmantel der Haut, Flimmerepithel der Atemwege, Tränen- und Speichelflüssigkeit, Magensäure, saures Milieu der Vagina, Harnfluss der Harnröhre
 2019-07-22	2	6.0	2.6	Rezidivierend	Rückfall, wiederauftretend
 2019-07-19	3	13.68	2.28	Entzündung Definition	Universelle Abwehrreaktion des lebenden Organismus gegen verschiedenartige Schädigungen
-2019-07-22	1	1.0	1.5	Spezifisches Abwehrsystem	erworbene, adaptive Immunität, langsame Wirkung bei Erstkontakt mit Antigen, spezifisch gegen spezielle Antigene, Bildung v. Antigengedächnis, schnelle Wirkung bei 2ten Kontakt
+2019-07-23	2	6	1.36	Spezifisches Abwehrsystem	erworbene, adaptive Immunität, langsame Wirkung bei Erstkontakt mit Antigen, spezifisch gegen spezielle Antigene, Bildung v. Antigengedächnis, schnelle Wirkung bei 2ten Kontakt
 2019-07-22	1	1.0	1.3	Nenne die Dignitätskriterien eines Tumors	Wachstumsrate / Lokale Ausbreitung / Histologie / Umgebendes Gewebe / Klinik / Metastasierung
-2019-07-22	1	1.0	1.42	Verbot mit Erlaubnisvorbehalt	Erhebung, Verarbeitung und Nutzung von personenbez. Daten nur zulässig, wenn Gesetz es erlaubt, oder Betroffener eingewilligt hat
+2019-07-23	2	6	1.42	Verbot mit Erlaubnisvorbehalt	Erhebung, Verarbeitung und Nutzung von personenbez. Daten nur zulässig, wenn Gesetz es erlaubt, oder Betroffener eingewilligt hat
 2019-07-22	1	1.0	2.28	elektronische Gesundheitsakte vs. elektronische Patientenakte	Gesundheitsakte: wird von Patienten selber über Dienstleister in Auftrag gegeben, Patientenakte: von behandelnen Institutionen geführt
 2019-07-22	1	1.0	1.42	Aktive Immunisierung Funktionsweise	Antikörperbildung durch Impfung mit abgeschwächten Erregern
 2019-07-22	1	1.0	2.04	Mamma-Carcinom	häufigster bösartiger Tumor der Frau (20% aller Krebstodesfälle), Häufigkeitsgipfel 50-60LJ., Überlebensrate nach 10 Jahren bei 60%
@@ -48,8 +48,8 @@
 2019-07-22	2	6.0	2.46	Pseudonymisierung	Verarbeitung von pers.bez. Daten, sodass Daten ohne zusätzl. Infos nicht mehr Person zugeordnet werden können
 2019-07-22	0	4.703608	1.3	IgM	Primärantwort (wird bei Ersterkrankung gebildet)
 2019-07-22	0	4.703608	1.3	Artherosklerose - Risikofaktoren 2. Ordnung	Übergewicht, Stress, Bewegungsmangel, Gicht, hormonelle Faktoren, erhöhtes Lipoprotein
-2019-07-22	1	1.0	1.64	Herzinfarkt - Reperfusionstheraphie	Wiederherstellung der Durchblutung im Infarktgebiet
-2019-07-22	1	1.0	1.42	2 Arten von Datenfluss bei HL7	Unsolicited update ←→ Acknowledgement / Query ←→ Result
+2019-07-23	2	6	1.74	Herzinfarkt - Reperfusionstheraphie	Wiederherstellung der Durchblutung im Infarktgebiet
+2019-07-23	2	6	1.52	2 Arten von Datenfluss bei HL7	Unsolicited update ←→ Acknowledgement / Query ←→ Result
 2019-07-22	1	1.0	2.04	Beispiele Nachrichten HL7	Transfer message / Discharge Message / Admit patient / Create LIS lab request
 2019-07-22	1	1.0	1.42	Nachteile Schnittstellen	Einschränkungen Entwurfsautonomie (Standards!)
 2019-07-22	2	6.0	2.7	Grobe Funktionsweise HL7	Trigger event → HL7 msg → receive msg → send ack → receive ack
@@ -57,19 +57,19 @@
 2019-07-18	3	16.8	2.8	Arten von Abwehrsystemen	Unspezifisches Abwehrsystem / Spezifisches Abwehrsystem
 2019-07-22	1	1.0	1.94	Symptome einer Entzündung	Schwellung (Tumor) / Erwärmung (Calor) / Schmerzen (Dolor) / Rötung (Rubor) / Funktionseinschränkung (Functio laesa)
 2019-07-22	0	4.703608	1.3	Eitrige Entzündungen - Typen	Abzess (Eiteransammlung in einem nicht vorbestehenden Hohlraum), Empyem (Eiterbildung in Körperhöhle), Phlegmone (diffuse, sich flächig ausbreitende Entzündung im Bindegewebe)
-2019-07-22	1	1.0	1.3	Voraussetzungen Stadium II TNM-Klassifikation	T3/T4, N0, M0
+2019-07-23	2	6	1.4	Voraussetzungen Stadium II TNM-Klassifikation	T3/T4, N0, M0
 2019-07-22	2	6.0	2.7	Expansion IHE	Integrating the Healthcare Enterprise
 2019-07-22	2	6.0	2.6	Wie vermehrt sich ein Virus?	Durch Einschleusen von DNA/RNA in eine Wirtszellen.
 2019-07-22	1	1.0	1.32	Schema Zweischichten-Architektur	Client (Presentation layer) ←→ Application logic layer, Resource management layer
-2019-07-22	1	1.0	2.36	Definition Integrationsprofil	Beschreibt Akteure und Handlungen, setzt Regeln zum Einsatz der Standards HL7 und DICOM fest ("einfach zu verstehende Darstellungen von medizinischen Arbeitsabläufen im täglichen Leben")
+2019-07-23	2	6	2.22	Definition Integrationsprofil	Beschreibt Akteure und Handlungen, setzt Regeln zum Einsatz der Standards HL7 und DICOM fest ("einfach zu verstehende Darstellungen von medizinischen Arbeitsabläufen im täglichen Leben")
 2019-07-22	1	1.0	2.6	Organvergrößerung durch	Zellvergrößerung (Hypertrophie), Zellvermehrung (Hyperplasie)
 2019-07-22	1	1.0	2.5	chronisch kontinuierlich	gleichmäßig, langsam fortschreitend (z.B. Pilzerkrankung)
 2019-07-22	1	1.0	1.4	Bildungsort der B-Lymphozyten	Knochenmark
 2019-07-22	1	1.0	2.36	Definition Metastasierung	Verschleppung von Tumorzellen zu entfernten Körperstellen mit Bildung von Tochtertumoren
 2019-07-22	1	1.0	2.5	Tumor - Theraphieformen - Strahlentherapie	Zerstörung von Tumorzellen durch ionisierte, elektromagnetische Strahlung
-2019-07-22	1	1.0	2.36	Charakteristika dekompensierte Herzinsuffizienz	• Unzureichende Pumpleistung / • Symptomatik auch im Ruhezustand
+2019-07-23	0	1.82	1.82	Charakteristika dekompensierte Herzinsuffizienz	• Unzureichende Pumpleistung / • Symptomatik auch im Ruhezustand
 2019-07-22	0	3.61816	1.3	SNOMED Struktur	Hierarchien, Konzepte, Text-Beschreibungen, Beziehungen
-2019-07-22	1	1.0	1.64	Symptome Linksherzinsuffizienz	• Atemnot / • Zyanose / • Lungenödem
+2019-07-23	2	6	1.64	Symptome Linksherzinsuffizienz	• Atemnot / • Zyanose / • Lungenödem
 2019-07-22	0	2.7832	1.42	B-Lymphozyten	bilden Antikörper, Träger der spezifischen humoralen Abwehr, Rezeptoren sind Antikörper
 2019-07-22	1	1.0	2.5	Operative Therapie	chirugischer Eingriff
 2019-07-22	0	3.2144	1.64	Metastasen - Zielorte	Leber (Mammakarzinom, malignes Melanom), Lunge (v.a. bei Sarkomen), Knochen (Bronchialkarzinom, Nierenkarzinom), ZNS (Mammakarzinom, Bronchialkarzinom)
@@ -460,4 +460,4 @@
 2019-07-18	3	15.6	2.6	Therapietypen: Palliative Therapie	Lindernde Behandlung ohne Heilung
 2019-07-18	0	1.0	2.5	Nosokomiale Erreger	im Krankenhaus erworbene Infektionen (oft resistente Keime)
 2019-06-27	0	1.0	2.5	Leitsymptom der Linksherzinsuffizienz	Atemnot durch Lungenödeme
-2019-07-11	3	11.76	1.96	Krankheitsverlauf Eigenschaften: Remission	vorübergehendes Verschwinden od. Rückgang der Krankheitserscheinung
+2019-07-23	4	23.0496	1.96	Krankheitsverlauf Eigenschaften: Remission	vorübergehendes Verschwinden od. Rückgang der Krankheitserscheinung
