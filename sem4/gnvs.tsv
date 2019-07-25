@@ -251,3 +251,6 @@ Beschreibung Broadcast	Pakete, die an alle Stationen im Netzwerk adressiert sind
 Beschreibung Multicast	Pakete, die an eine bestimmte Gruppe von Knoten adressiert sind
 Beschreibung Anycast	Pakete, die an eine beliebige Station einer bestimmten Gruppe adressiert sind.
 Expansion PIM	Protocol independent multicast
+Expansion SLAAC	Stateless Adress Autoconfiguration
+Wie funktioniert SLAAC?	Eine IPv6 Adresse wird automatisch generiert: fe80, 54 0-bits, OUI der MAC-Adresse, ff:fe, Device Identifier der MAC-Adresse / Vorletztes Bit des ersten Oktetts der OUI wird invertiert
+Was bedeutet das vorletzte Bit des ersten Oktetts bei einer MAC-Adresse?	0: global eindeutig, 1: lokal administriert
