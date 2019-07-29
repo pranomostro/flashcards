@@ -7,25 +7,25 @@
 2019-07-23	4	42.12	2.7	Expansion PCI	Protocol Control Information: Häufig in Form eines Headers/Trailers
 2019-07-23	4	45.36	2.8	Expansion PDU	Protocol Data Unit: Verbindung von PCI und SDU
 2019-07-23	4	22.7856	1.88	Erkläre den Begriff N-IDU.	Die Daten, die die Schicht N+1 an die Schicht N weitergibt
-2019-07-23	1	1.0	1.3	Welchen Bezug haben N-IDU, N-SDU und N-ICI?	Die N-IDU wird in die N-SDU und die N-ICI aufgespalten.
+2019-07-27	0	1.3	1.3	Welchen Bezug haben N-IDU, N-SDU und N-ICI?	Die N-IDU wird in die N-SDU und die N-ICI aufgespalten.
 2019-07-23	3	10.8	1.8	Erkläre den Begriff N-SDU.	Nutzdaten für die N-te Schicht.
-2019-07-16	3	7.8	1.3	Erkläre den Begriff N-ICI.	Kontrollinformationen, die für den Dinst auf Schicht N notwendig sind (Länge der SDU und Adressinformationen).
-2019-07-12	3	11.4	1.9	Erkläre den Begriff N-PCI.	Die Daten, die für die N-te Schicht auf der anderen Seite hinzugefügt werden / (wird häufig als Header vorangestellt).
+2019-07-26	4	10.92	1.4	Erkläre den Begriff N-ICI.	Kontrollinformationen, die für den Dinst auf Schicht N notwendig sind (Länge der SDU und Adressinformationen).
+2019-07-27	4	20.064	1.76	Erkläre den Begriff N-PCI.	Die Daten, die für die N-te Schicht auf der anderen Seite hinzugefügt werden / (wird häufig als Header vorangestellt).
 2019-07-23	3	9.84	1.64	Welchen Bezug haben N-PCI, N-PDU und N-SDU?	Die N-PCI und die N-SDU werden in die N-PDU zum Transport zusammengefasst.
-2019-07-23	1	1.0	1.3	Erkläre den Begriff N-PDU.	Der Payload, der mit der (N-1)-ICI etikettiert wird und dann als (N-1)-IDU / über die Schicht N-1 transportiert wird.
+2019-07-26	0	1.3	1.3	Erkläre den Begriff N-PDU.	Der Payload, der mit der (N-1)-ICI etikettiert wird und dann als (N-1)-IDU / über die Schicht N-1 transportiert wird.
 2019-07-10	3	15.0	2.5	Gib Beispiele für die Namen der PDU auf 2 Schicthen an.	Beispiele: Segmente, Pakete, Rahmen
-2019-07-23	1	1.0	1.4	Segment wird auf der _schicht verwendet	Transportschicht
-2019-07-23	1	1.0	1.4	Paket wird auf der _schicht verwendet	Vermittlungsschicht
+2019-07-27	0	1.3	1.3	Segment wird auf der _schicht verwendet	Transportschicht
+2019-07-27	0	1.3	1.3	Paket wird auf der _schicht verwendet	Vermittlungsschicht
 2019-07-16	3	8.4	1.4	Rahmen wird auf der _schicht verwendet	Sicherungsschicht
 2019-07-23	3	9.6	1.6	Die Transportschicht verwendet _	Segmente
 2019-07-23	4	14.7744	1.62	Die Sicherungsschicht verwendet _	Rahmen
-2019-07-23	1	1.0	1.4	Die Vermittlungsschicht verwendet _	Pakete
+2019-07-26	0	1.3	1.3	Die Vermittlungsschicht verwendet _	Pakete
 2019-07-12	3	14.16	2.36	Definition Bedingte Entropie	Verbleibende Unsicherheit über Y, wenn X bekannt sind: H(Y|X)
-2019-07-16	3	9.0	1.5	Formel bedingte Entropie	H(Y|X)=sum(x∈X;p(x)*H(Y|X=x))=-sum(x∈Xp(x)*sum(y∈Y;p(y|x)*log₂(p(y|x)))
-2019-07-12	3	11.76	1.96	Definition Informationsgehalt eines Zeichens	Wie viel Information durch das Zeichen übertragen wird / (Je seltener ein Zeichen ist, desto höher sein Informationsgehalt)
-2019-07-19	2	6.0	1.5	Definition Entropie	Der mittlere Informationsgehalt einer Quelle
-2019-07-12	3	11.76	1.96	Definition Information	Unsicherheit, Veränderung eines Signals vorherzusagen
-2019-07-23	1	1.0	1.3	Definition Verbundentropie	Addition der Quellenentropie H(x) mit dem von dieser Quelle / statistisch unabhängigen Anteil H(Y|X) einer anderen Quelle
+2019-07-27	0	11.7	1.3	Formel bedingte Entropie	H(Y|X)=sum(x∈X;p(x)*H(Y|X=x))=-sum(x∈Xp(x)*sum(y∈Y;p(y|x)*log₂(p(y|x)))
+2019-07-27	4	23.0496	1.96	Definition Informationsgehalt eines Zeichens	Wie viel Information durch das Zeichen übertragen wird / (Je seltener ein Zeichen ist, desto höher sein Informationsgehalt)
+2019-07-27	3	9.6	1.6	Definition Entropie	Der mittlere Informationsgehalt einer Quelle
+2019-07-27	0	16.6992	1.42	Definition Information	Unsicherheit, Veränderung eines Signals vorherzusagen
+2019-07-27	2	6.0	1.4	Definition Verbundentropie	Addition der Quellenentropie H(x) mit dem von dieser Quelle / statistisch unabhängigen Anteil H(Y|X) einer anderen Quelle
 2019-07-16	3	7.8	1.3	Formel Verbundentropie	H(X,Y)=H(X)+H(Y|X)
 2019-07-16	3	15.0	2.5	Definition Transinformation	Die von Sender zu Empfänger über einen gedächtnislosen Kanal transportierte Information
 2019-07-23	1	1.0	1.3	Formel Transinformation	I(X;Y)=H(X)-H(X|Y)=H(Y)-H(Y|X) / Sendeentropie H(X), Fehlentropie H(Y|X), Informationsverlust H(X|Y)
@@ -46,7 +46,7 @@
 2019-07-16	3	7.8	1.3	Rekonstruktion des ursprünglichen Signals	Abtastwerte werden als Stützstellen für Interpolation verwendet
 2019-07-23	3	10.32	1.72	Wann ist verlustfreie Rekonstrukion möglich?	Wenn die Abtastfrequenz einen bestimmten Wert fₐ>2B überschreitet / B ist Frequenz des Basisbandes (des ursprünglichen transformierten Signals)
 2019-07-15	3	15.0	2.5	Was passiert, wenn fₐ kleiner als die geringste nötige Frequenz ist?	Die periodischen Wiederholungen des Spektrums überlappen sich, Effekt Aliasing -> keine verlustfreie Rekonstruktion.
-2019-07-23	1	1.0	1.3	Abtasttheorem von Shannon und Nyquist	Ein auf |f|≤B bandbegrenztes Signal s(t) ist vollständig durch äquidistante Abtastwerte ŝ[n] beschrieben, / sofern diese nicht weiter als T_{a}≤½B auseinanderliegen / B: Bandbreite
+2019-07-26	2	6.0	1.3	Abtasttheorem von Shannon und Nyquist	Ein auf |f|≤B bandbegrenztes Signal s(t) ist vollständig durch äquidistante Abtastwerte ŝ[n] beschrieben, / sofern diese nicht weiter als T_{a}≤½B auseinanderliegen / B: Bandbreite
 2019-07-16	3	16.2	2.7	Unter welchen Bedingungen kann ein natürlich vorkommendes Signal aus abgetasteten und quantisierten Werten verlustfrei rekonstruiert werden?	Falls die Abtastfrequenz fₐ>2B ist (Basisfrequenz B).
 2019-07-16	3	12.36	2.06	Unter welchen Umständen sollte ein Signal linear quantisiert werden?	Wenn die alle Symbole gleich wahrscheinlich sind.
 2019-07-16	3	15.0	2.5	Wie verteilen sich quantisierte Signale um die 0 herum?	Die 0 ist keine Signalgrenze, sondern liegt in der Mitte zweier Quantisierungsgrenzen.
@@ -56,7 +56,7 @@
 2019-07-19	3	8.4	1.4	Was beschreibt Hartleys Gesetz?	Die Kanalkapazität in Abhängigkeit von Basisbandfrequenz und Anzahl unterscheidbarer Signalstufen.
 2019-07-19	3	9.6	1.6	Definition Signalleistung	Erwartungswert des Quadrats der Signalamplitude
 2019-07-23	3	12.24	2.04	Formel Signalleistung	P_{Y}=Var[Y], Y ist Signalwert
-2019-07-19	2	6.0	1.3	Was beschreibt das Shannon-Hartley-Theorem?	Bestimmung der Datenrate durch SNR und Basisfrequenz
+2019-07-27	3	7.8	1.3	Was beschreibt das Shannon-Hartley-Theorem?	Bestimmung der Datenrate durch SNR und Basisfrequenz
 2019-07-23	1	1.0	1.4	Was bedeutet das Symbol C_{S} genau?	Die Datenrate eines Kanals mit additivem Rauschen, ohne Quantisierungsfehler.
 2019-07-17	3	11.52	1.92	Was bedeutet das Symbol C_{H} genau?	Die Datenrate eines Kanals mit Quantisierungsfehlern, ohne Kanaleinflüsse.
 2019-07-23	3	7.8	1.3	Stufen in der Nachrichtenübertragung	Digital Daten –(Quellenkodierung)→ / Codewörter –(Kanalkodierung)→ / Kanalwörter –(Leitungskodierung)→ / Basisbandimpulse –(Modulation)→ / Übertragung über den Kanal
@@ -69,7 +69,7 @@
 2019-07-19	3	12.36	2.06	Wie funktioniert ein Blockcode?	Er unterteilt den Payload in Blöcke der Länge k, übersetzt diese in Kanalwörter der Länge n / (n-k für Fehlererkennung und Redundanz).
 2019-07-19	2	6.0	1.3	Definition Leitungscode	Abfolge von Grundimpulsen, welche Bits oder Gruppen von Bits repräsentieren.
 2019-07-23	1	1.0	1.4	Beschreibe die Funktionsweise des Manchester-Codes.	Falls Sendebit 1, Taktflanke von 1 auf -1 / Falls Sendebit 0, Taktflanke von -1 auf 1 / 0 durchgehend beim Nicht-Senden.
-2019-07-23	1	1.0	1.4	Beschreibe die Funktionsweise des Non-Return-To-Zero Codes.	Rechtecksignal, das -1 ist, falls das jetzige Signal 0 ist, und 1, falls das jetzige Signal 1 ist. / Signal ist 0 beim Nicht-Senden.
+2019-07-27	0	1.3	1.3	Beschreibe die Funktionsweise des Non-Return-To-Zero Codes.	Rechtecksignal, das -1 ist, falls das jetzige Signal 0 ist, und 1, falls das jetzige Signal 1 ist. / Signal ist 0 beim Nicht-Senden.
 2019-07-23	3	9.6	1.6	Effizienz MLT3-Leitungscode	1 Symbol/bit
 2019-07-23	1	1.0	1.62	Effizienz des Manchester-Leitungscodes	2 Symbole/bit
 2019-07-23	1	1.0	2.16	Effizienz des NRZ-Leitungscodes	1 Symbol/bit
@@ -92,9 +92,9 @@
 2019-07-23	1	1.0	1.5	Expansion FDM	Frequency Division Multiplex
 2019-07-23	3	16.8	2.8	Expansion QAM	Quadratur-Amplituden-Modulation
 2019-07-23	1	1.0	1.3	Expansion S/STP	Screened/Shielded twisted pair
-2019-07-23	1	1.0	1.92	Expansion S/UTP	Screened/Unshielded twisted pair
+2019-07-26	2	6.0	1.78	Expansion S/UTP	Screened/Unshielded twisted pair
 2019-07-23	1	1.0	2.38	Expansion STP	Shielded twist pair
-2019-07-23	1	1.0	2.16	Expansion UTP	Unshielded twist pair
+2019-07-26	2	6.0	2.26	Expansion UTP	Unshielded twist pair
 2019-07-23	3	14.76	2.46	Warum werden trotz aller Kodierverfahren zusätzliche Verfahren zur Fehlererkennung benötigt?	Der Rest der fehlererkennenden Mechanismen ist nicht akkurat und robust genug.
 2019-07-23	1	1.0	1.3	Was ist ein Sendeimpuls?	Ein Sendeimpuls ist eine Abfolge von Grundimpulsen, die Bits/Gruppen von Bits repräsentieren.
 2019-07-23	3	16.2	2.7	Was sind die Unterschiede und Ziele zwischen Quellenkodierung, Kanalkodierung und Leitungskodierung?	Quellenkodierung: Entfernung von Redundanz aus den übertragenden Daten / Kanalkodierung: Erkennung und Korrektur von Bitfehlern / Leitungskodierung: Repräsentierung von Bits/Gruppen von Bits
@@ -103,28 +103,28 @@
 2019-07-23	1	1.0	1.52	Wie funktioniert ASK grundlegend?	N Bits des Datenstroms werden auf einen Wert aus einem Signalraum abgebildet / Dieser Wert wird auf das Trägersignal multipliziert / z.B. 00->1, 01->0.5, 10->-0.5, 11->-1
 2019-07-23	1	1.0	2.5	Wie funktioniert QAM grundlegend?	Bitgruppen werden auf den Raum der komplexen Zahlen abgebildet, / die auf das Trägersignal multipliziert werden
 2019-07-23	1	1.0	1.42	Wie funktioniert ein digitales Modulationsverfahren prinzipiell?	Sendeimpulse werden tiefpassgefiltert / Sendesignal wird auf ein Trägersignal aufmoduliert
-2019-07-23	1	1.0	1.5	Wie ist ein Twisted-Pair-Kabel aufgebaut?	2/4 Aderpaare aus Kupferlitzen / Verdrillte Aderpaare / Inverse Kodierung
+2019-07-26	2	6.0	1.36	Wie ist ein Twisted-Pair-Kabel aufgebaut?	2/4 Aderpaare aus Kupferlitzen / Verdrillte Aderpaare / Inverse Kodierung
 2019-07-23	1	1.0	1.42	Wie kann man erreichen, dass ein Kanal von mehreren Übertragungen gleichzeitig verwendet wird?	Tiefpassfilterung → Begrenzung des Spektrums / Modulation auf Trägersignal → Verschiebung des Spektrums
-2019-07-23	1	1.0	1.3	Vorteile optischer Leiter zu elektrischen Leitern	• Hohe Datenraten / • Weiter Strecken überbrückbar / • Kein Übersprechen / • Entkopplung von Sendern/Empfänger
+2019-07-27	0	1.3	1.3	Vorteile optischer Leiter zu elektrischen Leitern	• Hohe Datenraten / • Weiter Strecken überbrückbar / • Kein Übersprechen / • Entkopplung von Sendern/Empfänger
 2019-07-23	1	1.0	2.28	Welchen Einfluss hat Schirmung auf Kabel?	Signalqualität (Vermeiden von Übersprechen elektr. Leitungen) / Flexibilität von Kabeln (gute Schirmung → steifer)
-2019-07-23	1	1.0	2.6	Wie funktioniert ein optischer Leiter?	Leiter aus Kern&Mantel, die unterschiedliche optische Dichten besitzen / → Totalreflexion am Mantel
+2019-07-27	2	6.0	2.6	Wie funktioniert ein optischer Leiter?	Leiter aus Kern&Mantel, die unterschiedliche optische Dichten besitzen / → Totalreflexion am Mantel
 2019-07-23	1	1.0	1.64	Definition Direktverbindungsnetzwerk	• Alle angeschlossenen Knoten sind direkt erreichbar / • All angeschlossenen Knoten werden mittels einfacher Adressen auf Schicht 2 identifiziert / • Keine Vermittung / • Bridging/Switching möglich
 2019-07-23	1	1.0	2.5	Definition Minimum Spanning Tree	Baum, der alle Knoten in einem Graph mit minimalen Gesamtkosten verbindet
 2019-07-23	1	1.0	2.6	Definition Shortest Path Tree	Baum, der alle Knoten in einem Graph mit minimalen Pfadkosten verbindet
-2019-07-23	1	1.0	2.5	Was ist der minimale Wert für die Potenz der Distanzmatrix für eine akkurate Pfaddistanzmatrix?	Länge des längsten einfachen Pfades im Netzwerk (nach oben begrenzt durch die Anzahl der Knoten im Graph).
+2019-07-27	2	6.0	2.6	Was ist der minimale Wert für die Potenz der Distanzmatrix für eine akkurate Pfaddistanzmatrix?	Länge des längsten einfachen Pfades im Netzwerk (nach oben begrenzt durch die Anzahl der Knoten im Graph).
 2019-07-23	1	1.0	2.06	Was ist die Aufgabe des Empfängers auf der Sicherungsschicht?	Entscheiden, ob eine Nachricht für ihn bestimmt ist.
 2019-07-23	1	1.0	2.36	Welche Arten von Netzwerktopologien gibt es?	• Punkt-zu-Punkt / • Kette / • Stern / • Vermaschung / • Baum / • Bus
-2019-07-23	1	1.0	2.6	Wie erhält man die Matrix, welche die Kosten eines kürzesten Pfads zwischen zwei Knoten enthält?	Man potenziert die Distanzmatrix über das min-plus-Produkt.
+2019-07-26	0	2.06	2.06	Wie erhält man die Matrix, welche die Kosten eines kürzesten Pfads zwischen zwei Knoten enthält?	Man potenziert die Distanzmatrix über das min-plus-Produkt.
 2019-07-23	1	1.0	1.4	Wie wird in der Sicherungsschicht die Steuerung des Medienzugriffs erreicht?	Alle Computer werden zu einem Bus verbunden
-2019-07-23	1	1.0	2.36	Wozu wird die Sicherungsschicht verwendet?	• Steuerung des Medienzugriffs / • Prüfung übertragener Nachrichten auf Fehler / • Adressierung innerhalb von Direktverbindungsnetzwerken
-2019-07-23	1	1.0	2.5	Berechnung Übertragungszeit	Serialisierungszeit plus Ausbreitungsverzögerung
+2019-07-27	0	1.82	1.82	Wozu wird die Sicherungsschicht verwendet?	• Steuerung des Medienzugriffs / • Prüfung übertragener Nachrichten auf Fehler / • Adressierung innerhalb von Direktverbindungsnetzwerken
+2019-07-26	2	6.0	2.36	Berechnung Übertragungszeit	Serialisierungszeit plus Ausbreitungsverzögerung
 2019-07-23	1	1.0	2.36	Definition Bandbreitenverzögerungsprodukt	Die Anzahl an Bits, die sich in einer Senderichtung gleichzeitig auf der Leitung befinden können.
 2019-07-23	1	1.0	2.5	Definition Multiplexing	Senden von Nachrichten unterschiedlicher Teilnehmer gemeinsam über eine Leitung
 2019-07-23	1	1.0	2.18	Definition Serialisierungszeit	Die notwendige Zeit, um L Datenbits auf ein Übertragungsmedium zu legen.
 2019-07-23	1	1.0	1.3	Eigenschaften von Verbindungen zwischen zwei Knoten	Übertragungsrate / • Übertragungsverzögerung / • Übertragungsrichtung / • Mehrfachzugriff (Multiplexing)
 2019-07-23	1	1.0	2.6	Expansion TDMA	Time Division Multiple Access
 2019-07-23	1	1.0	2.18	Funktionsweise Codemultiplex	Verwendung orthogonaler Alphabete und Zuweisung der Alphabete an Kommunikationspartner
-2019-07-23	1	1.0	2.5	Funktionsweise Frequenzmultiplex	Aufteilung des Kanals in unterschiedliche Frequenzbänder und deren Zuweisung an Kommunikationspartner
+2019-07-26	0	2.18	2.18	Funktionsweise Frequenzmultiplex	Aufteilung des Kanals in unterschiedliche Frequenzbänder und deren Zuweisung an Kommunikationspartner
 2019-07-09	0	1.0	2.5	Funktionsweise Raummultiplex	Verwendung mehrerer paralleler Kabel
 2019-07-09	0	1.0	2.5	Funktionsweise Zeitmultiplex	Sequentielles Senden von Signalen über eine Leitung
 2019-07-09	0	1.0	2.5	Varianten von Multiplex	• Zeitmultiplex / • Frequenzmultiplex / • Raummultiplex / • Codemultiplex
@@ -255,3 +255,61 @@
 2019-07-25	0	1.0	2.5	Expansion SLAAC	Stateless Adress Autoconfiguration
 2019-07-25	0	1.0	2.5	Was bedeutet das vorletzte Bit des ersten Oktetts bei einer MAC-Adresse?	0: global eindeutig, 1: lokal administriert
 2019-07-25	0	1.0	2.5	Wie funktioniert SLAAC?	Eine IPv6 Adresse wird automatisch generiert: fe80, 54 0-bits, OUI der MAC-Adresse, ff:fe, Device Identifier der MAC-Adresse / Vorletztes Bit des ersten Oktetts der OUI wird invertiert
+2019-07-27	0	1.0	2.5	Definition Count to Infinity	Fehlerhafte Route zu Router, der vom Netz genommen wird, ist in einer endlosen Update-Schleife gefangen
+2019-07-27	0	1.0	2.5	Definition Routing-Tabelle	Tabelle, in der ein Router (oder Host) folgende Information speichert: / • Netzadresse eines Ziels / • Länge des Präfixes / • Next-Hop / • Interface für den Next-Hop / • Kosten bis zum Ziel / → Beispiel: 192.168.255.8/30 (Ziel), 0.0.0.0 (NextHop), 0 (Kosten), eth2 (Interface)
+2019-07-27	0	1.0	2.5	Eigenschaften RIP	• Distanz-Vektor-Protokoll / • Hop-Count als Metrik / • Maximal 15 Hops
+2019-07-27	0	1.0	2.5	Expansion BGP	Border-Gateway Protocol
+2019-07-27	0	1.0	2.5	Expansion NDP	Neighbour Discovery Protocol
+2019-07-27	0	1.0	2.5	Expansion RIP	Routing Information Protocol
+2019-07-27	0	1.0	2.5	Funktionsweise Distanz-Vektor-Protokolle	Router kennt nur Richtung und Entfernung zu einem Ziel, tauscht nur kumulierte Kosten aus / → Bellman-Ford Algorithmus
+2019-07-27	0	1.0	2.5	Funktionsweise Link-State-Protokolle	Router enthalten und tauschen aus Netzwerktopologien / → Dijkstra-Algorithmus
+2019-07-27	0	1.0	2.5	Funktionsweise Longest Prefix Matching	Zieladresse des Pakets AND Subnetzmaske / → Vergleich mit Zieladresse / → Falls gleich, über Interface an entsprechendes Gateway senden (Tabelle ist nach Präfixlängen sortiert)
+2019-07-27	0	1.0	2.5	Funktionsweise Path Vector	Nicht nur Hop-Count, sondern auch Pfad in Updates mitschicken. / → Problem: Updates werden sehr groß.
+2019-07-27	0	1.0	2.5	Funktionsweise Poison Reverse	Dem Nachbarn, von dem man die Route zu X gelernt hat, eine Route mit unendlich großer Hopzahl schicken.
+2019-07-27	0	1.0	2.5	Funktionsweise Split Horizon	"Sende dem Nachbarn, von dem Du die Route zu X gelernt hast, keine Route zu X."
+2019-07-27	0	1.0	2.5	Methoden für dynamische Routing-Protokolle	Distanz-Vektor-Protokolle / Link-State-Protokolle
+2019-07-27	0	1.0	2.5	Nenne Lösungsansätze für Count to Infinity.	• Split Horizon / • Poison Reverse / • Path Vector
+2019-07-27	0	1.0	2.5	Nenne die beiden Arten von Routing.	Statisches Routing / Dynamisches Routing
+2019-07-27	0	1.0	2.5	RIP Funktionsweise	Alle 30s verschicken Router Updates an Multicast-Adresse, Updates werden angewandt / Falls >150s keine Updates von Router, wird dieser entfernt
+2019-07-27	0	1.0	2.5	Wann wird bei einem NDP-Paket das O-Flag gesetzt?	Wenn das Advertisement gecached Adressen beim Empfänger überschreiben wird.
+2019-07-27	0	1.0	2.5	Wann wird bei einem NDP-Paket das R-Flag gesetzt?	Wenn der antwortende Knoten ein Router ist
+2019-07-27	0	1.0	2.5	Wann wird bei einem NDP-Paket das S-Flag gesetzt?	Wenn das Advertisement infolge einer Solicitation geschickt wird.
+2019-07-27	0	1.0	2.5	Was beschreibt bei NDP das Length-Feld?	Die Länge des NDP-Pakets in Vielfachen von 8B.
+2019-07-27	0	1.0	2.5	Was machen Empfänger mit unbekannten NDP-Optionen?	Ignorieren.
+2019-07-27	0	1.0	2.5	Welche Funktionen kann NDP erfüllen?	• Adressauflösung (IPv6 zu MAC) / • Automatisches Auffinden von Routern / • Umleitung zu anderen Gateways / • Feststellen der Doppelung von Adressen / • Feststellung der Unerreichbarkeit von Nachbarn
+2019-07-27	0	1.0	2.5	Wie wird statisches Routing realisiert?	Händisches Eintragen von Werten in die Routing-Tabelle.
+2019-07-27	0	1.0	2.5	Bedeutung Flusskontrolle	Überlastungssituationen beim Empfänger vermeiden
+2019-07-27	0	1.0	2.5	Bedeutung Staukontrolle	Reaktion auf drohende Überlastung im Netz
+2019-07-27	0	1.0	2.5	Beschreibung kumulative Bestätigung	ACK=m+1 bestätigt alle Segmente mit SEQ≤m
+2019-07-27	0	1.0	2.5	Definition NAT	Techniken, private auf öffentliche IP-Adressen abzubilden (z.B. mit Port-Multiplexing)
+2019-07-27	0	1.0	2.5	Definition private IP-Adressen	Spezielle IP-Adressbereiche, die nicht für die globale Verwendung bestimmt sind.
+2019-07-27	0	1.0	2.5	Eigenschaften verbindungsloser Transportsdienst	Segmente unabhängig, keine Sequenznummern, keine Garantien
+2019-07-27	0	1.0	2.5	Eigenschaften verbindungsorientierter Transportdienst	Übertragungswiederholung bei Fehlern, Garantie über Reihenfolge
+2019-07-27	0	1.0	2.5	Erkläre die grobe Funktionsweise des Sliding-Window-Verfahrens.	Es werden mehrere Pakete übertragen, nur eine Bestätigung für das letzte in Reihe wird gesendet.
+2019-07-27	0	1.0	2.5	Expansion MSS	Maximum Segment Size
+2019-07-27	0	1.0	2.5	Expansion NAT	Network Address Translation
+2019-07-27	0	1.0	2.5	Expansion TCP	Transmission Control Protocol
+2019-07-27	0	1.0	2.5	Expansion UDP	User Datagram Protocol
+2019-07-27	0	1.0	2.5	Expansionen URG, ACK, PSH, RST, SYN, FIN bei TCP	Urgent, Acknowlegdement, Push, Reset, Synchronisation, Finish
+2019-07-27	0	1.0	2.5	Funktion von Sequenznummern	• Bestätigung von Übertragungen / • Identifikation fehlender Segmente / • Erneutes Anfordern / • Zusammensetzen
+2019-07-27	0	1.0	2.5	Funktionsweise Congestion Avoidance (Staukontrolle TCP)	Für jedes bestätigte Segment wird das Staukontrollfenster wc um (1/wc)*MSS erhöht / Bei Fehlschlag verschiedene Ansätze (Halbierung von wc etc., Reduktion auf 1 MSS)
+2019-07-27	0	1.0	2.5	Funktionsweise Go-Back-N	Alle Segmente nach dem ersten Verlust werden verworfen
+2019-07-27	0	1.0	2.5	Funktionsweise Selective Repeat	Fehlende Segmente werden selektiv erneut übertragen, bereits empfangene werden gespeichert.
+2019-07-27	0	1.0	2.5	Funktionsweise Slow-Start (Staukontrolle TCP)	Für jedes bestätigte Segment wird das Staukontrollfenster wc um eine MSS erhöht / Danach Congestion Avoidance
+2019-07-27	0	1.0	2.5	Grundlegende Funktionsweise verbindungsorientierte Übertragung	Segmente mit Sequenznummern durchnummeriert
+2019-07-27	0	1.0	2.5	In Vielfachen von wie viel Byte ist das Offset eines TCP-Headers?	4
+2019-07-27	0	1.0	2.5	Nenne die Aufgaben der Transportschicht	• Multiplexing / • Bereitstellung verbindungsloser/verbindungsorientierter Transportmechanismen / • Stau- und Flusskontrolle
+2019-07-27	0	1.0	2.5	Phasen der Staukontrolle bei TCP	Slow-Start / Congestion Avoidance
+2019-07-27	0	1.0	2.5	Phasen einer Verbindung auf der Transportschicht	1. Verbindungsaufbau / 2. Datenübertragung / 3. Verbindungsabbau
+2019-07-27	0	1.0	2.5	Strategien bei Segmentverlusten bei TCP	• Go-Back-N / • Selective-Repeat
+2019-07-27	0	1.0	2.5	Vorteile/Nachteil von UDP	Vorteile: /  ~ Geringer Overhead /  ~ Keine Verzögerung durch erneute Sendung / Nachteile: /  ~ Keine Sicherung der Dienstqualität /  ~ Keine Fluss-/Staukontrolle
+2019-07-27	0	1.0	2.5	Vorteile/Nachteile Go-Back-N	Einfach zu implementieren / Weniger effizient
+2019-07-27	0	1.0	2.5	Warum setzt man NAT ein?	Adressknappheit bei IPv4
+2019-07-27	0	1.0	2.5	Was gibt es besonderes über die UDP-Checksum zu sagen?	Die Verwendung der UDP-Checksum ist bei IPv4 optional, aber bei IPv6 vorausgesetzt.
+2019-07-27	0	1.0	2.5	Was ist die relevante Information, die ein Header auf der Transportschicht enthält?	Quellport, Zielport
+2019-07-27	0	1.0	2.5	Was ist ein Socket?	Eine Verbidungseinheit, die auf dem eindeutigen Tupel auf der Transportschicht beruht.
+2019-07-27	0	1.0	2.5	Welches 5-Tupel identifiziert auf der Transportschicht eindeutig einen Host?	(SrcIPAddr, ScrPort, DstIPAddr, DstPort, Protocol)
+2019-07-27	0	1.0	2.5	Wie funktioniert Flusskontrolle bei TCP?	Das Empfangsfenster wird verkleinert, dadurch wird die Übertragungsrate des Senders gedrosselt
+2019-07-27	0	1.0	2.5	Wie funktioniert Staukontrolle bei TCP?	Einführung eines Staukontrollfensters wc, dessen Größe eine obere Schranke für das Sendefenster ist.
+2019-07-27	0	1.0	2.5	Wie nennt man es, wenn Einträge in einer NAT-Tabelle von Hand erzeugt werden?	Port-Forwarding.
+2019-07-27	0	1.0	2.5	Wo wird MSS, wo MTU verwendet?	MTU auf Schicht 2, MSS auf Schicht 4

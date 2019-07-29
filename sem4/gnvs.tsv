@@ -254,3 +254,63 @@ Expansion PIM	Protocol independent multicast
 Expansion SLAAC	Stateless Adress Autoconfiguration
 Wie funktioniert SLAAC?	Eine IPv6 Adresse wird automatisch generiert: fe80, 54 0-bits, OUI der MAC-Adresse, ff:fe, Device Identifier der MAC-Adresse / Vorletztes Bit des ersten Oktetts der OUI wird invertiert
 Was bedeutet das vorletzte Bit des ersten Oktetts bei einer MAC-Adresse?	0: global eindeutig, 1: lokal administriert
+Expansion NDP	Neighbour Discovery Protocol
+Welche Funktionen kann NDP erfüllen?	• Adressauflösung (IPv6 zu MAC) / • Automatisches Auffinden von Routern / • Umleitung zu anderen Gateways / • Feststellen der Doppelung von Adressen / • Feststellung der Unerreichbarkeit von Nachbarn
+Wann wird bei einem NDP-Paket das R-Flag gesetzt?	Wenn der antwortende Knoten ein Router ist
+Wann wird bei einem NDP-Paket das S-Flag gesetzt?	Wenn das Advertisement infolge einer Solicitation geschickt wird.
+Wann wird bei einem NDP-Paket das O-Flag gesetzt?	Wenn das Advertisement gecached Adressen beim Empfänger überschreiben wird.
+Was beschreibt bei NDP das Length-Feld?	Die Länge des NDP-Pakets in Vielfachen von 8B.
+Was machen Empfänger mit unbekannten NDP-Optionen?	Ignorieren.
+Definition Routing-Tabelle	Tabelle, in der ein Router (oder Host) folgende Information speichert: / • Netzadresse eines Ziels / • Länge des Präfixes / • Next-Hop / • Interface für den Next-Hop / • Kosten bis zum Ziel / → Beispiel: 192.168.255.8/30 (Ziel), 0.0.0.0 (NextHop), 0 (Kosten), eth2 (Interface)
+Funktionsweise Longest Prefix Matching	Zieladresse des Pakets AND Subnetzmaske / → Vergleich mit Zieladresse / → Falls gleich, über Interface an entsprechendes Gateway senden (Tabelle ist nach Präfixlängen sortiert)
+Nenne die beiden Arten von Routing.	Statisches Routing / Dynamisches Routing
+Wie wird statisches Routing realisiert?	Händisches Eintragen von Werten in die Routing-Tabelle.
+Methoden für dynamische Routing-Protokolle	Distanz-Vektor-Protokolle / Link-State-Protokolle
+Funktionsweise Distanz-Vektor-Protokolle	Router kennt nur Richtung und Entfernung zu einem Ziel, tauscht nur kumulierte Kosten aus / → Bellman-Ford Algorithmus
+Funktionsweise Link-State-Protokolle	Router enthalten und tauschen aus Netzwerktopologien / → Dijkstra-Algorithmus
+Expansion RIP	Routing Information Protocol
+Eigenschaften RIP	• Distanz-Vektor-Protokoll / • Hop-Count als Metrik / • Maximal 15 Hops
+RIP Funktionsweise	Alle 30s verschicken Router Updates an Multicast-Adresse, Updates werden angewandt / Falls >150s keine Updates von Router, wird dieser entfernt
+Definition Count to Infinity	Fehlerhafte Route zu Router, der vom Netz genommen wird, ist in einer endlosen Update-Schleife gefangen
+Nenne Lösungsansätze für Count to Infinity.	• Split Horizon / • Poison Reverse / • Path Vector
+Funktionsweise Split Horizon	"Sende dem Nachbarn, von dem Du die Route zu X gelernt hast, keine Route zu X."
+Funktionsweise Poison Reverse	Dem Nachbarn, von dem man die Route zu X gelernt hat, eine Route mit unendlich großer Hopzahl schicken.
+Funktionsweise Path Vector	Nicht nur Hop-Count, sondern auch Pfad in Updates mitschicken. / → Problem: Updates werden sehr groß.
+Expansion BGP	Border-Gateway Protocol
+Nenne die Aufgaben der Transportschicht	• Multiplexing / • Bereitstellung verbindungsloser/verbindungsorientierter Transportmechanismen / • Stau- und Flusskontrolle
+Eigenschaften verbindungsloser Transportsdienst	Segmente unabhängig, keine Sequenznummern, keine Garantien
+Eigenschaften verbindungsorientierter Transportdienst	Übertragungswiederholung bei Fehlern, Garantie über Reihenfolge
+Bedeutung Staukontrolle	Reaktion auf drohende Überlastung im Netz
+Bedeutung Flusskontrolle	Überlastungssituationen beim Empfänger vermeiden
+Was ist die relevante Information, die ein Header auf der Transportschicht enthält?	Quellport, Zielport
+Welches 5-Tupel identifiziert auf der Transportschicht eindeutig einen Host?	(SrcIPAddr, ScrPort, DstIPAddr, DstPort, Protocol)
+Was ist ein Socket?	Eine Verbidungseinheit, die auf dem eindeutigen Tupel auf der Transportschicht beruht.
+Expansion UDP	User Datagram Protocol
+Was gibt es besonderes über die UDP-Checksum zu sagen?	Die Verwendung der UDP-Checksum ist bei IPv4 optional, aber bei IPv6 vorausgesetzt.
+Vorteile/Nachteil von UDP	Vorteile: /  ~ Geringer Overhead /  ~ Keine Verzögerung durch erneute Sendung / Nachteile: /  ~ Keine Sicherung der Dienstqualität /  ~ Keine Fluss-/Staukontrolle
+Grundlegende Funktionsweise verbindungsorientierte Übertragung	Segmente mit Sequenznummern durchnummeriert
+Funktion von Sequenznummern	• Bestätigung von Übertragungen / • Identifikation fehlender Segmente / • Erneutes Anfordern / • Zusammensetzen
+Phasen einer Verbindung auf der Transportschicht	1. Verbindungsaufbau / 2. Datenübertragung / 3. Verbindungsabbau
+Erkläre die grobe Funktionsweise des Sliding-Window-Verfahrens.	Es werden mehrere Pakete übertragen, nur eine Bestätigung für das letzte in Reihe wird gesendet.
+Beschreibung kumulative Bestätigung	ACK=m+1 bestätigt alle Segmente mit SEQ≤m
+Strategien bei Segmentverlusten bei TCP	• Go-Back-N / • Selective-Repeat
+Funktionsweise Go-Back-N	Alle Segmente nach dem ersten Verlust werden verworfen
+Funktionsweise Selective Repeat	Fehlende Segmente werden selektiv erneut übertragen, bereits empfangene werden gespeichert.
+Vorteile/Nachteile Go-Back-N	Einfach zu implementieren / Weniger effizient
+Expansion TCP	Transmission Control Protocol
+In Vielfachen von wie viel Byte ist das Offset eines TCP-Headers?	4
+Expansionen URG, ACK, PSH, RST, SYN, FIN bei TCP	Urgent, Acknowlegdement, Push, Reset, Synchronisation, Finish
+Expansion MSS	Maximum Segment Size
+Wo wird MSS, wo MTU verwendet?	MTU auf Schicht 2, MSS auf Schicht 4
+Wie funktioniert Flusskontrolle bei TCP?	Das Empfangsfenster wird verkleinert, dadurch wird die Übertragungsrate des Senders gedrosselt
+Wie funktioniert Staukontrolle bei TCP?	Einführung eines Staukontrollfensters wc, dessen Größe eine obere Schranke für das Sendefenster ist.
+Phasen der Staukontrolle bei TCP	Slow-Start / Congestion Avoidance
+Funktionsweise Slow-Start (Staukontrolle TCP)	Für jedes bestätigte Segment wird das Staukontrollfenster wc um eine MSS erhöht / Danach Congestion Avoidance
+Funktionsweise Congestion Avoidance (Staukontrolle TCP)	Für jedes bestätigte Segment wird das Staukontrollfenster wc um (1/wc)*MSS erhöht / Bei Fehlschlag verschiedene Ansätze (Halbierung von wc etc., Reduktion auf 1 MSS)
+Expansion NAT	Network Address Translation
+Definition NAT	Techniken, private auf öffentliche IP-Adressen abzubilden (z.B. mit Port-Multiplexing)
+Definition private IP-Adressen	Spezielle IP-Adressbereiche, die nicht für die globale Verwendung bestimmt sind.
+Wie nennt man es, wenn Einträge in einer NAT-Tabelle von Hand erzeugt werden?	Port-Forwarding.
+Warum setzt man NAT ein?	Adressknappheit bei IPv4
+Arten von Diensten auf der Sitzungsschicht	• verbindungsorientiert / • verbindungslos
+Eigenschaften verbindungsorienterter Dienst	Verbindung wird aufgebaut und bleibt während Übertragung bestehen

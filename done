@@ -108,5 +108,7 @@ med2_imp:
 
 theo: [1;47]
 dwt: [1;38]
-gnvs: 0, 1, 2, [1;112]
+gnvs: 0, 1, 2, 3, 4
+	"Die Acknowledgement-Number gibt bei TCP stets das nächste
+	erwartete Byte an" -> Was soll das bedeuten?
 linalg: [1;19]

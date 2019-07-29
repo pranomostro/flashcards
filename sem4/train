@@ -1,7 +1,7 @@
 #!/usr/bin/env rc
 
-new=40
-rev=100
+new=100
+rev=10
 
 for(i in `{echo gnvs.crd | tr ' ' '\n' | shuf})
 	fulg run -r -f '../split-filter' -R $rev -N $new $i
